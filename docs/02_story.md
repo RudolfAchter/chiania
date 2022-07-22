@@ -12,6 +12,8 @@ tags:
 
 # The Story of Chiania
 
+To edit something -> [click here (GitHub/Rudolf Achter/chiania)](https://github.com/RudolfAchter/chiania/blob/main/docs/02_story.md)
+
 ## The World
 
 ![](2022-07-21-19-12-35.png){class="story_pic" style="max-width: 100%; width:100%"}
