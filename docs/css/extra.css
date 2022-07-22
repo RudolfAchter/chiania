@@ -37,9 +37,10 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 0px;
-
-
+  overflow:hidden;
+  height:98px;
 }
+
 
 .md-ellipsis {
   text-shadow: 1px 1px var(--md-accent-fg-color);
@@ -48,11 +49,13 @@ body {
 }
 
 .md-header__button.md-logo :-webkit-any(img,svg) {
-    height: 3rem;
+    height: 4rem;
 }
 
 .md-header__button.md-logo img {
-    height: 3rem;
+    position: relative;
+    top: -8px;
+    height: 4rem;
 }
 
 .md-tabs {
