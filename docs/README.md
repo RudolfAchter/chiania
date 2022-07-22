@@ -12,6 +12,11 @@ tags:
 
 # Chiania - The Chia Inventory RPG Game
 
+## Where to play?
+
+At this time "Chia Inventory - the Chianian Quest" is played in Discord. [Join here (Discord Channel - Chia Inventory)](https://discord.gg/pDGJf5f6)
+
+
 ## [Introduction](https://discordapp.com/channels/994949585657143296/995478713561001984/995479550848933930)
 
 "Chia Inventory" is a RPG-style NFT collection, with an unique NFT releasing conecpt: all of the NFTs are items generated during our RPG gaming process.
@@ -56,8 +61,5 @@ Current state is:
 
 ![](https://cdn.discordapp.com/attachments/995478713561001984/998168955367719007/Slime.gif){class="story_pic"}
 
-### Where to play?
-
-At this time "Chia Inventory - the Chianian Quest" is played in Discord. [Join here (Discord Channel - Chia Inventory)](https://discord.gg/pDGJf5f6)
 
 </div>
