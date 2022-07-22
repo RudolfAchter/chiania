@@ -68,7 +68,7 @@ body {
 }
 
 .md-tabs__list{
-  background-color: var(--md-default-bg-color--light);
+  background-color: var(--md-default-bg-color--lighter);
 }
 
 .md-tabs__link {
