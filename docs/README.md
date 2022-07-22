@@ -8,7 +8,7 @@ tags:
   - NFT
 ---
 
-<div class="chia_rpg_story" markdown="1">
+
 
 # Chiania - The Chia Inventory RPG Game
 
@@ -64,4 +64,8 @@ Current state is:
 ![](https://cdn.discordapp.com/attachments/995478713561001984/998168955367719007/Slime.gif){class="full_pic" style="width:500px"}
 
 
-</div>
+## Speed of Events (Patience)
+
+It's an Infinite RPG Game. So you are not in a hurry. Quests are announced a few days in advance. When events happen (such as fights or rewards) the items are minted in real time on the Chia Blockchain (they don't exist before the event). So it can last a while until you receive your items. There is a [Quest Data Log](https://discordapp.com/channels/994949585657143296/998574861918142546) on the discord server. Here you can see how your character has performed and if there were items dropped for you.
+
+The Story progresses after previous events were processed.

@@ -10,3 +10,5 @@ tags:
 ---
 
 # Characters
+
+TODO Characters we know so far

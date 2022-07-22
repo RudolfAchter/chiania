@@ -13,7 +13,7 @@ tags:
 
 # The Story of Chiania
 
-To edit something -> [click here (GitHub/Rudolf Achter/chiania)](https://github.com/RudolfAchter/chiania/blob/main/docs/02_story.md)
+To edit something -> [click here (GitHub/Rudolf Achter/chiania)](https://github.com/RudolfAchter/chiania/blob/main/docs/02_story.md). Your edit will be reviewed and (when it's good) included.
 
 ## The World
 
