@@ -85,6 +85,8 @@ After a fierce battle, volunteers defeated a total of 20 Forest Slimes. Voluntee
 ## Deers under control of slimes
 
 After the fierce battle in the forest, some alert adventurers spotted strange creatures wandering. On closer inspection, they noticed that slimes took control of some deers. After careful attempts, they managed to tame and take the deers to a safe place.
+
+The deers are slimed and injured. Some adventurers try to find some medicine to threat the deers and bring them to good health again
 <hr style="clear:both">
 
 ![](https://rqkaeyrvtvtkfwurlof6eemqszjjdtwyflndwzkhlu3b3wmxmi.arweave.net/jBQCYjWdZqLakVuL_4hGQllKRztgq2jtlR102HdmXYo){class="story_pic_right"}
