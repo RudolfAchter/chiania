@@ -1,5 +1,5 @@
 ---
-title: Chia Inventory - Story
+title: Story
 description: The Story for Chia Inventory
 date: 2022-07-21
 tags:

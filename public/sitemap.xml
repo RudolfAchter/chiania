@@ -6,12 +6,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rudolfachter.github.io/chiania/public/00_tags/</loc>
+         <lastmod>2022-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rudolfachter.github.io/chiania/public/02_story/</loc>
          <lastmod>2022-07-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/tags/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/03_characters/</loc>
+         <lastmod>2022-07-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/04_world/</loc>
          <lastmod>2022-07-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -26,7 +36,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/tags/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/00_tags/</loc>
          <lastmod>2022-07-22</lastmod>
          <changefreq>daily</changefreq>
     </url>

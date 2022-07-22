@@ -70,6 +70,10 @@ body {
   font-size:1.4em;
 }
 
+.md-footer__title .md-ellipsis {
+  color: var(--md-default-bg-color);
+}
+
 .md-header__button.md-logo :-webkit-any(img,svg) {
     height: 4rem;
 }
@@ -96,7 +100,7 @@ body {
   color: var(--md-default-fg-color);
 }
 
-[data-md-color-scheme=default] .md-ellipsis {
+[data-md-color-scheme=default] .md-header .md-ellipsis {
   color: var(--md-default-fg-color);
 }
 

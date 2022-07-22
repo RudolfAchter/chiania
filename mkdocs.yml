@@ -79,7 +79,7 @@ plugins:
         width: "1496px"
         height: "841px"
   - tags:
-      tags_file: tags.md
+      tags_file: 00_tags.md
   - exclude:
       glob:
         - chia/chia_friends_puzzle/files/bafybeigzcazxeu7epmm4vtkuadrvysv74lbzzbl2evphtae6k57yhgynp4/*
