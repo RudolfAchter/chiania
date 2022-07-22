@@ -26,12 +26,12 @@ theme:
         icon: material/weather-sunny
         name: Light Mode
   features:
-    - navigation.instant
-      navigation.tabs
-      navigation.expand
-      navigation.top
-      toc.follow
-      toc.integrate
+      - toc.follow
+#      - toc.integrate
+      - navigation.instant
+      - navigation.tabs
+      - navigation.expand
+      - navigation.top
 extra:
   tags:
     Linux: linux

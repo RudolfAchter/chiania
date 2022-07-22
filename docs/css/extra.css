@@ -20,9 +20,11 @@ body {
     max-width: 1600px;
 }
 
+
 .md-grid {
-    max-width: 100%;
+    max-width: 1600px;
 }
+
 
 .md-header__button.md-logo :-webkit-any(img,svg) {
     height: 3rem;
@@ -30,6 +32,16 @@ body {
 
 .md-header__button.md-logo img {
     height: 3rem;
+}
+
+.md-tabs {
+  box-shadow: 0 0 0.2rem rgb(0 0 0 / 10%), 0 0.2rem 0.4rem var(--md-typeset-table-color);
+  transition: transform .25s cubic-bezier(.1,.7,.1,1),box-shadow .25s;
+}
+
+.md-header--shadow {
+  box-shadow: 0 0 0.2rem rgb(0 0 0 / 10%), 0 0.2rem 0.4rem var(--md-typeset-table-color);
+  transition: transform .25s cubic-bezier(.1,.7,.1,1),box-shadow .25s;
 }
 
 :root > * {
