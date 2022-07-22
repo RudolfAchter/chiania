@@ -26,6 +26,18 @@ A poor slime is canned in this bottle. The slime tries to escape....
 After defeating the slimes the adventurers canned them into bottles. Maybe they are good for something?
 </td></tr>
 
+<tr markdown="1"><td markdown="1">
+![](https://rqkaeyrvtvtkfwurlof6eemqszjjdtwyflndwzkhlu3b3wmxmi.arweave.net/jBQCYjWdZqLakVuL_4hGQllKRztgq2jtlR102HdmXYo){class="game_item"}
+</td>
+<td markdown="1">
+<span markdown="1">**Canned Slime**</span>
+<span markdown="1">**Collectable:** 1</span>
+A poor slime is canned in this bottle. The slime tries to escape.... 
+After defeating the slimes the adventurers canned them into bottles. Maybe they are good for something?
+</td></tr>
+
+
+
 </table>
 
 </div>

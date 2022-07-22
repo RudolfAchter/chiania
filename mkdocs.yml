@@ -27,7 +27,7 @@ theme:
         name: Light Mode
   features:
       - toc.follow
-#      - toc.integrate
+      - toc.integrate
       - navigation.instant
       - navigation.tabs
       - navigation.expand

@@ -64,7 +64,9 @@ The volunteers saw a first small glimpse of the threat approaching chiania. "We 
 
 ## The natural balance is broken
 
-Meanwhile the chianian volunteers which canned some slime visited the wise magician in the central castle and gave him a probe of the slime to investigate. He made some tests in his alchemy laboratory but could not find anything. He said "go to the master druid. He lives in a hut in the western woods. Maybe he can help you". So the volunteers followed his advice and went to the master druid. The master druid investigated the slime the volunteers brought to him. He seemed worrie about what he saw. "The natural balance is broken" he said, "this has no natural source". To save the ecosystem, we need to recruit more volunteers to supress slime population. The volunteers went out in all directions of chiania and brought the disturbing news from the master druid. After a week the master druid saw nearly one-hundred unarmed volunteers standing at the entrance of the forest, then he lost in thought. "What can he do to help these 'brave weaklings' ?
+Meanwhile the chianian volunteers which canned some slime visited the wise magician in the central castle and gave him a probe of the slime to investigate. He made some tests in his alchemy laboratory but could not find anything. He said "go to the master druid. He lives in a hut in the western woods. Maybe he can help you". So the volunteers followed his advice and went to the master druid. The master druid investigated the slime the volunteers brought to him. He seemed worrie about what he saw.
+
+"The natural balance is broken" he said, "this has no natural source". To save the ecosystem, we need to recruit more volunteers to supress slime population. **The slime monsters have nucleis** in them that bring them to life. "If you can get any of them, **bring them to me**!" The master druid said "i will reward you for them". The volunteers went out in all directions of chiania and brought the disturbing news from the master druid. After a week the master druid saw nearly one-hundred unarmed volunteers standing at the entrance of the forest, then he lost in thought. "What can he do to help these 'brave weaklings' ?
 <hr style="clear:both">
 
 ![](https://cdn.discordapp.com/attachments/995484176428044378/999473901346242590/Enhanced_Tree_Root_12.gif){class="story_pic_right" style=""}
@@ -78,13 +80,15 @@ The now bigger an better equipped group went deeper in the black forest to reduc
 After a fierce battle, volunteers defeated a total of 20 Forest Slimes. Volunteers decided to enter the deep forest to hunt for stronger preys, Aquatic Slimes and Swamp Slimes
 
 <hr style="clear:both">
-![](https://cdn.discordapp.com/attachments/995945537603911770/999691045455540365/20.gif){class="story_pic_left" style=""}
+![](https://oyg6gxbraujl6kd5p5cmvs2t6jalqzhkroc54446zapitze3.arweave.net/dg3jXDEFEr8ofX9Ey-stT8kC4ZOqLhd5znsge-ieSbw){class="story_pic_left"}
 
 ## Deers under control of slimes
 
 After the fierce battle in the forest, some alert adventurers spotted strange creatures wandering. On closer inspection, they noticed that slimes took control of some deers. After careful attempts, they managed to tame and take the deers to a safe place.
-
 <hr style="clear:both">
+
+![](https://rqkaeyrvtvtkfwurlof6eemqszjjdtwyflndwzkhlu3b3wmxmi.arweave.net/jBQCYjWdZqLakVuL_4hGQllKRztgq2jtlR102HdmXYo){class="story_pic_right"}
+The volunteers that were able to kill a slime monster investigeted them further and found monster nucleis in their heart. Just like the master druid said. they take monster nucleis from corpses of slimes, which could also be a prove of combat for exchanging the rewards from the master druid.
 
 
 </div>
