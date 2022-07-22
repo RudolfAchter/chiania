@@ -96,6 +96,7 @@ body {
   
 }
 
+
 [data-md-color-scheme=default] .md-tabs__link {
   color: var(--md-default-fg-color);
 }
@@ -254,7 +255,7 @@ table.item_table span{
   img.full_pic {
     margin:0em;
     border:10px solid var(--md-typeset-table-color);
-    max-width:350px;
+    max-width:100%;
     display: block;
     margin: 0 auto;
   }
