@@ -10,7 +10,7 @@ tags:
 
 <div class="chia_rpg_story" markdown="1">
 
-# Chia Inventory RPG Game
+# Chiania - The Chia Inventory RPG Game
 
 ## [Introduction](https://discordapp.com/channels/994949585657143296/995478713561001984/995479550848933930)
 
