@@ -11,7 +11,9 @@ tags:
 <div class="chia_rpg_story" markdown="1">
 
 # Equipment
-- <https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx>
+
+- [SpaceSpan.io - ChiaInventory](https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx)
+- [MintGarden - Chia Inventory](https://mintgarden.io/collections/chia-inventory-col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx)
 
 <table markdown="1" class="item_table">
 
