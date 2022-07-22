@@ -10,10 +10,31 @@
   font-weight: bold;
 }
 
-[data-md-color-scheme=slate] {
-  --md-primary-fg-color:        #3AAC59;
-  --md-accent-fg-color:        #3AAC59;
+
+:root > * {
+  --md-typeset-a-color:   #28743c;
 }
+
+[data-md-color-scheme="default"] {
+  --md-primary-bg-color:  #e6eede;
+  --md-typeset-a-color:   #28743c;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:  #3AAC59;
+  --md-accent-fg-color:   #3AAC59;
+  --md-primary-bg-color:  #c5e1a5;
+  --md-typeset-a-color:   #28743c;
+}
+
+[data-md-color-accent="chiania"] {
+  --md-typeset-a-color:   #28743c;
+}
+
+[data-md-color-primary="black"] {
+  --md-typeset-a-color:   #28743c;
+}
+
 
 body {
   font-family: "8bitOperator";
@@ -70,6 +91,14 @@ body {
   
 }
 
+[data-md-color-scheme=default] .md-tabs__link {
+  color: var(--md-default-fg-color);
+}
+
+[data-md-color-scheme=default] .md-ellipsis {
+  color: var(--md-default-fg-color);
+}
+
 .md-tabs__list{
   background-color: var(--md-default-bg-color--lighter);
 }
@@ -91,8 +120,8 @@ body {
 }
 
 
-/*
-[data-md-color-scheme=slate] {
+
+[data-md-color-scheme=chiania_dark] {
   --md-hue: 232;
   --md-default-fg-color: hsla(var(--md-hue),75%,95%,1);
   --md-default-fg-color--light: hsla(var(--md-hue),75%,90%,0.62);
@@ -132,7 +161,7 @@ body {
   --md-shadow-z2: 0 0.2rem 0.5rem rgba(0,0,0,.3),0 0 0.05rem rgba(0,0,0,.25);
   --md-shadow-z3: 0 0.2rem 0.5rem rgba(0,0,0,.4),0 0 0.05rem rgba(0,0,0,.35);
 }
-*/
+
 
 .gallery {
   object-fit: cover;

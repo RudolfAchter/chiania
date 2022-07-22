@@ -14,14 +14,14 @@ theme:
     - scheme: default
       media: "(prefers-color-scheme: light)"
       primary: green
-      accent: deep orange
+      accent: green
       toggle:
         icon: material/weather-night
         name: Dark Mode
-    - scheme: slate
+    - scheme: chiania_dark
       media: "(prefers-color-scheme: dark)"
       primary: black
-      accent: deep orange
+      accent: chiania
       toggle:
         icon: material/weather-sunny
         name: Light Mode
