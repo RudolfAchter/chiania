@@ -9,7 +9,7 @@ copyright: |
 theme: 
   name: material
   custom_dir: theme
-  logo: include/chia-logo-white.svg
+  logo: include/chia-logo-chiania-pixel-174x66px.png
   palette:
     - scheme: default
       media: "(prefers-color-scheme: light)"
