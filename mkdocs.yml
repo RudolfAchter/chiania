@@ -1,0 +1,87 @@
+site_name: Chiania
+site_url: https://rudolfachter.github.io/chiania/public
+#site_url: https://127.0.0.1:8000/blockchain-stuff/public
+site_dir: public
+copyright: |
+  This site is community run and is not affiliated with the Chia Network.
+  I am doing this in my free time as a hobby.<br/>
+  Send coffee to: <strong>xch1wpdejgk86sh2mxwp3jrzrzftdh6et9en8cm9hzaw7xgf9h44p4usdjtypc</strong> (XCH | USDS | SMOON 🔜)
+theme: 
+  name: material
+  custom_dir: theme
+  logo: include/chia-logo-white.svg
+  palette:
+    - scheme: default
+      media: "(prefers-color-scheme: light)"
+      primary: green
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Dark Mode
+    - scheme: slate
+      media: "(prefers-color-scheme: dark)"
+      primary: black
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Light Mode
+  features:
+    - navigation.instant
+      navigation.tabs
+      navigation.expand
+      navigation.top
+      toc.follow
+      toc.integrate
+extra:
+  tags:
+    Linux: linux
+    Chia: chia
+    Bitcoin: bitcoin
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/AchterRudolf
+    - icon: fontawesome/brands/github
+      link: https://github.com/RudolfAchter
+    - icon: fontawesome/brands/mixcloud
+      link: https://www.mixcloud.com/darul79/
+    - icon: fontawesome/brands/keybase
+      link: https://keybase.io/rudolfachter
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/user/darul85
+
+
+extra_css:
+  - "css/extra.css"
+
+markdown_extensions:
+  - toc
+  - lightgallery
+  - attr_list
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        # Mermaid diagrams
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+extra_javascript:
+  - https://unpkg.com/mermaid@8.13.10/dist/mermaid.min.js
+
+plugins:
+  - search:
+  - mkdocs-video:
+      css_style:
+        width: "1496px"
+        height: "841px"
+  - tags:
+      tags_file: tags.md
+  - exclude:
+      glob:
+        - chia/chia_friends_puzzle/files/bafybeigzcazxeu7epmm4vtkuadrvysv74lbzzbl2evphtae6k57yhgynp4/*
+
+
