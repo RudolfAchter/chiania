@@ -6,6 +6,8 @@ tags:
   - Chia
   - Game
   - NFT
+  - Items
+  - Equipment
 ---
 
 <div class="chia_rpg_story" markdown="1">

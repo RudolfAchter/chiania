@@ -6,6 +6,8 @@ tags:
   - Chia
   - Game
   - NFT
+  - Items
+  - Collectable
 ---
 
 <div class="chia_rpg_story" markdown="1">

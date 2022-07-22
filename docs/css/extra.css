@@ -233,7 +233,7 @@ table.item_table span{
 
 
 
-@media (max-width: 799px) {
+@media (max-width: 699px) {
   img {
     max-width:100%;
   }
@@ -254,7 +254,7 @@ table.item_table span{
   img.full_pic {
     margin:0em;
     border:10px solid var(--md-typeset-table-color);
-    max-width:400px;
+    max-width:350px;
     display: block;
     margin: 0 auto;
   }
@@ -316,7 +316,7 @@ table.item_table span{
 
 }
 
-@media (min-width: 800px) {
+@media (min-width: 700px) {
 
   img.full_pic {
     margin:0em;

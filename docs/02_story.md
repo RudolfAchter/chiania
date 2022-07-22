@@ -6,6 +6,7 @@ tags:
   - Chia
   - Game
   - NFT
+  - Story
 ---
 
 <div class="chia_rpg_story" markdown="1">

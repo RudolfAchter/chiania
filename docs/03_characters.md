@@ -6,6 +6,7 @@ tags:
   - Chia
   - Game
   - NFT
+  - Characters
 ---
 
 # Characters

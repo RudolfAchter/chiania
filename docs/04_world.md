@@ -6,6 +6,7 @@ tags:
   - Chia
   - Game
   - NFT
+  - World
 ---
 
 # The World of Chiania
