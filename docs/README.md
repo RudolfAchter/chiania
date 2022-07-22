@@ -14,7 +14,9 @@ tags:
 
 ## Where to play?
 
-At this time "Chia Inventory - the Chianian Quest" is played in Discord. [Join here (Discord Channel - Chia Inventory)](https://discord.gg/pDGJf5f6)
+At this time "Chia Inventory - the Chianian Quest" is played in Discord.
+
+- [Join here (Discord Channel - Chia Inventory)](https://discord.gg/pDGJf5f6)
 
 
 ## [Introduction](https://discordapp.com/channels/994949585657143296/995478713561001984/995479550848933930)
