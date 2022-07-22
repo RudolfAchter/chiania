@@ -14,6 +14,7 @@ tags:
 
 - [SpaceSpan.io - ChiaInventory](https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx)
 - [MintGarden - Chia Inventory](https://mintgarden.io/collections/chia-inventory-col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx)
+- [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <table markdown="1" class="item_table">
 
