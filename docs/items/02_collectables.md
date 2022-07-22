@@ -32,7 +32,25 @@ After defeating the slimes the adventurers canned them into bottles. Maybe they 
 <td markdown="1">
 <span markdown="1">**Large Monster Nuclei**</span>
 <span markdown="1">**Collectable:** 1</span>
-The heart of a monster.
+The heart of a monster. Ripped out of the corpse of a slimy monster after a fierce battle. The master druid would give rewards for them
+</td></tr>
+
+<tr markdown="1"><td markdown="1">
+![](https://3ni2yzhtgqhcofi25qfydn5tmhkfxpciv62if6rl2iycoy6g4u.arweave.net/21GsZPM0DicVGuwLgbezYdRbvEivt-IL6K9IwJ2PG5Q){class="game_item"}
+</td>
+<td markdown="1">
+<span markdown="1">**Medium Monster Nuclei**</span>
+<span markdown="1">**Collectable:** 1</span>
+The heart of a monster. Ripped out of the corpse of a slimy monster after a fierce battle. The master druid would give rewards for them
+</td></tr>
+
+<tr markdown="1"><td markdown="1">
+![](https://ud3babzzbstvywa64glet3uwpjq5wyrg3tp4plus7zp6zgix.arweave.net/oPYQBzkMp1xYHuGWSe6WemHb_Yibc38eukv5f7Jk_Xc){class="game_item"}
+</td>
+<td markdown="1">
+<span markdown="1">**Small Monster Nuclei**</span>
+<span markdown="1">**Collectable:** 1</span>
+The heart of a monster. Ripped out of the corpse of a slimy monster after a fierce battle. The master druid would give rewards for them
 </td></tr>
 
 
