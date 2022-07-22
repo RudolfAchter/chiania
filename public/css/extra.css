@@ -29,7 +29,9 @@
 
 [data-md-color-accent="chiania"] {
   --md-typeset-a-color:   #28743c;
+  --md-default-fg-color:  #c5e1a5;
 }
+
 
 [data-md-color-primary="black"] {
   --md-typeset-a-color:   #28743c;
@@ -58,7 +60,6 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 0px;
-  overflow:hidden;
   height:97px;
 }
 
@@ -99,6 +100,14 @@ body {
   color: var(--md-default-fg-color);
 }
 
+[data-md-color-scheme=chiania_dark] .md-tabs__link {
+  color: #c5e1a5;;
+}
+
+[data-md-color-scheme=chiania_dark] .md-ellipsis {
+  color: #c5e1a5;;
+}
+
 .md-tabs__list{
   background-color: var(--md-default-bg-color--lighter);
 }
@@ -119,7 +128,10 @@ body {
   --md-primary-fg-color--dark:  #90030C;*/
 }
 
-
+[data-md-color-scheme="default"] {
+  --md-primary-bg-color:  #c5e1a5;
+  --md-typeset-a-color:   #28743c;
+}
 
 [data-md-color-scheme=chiania_dark] {
   --md-hue: 232;
