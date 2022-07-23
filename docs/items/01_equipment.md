@@ -78,6 +78,19 @@ A sword for general purpose.
 </td></tr>
 
 <tr markdown="1"><td markdown="1">
+![](https://qzdlypw6klqlorogiy64yyfjg2lfou264giu3yc2nqovxegcla.arweave.net/hka8Pt5S4LdFxkY9_zGCpNpZXU17hkU3gWmwdW5DCWI){class="game_item"}
+</td>
+<td markdown="1">
+<span markdown="1">**Khopesh**</span>
+<span markdown="1">**Slash:** 1</span>
+<span markdown="1">**Bash:** 1</span>
+<span markdown="1">**Pierce:** 1</span>
+A standard weapon for soldiers of Chiania Kingdom.
+</td></tr>
+
+
+
+<tr markdown="1"><td markdown="1">
 ![](https://mhrslttczhebs6uvexv4qlpj6tpqtom27eawplxiuhtt6npwwodq.arweave.net/YeMlzmLJyBl6lSXryC3p9N8JuZr5AWeu6KHnPzX2s4c){class="game_item"}
 </td>
 <td markdown="1">

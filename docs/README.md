@@ -54,6 +54,10 @@ Send your NFTs / Items you use for the game to the registered address. Items you
 
 There is the Discord Room [quest-regist-02](https://discord.com/channels/994949585657143296/998007766297870416). When there is a quest announced in [quest-announcements](https://discord.com/channels/994949585657143296/995496698086432838) you have a few days time to register for it in [quest-regist-02](https://discord.com/channels/994949585657143296/998007766297870416)
 
+## Go to the [markets](items/20_markets.md)
+
+At the [markets](items/20_markets.md) you will find equipment for your character. The ["blue duck" at the Main Market Square](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch) is open 24x7. But if you look carefully then you can find goood offer for example by the blacksmith. Go to the [markets](items/20_markets.md) stroll and look.
+
 ## Gaming System
 
 It is best to follow the game via the [Chia Inventory Discord Server](https://discord.gg/pDGJf5f6)
