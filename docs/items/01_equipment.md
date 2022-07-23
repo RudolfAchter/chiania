@@ -95,6 +95,17 @@ A bow that smaller than 60 inches.
 A simple shield made with tree barks. After the first fight, the unarmed adventurers saw they needed something to defend themselves. So they rip off some bark from the trees and made them provisionally bark shields.
 </td></tr>
 
+<tr markdown="1"><td markdown="1">
+![](https://qu5hfuo5icczlrdyw4a55bdiw7ivp5usk52kt4dm5tk6yienrq.arweave.net/hTpy0d1AhZXEeLcB3oRot9FX9pJXdKnwbOzV7CCN-jA){class="game_item"}
+</td>
+<td markdown="1">
+<span markdown="1">**Shadow Sword**</span>
+<span markdown="1">**Slash:** 5</span>
+<span markdown="1">**Pierce:** 1</span>
+<span markdown="1">**Magic:** 3</span>
+A sword made with dark magic and a parasitic creature called "Shadow", is rooted on the hilt. When looking at the eye of shadow, you can feel that shadow is calling you. A sentence flashed into your mind "it belongs to me!"
+</td></tr>
+
 </table>
 
 </div>

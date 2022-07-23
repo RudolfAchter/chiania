@@ -11,4 +11,23 @@ tags:
 
 # Characters
 
-TODO Characters we know so far
+![](https://cdn.discordapp.com/attachments/995945537603911770/997860348084359208/unknown.png){class="story_pic_left" style=""}
+## Blacksmith
+
+The Blacksmith lifes at Chiania capital. If he is not travelling you would find him at the forge near the market place. 
+
+<hr style="clear:both">
+
+![](https://cdn.discordapp.com/attachments/995496698086432838/998028636391215204/Druid.png){class="story_pic_left" style=""}
+## Master Druid
+
+The master druid is a wise demigod living in the western woods. His deep valuable knowledge about the nature and the magical forces holding the world together.
+
+<hr style="clear:both">
+
+![](include/chiania-mimic.png){class="story_pic_left" style="width:400px"}
+## Mimic
+
+Mimic is a living chest
+
+
