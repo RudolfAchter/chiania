@@ -9,7 +9,7 @@ tags:
   - Story
 ---
 
-<div class="chia_rpg_story" markdown="1">
+
 
 # The Story of Chiania
 
@@ -94,7 +94,10 @@ The deers are slimed and injured. Some adventurers try to find some medicine to 
 
 ![](https://rqkaeyrvtvtkfwurlof6eemqszjjdtwyflndwzkhlu3b3wmxmi.arweave.net/jBQCYjWdZqLakVuL_4hGQllKRztgq2jtlR102HdmXYo){class="story_pic_right"}
 The volunteers that were able to kill a slime monster investigeted them further and found monster nucleis where their heart should be. Just like the master druid said. they take monster nucleis from corpses of slimes, which could also be a prove of combat for exchanging the rewards from the master druid.
+<hr style="clear:both">
 
+## The master druid was killed!
 
-</div>
+![](https://cdn.discordapp.com/attachments/995496698086432838/1000325786554880030/Head_of_master_druid.png){class="story_pic_left"}
+The brave volunteers who got a monster nucleis went to the hut in the western woods where the master druid lives. They kocked at the door, nobody answered. They begun to search him. A few meters deeper in the woods they only found his corpse. The head of master druid was cut off and was threw five meter away from his body. "How master druid, a hemigod in Chiania, was killed?" More importantly, where's the reward of quest?
 
