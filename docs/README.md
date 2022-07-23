@@ -32,8 +32,8 @@ At this time "Chia Inventory - the Chianian Quest" is played in Discord.
 
 ## Register yor player
 ![](include/chiania-mimic.png){class="story_pic_left" style="width:200px"}
-Mimic is a living chest and the bot who welcomes you to the world of chiania.
-You spell the magic word `!register` and mimic will memorize you with your Chia Address
+Mimic is a living chest and the bot who welcomes you to the world of chiania in the [Room of Mimic](https://discord.com/channels/994949585657143296/1000344248312397854).
+Go to [Room of Mimic](https://discord.com/channels/994949585657143296/1000344248312397854) and spell the magic word `!register` and mimic will memorize you with your Chia Address
 
 ```text
 !register xch1example1234example4321
