@@ -11,6 +11,8 @@ tags:
 
 # Ideas for the world
 
+[edit here (GitHub/Rudolf Achter/chiania)](https://github.com/RudolfAchter/chiania/blob/main/docs/ideas/99_ideas.md). Your edit will be reviewed and (when it's good) included.
+
 The world of chiania is growing while playing. Items / NFTs are minted on the go. The story can evolve day by day. Bring in your ideas. The documentations following on this page are just ideas. These things arent necessarily implemented in the game
 
 ## Magic
