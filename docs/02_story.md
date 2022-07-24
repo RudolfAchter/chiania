@@ -75,7 +75,7 @@ Meanwhile the chianian volunteers which canned some slime visited the wise magic
 ![](https://cdn.discordapp.com/attachments/995484176428044378/999473901346242590/Enhanced_Tree_Root_12.gif){class="story_pic_right" style=""}
 The master druid holds aloft his wand, pure energy are emitted and hitted the ground. Tree roots abnormally grow and show up on the ground. These roots are surrounding by green and yellow magic. The druid ask volunteers to cut roots into sections as weapons.
 ![](media/discord_pixel.png){class="story_pic_left" style="max-width:100px;"}
-To organize themselves the volunteers now meet in a magical tavern named "Discord". They bind their souls to this magical place so that they can always come back to this place whereever they are.
+To organize themselves the volunteers now meet in [Discord square](https://discord.gg/YfgU3ueD) in the [magical tavern](https://discord.com/channels/994949585657143296/995483089881026631) named. They bind their souls to this magical place so that they can always come back to this place whereever they are.
 
 
 The now bigger an better equipped group went deeper in the black forest to reduce the slime population. They encountered a group of forest slimes...
@@ -101,3 +101,15 @@ The volunteers that were able to kill a slime monster investigeted them further 
 ![](https://cdn.discordapp.com/attachments/995496698086432838/1000325786554880030/Head_of_master_druid.png){class="story_pic_left"}
 The brave volunteers who got a monster nucleis went to the hut in the western woods where the master druid lives. They kocked at the door, nobody answered. They begun to search him. A few meters deeper in the woods they only found his corpse. The head of master druid was cut off and was threw five meter away from his body. "How master druid, a hemigod in Chiania, was killed?" More importantly, where's the reward of quest?
 
+
+<hr style="clear:both">
+
+To get the latest news in chiania go to certain places:
+
+- [Chiania News](https://discord.com/channels/994949585657143296/995945537603911770)
+- [Chiania Events](https://discord.com/channels/994949585657143296/995484176428044378)
+- [Quest Announcements](https://discord.com/channels/994949585657143296/995496698086432838)
+
+If you have valuable items to sell:
+- Go to the [marketplace](https://discord.com/channels/994949585657143296/997830621831368734) in the kingdom street
+- Or look which [markets](items/20_markets.md) are known in the world of chiania

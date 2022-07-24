@@ -31,9 +31,9 @@ At this time "Chia Inventory - the Chianian Quest" is played in Discord.
 
 
 ## Register yor player
+
 ![](include/chiania-mimic.png){class="story_pic_left" style="width:200px"}
-Mimic is a living chest and the bot who welcomes you to the world of chiania in the [Room of Mimic](https://discord.com/channels/994949585657143296/1000344248312397854).
-Go to [Room of Mimic](https://discord.com/channels/994949585657143296/1000344248312397854) and spell the magic word `!register` and mimic will memorize you with your Chia Address
+Mimic is a living chest and the bot who welcomes you to the world of chiania in the Adventurers Guild. Go to the [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854) and spell the magic word `!register` and mimic will memorize you with your Chia Address. 
 
 ```text
 !register xch1example1234example4321
@@ -43,16 +43,21 @@ Send your NFTs / Items you use for the game to the registered address. Items you
 
 [There are discussions to use the Chia Network DID Feature to equip your character](https://discord.com/channels/994949585657143296/995483089881026631/999856743452508160), but this isn't implemented already
 
-## Bot Functions in Discord (so far)
+![](2022-07-23-23-21-00.png)
 
-| Command     | Example                                | Description                                                                                             |
-| ----------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| `!register` | `!register xch1example1234example4321` | Registers the XCH Address you use for playing. Items must be in there. You can change it between quests |
-| `!dice`     | `!dice`                                | Rolls a dice with 20 numbers. No Function until now
+## Mimic's Bot Functions in Discord (so far)
+
+Mimic understands a few "magic words". You can talk to mimic anytime and make some spells.
+
+| Command      | Example                                | Description                                                                                             |
+| ------------ | -------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| `!register`  | `!register xch1example1234example4321` | Registers the XCH Address you use for playing. Items must be in there. You can change it between quests |
+| `!inventory` | `!inventory`                           | Shows the inventory the bot sees on your registered address                                             |
+| `!dice`      | `!dice`                                | Rolls a dice with 20 numbers. No Function until now                                                     |
 
 ## Register for Quests
 
-There is the Discord Room [quest-regist-02](https://discord.com/channels/994949585657143296/998007766297870416). When there is a quest announced in [quest-announcements](https://discord.com/channels/994949585657143296/995496698086432838) you have a few days time to register for it in [quest-regist-02](https://discord.com/channels/994949585657143296/998007766297870416)
+Go to the [registration-counter in the adventurers guild](https://discord.com/channels/994949585657143296/1000344248312397854). When there is a quest announced in [quest-announcements](https://discord.com/channels/994949585657143296/995496698086432838) you have a few days time to register for it at [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854)
 
 ## Go to the [markets](items/20_markets.md)
 

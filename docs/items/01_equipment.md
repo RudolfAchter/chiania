@@ -8,6 +8,8 @@ tags:
   - NFT
   - Items
   - Equipment
+  - Weapon
+  - Armor
 ---
 
 <div class="chia_rpg_story" markdown="1">
