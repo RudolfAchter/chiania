@@ -101,8 +101,9 @@ The volunteers that were able to kill a slime monster investigeted them further 
 ![](https://cdn.discordapp.com/attachments/995496698086432838/1000325786554880030/Head_of_master_druid.png){class="story_pic_left"}
 The brave volunteers who got a monster nucleis went to the hut in the western woods where the master druid lives. They kocked at the door, nobody answered. They begun to search him. A few meters deeper in the woods they only found his corpse. The head of master druid was cut off and was threw five meter away from his body. "How master druid, a hemigod in Chiania, was killed?" More importantly, where's the reward of quest?
 
-
 <hr style="clear:both">
+
+## The Story continues...
 
 To get the latest news in chiania go to certain places:
 
@@ -111,5 +112,6 @@ To get the latest news in chiania go to certain places:
 - [Quest Announcements](https://discord.com/channels/994949585657143296/995496698086432838)
 
 If you have valuable items to sell:
+
 - Go to the [marketplace](https://discord.com/channels/994949585657143296/997830621831368734) in the kingdom street
 - Or look which [markets](items/20_markets.md) are known in the world of chiania
