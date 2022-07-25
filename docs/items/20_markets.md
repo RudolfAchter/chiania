@@ -33,7 +33,7 @@ Speak to the people in [the tavern](https://discord.com/channels/994949585657143
 
 
 
-While you are wandering through the markets, suddenly a dark-clad whispers to you.
+While you are wandering through the markets, suddenly a dark-clad man whispers to you.
 
 "psst look here in the boxes, maybe i have something for you"
 
