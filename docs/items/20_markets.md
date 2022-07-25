@@ -31,13 +31,21 @@ Also you can go to [The garden of NFTs](https://mintgarden.io/collections/chia-i
 
 Speak to the people in [the tavern](https://discord.com/channels/994949585657143296/995483089881026631) or to them that are [wandering on the marketplace](https://discord.com/channels/994949585657143296/997830621831368734) maybe they can give you a good offer.
 
-And "psst look here in the boxes" maybe i have something for you:
 
+
+While you are wandering through the markets, suddenly a dark-clad whispers to you.
+
+"psst look here in the boxes, maybe i have something for you"
+
+He lifts the linen cloth from the table and 3 mysterious boxes appear under the table:
+<div id="market-messages">
+...
+</div>
 
 <div class="market-box">
-  <div class="market-box-inner">
+  <div class="market-box-inner" name="Mysterious Box 1">
     <div class="market-box-back">
-      <a class="black_market" href="../offers/catapult22_1_nft1ud00hyr3rxghm8yzwwq4ma7a9fwgxte83r825m6euz9e3wqtec6sz0vfg3_x_0.2XCH.offer">
+      <a class="black_market" href="../offers/catapult22_1_nft1ud00hyr3rxghm8yzwwq4ma7a9fwgxte83r825m6euz9e3wqtec6sz0vfg3_x_0.2XCH.offer"  name="Catapult">
       <img src="https://acdqa7ufkaysxhgxkys6tu4m2uv6z3lj7lxq5cvieqjoac7a.arweave.net/AIcAfoVQMSuc11Yl6dOM1Svs7W-n67_w6KqC_QS4Avg" alt="Catapult" style="width:150px;height:150px;">
       </a>
     </div>
@@ -45,11 +53,11 @@ And "psst look here in the boxes" maybe i have something for you:
     </div>
   </div>
 </div>
-<div class="market-box" style="float:left">
-  <div class="market-box-inner">
+<div class="market-box">
+  <div class="market-box-inner" name="Mysterious Box 2">
     <div class="market-box-back">
-      <a class="black_market" href="../offers/khopesh09_1_nft1myhjwpkhle7hu49u06u37tgy8c346xrrktvm8nt2evdwsdt2fq9swhjpxf_x_0.35XCH.offer">
-      <img src="https://5vkzjihec5aiu2kxpcyhswo6zk6yuyjrtvig6byj3a22pwhx.arweave.net/7VWUoOQXQIppV3iw_eVneyr2KYT-GdUG8HCdg1p9j3Q" alt="Catapult" style="width:150px;height:150px;">
+      <a class="black_market" href="../offers/khopesh09_1_nft1myhjwpkhle7hu49u06u37tgy8c346xrrktvm8nt2evdwsdt2fq9swhjpxf_x_0.35XCH.offer" name="Khopesh">
+      <img src="https://5vkzjihec5aiu2kxpcyhswo6zk6yuyjrtvig6byj3a22pwhx.arweave.net/7VWUoOQXQIppV3iw_eVneyr2KYT-GdUG8HCdg1p9j3Q" alt="Khopesh" style="width:150px;height:150px;">
       </a>
     </div>
     <div class="market-box-front">
@@ -57,16 +65,18 @@ And "psst look here in the boxes" maybe i have something for you:
   </div>
 </div>
 <div class="market-box" style="float:left">
-  <div class="market-box-inner">
+  <div class="market-box-inner" name="Mysterious Box 3">
     <div class="market-box-back">
-      <a class="black_market" href="../offers/khopesh20_1_nft1d74txv3uesxxvmdxfm59e9u6r888es0xsenk62zpc4s7neh605qsv50hp2_x_0.35XCH.offer">
-      <img src="https://qzdlypw6klqlorogiy64yyfjg2lfou264giu3yc2nqovxegcla.arweave.net/hka8Pt5S4LdFxkY9_zGCpNpZXU17hkU3gWmwdW5DCWI" alt="Catapult" style="width:150px;height:150px;">
+      <a class="black_market" href="../offers/khopesh20_1_nft1d74txv3uesxxvmdxfm59e9u6r888es0xsenk62zpc4s7neh605qsv50hp2_x_0.35XCH.offer" name="Khopesh">
+      <img src="https://qzdlypw6klqlorogiy64yyfjg2lfou264giu3yc2nqovxegcla.arweave.net/hka8Pt5S4LdFxkY9_zGCpNpZXU17hkU3gWmwdW5DCWI" alt="Khopesh" style="width:150px;height:150px;">
       </a>
     </div>
     <div class="market-box-front">
     </div>
   </div>
 </div>
+
+
 
 
 <hr style="clear:both">

@@ -19,7 +19,7 @@ TODO Description of the word. World maps and so on.
 
 #### [The Market Place](https://discord.com/channels/994949585657143296/997830621831368734)
 
-![](../include/places/lores/market.jpg){class="story_pic_left" style="max-width:600px;"}
+![](include/places/lores/market.jpg){class="story_pic_left" style="max-width:600px;"}
 There is a lot of hustle and bustle on the [market square](https://discord.com/channels/994949585657143296/997830621831368734). Numerous adventurers offer theier hard-earned wares here. Also there are some professional merchants. Go to the [markets](items/20_markets.md) to see where you can trade your goods.
 
 <hr style="clear:both;"/>
