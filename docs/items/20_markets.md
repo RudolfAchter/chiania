@@ -37,7 +37,7 @@ While you are wandering through the markets, suddenly a dark-clad man whispers t
 
 "psst look here in the boxes, maybe i have something for you"
 
-He lifts the linen cloth from the table and 3 mysterious boxes appear under the table:
+He lifts the linen cloth from the table and mysterious boxes appear under the table:
 <div id="market-messages">
 ...
 </div>
@@ -64,20 +64,6 @@ He lifts the linen cloth from the table and 3 mysterious boxes appear under the 
     </div>
   </div>
 </div>
-<div class="market-box" style="float:left">
-  <div class="market-box-inner" name="Mysterious Box 3">
-    <div class="market-box-back">
-      <a class="black_market" href="../offers/khopesh20_1_nft1d74txv3uesxxvmdxfm59e9u6r888es0xsenk62zpc4s7neh605qsv50hp2_x_0.35XCH.offer" name="Khopesh">
-      <img src="https://qzdlypw6klqlorogiy64yyfjg2lfou264giu3yc2nqovxegcla.arweave.net/hka8Pt5S4LdFxkY9_zGCpNpZXU17hkU3gWmwdW5DCWI" alt="Khopesh" style="width:150px;height:150px;">
-      </a>
-    </div>
-    <div class="market-box-front">
-    </div>
-  </div>
-</div>
-
-
-
 
 <hr style="clear:both">
 
