@@ -103,6 +103,11 @@ The brave volunteers who got a monster nucleis went to the hut in the western wo
 
 <hr style="clear:both">
 
+![](https://media.discordapp.net/attachments/995496698086432838/1000906114025660496/Nuclei_Ring_01.gif){class="story_pic_right"}
+A jeweler passed by the Blacksmith Shop, he was attracted by the glowing Monster Nucleis hold by volunteers. "If you give me these gems, I use the large ones to make rings or the medium ones to enhance your weapons." Says by the jeweler.
+
+<hr style="clear:both">
+
 ## The Story continues...
 
 To get the latest news in chiania go to certain places:
