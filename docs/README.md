@@ -30,7 +30,7 @@ At this time "Chia Inventory - the Chianian Quest" is played in Discord.
 - [Join here (Discord Channel - Chia Inventory)](https://discord.gg/pDGJf5f6)
 
 
-## Register yor player
+## Register your player
 
 ![](include/chiania-mimic.png){class="story_pic_left" style="width:200px"}
 Mimic is a living chest and the bot who welcomes you to the world of chiania in the Adventurers Guild. Go to the [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854) and spell the magic word `!register` and mimic will memorize you with your Chia Address. 
@@ -39,11 +39,16 @@ Mimic is a living chest and the bot who welcomes you to the world of chiania in 
 !register xch1example1234example4321
 ```
 
-Send your NFTs / Items you use for the game to the registered address. Items you already have you can send to "yourself". The last transaction must be to the address your character has.
+Send your NFTs / Items you want to equip for the game to the registered address. Items you already have you can send to "yourself". The last transaction must be to the address your character has.
 
 [There are discussions to use the Chia Network DID Feature to equip your character](https://discord.com/channels/994949585657143296/995483089881026631/999856743452508160), but this isn't implemented already
 
 ![](2022-07-23-23-21-00.png)
+
+To check what you character now has equipped use the command `!profile`.
+The stats of you character are rerolled at each quest. So your character can have a "goog" or a "bad" day. The Items you have give you a buff. With a little luck even worse equipped characters could be strong when they roll good stats in a quest.
+
+![](2022-07-25-13-19-27.png)
 
 ## Mimic's Bot Functions in Discord (so far)
 
@@ -52,7 +57,7 @@ Mimic understands a few "magic words". You can talk to mimic anytime and make so
 | Command      | Example                                | Description                                                                                             |
 | ------------ | -------------------------------------- | ------------------------------------------------------------------------------------------------------- |
 | `!register`  | `!register xch1example1234example4321` | Registers the XCH Address you use for playing. Items must be in there. You can change it between quests |
-| `!inventory` | `!inventory`                           | Shows the inventory the bot sees on your registered address                                             |
+| `!profile` | `!profile`                           | Shows your profile the Mimic bot has registered. This includes your character stats and your equipped items. One Item of each category is randomly selected and equipped. So if you want to control this have just only one item of each category in this address. You can register multiple addresses with one chia wallet.
 | `!dice`      | `!dice`                                | Rolls a dice with 20 numbers. No Function until now                                                     |
 
 ## Register for Quests

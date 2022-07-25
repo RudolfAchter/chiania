@@ -87,7 +87,7 @@ After a fierce battle, volunteers defeated a total of 20 Forest Slimes. Voluntee
 
 ## Deers under control of slimes
 
-After the fierce battle in the forest, some alert adventurers spotted strange creatures wandering. On closer inspection, they noticed that slimes took control of some deers. After careful attempts, they managed to tame and take the deers to a safe place.
+After the fierce battle in the forest, some alert adventurers spotted strange creatures wandering. On closer inspection, they noticed that slimes took control of some deers. After careful attempts, they managed to tame and take the deers to [the stables of Viridis](04_world.md#stables), the main Chianian city.
 
 The deers are slimed and injured. Some adventurers try to find some medicine to threat the deers and bring them to good health again
 <hr style="clear:both">
