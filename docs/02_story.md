@@ -75,7 +75,7 @@ Meanwhile the chianian volunteers which canned some slime visited the wise magic
 ![](https://cdn.discordapp.com/attachments/995484176428044378/999473901346242590/Enhanced_Tree_Root_12.gif){class="story_pic_right" style=""}
 The master druid holds aloft his wand, pure energy are emitted and hitted the ground. Tree roots abnormally grow and show up on the ground. These roots are surrounding by green and yellow magic. The druid ask volunteers to cut roots into sections as weapons.
 ![](media/discord_pixel.png){class="story_pic_left" style="max-width:100px;"}
-To organize themselves the volunteers now meet in [Discord square](https://discord.gg/YfgU3ueD) in the [magical tavern](https://discord.com/channels/994949585657143296/995483089881026631) named. They bind their souls to this magical place so that they can always come back to this place whereever they are.
+To organize themselves the volunteers now meet in [Kingdom Street in Viridis (the main city of Chiania)](https://discord.com/channels/994949585657143296/995483089881026631) in the [magical tavern](https://discord.com/channels/994949585657143296/995483089881026631) named. They bind their souls to this magical place so that the goddess of Chiania can revive them there in the case they die.
 
 
 The now bigger an better equipped group went deeper in the black forest to reduce the slime population. They encountered a group of forest slimes...
