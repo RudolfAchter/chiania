@@ -9,7 +9,7 @@ tags:
 
 # Khopesh
 
-- [Dexie - Chia Inventory]()
+- Buy Chia Inventory at the blue duck: [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <div class="item_thumbnail_detail">
 <img src="https://djgsyqpanctscxxhtp6klqckmlygdclm6acdkxshk2fdphfmwy.arweave.net/Gk0sQeBopyFe55_v8pcBKYvBhiWzwBDVeR1aKN5ysts"><br/>

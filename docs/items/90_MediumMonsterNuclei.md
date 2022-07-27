@@ -9,7 +9,7 @@ tags:
 
 # Medium Monster Nuclei
 
-- [Dexie - Chia Inventory]()
+- Buy Chia Inventory at the blue duck: [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <div class="item_thumbnail_detail">
 <img src="https://tigzvievl3bjpvmhpj4re6lpvdk57gakm6iw3fnifpf6s4yn.arweave.net/mg2aoJVewpfVh3p5EnlvqNXf-mAp-nkW2VqCvL6XMNE"><br/>

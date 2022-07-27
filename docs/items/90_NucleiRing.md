@@ -9,7 +9,7 @@ tags:
 
 # Nuclei Ring
 
-- [Dexie - Chia Inventory]()
+- Buy Chia Inventory at the blue duck: [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <div class="item_thumbnail_detail">
 <img src="https://lmsctphmbooladpu6lxrvi44stiw4gjkwqt3u6qe62zyponiwe.arweave.net/WyQpvOwLnLAN_9PLvGqOclNFuGSq0J7p6BPazh7mosY"><br/>

@@ -9,7 +9,7 @@ tags:
 
 # Short Axe
 
-- [Dexie - Chia Inventory]()
+- Buy Chia Inventory at the blue duck: [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <div class="item_thumbnail_detail">
 <img src="https://nlw33pw4fgldbxdwsayln63luxi5pu3c7kdscrg2nmjbodzx.arweave.net/au29v_twpljDcdpAwtvtrpdHX0_2L6hyFE2msSFw83E"><br/>

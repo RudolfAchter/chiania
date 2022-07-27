@@ -9,7 +9,7 @@ tags:
 
 # Catapult
 
-- [Dexie - Chia Inventory]()
+- Buy Chia Inventory at the blue duck: [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <div class="item_thumbnail_detail">
 <img src="https://xmljdtjeswz5bkzfedsujrjuq2ebw2uocnxrbtlslxc5w3nt.arweave.net/_uxaRzSS_Vs9CrJSDlRMU0hogbao4TbxDNcl3F222zo"><br/>

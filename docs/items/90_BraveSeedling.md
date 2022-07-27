@@ -9,7 +9,7 @@ tags:
 
 # Brave Seedling
 
-- [Dexie - Brave Seedling]()
+- Buy Brave Seedling at the blue duck: [Dexie - Brave Seedling](https://dexie.space/offers/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q/xch)
 
 <div class="item_thumbnail_detail">
 <img src="https://sy6us4iumbsou3pirpsyws7yjhgjaxhexxqsrsbnpp5hu3z2.arweave.net/lj1JcRRgZOpt6Ivli0v-4ScyQXOS94SjILXv_6em86I"><br/>

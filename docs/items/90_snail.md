@@ -9,7 +9,7 @@ tags:
 
 # snail
 
-- [Dexie - Sheesh! Snail]()
+- Buy Sheesh! Snail at the blue duck: [Dexie - Sheesh! Snail](https://dexie.space/offers/col1syclna803y6h3zl24fwswk0thmm7ad845cfc6sv4sndfzu26q8cq3pprct/xch)
 
 <div class="item_thumbnail_detail">
 <img src="https://qo3rivsbs7ukovwqrd4bwbhlzjr2ot4hd4qrhyektya4mhlb.arweave.net/g7cUVkGX6KdW0_Ij4GwTrymOnT_4cfIRPgip4Bxh1hI"><br/>
@@ -270,14 +270,15 @@ tags:
 555 colorful snails slip into the CHIA net</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://lnoxigpnqre7fbd56ypzu3ooytl5n53txeibnnxblbvpig3ose.arweave.net/W110Ge2E_SfKEffYfmm3OxNfW93O5EBa24Vhq9BtukY"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x4e8eefc3ab91a9c5bca8266e16b2a872fec3dd2d19eef9e37642ca52bc3187ec"><strong>Name:</strong> snail083</a></div>
+<img src="https://azxevbgwhg5lb6i4ujaiib74gjsvty3l5hypslcht5dskqq6zy.arweave.net/Bm5KhNY5urD5HKJAhAf8MmVZ42vp8Pks-R59HJUIezk"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x01e94558a40ebd7936b74bf85591926e56278a60cc50e98fa4316c44a11bdc28"><strong>Name:</strong> snail080</a></div>
 <div><strong>Collection:</strong> Sheesh! Snail</div>
 <div><strong>antenna:</strong> 1/5</div>
 <div><strong>background:</strong> 1/5</div>
 <div><strong>body:</strong> 1/5</div>
 <div><strong>shell:</strong> 1/5</div>
-<div><strong>Description:</strong> Snail Rare</div>
+<div><strong>Description:</strong> In a green world of flowers and vegetation live curious snails waiting to be discovered.
+555 colorful snails slip into the CHIA net</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://dzutiimjjtkyzqife5vudqw5av3dnnurwncv2mcuanr5chac.arweave.net/Hmk0IYlM1YzBBSdrQcLdBXY2tpGzRV-0wV_ANj0RwCo"><br/>
@@ -311,8 +312,8 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://meqn67oobpywejckreyjso4tcf4zrqldhbjph5m6jkqgqpq.arweave.net/-YSDffc4L8W-IkS_okwmTuTEXmYwWM4UvP1nkqgaD-4"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x8a4cbd2ba8d672dec5f1efbc731e955d9400f450834ff66dd8a5f247f81a255a"><strong>Name:</strong> snail099</a></div>
+<img src="https://zntk24y35rivkao5ogamd5cftzjp3aer2drev7mkwf4q2.arweave.net/y2atcxvsUV-UB3XGAwfR__FnlL9gJH_Q4kr9irF5_DU"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xe53690d97e42cba1161d70a6f9725c20a5fb79a115b8b9d314dc22f1bdcbba85"><strong>Name:</strong> snail099</a></div>
 <div><strong>Collection:</strong> Sheesh! Snail</div>
 <div><strong>antenna:</strong> 1/5</div>
 <div><strong>background:</strong> 1/5</div>
@@ -322,8 +323,8 @@ tags:
 555 colorful snails slip into the CHIA net</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://zntk24y35rivkao5ogamd5cftzjp3aer2drev7mkwf4q2.arweave.net/y2atcxvsUV-UB3XGAwfR__FnlL9gJH_Q4kr9irF5_DU"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xe53690d97e42cba1161d70a6f9725c20a5fb79a115b8b9d314dc22f1bdcbba85"><strong>Name:</strong> snail099</a></div>
+<img src="https://meqn67oobpywejckreyjso4tcf4zrqldhbjph5m6jkqgqpq.arweave.net/-YSDffc4L8W-IkS_okwmTuTEXmYwWM4UvP1nkqgaD-4"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x8a4cbd2ba8d672dec5f1efbc731e955d9400f450834ff66dd8a5f247f81a255a"><strong>Name:</strong> snail099</a></div>
 <div><strong>Collection:</strong> Sheesh! Snail</div>
 <div><strong>antenna:</strong> 1/5</div>
 <div><strong>background:</strong> 1/5</div>

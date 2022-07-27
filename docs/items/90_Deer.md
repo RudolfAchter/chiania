@@ -9,7 +9,7 @@ tags:
 
 # Deer
 
-- [Dexie - Chreatures]()
+- Buy Chreatures at the blue duck: [Dexie - Chreatures](https://dexie.space/offers/col1w0h8kkkh37sfvmhqgd4rac0m0llw4mwl69n53033h94fezjp6jaq4pcd3g/xch)
 
 <div class="item_thumbnail_detail">
 <img src="https://3hyv6canzscvnkhafiw5tgzucooeuvdabvrwpgmhs6xgr4m5l4ta.arweave.net/2fFfCA3MhVao4Cot2Zs0E5xKVGANY2eZh5euaPGdXyY"><br/>

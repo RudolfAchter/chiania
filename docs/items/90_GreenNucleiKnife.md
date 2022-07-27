@@ -9,7 +9,7 @@ tags:
 
 # Green Nuclei Knife
 
-- [Dexie - Chia Inventory]()
+- Buy Chia Inventory at the blue duck: [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <div class="item_thumbnail_detail">
 <img src="https://5aq4pd3rj2l5vky4jlxu2tuzv6kzdwbrisz2fhdud4thi3ht.arweave.net/-6C_HHj3FOl9qrHErvTU6Zr5WR2DFEs6KcdB8mdGzzI"><br/>

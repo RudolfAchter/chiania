@@ -9,7 +9,7 @@ tags:
 
 # Bark Shield
 
-- [Dexie - Chia Inventory]()
+- Buy Chia Inventory at the blue duck: [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <div class="item_thumbnail_detail">
 <img src="https://yd52io3xnvjeigygoptf5or2uqqqpaz6uj3rxwryea4ifbst.arweave.net/wPukO3dtUkQ-bBnPmXro6pCEHgz6idxvaOCA4goZ-T4"><br/>

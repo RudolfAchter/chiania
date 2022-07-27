@@ -9,7 +9,7 @@ tags:
 
 # Red Nuclei Sword
 
-- [Dexie - Chia Inventory]()
+- Buy Chia Inventory at the blue duck: [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <div class="item_thumbnail_detail">
 <img src="https://i6b5oljksfziqkgn3cta7ntntqboilc6i6stfvwwznwutpunm4.arweave.net/R4PXLSqRcogozdimD7ZtnALkLF-5HpTLW1sttSb6NZ0"><br/>

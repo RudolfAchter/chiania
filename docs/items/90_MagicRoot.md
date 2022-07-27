@@ -9,7 +9,7 @@ tags:
 
 # Magic Root
 
-- [Dexie - Chia Inventory]()
+- Buy Chia Inventory at the blue duck: [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <div class="item_thumbnail_detail">
 <img src="https://g3besa3udzok3iz4dbboefkpzxwny462bwqf4oasrbmmenz3aa.arweave.net/NsJJA3QeXK2jPBhC4hVPzezcc9oNoF44EohYwjc7-AM"><br/>
