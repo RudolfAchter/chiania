@@ -13,7 +13,7 @@ tags:
 
 TODO Description of the word. World maps and so on.
 
-## Main City
+## Viridis (Main City)
 
 ### Kingdom Street
 
@@ -48,8 +48,8 @@ In the stables you can find some creatures that help you in your adventures. Hor
 
 <hr style="clear:both;"/>
 
-## Black Forest
+## Nigreos (The Black Forest)
 
-## Western Woods
+## Serunt (The Western Woods)
 
 ### Hut of the master druid
