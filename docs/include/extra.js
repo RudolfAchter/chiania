@@ -24,4 +24,16 @@ $( document ).ready(function() {
 
     $(".market-box").bind("click",flip_marketbox)
     $(".market-box").bind("tap",flip_marketbox)
+
+    
+
+    const tableRef = "item_table";
+    const wrapperRef = "render";
+    
+    useEffect(() => {
+      const grid = new Grid({
+        from: tableRef.current,
+      }).render(wrapperRef.current);
+    });
+    
 });
