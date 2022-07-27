@@ -35,6 +35,18 @@ At this time "Chia Inventory - the Chianian Quest" is played in Discord.
 ![](include/chiania-mimic.png){class="story_pic_left" style="width:200px"}
 Mimic is a living chest and the bot who welcomes you to the world of chiania in the Adventurers Guild. Go to the [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854) and spell the magic word `!register` and mimic will memorize you with your Chia Address. 
 
+### Register with DID
+
+
+
+```text
+!register did:chia:1abczooEXAMPLEooEXAMPLEoodbca
+```
+
+#### Manage your Items with DID
+
+### Register with Chia Address
+
 ```text
 !register xch1example1234example4321
 ```
