@@ -23,11 +23,21 @@ The Blacksmith lifes at Chiania capital. If he is not travelling you would find 
 
 The master druid is a wise demigod living in the western woods. His deep valuable knowledge about the nature and the magical forces holding the world together.
 
-<hr style="clear:both">
+[](#goddess-of-chiania)
 
+<hr style="clear:both">
+![](include/characters/lores/goddess_of_chiania.png){class="story_pic_left" style="width:400px"}
+## Goddess of Chiania
+
+The goddes of Chiania watches over life and nature
+
+<hr style="clear:both">
 ![](include/chiania-mimic.png){class="story_pic_left" style="width:400px"}
 ## Mimic
 
 Mimic is a living chest
+<hr style="clear:both">
+
+
 
 
