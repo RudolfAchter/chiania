@@ -42,7 +42,9 @@ He lifts the linen cloth from the table and mysterious boxes appear under the ta
 ...
 </div>
 
-<div class="market-box">
+<!-- OFFERSTART -->
+
+<div class="market-box" onclick="flip_marketbox(event)">
   <div class="market-box-inner" name="Mysterious Box 1">
     <div class="market-box-back">
       <a class="black_market" href="../offers/catapult22_1_nft1ud00hyr3rxghm8yzwwq4ma7a9fwgxte83r825m6euz9e3wqtec6sz0vfg3_x_0.2XCH.offer"  name="Catapult">
@@ -53,7 +55,7 @@ He lifts the linen cloth from the table and mysterious boxes appear under the ta
     </div>
   </div>
 </div>
-<div class="market-box">
+<div class="market-box" onclick="flip_marketbox(event)">
   <div class="market-box-inner" name="Mysterious Box 2">
     <div class="market-box-back">
       <a class="black_market" href="../offers/khopesh09_1_nft1myhjwpkhle7hu49u06u37tgy8c346xrrktvm8nt2evdwsdt2fq9swhjpxf_x_0.35XCH.offer" name="Khopesh">
@@ -64,6 +66,8 @@ He lifts the linen cloth from the table and mysterious boxes appear under the ta
     </div>
   </div>
 </div>
+
+<!-- OFFEREND -->
 
 <hr style="clear:both">
 
