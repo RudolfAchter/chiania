@@ -66,6 +66,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_EnhancedTreeRoot/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/90_Khopesh/</loc>
          <lastmod>2022-07-27</lastmod>
          <changefreq>daily</changefreq>
@@ -76,12 +81,42 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_MagicRoot/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_MediumMonsterNuclei/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_NucleiRing/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_RedNucleiSword/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_ShadowSword/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/90_ShortAxe/</loc>
          <lastmod>2022-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/90_ShortBow/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_SmallMonsterNuclei/</loc>
          <lastmod>2022-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -97,6 +132,11 @@
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/90_WoodClub/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_snail/</loc>
          <lastmod>2022-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
