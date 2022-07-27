@@ -52,7 +52,8 @@ body {
 
 
 .md-grid {
-    max-width: 1600px;
+    /*max-width: 1600px;*/
+    max-width: 90%;
 }
 
 .md-header {
@@ -245,23 +246,42 @@ img.black_market {
 }
 
 div.item_thumbnail {
-  width:200px; height:400px; 
+  width:300px; height:500px; 
   float:left;
   margin:10px;
   border: 2px solid var(--md-typeset-table-color);
+  overflow-y: auto;
+  scrollbar-color: var(--md-typeset-table-color);
+  scrollbar-width: thin;
 }
+
+div.item_thumbnail::-webkit-scrollbar {
+  height: .2rem;
+  width: .2rem;
+}
+
 
 div.item_thumbnail div {
   border-top: 2px solid var(--md-typeset-table-color);
   margin-bottom: 2px;
 }
 
+
 div.item_thumbnail_detail {
   width:300px; height:600px; 
   float:left;
   margin:10px;
   border: 2px solid var(--md-typeset-table-color);
+  overflow-y: auto;
+  scrollbar-color: var(--md-typeset-table-color);
+  scrollbar-width: thin;
 }
+
+div.item_thumbnail_detail::-webkit-scrollbar {
+  height: .2rem;
+  width: .2rem;
+}
+
 
 div.item_thumbnail_detail div {
   border-top: 2px solid var(--md-typeset-table-color);
