@@ -52,7 +52,8 @@ extra:
 
 
 extra_css:
-  - "css/extra.css"
+  - css/extra.css
+  - https://unpkg.com/gridjs/dist/theme/mermaid.min.css
 
 markdown_extensions:
   - toc
@@ -74,6 +75,7 @@ extra_javascript:
   - include/mermaid.min.js
   - include/jquery-3.6.0.min.js
   - include/extra.js
+  
 
 plugins:
   - search:
