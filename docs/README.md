@@ -32,30 +32,70 @@ At this time "Chia Inventory - the Chianian Quest" is played in Discord.
 
 ## Register your player
 
-![](include/chiania-mimic.png){class="story_pic_left" style="width:200px"}
+![](include/chiania-mimic.png){class="story_pic_right" style="width:200px"}
 Mimic is a living chest and the bot who welcomes you to the world of chiania in the Adventurers Guild. Go to the [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854) and spell the magic word `!register` and mimic will memorize you with your Chia Address. 
 
 ### Register with DID
 
+First you have to create a DID. In Chia Wallet it's called "Profile". - Go to Settings -> Profiles
+- Create a new Profile (or better two)
+- Name the first Profile "Chiania Equipped"
+    - this would be for the items your Character has equipped
+- Name the seconds Profile "Chiania Inventory"
+    - this would be items you have in reserve
 
+![](2022-07-27-13-27-10.png)
+
+- Go to [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854) and register with a command like this:
 
 ```text
 !register did:chia:1abczooEXAMPLEooEXAMPLEoodbca
 ```
 
+![](2022-07-27-13-31-22.png)
+
 #### Manage your Items with DID
 
+When you want to use a item for Chiania you simply move it into the right Profile.
+
+![](2022-07-27-13-50-26.png)
+
+In this example i want to equip "Short Axe"
+
+![](2022-07-27-13-53-09.png)
+
+You can have one item of each category equipped. If there is more than one item of one category in your "equipped" DID, then one item randomly is selected for you.
+
+Item Categories so far:
+
+- Weapon
+- Shield
+- Ring
+- Mount (something you ride on)
+- Familar (a pet or so)
+
+
 ### Register with Chia Address
+
+**This is deprecated. We recommend you [register with did](#register-with-did)**
 
 ```text
 !register xch1example1234example4321
 ```
 
-Send your NFTs / Items you want to equip for the game to the registered address. Items you already have you can send to "yourself". The last transaction must be to the address your character has.
-
-[There are discussions to use the Chia Network DID Feature to equip your character](https://discord.com/channels/994949585657143296/995483089881026631/999856743452508160), but this isn't implemented already
+[There are discussions to use the Chia Network DID Feature to equip your character](https://discord.com/channels/994949585657143296/995483089881026631/999856743452508160)
 
 ![](2022-07-23-23-21-00.png)
+
+#### Manage your Items with Chia Address
+
+**This is deprecated. We recommend you [register with did](#register-with-did)**
+
+Send your NFTs / Items you want to equip for the game to the registered address. Items you already have you can send to "yourself". The last transaction must be to the address your character has.
+
+![](2022-07-27-13-57-00.png)
+
+## Check your registered Inventory
 
 To check what you character now has equipped use the command `!profile`.
 The stats of you character are rerolled at each quest. So your character can have a "goog" or a "bad" day. The Items you have give you a buff. With a little luck even worse equipped characters could be strong when they roll good stats in a quest.
@@ -71,12 +111,24 @@ Mimic understands a few "magic words". You can talk to mimic anytime and make so
 | `!register`  | `!register xch1example1234example4321` | Registers the XCH Address you use for playing. Items must be in there. You can change it between quests |
 | `!profile` | `!profile`                           | Shows your profile the Mimic bot has registered. This includes your character stats and your equipped items. One Item of each category is randomly selected and equipped. So if you want to control this have just only one item of each category in this address. You can register multiple addresses with one chia wallet.
 | `!dice`      | `!dice`                                | Rolls a dice with 20 numbers. No Function until now                                                     |
+| `!hunt`      | `!hunt`                                | Go hunting for monsters in the forest. This is in test mode for now. It's planned you can hunt a few times per day to get some rewards. |
 
 ## Register for Quests
 
 Go to the [registration-counter in the adventurers guild](https://discord.com/channels/994949585657143296/1000344248312397854). When there is a quest announced in [quest-announcements](https://discord.com/channels/994949585657143296/995496698086432838) you have a few days time to register for it at [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854)
 
-## Go to the [markets](items/20_markets.md)
+## Get Equipment for your character
+
+### Look which items you can use for Chiania
+
+- [Item Types](http://0.0.0.0:8082/chiania/public/items/50_types/)
+
+### Ask for Offers on Discord
+
+- [Marketplace Channel](https://discord.com/channels/994949585657143296/997830621831368734)
+- [The Tavern](https://discord.com/channels/994949585657143296/995483089881026631)
+
+### Go to the [markets](items/20_markets.md)
 
 At the [markets](items/20_markets.md) you will find equipment for your character. The ["blue duck" at the Main Market Square](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch) is open 24x7. But if you look carefully then you can find goood offer for example by the blacksmith. Go to the [markets](items/20_markets.md) stroll and look.
 

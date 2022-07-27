@@ -13,7 +13,7 @@
         <link rel="canonical" href="https://rudolfachter.github.io/chiania/public/">
       
       <link rel="icon" href="assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.3.1, mkdocs-material-8.3.9">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.3.9">
     
     
       
@@ -368,6 +368,59 @@
     Register your player
   </a>
   
+    <nav class="md-nav" aria-label="Register your player">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#register-with-did" class="md-nav__link">
+    Register with DID
+  </a>
+  
+    <nav class="md-nav" aria-label="Register with DID">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#manage-your-items-with-did" class="md-nav__link">
+    Manage your Items with DID
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#register-with-chia-address" class="md-nav__link">
+    Register with Chia Address
+  </a>
+  
+    <nav class="md-nav" aria-label="Register with Chia Address">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#manage-your-items-with-chia-address" class="md-nav__link">
+    Manage your Items with Chia Address
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#check-your-registered-inventory" class="md-nav__link">
+    Check your registered Inventory
+  </a>
+  
 </li>
       
         <li class="md-nav__item">
@@ -385,9 +438,36 @@
 </li>
       
         <li class="md-nav__item">
+  <a href="#get-equipment-for-your-character" class="md-nav__link">
+    Get Equipment for your character
+  </a>
+  
+    <nav class="md-nav" aria-label="Get Equipment for your character">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#look-which-items-you-can-use-for-chiania" class="md-nav__link">
+    Look which items you can use for Chiania
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ask-for-offers-on-discord" class="md-nav__link">
+    Ask for Offers on Discord
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#go-to-the-markets" class="md-nav__link">
     Go to the markets
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
       
@@ -822,13 +902,47 @@
 <li><a href="https://discord.gg/pDGJf5f6">Join here (Discord Channel - Chia Inventory)</a></li>
 </ul>
 <h2 id="register-your-player">Register your player</h2>
-<p><img alt="" class="story_pic_left" src="include/chiania-mimic.png" style="width:200px" />
+<p><img alt="" class="story_pic_right" src="include/chiania-mimic.png" style="width:200px" />
 Mimic is a living chest and the bot who welcomes you to the world of chiania in the Adventurers Guild. Go to the <a href="https://discord.com/channels/994949585657143296/1000344248312397854">registration-counter</a> and spell the magic word <code>!register</code> and mimic will memorize you with your Chia Address. </p>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>!register xch1example1234example4321
+<h3 id="register-with-did">Register with DID</h3>
+<p>First you have to create a DID. In Chia Wallet it's called "Profile". - Go to Settings -&gt; Profiles
+- Create a new Profile (or better two)
+- Name the first Profile "Chiania Equipped"
+    - this would be for the items your Character has equipped
+- Name the seconds Profile "Chiania Inventory"
+    - this would be items you have in reserve</p>
+<p><img alt="" src="2022-07-27-13-27-10.png" /></p>
+<ul>
+<li>Go to <a href="https://discord.com/channels/994949585657143296/1000344248312397854">registration-counter</a> and register with a command like this:</li>
+</ul>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>!register did:chia:1abczooEXAMPLEooEXAMPLEoodbca
 </code></pre></div>
-<p>Send your NFTs / Items you want to equip for the game to the registered address. Items you already have you can send to "yourself". The last transaction must be to the address your character has.</p>
-<p><a href="https://discord.com/channels/994949585657143296/995483089881026631/999856743452508160">There are discussions to use the Chia Network DID Feature to equip your character</a>, but this isn't implemented already</p>
+<p><img alt="" src="2022-07-27-13-31-22.png" /></p>
+<h4 id="manage-your-items-with-did">Manage your Items with DID</h4>
+<p>When you want to use a item for Chiania you simply move it into the right Profile.</p>
+<p><img alt="" src="2022-07-27-13-50-26.png" /></p>
+<p>In this example i want to equip "Short Axe"</p>
+<p><img alt="" src="2022-07-27-13-53-09.png" /></p>
+<p>You can have one item of each category equipped. If there is more than one item of one category in your "equipped" DID, then one item randomly is selected for you.</p>
+<p>Item Categories so far:</p>
+<ul>
+<li>Weapon</li>
+<li>Shield</li>
+<li>Ring</li>
+<li>Mount (something you ride on)</li>
+<li>Familar (a pet or so)</li>
+</ul>
+<h3 id="register-with-chia-address">Register with Chia Address</h3>
+<p><strong>This is deprecated. We recommend you <a href="#register-with-did">register with did</a></strong></p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a>!register xch1example1234example4321
+</code></pre></div>
+<p><a href="https://discord.com/channels/994949585657143296/995483089881026631/999856743452508160">There are discussions to use the Chia Network DID Feature to equip your character</a></p>
 <p><img alt="" src="2022-07-23-23-21-00.png" /></p>
+<h4 id="manage-your-items-with-chia-address">Manage your Items with Chia Address</h4>
+<p><strong>This is deprecated. We recommend you <a href="#register-with-did">register with did</a></strong></p>
+<p>Send your NFTs / Items you want to equip for the game to the registered address. Items you already have you can send to "yourself". The last transaction must be to the address your character has.</p>
+<p><img alt="" src="2022-07-27-13-57-00.png" /></p>
+<h2 id="check-your-registered-inventory">Check your registered Inventory</h2>
 <p>To check what you character now has equipped use the command <code>!profile</code>.
 The stats of you character are rerolled at each quest. So your character can have a "goog" or a "bad" day. The Items you have give you a buff. With a little luck even worse equipped characters could be strong when they roll good stats in a quest.</p>
 <p><img alt="" src="2022-07-25-13-19-27.png" /></p>
@@ -858,11 +972,26 @@ The stats of you character are rerolled at each quest. So your character can hav
 <td><code>!dice</code></td>
 <td>Rolls a dice with 20 numbers. No Function until now</td>
 </tr>
+<tr>
+<td><code>!hunt</code></td>
+<td><code>!hunt</code></td>
+<td>Go hunting for monsters in the forest. This is in test mode for now. It's planned you can hunt a few times per day to get some rewards.</td>
+</tr>
 </tbody>
 </table>
 <h2 id="register-for-quests">Register for Quests</h2>
 <p>Go to the <a href="https://discord.com/channels/994949585657143296/1000344248312397854">registration-counter in the adventurers guild</a>. When there is a quest announced in <a href="https://discord.com/channels/994949585657143296/995496698086432838">quest-announcements</a> you have a few days time to register for it at <a href="https://discord.com/channels/994949585657143296/1000344248312397854">registration-counter</a></p>
-<h2 id="go-to-the-markets">Go to the <a href="items/20_markets/">markets</a></h2>
+<h2 id="get-equipment-for-your-character">Get Equipment for your character</h2>
+<h3 id="look-which-items-you-can-use-for-chiania">Look which items you can use for Chiania</h3>
+<ul>
+<li><a href="http://0.0.0.0:8082/chiania/public/items/50_types/">Item Types</a></li>
+</ul>
+<h3 id="ask-for-offers-on-discord">Ask for Offers on Discord</h3>
+<ul>
+<li><a href="https://discord.com/channels/994949585657143296/997830621831368734">Marketplace Channel</a></li>
+<li><a href="https://discord.com/channels/994949585657143296/995483089881026631">The Tavern</a></li>
+</ul>
+<h3 id="go-to-the-markets">Go to the <a href="items/20_markets/">markets</a></h3>
 <p>At the <a href="items/20_markets/">markets</a> you will find equipment for your character. The <a href="https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch">"blue duck" at the Main Market Square</a> is open 24x7. But if you look carefully then you can find goood offer for example by the blacksmith. Go to the <a href="items/20_markets/">markets</a> stroll and look.</p>
 <h2 id="gaming-system">Gaming System</h2>
 <p>It is best to follow the game via the <a href="https://discord.gg/pDGJf5f6">Chia Inventory Discord Server</a></p>
