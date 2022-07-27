@@ -41,6 +41,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_BarkShield/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/90_Barkshield/</loc>
          <lastmod>2022-07-27</lastmod>
          <changefreq>daily</changefreq>
@@ -71,12 +76,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_GreenNucleiKnife/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/90_Khopesh/</loc>
          <lastmod>2022-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/90_Knife/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_LargeMonsterNuclei/</loc>
          <lastmod>2022-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -96,12 +111,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_NucleiSword/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_OrangeNucleiWoodClub/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/90_RedNucleiSword/</loc>
          <lastmod>2022-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/90_ShadowSword/</loc>
+         <lastmod>2022-07-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_ShadowswordPrototype/</loc>
          <lastmod>2022-07-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
