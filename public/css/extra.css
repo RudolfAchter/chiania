@@ -64,6 +64,9 @@ body {
   height:97px;
 }
 
+.md-container {
+  scroll-margin-top: 3em;
+}
 
 .md-ellipsis {
   text-shadow: 1px 1px var(--md-accent-fg-color);
@@ -130,6 +133,7 @@ body {
 :root > * {
   --md-primary-fg-color:        #3AAC59;
   --md-accent-fg-color:        #3AAC59;
+
 /*  --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;*/
 }
@@ -139,7 +143,16 @@ body {
   --md-typeset-a-color:   #28743c;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+.md-typeset :target {
+  --md-scroll-margin:6rem;
+}
+
 [data-md-color-scheme=chiania_dark] {
+  --md-scroll-margin:5rem;
   --md-hue: 232;
   --md-default-fg-color: hsla(var(--md-hue),75%,95%,1);
   --md-default-fg-color--light: hsla(var(--md-hue),75%,90%,0.62);

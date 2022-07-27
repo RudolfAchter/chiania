@@ -102,6 +102,31 @@ The stats of you character are rerolled at each quest. So your character can hav
 
 ![](2022-07-25-13-19-27.png)
 
+## Get Help
+
+You can enter `!help` as a Chat message to get a list of possible commands. Commands are in Categories
+
+```text
+Categories
+1) Combat
+Combat
+2) Registration
+Registration
+3) Tools
+Tools
+
+Type !help command for more info on a command.
+You can also type !help category for more info on a category.
+```
+So you can use these help Commands
+
+`!help Combat`
+
+`!help Registration`
+
+`!help Tools`
+
+
 ## Mimic's Bot Functions in Discord (so far)
 
 Mimic understands a few "magic words". You can talk to mimic anytime and make some spells.
@@ -151,7 +176,9 @@ This is the gaming loop so far:
 
 Current state is:
 
-- A pary of players registers for a quest
+#### Quests
+
+- A party of players registers for a quest
 - The party goes out for a quest
 - The party approaches enemies. These have stats like:
     - General
@@ -165,6 +192,9 @@ Current state is:
 
 ![](https://cdn.discordapp.com/attachments/995478713561001984/998168955367719007/Slime.gif){class="full_pic" style="width:500px"}
 
+#### Hunting when there are no quests
+
+You can go hunting for Monsters in [the Forest](https://discord.com/channels/994949585657143296/1001435613641318462). Just type command `!hunt`. Then you search for a monster and fight against it. If you win, you get a reward. If you die your soul wanders to the soulstone in the [magical Tavern](https://discord.com/channels/994949585657143296/995483089881026631). There Your soul prays to the [goddess of Chiania](03_characters.md#goddess-of-chiania). You Hope she can revive you. Revival typically lasts 12 hours.
 
 ## Speed of Events (Patience)
 
