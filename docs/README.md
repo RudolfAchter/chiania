@@ -16,11 +16,11 @@ tags:
 
 "Chia Inventory" is a RPG-style NFT collection, with an unique NFT releasing conecpt: all of the NFTs are items generated during our RPG gaming process.
  
-[Green Whale](https://twitter.com/mrcic3) Is playing as a storyteller and blacksmith in this endless RPG game. He continuously releases stories, quests, and events. Players who bought our NFT equipment are able to  join endless quests and events, and win more NFTs for free.
+[Green Whale](https://twitter.com/mrcic3) Is playing as a storyteller and blacksmith in this endless RPG game. He continuously releases stories, quests, and events. Players who bought our NFT equipment are able to join endless quests and events, and win more NFTs for free.
 
 Players can also sell NFTs to allow newbies to join the game.
 
-So, this is the concept, an RPG style endless NFT sets. Fun and story are the core values of Chia Inventory. 
+So, this is the concept, an endless Role Play Game with NFTs as items for your character and the world. Fun and story are the core values of Chia Inventory.
 
 
 ## Come to Discord
@@ -141,7 +141,7 @@ It is best to follow the game via the [Chia Inventory Discord Server](https://di
 This is the gaming loop so far:
 
 - [You buy weapons / equipment when it is released (original offers on dexie.space)](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch).
-    - [This are the weapon types you can get so far](items/01_equipment.md)
+    - [This are the weapon types you can get so far](items/50_types.md)
 - [A quest is announced (Discord or Twitter)](https://discordapp.com/channels/994949585657143296/995496698086432838)
 - [You register for the quest](https://discordapp.com/channels/994949585657143296/998007766297870416)
 
