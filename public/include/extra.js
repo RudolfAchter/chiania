@@ -24,4 +24,5 @@ $( document ).ready(function() {
 
     $(".market-box").bind("click",flip_marketbox)
     $(".market-box").bind("tap",flip_marketbox)
+    
 });
