@@ -1,3 +1,12 @@
+---
+title: Deer
+description: Deer in Chia Inventory
+date: 2022-07-27
+tags:
+  - NFT
+  - Items
+---
+
 # Deer
 
 - [Dexie - Chreatures](https://dexie.space/offers/col1w0h8kkkh37sfvmhqgd4rac0m0llw4mwl69n53033h94fezjp6jaq4pcd3g/xch)

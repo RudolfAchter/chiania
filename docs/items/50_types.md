@@ -1,3 +1,12 @@
+---
+title: Item Types
+description: Item Types in Chia Inventory
+date: 2022-07-27
+tags:
+  - NFT
+  - Items
+---
+
 # Item Types
 
 <div class="item_thumbnail">

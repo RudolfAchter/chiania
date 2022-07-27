@@ -1,3 +1,12 @@
+---
+title: Short Axe
+description: Short Axe in Chia Inventory
+date: 2022-07-27
+tags:
+  - NFT
+  - Items
+---
+
 # Short Axe
 
 - [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)

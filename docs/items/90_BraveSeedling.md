@@ -1,3 +1,12 @@
+---
+title: Brave Seedling
+description: Brave Seedling in Chia Inventory
+date: 2022-07-27
+tags:
+  - NFT
+  - Items
+---
+
 # Brave Seedling
 
 - [Dexie - Brave Seedling](https://dexie.space/offers/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q/xch)
