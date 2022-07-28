@@ -1,7 +1,7 @@
 ---
 title: Wood Club
 description: Wood Club in Chia Inventory
-date: 2022-07-28
+date: 2022-07-29
 tags:
   - NFT
   - Items
@@ -19,15 +19,15 @@ tags:
 <div><strong>Description:</strong> A wood club not for you to play golf.</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://3ug7tb4bjnc4k5ljoaeb42levwmwklkqjlyyoiwvbmankfvi.arweave.net/3Q35h4FLRcV1aXAIHmlkrZllLVBK8Yc_i1QsA1Rao-g"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xd4269042abbd824d89c8c087acf9ec4144bd99b00338b519e7d268e2a9d941df"><strong>Name:</strong> Wood club 02</a></div>
+<img src="https://a3cnvns5xwt4zt2pfvizrms3p4hfnvieypsrai7o7uor3ai.arweave.net/BsTatl2_9p8zPTy1RmLJbfw_5W1Q_TD5R_Aj7v0dHYE"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x848e464b3eb49bb1f261470813f6cc89c6e57c1ebbbe37039b546f55aefce0c9"><strong>Name:</strong> Wood Club 02</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Bash:</strong> 2</div>
 <div><strong>Description:</strong> A wood club not for you to play golf.</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://a3cnvns5xwt4zt2pfvizrms3p4hfnvieypsrai7o7uor3ai.arweave.net/BsTatl2_9p8zPTy1RmLJbfw_5W1Q_TD5R_Aj7v0dHYE"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x848e464b3eb49bb1f261470813f6cc89c6e57c1ebbbe37039b546f55aefce0c9"><strong>Name:</strong> Wood Club 02</a></div>
+<img src="https://3ug7tb4bjnc4k5ljoaeb42levwmwklkqjlyyoiwvbmankfvi.arweave.net/3Q35h4FLRcV1aXAIHmlkrZllLVBK8Yc_i1QsA1Rao-g"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xd4269042abbd824d89c8c087acf9ec4144bd99b00338b519e7d268e2a9d941df"><strong>Name:</strong> Wood club 02</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Bash:</strong> 2</div>
 <div><strong>Description:</strong> A wood club not for you to play golf.</div>
