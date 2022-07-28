@@ -1,7 +1,7 @@
 ---
 title: Sword
 description: Sword in Chia Inventory
-date: 2022-07-28
+date: 2022-07-29
 tags:
   - NFT
   - Items
