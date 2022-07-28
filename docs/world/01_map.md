@@ -18,6 +18,4 @@ Salvia the Main Continent
 
 ![](include/chiania_world_map.drawio.svg)
 
-
-
 </div>
