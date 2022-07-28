@@ -116,7 +116,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_OrangeNucleiKhopesh/</loc>
+         <lastmod>2022-07-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/90_OrangeNucleiWoodClub/</loc>
+         <lastmod>2022-07-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/90_PurpleNucleiKnife/</loc>
          <lastmod>2022-07-28</lastmod>
          <changefreq>daily</changefreq>
     </url>

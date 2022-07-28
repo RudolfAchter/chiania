@@ -1,7 +1,7 @@
 ---
 title: Item Types
 description: Item Types in Chia Inventory
-date: 2022-07-27
+date: 2022-07-28
 tags:
   - NFT
   - Items
@@ -101,11 +101,28 @@ tags:
 <div><strong>Strength:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
+<img src="https://jv2btzv3z6x3ms4ltnhd4lz2mczgsdmlrmwamktgyo6ttxq.arweave.net/TX-QZ5rvPr7-ZLi5_tOPi86YLJpDYuLLAYqZsO-9Od4"><br/>
+<div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
+<div><strong>Item Type:</strong> <a href="../90_OrangeNucleiKhopesh">Orange Nuclei Khopesh</a></div>
+<div><strong>Bash:</strong> 1</div>
+<div><strong>Constitution:</strong> 1</div>
+<div><strong>Pierce:</strong> 1</div>
+<div><strong>Slash:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
 <img src="https://zzxkjbbdkgcgomldkdsqca7gymxigwyydc3dz6l5qnkwr6mg4xzq.arweave.net/zm6khCNRhGcxY1DlAQPmwy6DWxgYtjz5fYNVaPmG5fM"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_OrangeNucleiWoodClub">Orange Nuclei Wood Club</a></div>
 <div><strong>Bash:</strong> 2</div>
 <div><strong>Constitution:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<img src="https://ei3xooyi2f3nzyakfxgolovleanjfz4fqpgbxr2icbt6lbr3.arweave.net/Ijd3OwjRdtzgCi-3M5bqrIBqS54WDzBvHSBBn5_YY70"><br/>
+<div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
+<div><strong>Item Type:</strong> <a href="../90_PurpleNucleiKnife">Purple Nuclei Knife</a></div>
+<div><strong>Pierce:</strong> 1</div>
+<div><strong>Slash:</strong> 1</div>
+<div><strong>Wisdom:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
 <img src="https://i6b5oljksfziqkgn3cta7ntntqboilc6i6stfvwwznwutpunm4.arweave.net/R4PXLSqRcogozdimD7ZtnALkLF-5HpTLW1sttSb6NZ0"><br/>
@@ -131,7 +148,7 @@ tags:
 <div><strong>Slash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://wysajenhpma4zibrrs6vus7bx56sn2sgezkmye6ct25rephgdu.arweave.net/t_iQEkad7AcygMYy9Wkvhv30m6kYmVMwTwp67EjzmHc"><br/>
+<img src="https://mhrslttczhebs6uvexv4qlpj6tpqtom27eawplxiuhtt6npwwodq.arweave.net/YeMlzmLJyBl6lSXryC3p9N8JuZr5AWeu6KHnPzX2s4c"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_ShortBow">Short Bow</a></div>
 <div><strong>Pierce:</strong> 2</div>
@@ -158,10 +175,11 @@ tags:
 <div><strong>Bash:</strong> 0</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://4fhetw6fphgvhyudgki4qxshjdjkvgwdu2vcf3zqkjdvxhi.arweave.net/4U5J28V5zVPigzKRyF5HSNKqms-OmqiLvM_-FJ_HW50"><br/>
+<img src="https://os7rgef2gycobpm6kgl7hmq5qiwhdltlwq644ud55ooirmac5u.arweave.net/dL8TELo2BOC9nlGX87Idgixxrmu0Pc5QfeuciL_AC7Q"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_Sword">Sword</a></div>
-<div><strong>Pierce:</strong> 1</div>
+<div><strong>Bash:</strong> 0</div>
+<div><strong>Pierce:</strong> 0</div>
 <div><strong>Slash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">

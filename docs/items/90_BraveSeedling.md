@@ -1,7 +1,7 @@
 ---
 title: Brave Seedling
 description: Brave Seedling in Chia Inventory
-date: 2022-07-27
+date: 2022-07-28
 tags:
   - NFT
   - Items
@@ -3133,6 +3133,16 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://unedw6qpgei45ulyx243c6gkjinnw4knufai5g6b5xl62kiaku.arweave.net/o0g7eg8xEc7ReL65s-XjKShrbcU2hQI6bwe3X7SkAVY"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xa52fe0501d4588a80cb3c5346afa574f4532894774fc3d603cf04e3b82836499"><strong>Name:</strong> Brave Seedling #344</a></div>
+<div><strong>Collection:</strong> Brave Seedling</div>
+<div><strong>background:</strong> cosmic blue</div>
+<div><strong>decoration:</strong> drip below</div>
+<div><strong>seedling:</strong> green health</div>
+<div><strong>soil:</strong> moon well</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://tvw4rrw6xhjm3ftbsx4lhhwtzb4tbpbbacjctttgewca.arweave.net/nW3Ixt650_s2WYZ_X_4s_57TyH-kwvCEAkinOZi-WEk"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x8fa3369c952ee838f51a86603b9bb2478d368e485aa9280b84355d77fea5ca5a"><strong>Name:</strong> Brave Seedling #345</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
@@ -3259,6 +3269,16 @@ tags:
 <div><strong>background:</strong> swamp green</div>
 <div><strong>decoration:</strong> yellow spots</div>
 <div><strong>seedling:</strong> green health</div>
+<div><strong>soil:</strong> green swamp</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://chwty2qvrlb542n7sfpnwnhmnldkcva2bce2k7fhaxvvskbk.arweave.net/Ee0-8ahWKw95pv5Fe2zTsasahVBoIi_aV8pwXrWSgqA"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x83a6d7766822292043f02aa20a725646ef486b013640956b6449ae4529e9abc1"><strong>Name:</strong> Brave Seedling #358</a></div>
+<div><strong>Collection:</strong> Brave Seedling</div>
+<div><strong>background:</strong> swamp green</div>
+<div><strong>decoration:</strong> yellow spots</div>
+<div><strong>seedling:</strong> green strong</div>
 <div><strong>soil:</strong> green swamp</div>
 <div><strong>Description:</strong> </div>
 </div>
@@ -3499,16 +3519,6 @@ tags:
 <div><strong>decoration:</strong> nourish</div>
 <div><strong>seedling:</strong> green health</div>
 <div><strong>soil:</strong> amethyst</div>
-<div><strong>Description:</strong> </div>
-</div>
-<div class="item_thumbnail_detail">
-<img src="https://zmnm55ityma4l5isinekznt2pmkzgd52jme3mkoecm62gyibpnza.arweave.net/yxrO9RPDAcX1EkNIrLZ6exWTD7pLCbYpxBM9o2EBe3I"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x07e840e69fb9187bc6ef3f6ae031381972f4f96020e39ddff06a34f546046c5f"><strong>Name:</strong> Brave Seedling #382</a></div>
-<div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>background:</strong> swamp green</div>
-<div><strong>decoration:</strong> yellow spots</div>
-<div><strong>seedling:</strong> green young</div>
-<div><strong>soil:</strong> green wetlands</div>
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
@@ -5378,16 +5388,6 @@ tags:
 <div><strong>decoration:</strong> yellow spots</div>
 <div><strong>seedling:</strong> green strong</div>
 <div><strong>soil:</strong> brown organic</div>
-<div><strong>Description:</strong> </div>
-</div>
-<div class="item_thumbnail_detail">
-<img src="https://k4yzjmlmqg6barac2y65gk45jwqozsscota6ekhlmluyesxg64.arweave.net/VzGUsWyBvBBEA-tY90yudTaDsykJ0weIo62Lpgkrm98"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xb133e4be3787eefb3fd9b146720a8cd9598dffc8035e3773bf50b4ec2597d742"><strong>Name:</strong> Brave Seedling #568</a></div>
-<div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>background:</strong> swamp green</div>
-<div><strong>decoration:</strong> nourish</div>
-<div><strong>seedling:</strong> green young</div>
-<div><strong>soil:</strong> amethyst</div>
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">

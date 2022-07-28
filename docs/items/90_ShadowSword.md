@@ -1,7 +1,7 @@
 ---
 title: Shadow Sword
 description: Shadow Sword in Chia Inventory
-date: 2022-07-27
+date: 2022-07-28
 tags:
   - NFT
   - Items

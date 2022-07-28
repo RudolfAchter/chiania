@@ -1,7 +1,7 @@
 ---
 title: snail
 description: snail in Chia Inventory
-date: 2022-07-27
+date: 2022-07-28
 tags:
   - NFT
   - Items
@@ -270,15 +270,14 @@ tags:
 555 colorful snails slip into the CHIA net</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://azxevbgwhg5lb6i4ujaiib74gjsvty3l5hypslcht5dskqq6zy.arweave.net/Bm5KhNY5urD5HKJAhAf8MmVZ42vp8Pks-R59HJUIezk"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x01e94558a40ebd7936b74bf85591926e56278a60cc50e98fa4316c44a11bdc28"><strong>Name:</strong> snail080</a></div>
+<img src="https://lnoxigpnqre7fbd56ypzu3ooytl5n53txeibnnxblbvpig3ose.arweave.net/W110Ge2E_SfKEffYfmm3OxNfW93O5EBa24Vhq9BtukY"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x4e8eefc3ab91a9c5bca8266e16b2a872fec3dd2d19eef9e37642ca52bc3187ec"><strong>Name:</strong> snail083</a></div>
 <div><strong>Collection:</strong> Sheesh! Snail</div>
 <div><strong>antenna:</strong> 1/5</div>
 <div><strong>background:</strong> 1/5</div>
 <div><strong>body:</strong> 1/5</div>
 <div><strong>shell:</strong> 1/5</div>
-<div><strong>Description:</strong> In a green world of flowers and vegetation live curious snails waiting to be discovered.
-555 colorful snails slip into the CHIA net</div>
+<div><strong>Description:</strong> Snail Rare</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://dzutiimjjtkyzqife5vudqw5av3dnnurwncv2mcuanr5chac.arweave.net/Hmk0IYlM1YzBBSdrQcLdBXY2tpGzRV-0wV_ANj0RwCo"><br/>
