@@ -102,12 +102,25 @@ body {
 
 
 [data-md-color-scheme=default] .md-tabs__link {
-  color: var(--md-default-fg-color);
+  color: var(--md-default-fg-color);  
 }
 
-[data-md-color-scheme=default] .md-header .md-ellipsis {
-  color: var(--md-default-fg-color);
+.md-tabs__list{
+  background-color: var(--md-default-bg-color--lighter);
+  backdrop-filter: blur(4px);
 }
+
+.md-tabs__link {
+  font-size: 0.9rem;
+}
+
+
+[data-md-color-scheme=default] .md-header .md-ellipsis, .md-icon {
+  color: var(--md-default-fg-color);
+  background-color: var(--md-default-bg-color--lightest);
+  backdrop-filter: blur(4px);
+}
+
 
 [data-md-color-scheme=chiania_dark] .md-tabs__link {
   color: #c5e1a5;;
@@ -117,13 +130,6 @@ body {
   color: #c5e1a5;;
 }
 
-.md-tabs__list{
-  background-color: var(--md-default-bg-color--lighter);
-}
-
-.md-tabs__link {
-  font-size: 0.9rem;
-}
 
 .md-header--shadow {
   box-shadow: 0 0 0.2rem rgb(0 0 0 / 10%), 0 0.2rem 0.4rem var(--md-typeset-table-color);
