@@ -1,3 +1,12 @@
+---
+title: Viridis - The Main City
+description: The Main City
+date: 2022-07-28
+tags:
+  - World
+  - Salvia
+---
+
 # Viridis (Main City)
 
 ## Kingdom Street
