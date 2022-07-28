@@ -181,12 +181,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/world/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/world/00_world/</loc>
          <lastmod>2022-07-28</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/world/01_map/</loc>
+         <lastmod>2022-07-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/world/salvia/01_viridis_main_city/</loc>
+         <lastmod>2022-07-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/world/salvia/02_nigreos_black_forest/</loc>
+         <lastmod>2022-07-28</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/world/salvia/03_serunt_western_woods/</loc>
          <lastmod>2022-07-28</lastmod>
          <changefreq>daily</changefreq>
     </url>

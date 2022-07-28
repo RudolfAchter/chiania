@@ -8,14 +8,16 @@ tags:
 ---
 
 
-# Map
+# World Maps
 
-<div style="background-image: url(../include/map-background-overgrown-temple.png)" markdown="1">
+## Salvia - Main Continent
 
-Test Begin
+<div style="background-image: url(../include/map-background-overgrown-temple.png); padding:10px;" markdown="1">
+
+Salvia the Main Continent
 
 ![](include/chiania_world_map.drawio.svg)
 
-Test End
+
 
 </div>
