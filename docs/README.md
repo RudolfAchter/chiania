@@ -35,9 +35,9 @@ At this time "Chia Inventory - the Chianian Quest" is played in Discord.
 ![](include/chiania-mimic.png){class="story_pic_right" style="width:200px"}
 Mimic is a living chest and the bot who welcomes you to the world of chiania in the Adventurers Guild. Go to the [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854) and spell the magic word `!register` and mimic will memorize you with your Chia Address. 
 
-### Register with DID
+### Create a Profile - DID
 
-First you have to create a DID. In Chia Wallet it's called "Profile". - Go to Settings -> Profiles
+First you have to create a DID (Distributed Identifier). In Chia Wallet it's called "Profile". - Go to Settings -> Profiles
 - Create a new Profile (or better two)
 - Name the first Profile "Chiania Equipped"
     - this would be for the items your Character has equipped
@@ -54,7 +54,7 @@ First you have to create a DID. In Chia Wallet it's called "Profile". - Go to Se
 
 ![](2022-07-27-13-31-22.png)
 
-#### Manage your Items with DID
+### Manage your Items
 
 When you want to use a item for Chiania you simply move it into the right Profile.
 
@@ -75,25 +75,6 @@ Item Categories so far:
 - Familar (a pet or so)
 
 
-### Register with Chia Address
-
-**This is deprecated. We recommend you [register with did](#register-with-did)**
-
-```text
-!register xch1example1234example4321
-```
-
-[There are discussions to use the Chia Network DID Feature to equip your character](https://discord.com/channels/994949585657143296/995483089881026631/999856743452508160)
-
-![](2022-07-23-23-21-00.png)
-
-#### Manage your Items with Chia Address
-
-**This is deprecated. We recommend you [register with did](#register-with-did)**
-
-Send your NFTs / Items you want to equip for the game to the registered address. Items you already have you can send to "yourself". The last transaction must be to the address your character has.
-
-![](2022-07-27-13-57-00.png)
 
 ## Check your registered Inventory
 
