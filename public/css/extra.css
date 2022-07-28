@@ -306,6 +306,11 @@ div.item_thumbnail_detail div {
     max-width:100%;
   }
 
+  .md-grid {
+    /*max-width: 1600px;*/
+    max-width: 100%;
+  }
+
   img.game_item {
     max-width: 300px;
     display: block;
@@ -385,6 +390,11 @@ div.item_thumbnail_detail div {
 }
 
 @media (min-width: 700px) {
+
+  .md-grid {
+    /*max-width: 1600px;*/
+    max-width: 90%;
+  }
 
   img.full_pic {
     margin:0em;
