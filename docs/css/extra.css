@@ -1,12 +1,12 @@
 @font-face {
   font-family: "8bitOperator";
-  src: url(../include/8_bit_Operator+_Regular.ttf);
+  src: url(../include/8_bit_Operator_Regular.ttf);
   font-weight: normal;
 }
 
 @font-face {
   font-family: "8bitOperator";
-  src: url(../include/8_bit_Operator+_Bold.ttf);
+  src: url(../include/8_bit_Operator_Bold.ttf);
   font-weight: bold;
 }
 
@@ -213,18 +213,6 @@ div.lightgallery {
 
 img.game_item {
   width: 250px;
-}
-
-@font-face {
-  font-family: "8bitOperator";
-  src: url(../include/8_bit_Operator+_Regular.ttf);
-  font-weight: normal;
-}
-
-@font-face {
-  font-family: "8bitOperator";
-  src: url(../include/8_bit_Operator+_Bold.ttf);
-  font-weight: bold;
 }
 
 div.chia_rpg_story {

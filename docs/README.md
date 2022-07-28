@@ -35,6 +35,19 @@ At this time "Chia Inventory - the Chianian Quest" is played in Discord.
 ![](include/chiania-mimic.png){class="story_pic_right" style="width:200px"}
 Mimic is a living chest and the bot who welcomes you to the world of chiania in the Adventurers Guild. Go to the [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854) and spell the magic word `!register` and mimic will memorize you with your Chia Address. 
 
+### Get an official Chia Light Wallet
+
+The official Chia Wallet is the most safe place for your Chiania Items (NFTs).
+
+The official Chia Client is available for all platforms (except mobile)
+- [Chia.net - Download](https://www.chia.net/download/)
+
+When starting Chia the first time you are asked which mode you want. "Light Wallet" or "Full Node". To Play Chiania **Light Wallet** is enough.
+
+- Create your wallet
+- Write down your menmonic
+- Wait until Wallet is fully synced
+
 ### Create a Profile - DID
 
 First you have to create a DID (Distributed Identifier). In Chia Wallet it's called "Profile". - Go to Settings -> Profiles
