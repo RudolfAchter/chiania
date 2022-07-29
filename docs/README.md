@@ -149,7 +149,7 @@ Mimic understands a few "magic words". You can talk to mimic anytime and make so
 Example: `!register xch1example1234example4321` : Registers the DID Address you use for playing. Items must be in there. If you change your DID your progress (Experience Points, "virtual" Wallet) is lost. NFTs and CAT2 Coins will stay in your wallet.
 
 `!profile`
-Example: `!profile` : Shows your profile the Mimic bot has registered. This includes your character stats and your equipped items. One Item of each category is randomly selected and equipped. So if you want to control this have just only one item of each category in this address. You can register multiple addresses with one chia wallet.
+Example: `!profile` : Shows your profile the Mimic bot has registered. This includes your character stats and your equipped items. One Item of each category is randomly selected and equipped. So if you want to control this have just only one item of each category in this profile / did. You can register multiple profiles with one chia wallet, but a item can only be in one profile. Before each quests your base stats will be rerolled. So your character can have a "good" or "bad day". Item Attribut bonuses will be calculated on your rolled base stats.
 
 
 ### Tools
