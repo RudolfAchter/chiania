@@ -135,7 +135,7 @@ Mimic understands a few "magic words". You can talk to mimic anytime and make so
 
 ### Combat
 
-`!hunt` : Go hunting for monsters on your current location
+`!hunt` : Go hunting for monsters on your current location. You hant whatever monsters can be found at your current location. Maybe check your current location first `!look` and your `!profile` before you go hunting. If you die angainst a monster It will last 3 hours until the [Goddess of Chiania](03_characters#goddess-of-chiania) can revive you.
 
 ### Location
 
