@@ -1,7 +1,7 @@
 ---
 title: Medium Monster Nuclei
 description: Medium Monster Nuclei in Chia Inventory
-date: 2022-07-29
+date: 2022-07-30
 tags:
   - NFT
   - Items
