@@ -16,7 +16,7 @@ tags:
 
 Salvia the Main Continent
 
-![](../include/chiania_world_map.drawio.svg)
+![](include/salvia_map.drawio.svg)
 
 </div>
 
