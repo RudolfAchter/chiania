@@ -15,3 +15,5 @@ The Black forest, Once a wonderful rich place of nature, now is overrun with mon
 
 <hr style="clear:both">
 
+- TODO More description for Nigreos - The Black Forest
+- TODO Artwork for Nigreos - The Black Forest
