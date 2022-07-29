@@ -104,17 +104,25 @@ You can enter `!help` as a Chat message to get a list of possible commands. Comm
 Categories
 1) Combat
 Combat
-2) Registration
+2) Location
+Map
+3) Registration
 Registration
-3) Tools
+4) Tools
 Tools
-
 Type !help command for more info on a command.
 You can also type !help category for more info on a category.
 ```
+
+There is "page forward", "page back" and "cancel" under the help menu. You can click them.
+
+![](2022-07-29-06-29-47.png)
+
 So you can use these help Commands
 
 `!help Combat`
+
+`!help Location`
 
 `!help Registration`
 
@@ -125,12 +133,28 @@ So you can use these help Commands
 
 Mimic understands a few "magic words". You can talk to mimic anytime and make some spells.
 
-| Command      | Example                                | Description                                                                                             |
-| ------------ | -------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| `!register`  | `!register xch1example1234example4321` | Registers the XCH Address you use for playing. Items must be in there. You can change it between quests |
-| `!profile` | `!profile`                           | Shows your profile the Mimic bot has registered. This includes your character stats and your equipped items. One Item of each category is randomly selected and equipped. So if you want to control this have just only one item of each category in this address. You can register multiple addresses with one chia wallet.
-| `!dice`      | `!dice`                                | Rolls a dice with 20 numbers. No Function until now                                                     |
-| `!hunt`      | `!hunt`                                | Go hunting for monsters in the forest. This is in test mode for now. It's planned you can hunt a few times per day to get some rewards. |
+### Combat
+
+`!hunt` : Go hunting for monsters on your current location
+
+### Location
+
+`!look`: Gives a description of the place around you. Says what you can do here and what direction you can go next.
+
+`!go (north|south|east|west)`: Example `go east`: Move your character. Look at the [World Map](world/01_map.md) for reference
+
+### Registration
+
+`!register`
+Example: `!register xch1example1234example4321` : Registers the DID Address you use for playing. Items must be in there. If you change your DID your progress (Experience Points, "virtual" Wallet) is lost. NFTs and CAT2 Coins will stay in your wallet.
+
+`!profile`
+Example: `!profile` : Shows your profile the Mimic bot has registered. This includes your character stats and your equipped items. One Item of each category is randomly selected and equipped. So if you want to control this have just only one item of each category in this address. You can register multiple addresses with one chia wallet.
+
+
+### Tools
+
+`!dice`: Rolls a dice with 20 numbers. No Function until now
 
 ## Register for Quests
 
