@@ -10,4 +10,6 @@ tags:
 
 # Serunt (The Western Woods)
 
+- TODO more description and artwork for Serunt - the western woods
+
 ## Hut of the master druid

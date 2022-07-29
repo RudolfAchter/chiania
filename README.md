@@ -13,3 +13,9 @@ This repository is all about "chiania" the Chia RPG Game from "Chia Inventory".
 - Blockchain is [Chia](https://chia.net)
 - NFTs are Done by [@mrcic3](https://twitter.com/mrcic3)
     - With [Aseprite](https://www.aseprite.org/)
+
+## Bookmarks in Markdown
+
+There are `TODO` Bookmarks in markdown. You can search for them or use whatever bookmarking tool you like. In VsCode you can install and use the plugin [ToDo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
+
+![](2022-07-29-06-21-03.png)
