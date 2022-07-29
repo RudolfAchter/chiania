@@ -96,7 +96,7 @@ The stats of you character are rerolled at each quest. So your character can hav
 
 ![](2022-07-25-13-19-27.png)
 
-## Get Help
+## Check what you can do - Get Help
 
 You can enter `!help` as a Chat message to get a list of possible commands. Commands are in Categories
 
