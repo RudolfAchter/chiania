@@ -215,6 +215,12 @@ img.game_item {
   width: 250px;
 }
 
+div.map_background {
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 5px solid var(--md-typeset-table-color)
+}
+
 div.chia_rpg_story {
   font-family: "8bitOperator";
   font-size: 1em;

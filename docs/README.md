@@ -141,7 +141,7 @@ Mimic understands a few "magic words". You can talk to mimic anytime and make so
 
 `!look`: Gives a description of the place around you. Says what you can do here and what direction you can go next.
 
-`!go (north|south|east|west)`: Example `go east`: Move your character. Look at the [World Map](world/01_map.md) for reference
+`!go (north|south|east|west)`: Example `go east`: Move your character. Look at the [World Map](world/salvia/00_salvia_main_continent.md) for reference
 
 ### Registration
 
