@@ -7439,6 +7439,16 @@ tags:
 <div><strong>Description:</strong> Salute to "Chia Friends #9098"</div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://637f4aqszre46nsoppaqxuxdprzm5fuabl2nrymdqpajzyqskbwq.arweave.net/9v5eAhLMSc82TnvBC9LjfHLOloAK9Njhg4PAnOISUG0"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x00cf228ccec611d4639af5b77c7520c226b53666e2d5f295ec7c18460109b296"><strong>Name:</strong> Brave Seedling #777</a></div>
+<div><strong>Collection:</strong> Brave Seedling</div>
+<div><strong>background:</strong> snowstorm</div>
+<div><strong>decoration:</strong> ice</div>
+<div><strong>seedling:</strong> ice blue</div>
+<div><strong>soil:</strong> floating ice</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://e37xvjmqyq47uks6vl5uvpm7i2ihbwieo65deruacua2kvaxwhtq.arweave.net/Jv96pZDEOfoqXqr7Sr2fRpBw2QR3ujJGgBUBpVQXsec"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xde8cc8c361779b073d846ee32c86a95afd817f966430c31bc64704037431dac2"><strong>Name:</strong> Brave Seedling #78</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
