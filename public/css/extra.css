@@ -100,6 +100,10 @@ body {
   
 }
 
+.google_embed {
+  width : 100%;
+  height : 800px
+}
 
 [data-md-color-scheme=default] .md-tabs__link {
   color: var(--md-default-fg-color);  
