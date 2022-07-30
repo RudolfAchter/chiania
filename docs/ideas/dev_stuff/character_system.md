@@ -2,7 +2,12 @@
 
 ## Usage of class inheritance
 
-I don't know how classes work now but here some ideas that could make life easier. We want support different species so character types could make great use of Class inheritance in python
+I don't know how classes work now but here some ideas that could make life easier. We want support different species so character types could make great use of Class inheritance in python.
+
+Code Examples would be:
+
+- <https://github.com/RudolfAchter/chiania/blob/main/docs/ideas/dev_stuff/code/character_system.py>
+- <https://github.com/RudolfAchter/chiania/blob/main/docs/ideas/dev_stuff/code/character_system.test.py>
 
 ```mermaid
 classDiagram
