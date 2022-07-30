@@ -1,7 +1,7 @@
 ---
 title: Red Nuclei Sword
 description: Red Nuclei Sword in Chia Inventory
-date: 2022-07-30
+date: 2022-07-31
 tags:
   - NFT
   - Items

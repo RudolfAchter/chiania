@@ -1,7 +1,7 @@
 ---
 title: Enhanced Tree Root
 description: Enhanced Tree Root in Chia Inventory
-date: 2022-07-30
+date: 2022-07-31
 tags:
   - NFT
   - Items
@@ -203,6 +203,13 @@ tags:
 <div class="item_thumbnail_detail">
 <img src="https://irfddmwgjep3p7j6z5rsakfghjqt3u33sea6kkwpzb2vshgrca.arweave.net/REoxssZJH7f9Ps9j-ICimOmE903uRAeUqz8h1WRzREA"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xb5d423ee17f987f2c10abc19f6e2c78480c096d188cea22d9afcb61211fff213"><strong>Name:</strong> Enhanced Tree Root 29</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Pierce:</strong> 1</div>
+<div><strong>Description:</strong> A section of tree root enhanced by the magic of master druid.</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://uwskk4val2jbxqci4oagxasbatxplyc7ap34xn4m6h4sk2htvu.arweave.net/paSlcqBekhvASOOAa4JBBO714F8D-98u3jPH5JWjzrc"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x45a9fc729d897792d452e39ed3db80aeb066ed9f9e7321478a3ad7c394643181"><strong>Name:</strong> Enhanced Tree Root 3</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Pierce:</strong> 1</div>
 <div><strong>Description:</strong> A section of tree root enhanced by the magic of master druid.</div>
@@ -595,13 +602,6 @@ tags:
 <div class="item_thumbnail_detail">
 <img src="https://2rcgdvfafkbzgfdamtyo5dybnmm2grkby7m5oewamy5trbfb2y.arweave.net/1ER-h1KAqg5MUYGTw7o8BaxmjRUHH2dcSwGY7OISh1o"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x0f6f61084744191bb08c9346680ac06e9aded4972e41c52f71690991369fa2bf"><strong>Name:</strong> Enhanced Tree Root 80</a></div>
-<div><strong>Collection:</strong> Chia Inventory</div>
-<div><strong>Pierce:</strong> 1</div>
-<div><strong>Description:</strong> A section of tree root enhanced by the magic of master druid.</div>
-</div>
-<div class="item_thumbnail_detail">
-<img src="https://umf5ymfaycfxv26yrx6qaldnpinzezn36yjwbhof32ecdx35sq.arweave.net/owvcMKDAi3rr2I39ACxteh-uSZbv2E2Cdxd6IId99lM"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x3631a658076af98e25e18a81f46bde505708c8e51dc1cad1877780e53f6828ec"><strong>Name:</strong> Enhanced Tree Root 81</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Pierce:</strong> 1</div>
 <div><strong>Description:</strong> A section of tree root enhanced by the magic of master druid.</div>

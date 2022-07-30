@@ -1,7 +1,7 @@
 ---
 title: Short Bow
 description: Short Bow in Chia Inventory
-date: 2022-07-30
+date: 2022-07-31
 tags:
   - NFT
   - Items
@@ -26,15 +26,15 @@ tags:
 <div><strong>Description:</strong> A bow that smaller than 60 inches.</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://itswwgynoa24srhrxmdbpkh2rjd4k7f7kdqkjsaxkycouwjora.arweave.net/ROVrGw1wNclE8bsGF6j6ikfFfL9Q4KTIF1YE6l_kuiI"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x62081144c2a8782c519b0364bbdc3fed55302336406f9389ccbe1d450fe9596e"><strong>Name:</strong> Short Bow 02</a></div>
+<img src="https://2aktk2ghyfrp2dxrr444onxxczexjbco5vsbadxlmqn6mugj4e.arweave.net/0BU1aMfB-Yv0O8Y85xzb3Fkl0hE7tZBAO62Qb5lDJ4c"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xb320974a84f563884fc4d51e71a45d447c65c6242db1dd4c760bdc9739bad8bf"><strong>Name:</strong> Short Bow 02</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Pierce:</strong> 2</div>
 <div><strong>Description:</strong> A bow that smaller than 60 inches.</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://2aktk2ghyfrp2dxrr444onxxczexjbco5vsbadxlmqn6mugj4e.arweave.net/0BU1aMfB-Yv0O8Y85xzb3Fkl0hE7tZBAO62Qb5lDJ4c"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xb320974a84f563884fc4d51e71a45d447c65c6242db1dd4c760bdc9739bad8bf"><strong>Name:</strong> Short Bow 02</a></div>
+<img src="https://itswwgynoa24srhrxmdbpkh2rjd4k7f7kdqkjsaxkycouwjora.arweave.net/ROVrGw1wNclE8bsGF6j6ikfFfL9Q4KTIF1YE6l_kuiI"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x62081144c2a8782c519b0364bbdc3fed55302336406f9389ccbe1d450fe9596e"><strong>Name:</strong> Short Bow 02</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Pierce:</strong> 2</div>
 <div><strong>Description:</strong> A bow that smaller than 60 inches.</div>
