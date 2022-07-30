@@ -222,7 +222,8 @@ img.game_item {
 div.map_background {
   background-repeat: no-repeat;
   background-size: cover;
-  border: 5px solid var(--md-typeset-table-color)
+  border: 5px solid var(--md-typeset-table-color);
+  text-align: center;
 }
 
 div.chia_rpg_story {

@@ -9,6 +9,12 @@ tags:
 
 # Viridis (Main City)
 
+## Map of Viridis
+
+<div class="map_background" style="background-image: url(../include/map-background-overgrown-temple.png); background-repeat: no-repeat; background-size: cover;padding:10px;" markdown="1">
+![](include/salvia_viridis_map.drawio.svg)
+</div>
+
 ## Kingdom Street
 
 ### [The Market Place](https://discord.com/channels/994949585657143296/997830621831368734)
