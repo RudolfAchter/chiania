@@ -35,21 +35,4 @@ There could be even underwater things with:
     - there should be caves you can get out of water
 
 
-## Mysterous Places
 
-there could be Places doing physically impossible things. "Magical things"
-
-### Forest of 4 Seasons
-
-- I liked the Woods of 4 Seasons from "Secret of Mana" i believe its called "Seiken Densetsu 2" in Asian World
-    - Players had to go through the woolds of 4 seasons in right order. But "seasons" were shuffeled. So you had to figure out which directions to go to bring seasons in right order
-- For this the function "teleport me back home" should be already implemented to prevent player frustration :-D
-
-
-### Magical Maze
-
-I am thinking about a maze where some rooms are connected in a magical way
-
-<div class="map_background" markdown="1" style="width:500px;">
-![](include/magical_dungeon.drawio.svg)
-</div>
