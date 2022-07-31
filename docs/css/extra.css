@@ -222,6 +222,7 @@ img.game_item {
 div.map_background {
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: var(--md-default-fg-color--lighter);
   border: 5px solid var(--md-typeset-table-color);
   text-align: center;
 }
