@@ -11,7 +11,8 @@ tags:
 
 # The World of Chiania
 
-TODO Description of the word. World maps and so on...
+**All players start in [Viridis - Main City](salvia/01_viridis_main_city.md)** so this should be the first map to look at.
+
 
 - [World Map](01_world_map.md)
 - [Salvia - Main Continent (Forests)](salvia/00_salvia_main_continent.md)
@@ -22,3 +23,5 @@ TODO Description of the word. World maps and so on...
 - [Aquarum - Land of Rivers and lakes](aquarum/00_aquarum_lakes.md)
 - [Glacies - the ice land](glacies/00_glacies_iceland.md)
 - [Harenae - the desert](harenae/00_harenae_desert.md)
+
+TODO More Description of the word. World maps and so on...
