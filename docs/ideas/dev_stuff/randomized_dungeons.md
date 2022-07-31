@@ -17,15 +17,15 @@ There could be randomized dungeons for the player to discover. There could be th
 ## Help for getting Back
 
 - there is a story item "soulstone" (totally stolen from world of warcraft). Or should we call it **"magical chia root"**?
-  - as long as players have stamina for one hunt they could use the item to be teleported back to the last tavern they rested
-  - if they have not enough stamina they would have to wait for teleport
-  - if they use teleport stamina is drained to zero and starts recovering in the tavern
+    - as long as players have stamina for one hunt they could use the item to be teleported back to the last tavern they rested
+    - if they have not enough stamina they would have to wait for teleport
+    - if they use teleport stamina is drained to zero and starts recovering in the tavern
 
 ## How to integrate to the world
 
 - dungeons could be attached somewhere to a place in the world
 - dungeoins could be raondomized for
-  - every player
-    - so every player has its own Experience
-  - or from time to time
-    - so the community could discover the "new" dungeon and draw maps for it as long as it exists
+    - every player
+      - so every player has its own Experience
+    - or from time to time
+      - so the community could discover the "new" dungeon and draw maps for it as long as it exists
