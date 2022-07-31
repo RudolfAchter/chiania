@@ -5951,6 +5951,16 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://wonekwzq27vwtjgdxdachk6wdr5i6fgz36ckqlcssso6fzbjjo6q.arweave.net/s5pFWzDX62mkw7jAI6vWHHqPFNnfhKgsUpSd4uQpS70"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x0d98600f28fc379c818a98f578abdefd0856ae6937ed76c92fc84f59dd219eae"><strong>Name:</strong> Brave Seedling #623</a></div>
+<div><strong>Collection:</strong> Brave Seedling</div>
+<div><strong>background:</strong> dream purple</div>
+<div><strong>decoration:</strong> nourish</div>
+<div><strong>seedling:</strong> purple variation</div>
+<div><strong>soil:</strong> brown organic</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://wddqlccefaheytncex4rd44tgnmpork4khim3mszvk4xogf5ntqq.arweave.net/sMcFiEQoDkxNoiX5EfOTM1j3RVxR0M2yWaq5dxi9bOE"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x8df80b546a9e97ae48bccc09b4380738367b38aca1fe291646ac0a268f32586b"><strong>Name:</strong> Brave Seedling #624</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
@@ -6698,16 +6708,6 @@ tags:
 <div><strong>decoration:</strong> none</div>
 <div><strong>seedling:</strong> green young</div>
 <div><strong>soil:</strong> green swamp</div>
-<div><strong>Description:</strong> </div>
-</div>
-<div class="item_thumbnail_detail">
-<img src="https://uwe67io5hjjtgssn7nokig6y6o2y62gvbkzyyo23blj3dw2mrjxa.arweave.net/pYnvod06UzNKTftcpBvY87WPaNUKs4w7WwrTsdtMim4"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x9f27e6bcf8271e2eedd8418508c51fb82bc36a51e705d6bbc3fd8df6d6ba2388"><strong>Name:</strong> Brave Seedling #699</a></div>
-<div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>background:</strong> dream purple</div>
-<div><strong>decoration:</strong> drip below</div>
-<div><strong>seedling:</strong> green health</div>
-<div><strong>soil:</strong> brown organic</div>
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
