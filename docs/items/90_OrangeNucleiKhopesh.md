@@ -1,7 +1,7 @@
 ---
 title: Orange Nuclei Khopesh
 description: Orange Nuclei Khopesh in Chia Inventory
-date: 2022-07-30
+date: 2022-07-31
 tags:
   - NFT
   - Items
