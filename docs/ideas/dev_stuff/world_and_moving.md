@@ -34,5 +34,8 @@ There could be even underwater things with:
     - limited air / oxygen
     - there should be caves you can get out of water
 
+## Behaviour in cities
 
-
+- There are already guards in cities
+- There could be jails
+  - Instead of killing adventurers who behave "bad" in cities the guards could "arrest" the player if the player loses the fight
