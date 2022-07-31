@@ -12,13 +12,6 @@ tags:
 - Buy Chia Inventory at the blue duck: [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <div class="item_thumbnail_detail">
-<img src="https://mhrslttczhebs6uvexv4qlpj6tpqtom27eawplxiuhtt6npwwodq.arweave.net/YeMlzmLJyBl6lSXryC3p9N8JuZr5AWeu6KHnPzX2s4c"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x327ebc58ea89fd77ce3d22801320e806ab03ed059526d9e484e79903a99379ce"><strong>Name:</strong> Short Bow 01</a></div>
-<div><strong>Collection:</strong> Chia Inventory</div>
-<div><strong>Pierce:</strong> 2</div>
-<div><strong>Description:</strong> A bow that smaller than 60 inches.</div>
-</div>
-<div class="item_thumbnail_detail">
 <img src="https://wysajenhpma4zibrrs6vus7bx56sn2sgezkmye6ct25rephgdu.arweave.net/t_iQEkad7AcygMYy9Wkvhv30m6kYmVMwTwp67EjzmHc"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x2a9c84ce33fdac8483828f6c463de0a661fbe95a1362600503d8af7825291197"><strong>Name:</strong> Short Bow 01</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -26,8 +19,8 @@ tags:
 <div><strong>Description:</strong> A bow that smaller than 60 inches.</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://itswwgynoa24srhrxmdbpkh2rjd4k7f7kdqkjsaxkycouwjora.arweave.net/ROVrGw1wNclE8bsGF6j6ikfFfL9Q4KTIF1YE6l_kuiI"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x62081144c2a8782c519b0364bbdc3fed55302336406f9389ccbe1d450fe9596e"><strong>Name:</strong> Short Bow 02</a></div>
+<img src="https://mhrslttczhebs6uvexv4qlpj6tpqtom27eawplxiuhtt6npwwodq.arweave.net/YeMlzmLJyBl6lSXryC3p9N8JuZr5AWeu6KHnPzX2s4c"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x327ebc58ea89fd77ce3d22801320e806ab03ed059526d9e484e79903a99379ce"><strong>Name:</strong> Short Bow 01</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Pierce:</strong> 2</div>
 <div><strong>Description:</strong> A bow that smaller than 60 inches.</div>
@@ -35,6 +28,13 @@ tags:
 <div class="item_thumbnail_detail">
 <img src="https://2aktk2ghyfrp2dxrr444onxxczexjbco5vsbadxlmqn6mugj4e.arweave.net/0BU1aMfB-Yv0O8Y85xzb3Fkl0hE7tZBAO62Qb5lDJ4c"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xb320974a84f563884fc4d51e71a45d447c65c6242db1dd4c760bdc9739bad8bf"><strong>Name:</strong> Short Bow 02</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Pierce:</strong> 2</div>
+<div><strong>Description:</strong> A bow that smaller than 60 inches.</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://itswwgynoa24srhrxmdbpkh2rjd4k7f7kdqkjsaxkycouwjora.arweave.net/ROVrGw1wNclE8bsGF6j6ikfFfL9Q4KTIF1YE6l_kuiI"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x62081144c2a8782c519b0364bbdc3fed55302336406f9389ccbe1d450fe9596e"><strong>Name:</strong> Short Bow 02</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Pierce:</strong> 2</div>
 <div><strong>Description:</strong> A bow that smaller than 60 inches.</div>

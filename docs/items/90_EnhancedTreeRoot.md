@@ -397,6 +397,13 @@ tags:
 <div><strong>Description:</strong> A section of tree root enhanced by the magic of master druid.</div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://ni5ediu2eebs5alyuixlntbw3pcj7gscqjkbtyurmcm2ynran4.arweave.net/ajpBop_ohAy6BeKIutsw228SfmkKCVBnikWCZrDYgb8"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x9241f08bc378bd6809f38529d5bf65e3d7664580d1734428edc4e19854a535e7"><strong>Name:</strong> Enhanced Tree Root 55</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Pierce:</strong> 1</div>
+<div><strong>Description:</strong> A section of tree root enhanced by the magic of master druid.</div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://p5mokasyvesznjfcoe36wpvxzk7rzc4k6j6nud2wiftwlchpq2aa.arweave.net/f1jlAlipJZakonE36z63yr8ci4ryfNoPVkFnZYjvhoA"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xd5e6fcf3cf6f05315a9f2ea58f805059569102e3d3b2243f7341959b22c53339"><strong>Name:</strong> Enhanced Tree Root 56</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -432,8 +439,8 @@ tags:
 <div><strong>Description:</strong> A section of tree root enhanced by the magic of master druid.</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://lx5tpxt23endssfke5xwawo2acl6i3bvxolq5afcykv7erenea.arweave.net/Xfs33nrZGjlIqidvYFnaAJfkbDW7lw6AosKr8-kSNIM"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xccdbf19e4806a509986ffec953cfe0941579d76338f4fc4757e3147489a222e4"><strong>Name:</strong> Enhanced Tree Root 61</a></div>
+<img src="https://q5uyxd44y3m4bieh3han2xm4s45embhatgobm63vixflcg7hqqtq.arweave.net/h2mLj5zG2cCgh9nA3V2clzpGBOCZnBZ7dUXKsRvnhCc"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xe3ca761ede056108b8f65d3451241b1f697d29edd158e724af2bdb5d34c5cc9e"><strong>Name:</strong> Enhanced Tree Root 60</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Pierce:</strong> 1</div>
 <div><strong>Description:</strong> A section of tree root enhanced by the magic of master druid.</div>
