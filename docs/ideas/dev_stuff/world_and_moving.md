@@ -15,7 +15,5 @@
     - this should be chiania coin
     - chiania coin should be able to be earned by playing (we already do virtually on discord server)
 - there could be gates, bridges or something like that where guards want to be paid toll to let you pass
-  - you could have a coice to pay or fight
-
-
-
+  - you could have a coice to `!pay`, `!talk` or `!fight`
+  - when you `!talk` it could be dependend on you "Charisma" value to persuade the guard to let you pass
