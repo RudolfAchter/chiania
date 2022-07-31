@@ -1,7 +1,7 @@
 ---
 title: Sword
 description: Sword in Chia Inventory
-date: 2022-07-31
+date: 2022-08-01
 tags:
   - NFT
   - Items
@@ -12,14 +12,6 @@ tags:
 - Buy Chia Inventory at the blue duck: [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <div class="item_thumbnail_detail">
-<img src="https://4fhetw6fphgvhyudgki4qxshjdjkvgwdu2vcf3zqkjdvxhi.arweave.net/4U5J28V5zVPigzKRyF5HSNKqms-OmqiLvM_-FJ_HW50"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xf433a1d5871987ffcf4f4914cc8ab4c57a881e1851eedd0267486de31a93153c"><strong>Name:</strong> Sword 01</a></div>
-<div><strong>Collection:</strong> Chia Inventory</div>
-<div><strong>Pierce:</strong> 1</div>
-<div><strong>Slash:</strong> 2</div>
-<div><strong>Description:</strong> A sword for general purpose.</div>
-</div>
-<div class="item_thumbnail_detail">
 <img src="https://os7rgef2gycobpm6kgl7hmq5qiwhdltlwq644ud55ooirmac5u.arweave.net/dL8TELo2BOC9nlGX87Idgixxrmu0Pc5QfeuciL_AC7Q"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x8504677c55f293203157bd55f9a42ac2c6dc421daeb0d65dbcadcbd13bf66f6e"><strong>Name:</strong> Sword 01</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -27,6 +19,14 @@ tags:
 <div><strong>Pierce:</strong> 0</div>
 <div><strong>Slash:</strong> 2</div>
 <div><strong>Description:</strong> Deion: A sword for general purpose.</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://4fhetw6fphgvhyudgki4qxshjdjkvgwdu2vcf3zqkjdvxhi.arweave.net/4U5J28V5zVPigzKRyF5HSNKqms-OmqiLvM_-FJ_HW50"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xf433a1d5871987ffcf4f4914cc8ab4c57a881e1851eedd0267486de31a93153c"><strong>Name:</strong> Sword 01</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Pierce:</strong> 1</div>
+<div><strong>Slash:</strong> 2</div>
+<div><strong>Description:</strong> A sword for general purpose.</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://c3gipvtflesrwhoyxhzzwjivmyb7ufewfafvxq3ylslycsvcne.arweave.net/FsyH1mVZJRsd2LnzmyUVZgP6FJYoC_1vDeFyXgUqiac"><br/>

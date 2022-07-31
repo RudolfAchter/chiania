@@ -1,7 +1,7 @@
 ---
 title: Purple Nuclei Knife
 description: Purple Nuclei Knife in Chia Inventory
-date: 2022-07-31
+date: 2022-08-01
 tags:
   - NFT
   - Items
