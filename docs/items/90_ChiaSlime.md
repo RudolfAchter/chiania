@@ -1,7 +1,7 @@
 ---
 title: Chia Slime
 description: Chia Slime in Chia Inventory
-date: 2022-08-01
+date: 2022-08-02
 tags:
   - NFT
   - Items

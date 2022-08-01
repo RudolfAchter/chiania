@@ -1,7 +1,7 @@
 ---
 title: Item Types
 description: Item Types in Chia Inventory
-date: 2022-08-01
+date: 2022-08-02
 tags:
   - NFT
   - Items
@@ -65,7 +65,7 @@ tags:
 <div><strong>Item Type:</strong> <a href="../90_Deer">Deer</a></div>
 <div><strong>Accessory:</strong> None</div>
 <div><strong>Antlers:</strong> Small</div>
-<div><strong>background:</strong> Flat (Lavender)</div>
+<div><strong>Background:</strong> Flat (Lavender)</div>
 <div><strong>Deer:</strong> Topaz</div>
 <div><strong>Eye:</strong> Blue</div>
 <div><strong>Fur:</strong> Topaz</div>
@@ -142,7 +142,7 @@ tags:
 <div><strong>Constitution:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://usr4kfmhsgxhspcdwhkrc3dhc5ns6tvwr2d4ic4jqve2ffn4igmq.arweave.net/pKPFFYeRrnk8Q7HVEWxnF1svTraOh8QLiYVJopW8QZk"><br/>
+<img src="https://ei3xooyi2f3nzyakfxgolovleanjfz4fqpgbxr2icbt6lbr3.arweave.net/Ijd3OwjRdtzgCi-3M5bqrIBqS54WDzBvHSBBn5_YY70"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_PurpleNucleiKnife">Purple Nuclei Knife</a></div>
 <div><strong>Pierce:</strong> 1</div>
@@ -189,7 +189,7 @@ tags:
 <div><strong>Collection:</strong> <a href="">Sheesh! Snail</a></div>
 <div><strong>Item Type:</strong> <a href="../90_snail">snail</a></div>
 <div><strong>antenna:</strong> 1/5</div>
-<div><strong>background:</strong> 1/5</div>
+<div><strong>Background:</strong> 1/5</div>
 <div><strong>body:</strong> 1/5</div>
 <div><strong>shell:</strong> 1/5</div>
 </div>

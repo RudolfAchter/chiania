@@ -1,7 +1,7 @@
 ---
 title: Knife
 description: Knife in Chia Inventory
-date: 2022-08-01
+date: 2022-08-02
 tags:
   - NFT
   - Items
@@ -44,6 +44,14 @@ tags:
 <div><strong>Description:</strong> An extremely common knife, designed for cutting fruits.</div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://lgb7crrtn6tmihm3hcszk5zrrxeoy7vucjbwp6vkjbled5gr.arweave.net/WYPxRjNvpsQdmzillXcxj-cjsfrQS-Q2f6qkhWQfTR0"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x70535d2d6ebf84716bd8337f469f1505c24995ad84dc75f1d728863d8448b6f2"><strong>Name:</strong> Knife 05</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Pierce:</strong> 1</div>
+<div><strong>Slash:</strong> 1</div>
+<div><strong>Description:</strong> An extremely common knife, designed for cutting fruits.</div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://6lyfqorfwdnarehugsns6m3od3jgmxhcly3w2g4433l26nzd46ma.arweave.net/8vBYOiWw2giQ9DSbLzNuHtJmXOJeN20bnN7Xrzcj55g"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xba3884d2f099882d92413bb48a48bf1fd2132b73e61e50421bebd388a82fc074"><strong>Name:</strong> Knife 05</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -51,14 +59,6 @@ tags:
 <div><strong>Rarity:</strong> 1</div>
 <div><strong>Slash:</strong> 1</div>
 <div><strong>Description:</strong> Deion: An extremely common knife, designed for cutting fruits.</div>
-</div>
-<div class="item_thumbnail_detail">
-<img src="https://lgb7crrtn6tmihm3hcszk5zrrxeoy7vucjbwp6vkjbled5gr.arweave.net/WYPxRjNvpsQdmzillXcxj-cjsfrQS-Q2f6qkhWQfTR0"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x70535d2d6ebf84716bd8337f469f1505c24995ad84dc75f1d728863d8448b6f2"><strong>Name:</strong> Knife 05</a></div>
-<div><strong>Collection:</strong> Chia Inventory</div>
-<div><strong>Pierce:</strong> 1</div>
-<div><strong>Slash:</strong> 1</div>
-<div><strong>Description:</strong> An extremely common knife, designed for cutting fruits.</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://kaqikv2v42xleuf4chh6ke6fz7pb6regn5ye256626fvlbk4.arweave.net/UCCFV1XmrrJQvBHP5RPFz94f_R_IZvcE133te-LVYVc"><br/>
@@ -77,14 +77,6 @@ tags:
 <div><strong>Description:</strong> An extremely common knife, designed for cutting fruits.</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://22fqtmovrvnasnybrhdgeu6pnifmvj64wl3gjm5q5rccmewpaq.arweave.net/1osJsdWNWgk3AYnGYlP-PagrKp9yy9mSzsOxEJhLPBA"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x0626331dea3df39f23c50aa3cab5f3d561117103b3be16882605781935fb78f7"><strong>Name:</strong> Knife 09</a></div>
-<div><strong>Collection:</strong> Chia Inventory</div>
-<div><strong>Pierce:</strong> 1</div>
-<div><strong>Slash:</strong> 1</div>
-<div><strong>Description:</strong> An extremely common knife, designed for cutting fruits.</div>
-</div>
-<div class="item_thumbnail_detail">
 <img src="https://zg6h25darmkevd5r3bwwoxpkm7hswpkeeusogh2mnohnngb3.arweave.net/ybx9dGCLFEqPs__dhtZ13qZ88rPUQlJOMfTGuO1pg7Y"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x0ef6acdee93360a118c1c332d85ebea63f3d06c816ff2df4922e97d45ff847c5"><strong>Name:</strong> Knife 09</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -92,6 +84,14 @@ tags:
 <div><strong>Rarity:</strong> 1</div>
 <div><strong>Slash:</strong> 1</div>
 <div><strong>Description:</strong> Deion: An extremely common knife, designed for cutting fruits.</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://22fqtmovrvnasnybrhdgeu6pnifmvj64wl3gjm5q5rccmewpaq.arweave.net/1osJsdWNWgk3AYnGYlP-PagrKp9yy9mSzsOxEJhLPBA"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x0626331dea3df39f23c50aa3cab5f3d561117103b3be16882605781935fb78f7"><strong>Name:</strong> Knife 09</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Pierce:</strong> 1</div>
+<div><strong>Slash:</strong> 1</div>
+<div><strong>Description:</strong> An extremely common knife, designed for cutting fruits.</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://c6edyfknnwlbxjahq2h3elb2c5hqr4zpbnfljiws3h6iceffe4.arweave.net/F4g8FU1tlhukB4aPsiw6F08I8y8LSrSi0tn8g-RClJ4"><br/>
@@ -118,6 +118,14 @@ tags:
 <div><strong>Description:</strong> An extremely common knife, designed for cutting fruits.</div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://annrcosufgdjuw4htfbs6uyfd3bsf46kfv27db4mq3lzpdqiau.arweave.net/-A1sROlQphppbh5lDL1MFHsMi88otdfGHjIbXl44IBc"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x01c8d2f962561450f8e9311fdd549d77c88608898d1ec9c1fb4628735b1cdab8"><strong>Name:</strong> Knife 13</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Pierce:</strong> 1</div>
+<div><strong>Slash:</strong> 1</div>
+<div><strong>Description:</strong> An extremely common knife, designed for cutting fruits.</div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://laxurzrwjio7olzibdrozcdg4eycpngqipsh2zz3neeljtjw3ykq.arweave.net/WC9I5jZKHfcvKAji7Ihm4TAntNBD5H1nO2kItM023hU"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x30d1a262877ade5b31383cc1903ce4046d29535e108090370f803e9b1b703dbe"><strong>Name:</strong> Knife 13</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -125,14 +133,6 @@ tags:
 <div><strong>Rarity:</strong> 1</div>
 <div><strong>Slash:</strong> 1</div>
 <div><strong>Description:</strong> Deion: An extremely common knife, designed for cutting fruits.</div>
-</div>
-<div class="item_thumbnail_detail">
-<img src="https://annrcosufgdjuw4htfbs6uyfd3bsf46kfv27db4mq3lzpdqiau.arweave.net/-A1sROlQphppbh5lDL1MFHsMi88otdfGHjIbXl44IBc"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x01c8d2f962561450f8e9311fdd549d77c88608898d1ec9c1fb4628735b1cdab8"><strong>Name:</strong> Knife 13</a></div>
-<div><strong>Collection:</strong> Chia Inventory</div>
-<div><strong>Pierce:</strong> 1</div>
-<div><strong>Slash:</strong> 1</div>
-<div><strong>Description:</strong> An extremely common knife, designed for cutting fruits.</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://fgfrlw326ithvic7afqd57e6yiqxzi2iejsyvw52r4pimbtcwy.arweave.net/KYsV23ryJnqgXwFgPvyewiF8o-0giZYrbuo8ehgZits"><br/>
