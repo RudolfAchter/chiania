@@ -187,6 +187,13 @@ tags:
 <div><strong>Description:</strong> A catapulta stone which can be found everywhere in Chiania.</div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://aj3eiki5k4vr554tlggsceo7o5z4u7s7fkapue5kahfrarnleu.arweave.net/AnZEKR1-XKx73k1mNIRHfd3PKfl8qgPoTqgHLEEWrJc"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x60220ad19355d297ec430a141a69175267f900bbb3ca95083b791f74a6f50b5e"><strong>Name:</strong> Catapult 25</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Bash:</strong> 1</div>
+<div><strong>Description:</strong> A catapulta stone which can be found everywhere in Chiania.</div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://jxj4gkpa6pa6keybtp3us3xpraqlveoyhisapcgpdunl5kwzre5a.arweave.net/TdPDKeDzweUTAZv3SW7viCC6kdg6JAeIzx0avqrZiTo"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x95a349dbc379b1950dff280b4ddcef263ce9fc07e9b384769f3fd2fc54a7318c"><strong>Name:</strong> Catapult 26</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>

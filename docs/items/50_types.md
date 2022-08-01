@@ -54,7 +54,7 @@ tags:
 <div><strong>Weight:</strong> 82</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://sdvzurozsisn5lsmgxbwdq2np4vaw22sbivst6w7atcmiwvfna.arweave.net/kOuaR_dmSJN6uTDXDYcNNfyoLa1IKKyn63wTExFqlaI"><br/>
+<img src="https://5tjmytztq3rpbzcjt3jt6djnttya4pl2wzrbvhs5xz5stiifzuda.arweave.net/7NLMTzOG4vDkSZ7TPw0tnPAOPXq2YhqeXb57KaEFzQY"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_ClothArmor">Cloth Armor</a></div>
 </div>
@@ -199,10 +199,11 @@ tags:
 <div><strong>Bash:</strong> 0</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://4fhetw6fphgvhyudgki4qxshjdjkvgwdu2vcf3zqkjdvxhi.arweave.net/4U5J28V5zVPigzKRyF5HSNKqms-OmqiLvM_-FJ_HW50"><br/>
+<img src="https://os7rgef2gycobpm6kgl7hmq5qiwhdltlwq644ud55ooirmac5u.arweave.net/dL8TELo2BOC9nlGX87Idgixxrmu0Pc5QfeuciL_AC7Q"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_Sword">Sword</a></div>
-<div><strong>Pierce:</strong> 1</div>
+<div><strong>Bash:</strong> 0</div>
+<div><strong>Pierce:</strong> 0</div>
 <div><strong>Slash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
