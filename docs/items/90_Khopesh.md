@@ -30,15 +30,6 @@ tags:
 <div><strong>Description:</strong> A standard weapon for soldiers of Chiania Kingdom.</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://trl5izhmb3pubvpxg3egqrmyo2qsomifkz5u6gm2ycbmhptq.arweave.net/nFfUZO-wO30D-V9zbIaEWYdqEnMQVWe08Zm_sCCw75w"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x35d3e389e7251637191e7487b744302f0fd660d584cde63732cd4cb5c5497c60"><strong>Name:</strong> Khopesh 03</a></div>
-<div><strong>Collection:</strong> Chia Inventory</div>
-<div><strong>Bash:</strong> 1</div>
-<div><strong>Pierce:</strong> 1</div>
-<div><strong>Slash:</strong> 1</div>
-<div><strong>Description:</strong> A standard weapon for soldiers of Chiania Kingdom.</div>
-</div>
-<div class="item_thumbnail_detail">
 <img src="https://lb2fnvvejofhypkzclmwgnqbi35lkuzwvyfodz26qoj2tfduvu.arweave.net/WHRW1qRLinw9WRLZYzYBRvq1UzauCuHnX-oOTqZR0rY"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xaddbfd26a06cc4798545f3c8a647c1154dbb9cee8eda505a856451952f576062"><strong>Name:</strong> Khopesh 04</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
