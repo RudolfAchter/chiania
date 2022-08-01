@@ -584,6 +584,15 @@ tags:
 <div><strong>Description:</strong> My favorite cat. You have no idea how fat he is...</div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://asowyqjz32lnqvy42gxfgnrddqmikv5hahdzpqjvocvjnxpm.arweave.net/BJ1sQTn-elthXHNGuUzYjHBiFV6cBx--5fBNXCqlt3s"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xa6fc0528893676cd8c7619356a489b6601209d5b9534a6f0d7d70a2367f3c106"><strong>Name:</strong> Brave Seedling #00061</a></div>
+<div><strong>Collection:</strong> Brave Seedling</div>
+<div><strong>drip:</strong> blue down</div>
+<div><strong>seedling:</strong> green health</div>
+<div><strong>soil:</strong> cat dodo</div>
+<div><strong>Description:</strong> My favorite cat. You have no idea how fat he is...</div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://zgy6gmmjyahtxdeluq2dcxsgzr3r6shuqmimrcyrjd2qypekfgbq.arweave.net/ybHjMYnADzuMi6Q0MV5GzHcfSPSDEMiLEUj1DDyKKYM"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x1a1c96b06bd0f27c98b298c6712d048a0fc60223425177e5e2d6498b3c0b9c87"><strong>Name:</strong> Brave Seedling #00062</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
@@ -7456,16 +7465,6 @@ tags:
 <div><strong>seedling:</strong> shiny green</div>
 <div><strong>soil:</strong> elon</div>
 <div><strong>Description:</strong> Humanity will reach Mars in your lifetime.</div>
-</div>
-<div class="item_thumbnail_detail">
-<img src="https://ncimkb6jxj3xgw4zc4fiz7effuwmry4imerwdbe6id4bzoc2.arweave.net/aJDFB8m6_d3NbmRc-KjPyFLSzI44hhI2GEnkD4HLhaI"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x2c2ac4efbfd6fcdd8e7ec19ef3157df4fc5cc3753cb2589998b10e7eb1e0e5bc"><strong>Name:</strong> Brave Seedling #787</a></div>
-<div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>background:</strong> unknown planet</div>
-<div><strong>decoration:</strong> none</div>
-<div><strong>seedling:</strong> shiny energy blue</div>
-<div><strong>soil:</strong> chuck</div>
-<div><strong>Description:</strong> Shocking power!!!</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://m4iqlvpt35pmjfepphnsudiwlt63xfiwqsi7e6runjxyvwakfa7q.arweave.net/ZxEF1fPfXsSUj3nbKg0WXP27lRaEkfJ6NGpvitgKKD8"><br/>
