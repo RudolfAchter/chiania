@@ -142,7 +142,7 @@ tags:
 <div><strong>Constitution:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://usr4kfmhsgxhspcdwhkrc3dhc5ns6tvwr2d4ic4jqve2ffn4igmq.arweave.net/pKPFFYeRrnk8Q7HVEWxnF1svTraOh8QLiYVJopW8QZk"><br/>
+<img src="https://ei3xooyi2f3nzyakfxgolovleanjfz4fqpgbxr2icbt6lbr3.arweave.net/Ijd3OwjRdtzgCi-3M5bqrIBqS54WDzBvHSBBn5_YY70"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_PurpleNucleiKnife">Purple Nuclei Knife</a></div>
 <div><strong>Pierce:</strong> 1</div>
@@ -166,14 +166,14 @@ tags:
 <div><strong>Slash:</strong> 5</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://nlw33pw4fgldbxdwsayln63luxi5pu3c7kdscrg2nmjbodzx.arweave.net/au29v_twpljDcdpAwtvtrpdHX0_2L6hyFE2msSFw83E"><br/>
+<img src="https://vturlmxazoxjvcxvob3syr23busmfgvahef4qdtzk4kvpuambafq.arweave.net/rOkVsuDLrpqK9XB3LEdbDSTCmqA5C8gOeVcVV9AMCAs"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_ShortAxe">Short Axe</a></div>
 <div><strong>Bash:</strong> 1</div>
 <div><strong>Slash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://mhrslttczhebs6uvexv4qlpj6tpqtom27eawplxiuhtt6npwwodq.arweave.net/YeMlzmLJyBl6lSXryC3p9N8JuZr5AWeu6KHnPzX2s4c"><br/>
+<img src="https://wysajenhpma4zibrrs6vus7bx56sn2sgezkmye6ct25rephgdu.arweave.net/t_iQEkad7AcygMYy9Wkvhv30m6kYmVMwTwp67EjzmHc"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_ShortBow">Short Bow</a></div>
 <div><strong>Pierce:</strong> 2</div>
@@ -200,10 +200,11 @@ tags:
 <div><strong>Bash:</strong> 0</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://4fhetw6fphgvhyudgki4qxshjdjkvgwdu2vcf3zqkjdvxhi.arweave.net/4U5J28V5zVPigzKRyF5HSNKqms-OmqiLvM_-FJ_HW50"><br/>
+<img src="https://os7rgef2gycobpm6kgl7hmq5qiwhdltlwq644ud55ooirmac5u.arweave.net/dL8TELo2BOC9nlGX87Idgixxrmu0Pc5QfeuciL_AC7Q"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_Sword">Sword</a></div>
-<div><strong>Pierce:</strong> 1</div>
+<div><strong>Bash:</strong> 0</div>
+<div><strong>Pierce:</strong> 0</div>
 <div><strong>Slash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
