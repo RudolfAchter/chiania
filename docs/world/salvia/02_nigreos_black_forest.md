@@ -11,7 +11,7 @@ tags:
 
 ## Map of Nigreos
 
-<div class="map_background" style="background-image: url(../include/map-background-overgrown-temple.png); background-repeat: no-repeat; background-size: cover;padding:10px;" markdown="1">
+<div class="map_background" style="background-image: url(../include/black-forest.lores.png); background-repeat: no-repeat; background-size: cover;padding:10px;" markdown="1">
 ![](include/salvia_nigreos_map.drawio.svg)
 </div>
 
