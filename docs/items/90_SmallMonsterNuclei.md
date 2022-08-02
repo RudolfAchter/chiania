@@ -33,6 +33,13 @@ tags:
 <div><strong>Description:</strong> The heaert of monster.</div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://ombwpbqvnkqxnkxo52eukt2lagw5res5kla5pejjqnimlpeqi4.arweave.net/cwNn_hhVqoXaq7u6JRU9LAa3Ykl1SwdeRKYNQxbyQR8"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x4649ad8b2659565ac49a9eeaa78ccf8f76e1740c209e70e4138ccfe773dfc35e"><strong>Name:</strong> Small Monster Nuclei 04</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Collectable:</strong> 1</div>
+<div><strong>Description:</strong> The heaert of monster.</div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://2poutlkq3g6sgizdbevuuqm6laucjn63sludl4s6cqcikxrnapeq.arweave.net/091JrVDZvSMjIwkrSkGeWCgkt9uS6DXyXhQEhV4tA8k"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xc570981b82468246337f2e195f3f8298bd3869315716d2fc9e56e8237811e6d0"><strong>Name:</strong> Small Monster Nuclei 05</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>

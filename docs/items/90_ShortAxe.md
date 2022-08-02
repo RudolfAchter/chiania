@@ -12,16 +12,16 @@ tags:
 - Buy Chia Inventory at the blue duck: [Dexie - Chia Inventory](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch)
 
 <div class="item_thumbnail_detail">
-<img src="https://nlw33pw4fgldbxdwsayln63luxi5pu3c7kdscrg2nmjbodzx.arweave.net/au29v_twpljDcdpAwtvtrpdHX0_2L6hyFE2msSFw83E"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xb44b291e574b290b34b963097bf696aad7cefd6045778de7838c0c9ef5cefe30"><strong>Name:</strong> Short Axe 01</a></div>
+<img src="https://vturlmxazoxjvcxvob3syr23busmfgvahef4qdtzk4kvpuambafq.arweave.net/rOkVsuDLrpqK9XB3LEdbDSTCmqA5C8gOeVcVV9AMCAs"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xaafcecad845a9c4233af93223184654cfa47c2280001f31da329c54c6f3b46a9"><strong>Name:</strong> Short Axe 01</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Bash:</strong> 1</div>
 <div><strong>Slash:</strong> 2</div>
 <div><strong>Description:</strong> A single hand axe.</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://vturlmxazoxjvcxvob3syr23busmfgvahef4qdtzk4kvpuambafq.arweave.net/rOkVsuDLrpqK9XB3LEdbDSTCmqA5C8gOeVcVV9AMCAs"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xaafcecad845a9c4233af93223184654cfa47c2280001f31da329c54c6f3b46a9"><strong>Name:</strong> Short Axe 01</a></div>
+<img src="https://nlw33pw4fgldbxdwsayln63luxi5pu3c7kdscrg2nmjbodzx.arweave.net/au29v_twpljDcdpAwtvtrpdHX0_2L6hyFE2msSFw83E"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xb44b291e574b290b34b963097bf696aad7cefd6045778de7838c0c9ef5cefe30"><strong>Name:</strong> Short Axe 01</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Bash:</strong> 1</div>
 <div><strong>Slash:</strong> 2</div>
@@ -86,14 +86,6 @@ tags:
 <div class="item_thumbnail_detail">
 <img src="https://j3duac4rsgo6lmgzop4kannuqukyq5bjl5dsxnujhm2txvyeapbq.arweave.net/TsdAC5GRneWw2XP4oDW0hRWIdClfRyu2iTs1O9cEA8M"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x23a82791012b22e7d602db2ff3cd05c60b567066470ca1148526f81b5f3e494c"><strong>Name:</strong> Short Axe 09</a></div>
-<div><strong>Collection:</strong> Chia Inventory</div>
-<div><strong>Bash:</strong> 1</div>
-<div><strong>Slash:</strong> 2</div>
-<div><strong>Description:</strong> A single hand axe.</div>
-</div>
-<div class="item_thumbnail_detail">
-<img src="https://cddadjgsiens4xl4gg5wqngdxw6qvhho4lvr3ssef3kjjplc.arweave.net/EMYBpNJBGy5df-DG7aDTDvb0KnO7i6x3KRC7U_lL1iU"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x573b4a9f88001664d04161a25cff699f999477c4914b23ab461a83faff47f58e"><strong>Name:</strong> Short Axe 10</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Bash:</strong> 1</div>
 <div><strong>Slash:</strong> 2</div>
