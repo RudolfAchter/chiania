@@ -19,6 +19,12 @@ tags:
 <div><strong>Description:</strong> A light-weighted cloth armor provides minimal defence.</div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://woeuj5mfqxtaea6m5gecowqafnpmrd3bndrmqbwe27mtxkxbdfxq.arweave.net/s4lE9YWF5gIDzOmIJ1oAK17Ij2Fo4sgGxNfZO6rhGW8"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x380f7d66d6baf71f8fc58247b22942dd4bb712e679d5c2d589b4b0602cb45346"><strong>Name:</strong> Cloth Armor 10</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://i7hstntk3ig4w5sk6mc5qhiuuogpwnxyo65lcozaqmy2yxqq5i5a.arweave.net/R88ptmraDct2SvMF2B0Uo4z7Nvh3urE7IIMxrF4Q6jo"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x14a0c6940f25d1ae2cb85079a43ee98319216006dfef51e042a0b8f51797629a"><strong>Name:</strong> Cloth Armor 100</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -37,8 +43,8 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://2r7wvf6myddss5epm4h7diona43s2lrhxeubdzjaoot4ts5tlc2q.arweave.net/1H9ql8zAxyl0j2cP8aHNBzctLie5KBHlIHOnycuzWLU"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xd10aed8c9d6a7a7c5a521cfb070d2aa2e49244f0879141aa89c4f285a5b4bc29"><strong>Name:</strong> Cloth Armor 104</a></div>
+<img src="https://nvntnvmtkrtmapj3g3s2jwurlf2oqhcgnxtqcf3hgs5y2.arweave.net/bVs21ZNUZsA9OzblpN-qRWXT-oHEZt5wEX__-ZzS7jY"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x29642d8d4b912975a302e33c14620bb99e8f016189c3b281dd4b9df8baab390d"><strong>Name:</strong> Cloth Armor 103</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
@@ -87,12 +93,6 @@ tags:
 <div class="item_thumbnail_detail">
 <img src="https://wxc43twqpk6gxy4la4cyw2p3dxoodzc2xpiaoujnyexr4spu.arweave.net/tcXNz-tB6vGvjiw-cFi2n7Hdz-h5Fq70AdRLcEvHkn0"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x0466f42edcdaf5e9182af92ab0d9963b62c11848f929e336a8b8a21efe216bd0"><strong>Name:</strong> Cloth Armor 111</a></div>
-<div><strong>Collection:</strong> Chia Inventory</div>
-<div><strong>Description:</strong> </div>
-</div>
-<div class="item_thumbnail_detail">
-<img src="https://w4l5oqx7pqv527mu7emzevol323nq2hb3ejijzxqtm6rd5isbq4q.arweave.net/txfXQv98K919lPkZklXL3rbYaOHZEoTm8Js9EfUSDDk"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xa4626a85e07af2752b127b9494951bbac9defcb957cf1fe12cc858bde601049b"><strong>Name:</strong> Cloth Armor 112</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
@@ -193,6 +193,12 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://r7fmj3dotfrntbkxjrbuxfil57pvexrtco4tgx3gtzk4ltsn.arweave.net/j8rE7G6ZYtmFV0xDS5UL799SXjMTuTNfZp5Vx_c5_Ng"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x0b031e0f483502c09fc35e2564830ec7643671e97c87d52e99f7d416415d49dd"><strong>Name:</strong> Cloth Armor 128</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://shljwhq43zbwwzu2vmqhwxwy6gfakfvtwludoj7qf343wtfjqm.arweave.net/kdabH-hzeQ2tmmqsge17Y8YoFFrOy6Dcn8C75u0ypg0"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x6b862d970532682d0f74b23cda8fd9b6df1bbf15e0b429e67f4d21534dbb9e98"><strong>Name:</strong> Cloth Armor 129</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -247,6 +253,12 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://4rwuaqw2gfgwl5upz3x467cdoxzw64c5qkdy2gs6kxrcoa7l5m.arweave.net/5G1AQtoxTWX2j87vz3xDdfN_vcF2Ch40aXlXiJwPr64"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x1f61812a378a227b14f734d504516e7a423c20456e2d5adfefbabeda8c13c415"><strong>Name:</strong> Cloth Armor 136</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://dbnqwlx4tjgqovwb5d5dtrx34uhpldeusoufn3gd2wdcwxaax4.arweave.net/GFsLLvyaTQdWwej6Ocb75Q71jJSTqFbsw9WGK1w_Avw"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x7d62915363e04a46a49fa29b2243b19dd44e74df4b8514b6f061274d42fb1d3d"><strong>Name:</strong> Cloth Armor 137</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -291,6 +303,12 @@ tags:
 <div class="item_thumbnail_detail">
 <img src="https://wqse4acqffejfjkqqzbhgabbn2wrwxq7ayo2qppdk73cuu2cjbeq.arweave.net/tCROAFApSJKlUIZCcwAhbq0bXh8GHag941f2KlNCSEk"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x179c67784f6c77e2f9197dd4ffeefb4c122f57c734846754c445067c6ad0192a"><strong>Name:</strong> Cloth Armor 143</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://zqehdp3tyy3n5ttvdkdc54qcghwkkdboxnkxgkcldtd4m3i5.arweave.net/zAhxv3PG-Nt7-OdRqGLvICMeylDC67VXMoSxzHxm0d4"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x02bec72c363b5411efbb9dc7b2d4567ab17a147c10f46a1a1966951c272ebfe6"><strong>Name:</strong> Cloth Armor 144</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
@@ -367,6 +385,12 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://ow3ocqcumbhevehqtjwtevqklhvtomi4rah3rjcqp2uld5ei.arweave.net/dbbhQF_RgTkqQ8JptMlYKWes3MRyI-D7ikUH6osfS_I"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x2c440129389e26d9a5374ca1b60824f7dc560bece04b3a5c8e53b0b90ee3ec63"><strong>Name:</strong> Cloth Armor 156</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://axijlqjhdwbhmdzhfez5lfh5ltldyoirv4cprhkjvvqksixf.arweave.net/_BdCVwScdgnYPJykz1ZT9XNY8ORGv_BPidSa1gqSLlU"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xddd759d5740f34c604c8b14c6871a31429d4976dc2ea024fbd442dce1ed56cfb"><strong>Name:</strong> Cloth Armor 157</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -375,6 +399,12 @@ tags:
 <div class="item_thumbnail_detail">
 <img src="https://5hlub3izfmpm65bpxmljn62gr2c2dalymchz4oxgy7qqm3vo.arweave.net/-6ddA7_RkrHs90L7sWlvtGjoWhgXhgj5465sfhBm6u4"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x8687aa051981dc74cd68153cd9645c796a4a7c665ccccab61aa56b1c7e29c35e"><strong>Name:</strong> Cloth Armor 158</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://k242csxt63fzy5ar7opvguqylei3cr3a52i3dtybrsonyicnbi.arweave.net/VrmhSvP2y5x0EfufU1IYWRGxR2Dukb_HPAYyc3CBNCs"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x009fff80a82cc9562f8d44816f14c508f7defd87b49851f92095489c22f8f470"><strong>Name:</strong> Cloth Armor 159</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
@@ -517,6 +547,12 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://jzitnrt6xvsvq647ppwpbja24m6trzf4vym6j5xphls42giquu.arweave.net/TlE2xn69ZVh7n3v_s8KQa4z045LyuGeT27zrlzRkQpY"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xcf02a6b294f13aa7c1ce960e10226a1c61294e6fd06f6abc44028134ebf74f2c"><strong>Name:</strong> Cloth Armor 180</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://piavz2vy46p4cbm3mib35fqutal6jvtst326bzac4rcbjqymlq.arweave.net/egFc6rjnn8EFm2IDvpYUmBfk1nKe9eDkAuREFMM_MXI"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x599305a7fa91818197b3009e464d10c13b74d309537b9479800711f0ca5d6a79"><strong>Name:</strong> Cloth Armor 181</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -637,6 +673,13 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://6w7qspbwnqvjsyigpppsdkgv55qbngphkeapc4ewfjhzeftfkm.arweave.net/9b8JPDZsKplhB_nvfIajV72AWmedRAPFwlipPkhZlUw"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xe4e056543eb7ffdb29d3843114b8d5ab35acad32dccf170ae4fb8056293163fb"><strong>Name:</strong> Cloth Armor 2</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Defence:</strong> 1</div>
+<div><strong>Description:</strong> A light-weighted cloth armor provides minimal defence.</div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://5bjypnrx5g26fepov3k5ge6gzubahndxjnk3c2ltgdijv56gdm.arweave.net/6FOHtjfpteKR7q7V0xPGzQIDtHdLVbFpczD_QmvfGG8"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x28f95caf015ef486fdac6fd21b4f7206fe0e0e495eee78035b0447b1fadf39ef"><strong>Name:</strong> Cloth Armor 20</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -649,14 +692,14 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://4yfcccdb3fayuf6ukac25lyoea4juylsvqsfyoy6lpcwnxvpsrea.arweave.net/5gohCGHZQYoX1FAFrq8OIDiaYXKsJFw7HlvFZt6vlEg"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x2191bdef5299f82126d3cebc71bced46e485c1d29a168782eb5857dd8201a842"><strong>Name:</strong> Cloth Armor 22</a></div>
+<img src="https://r3q5iby4wlcdy7d6lvkv7qrpo5fvn3mxq3guqtrazjba37y.arweave.net/ju_HUBxyyxDx8fl1V_-X8Ivd0tW7Ze-GzUhOIMpCDf8"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x63c61ae5eb81b3158e10464679f47bd26ebbcc00397514d3efd139212df93cae"><strong>Name:</strong> Cloth Armor 21</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://wq3r67xw6gvefk7f6vxrzgdi2kywojqls6wloqi73dgx3gnz.arweave.net/t_DcffvbxqkKr5fVvHJho0rFnJguXrLdBH9jNfZ_m5s"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xca9e4420723853de8b36f83be8b7dd7ac30a934b71b387318c98b62c08766c7b"><strong>Name:</strong> Cloth Armor 23</a></div>
+<img src="https://4yfcccdb3fayuf6ukac25lyoea4juylsvqsfyoy6lpcwnxvpsrea.arweave.net/5gohCGHZQYoX1FAFrq8OIDiaYXKsJFw7HlvFZt6vlEg"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x2191bdef5299f82126d3cebc71bced46e485c1d29a168782eb5857dd8201a842"><strong>Name:</strong> Cloth Armor 22</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
@@ -793,6 +836,12 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://cscumgfo7djjotiixrd3ewvjohfpceme6ikis67mourigsrmyy.arweave.net/FIVGGK740pdNCLxHslqpccrxEYTyFIl7_7HUig0osxo"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x8b8a0c399a456ef528ee697879bf5f352cfe29eecd3eb44fcf4d1865243a6df0"><strong>Name:</strong> Cloth Armor 44</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://64dryvw5rk2r5mq4hebsnbrhvab7qiw4rkvhcubqp46mpq4pzq.arweave.net/9wccVt_2KtR6yHDkDJoYnqAP4ItyKqnFQMH88x8OPzA"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x930ef6851eb1f220293410ebad7a52599de12a7d75d6570c67a2ca3b0e30d953"><strong>Name:</strong> Cloth Armor 45</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -856,6 +905,12 @@ tags:
 <div class="item_thumbnail_detail">
 <img src="https://fmthdg6q45wgrvzyjjhub7ee5q5gbaw52v6vy2rqzskejk5425ka.arweave.net/KyZxm9DnbGjXOEpPQPyE7Dpggt3VfVxqMMyURKu811Q"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x78e82a25a09f1af1de45dbccc9390f539ff73cda6392552155d1b6492c93e993"><strong>Name:</strong> Cloth Armor 55</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://d5msunff5txcbyqa73hnw57zkwlrly2doobq3b4q2mz56a5gjq.arweave.net/H1kqNKXs7iDiAP7O23f5VZcV40Nzgw2Hk-NMz3wOmTM"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xac011ce7477cd0b3cdc2c8a51f552b4cdd4fdf3d3484acbbfcbe76c6d93ad1dd"><strong>Name:</strong> Cloth Armor 56</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
@@ -1029,14 +1084,14 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://xdwr5zav4efbqqqfxhvv7orwd2gtvswktnmxu7ab2ciyvmhq24.arweave.net/uO0e5BXhChhCBbnrX_7o2Ho06ysqbWXp8AdCRirDw14"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xcc813dd647b1ce94e5d5b2d1d7c74c448e1be9d67c1ee7bfa419ae2f5235e6c4"><strong>Name:</strong> Cloth Armor 86</a></div>
+<img src="https://h3vfinfs7bpshm54winuuyvye6f6dufyivvmf2raocqh2cvy.arweave.net/PupUNLL4Xy_OzvL-IbSmK4J4vh0LhFasLqI_HCgfQq4"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x0060fd7c2b3ec22283d3342a48527bb3db285f7bbb8f418f9b3bbe58b33d10fa"><strong>Name:</strong> Cloth Armor 85</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://gqb5nrqmi4zhmwujig226rrhupdn3zgqek23x4pv35zvgicaru.arweave.net/NAPWxgxHMnZaiUG1r0Yno-8bd5NAitbvx9d9zUyBAjQ"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xb0826a65a97e4bc2e4361e61401f45159d66e0ed0b8be00db66c561fff0654a6"><strong>Name:</strong> Cloth Armor 87</a></div>
+<img src="https://xdwr5zav4efbqqqfxhvv7orwd2gtvswktnmxu7ab2ciyvmhq24.arweave.net/uO0e5BXhChhCBbnrX_7o2Ho06ysqbWXp8AdCRirDw14"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xcc813dd647b1ce94e5d5b2d1d7c74c448e1be9d67c1ee7bfa419ae2f5235e6c4"><strong>Name:</strong> Cloth Armor 86</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
@@ -1083,6 +1138,12 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://enchfndmv7obhzjn4aaiyihhagvtrf4536jcibf2umefyo6gvq.arweave.net/I0RytGyv3BPlLe-AAjCDnAas4l53fkiQEuqMIXDvGrA"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xdb0c9580fc98b4e747982badad043b2065b312917e30c8eec1cd15a90d4272ed"><strong>Name:</strong> Cloth Armor 93</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://vypmdkekar2xfuvdtc4wgxtc23d5cmz5rmsxsr5flbxhnjpq.arweave.net/rh7BqIoEdXLSo5i5Y15i-1sfRMz2LJXlHpVhudq_Xwo"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x61a6f1e3a4db3641b8729d9133e9c05c6c870c369cd8f703320a9f1a2f23250b"><strong>Name:</strong> Cloth Armor 94</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -1097,12 +1158,6 @@ tags:
 <div class="item_thumbnail_detail">
 <img src="https://c3nbu6o6rctcojcqkkzhrlvcweajqp6bbrvo6ekm5ovlnyfzelfq.arweave.net/Ftoaed6IpickUFKyeK6isQCYP8EMau8RTOuqtuC5Iss"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xacd224c09260fbac95a2fcd91d4600420a448d54443d0752171e55d017dee9aa"><strong>Name:</strong> Cloth Armor 96</a></div>
-<div><strong>Collection:</strong> Chia Inventory</div>
-<div><strong>Description:</strong> </div>
-</div>
-<div class="item_thumbnail_detail">
-<img src="https://4ubjci3m7cah4h6ltczpcum22kfwwiszemxbx5stkojvwgwhd4.arweave.net/5QKRI2z4gH4fy5iy8VGa0otrIlk-jLhv2U1OTWxrHH4"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x1478d95efa8e1627eed1ce57965f9b875224ba980fb8350916808ab446ebae70"><strong>Name:</strong> Cloth Armor 97</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
