@@ -1,7 +1,7 @@
 ---
 title: Chia Slime
 description: Chia Slime in Chia Inventory
-date: 2022-08-02
+date: 2022-08-03
 tags:
   - NFT
   - Items
@@ -2369,6 +2369,26 @@ tags:
 <div><strong>Stickyness:</strong> 99</div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Weight:</strong> 99</div>
+<div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/205.png"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x57868bf43c240de383c1d971af946701a0e2ce06379d68220bbe3e4ba50297d5"><strong>Name:</strong> Chia Slime #205</a></div>
+<div><strong>Collection:</strong> Chia Slimes</div>
+<div><strong>Acs1:</strong> Glimmer</div>
+<div><strong>Acs2:</strong> FoundSomeTreasure</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-GolemAdam-0c2d04-</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Floor:</strong> Cave1</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Mood:</strong> Blank-Left</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Stickyness:</strong> 72</div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Weight:</strong> 37</div>
 <div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
 </div>
 <div class="item_thumbnail_detail">

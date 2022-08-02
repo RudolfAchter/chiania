@@ -1,7 +1,7 @@
 ---
 title: Brave Seedling
 description: Brave Seedling in Chia Inventory
-date: 2022-08-02
+date: 2022-08-03
 tags:
   - NFT
   - Items
