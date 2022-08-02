@@ -54,10 +54,9 @@ tags:
 <div><strong>Weight:</strong> 82</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://wxmn223xyouoqsgmus43lztesze2howdd73tm4b2rbpw4iokxmfa.arweave.net/tdjda3fDqOhIzKS5teZklkmjusMf9zZwOohfbiHKuwo"><br/>
+<img src="https://woeuj5mfqxtaea6m5gecowqafnpmrd3bndrmqbwe27mtxkxbdfxq.arweave.net/s4lE9YWF5gIDzOmIJ1oAK17Ij2Fo4sgGxNfZO6rhGW8"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_ClothArmor">Cloth Armor</a></div>
-<div><strong>Defence:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
 <img src="https://3hyv6canzscvnkhafiw5tgzucooeuvdabvrwpgmhs6xgr4m5l4ta.arweave.net/2fFfCA3MhVao4Cot2Zs0E5xKVGANY2eZh5euaPGdXyY"><br/>
@@ -166,7 +165,7 @@ tags:
 <div><strong>Slash:</strong> 5</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://vturlmxazoxjvcxvob3syr23busmfgvahef4qdtzk4kvpuambafq.arweave.net/rOkVsuDLrpqK9XB3LEdbDSTCmqA5C8gOeVcVV9AMCAs"><br/>
+<img src="https://nlw33pw4fgldbxdwsayln63luxi5pu3c7kdscrg2nmjbodzx.arweave.net/au29v_twpljDcdpAwtvtrpdHX0_2L6hyFE2msSFw83E"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_ShortAxe">Short Axe</a></div>
 <div><strong>Bash:</strong> 1</div>
