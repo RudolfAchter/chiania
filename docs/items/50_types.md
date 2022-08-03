@@ -142,7 +142,7 @@ tags:
 <div><strong>Constitution:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://usr4kfmhsgxhspcdwhkrc3dhc5ns6tvwr2d4ic4jqve2ffn4igmq.arweave.net/pKPFFYeRrnk8Q7HVEWxnF1svTraOh8QLiYVJopW8QZk"><br/>
+<img src="https://ei3xooyi2f3nzyakfxgolovleanjfz4fqpgbxr2icbt6lbr3.arweave.net/Ijd3OwjRdtzgCi-3M5bqrIBqS54WDzBvHSBBn5_YY70"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_PurpleNucleiKnife">Purple Nuclei Knife</a></div>
 <div><strong>Pierce:</strong> 1</div>
@@ -166,7 +166,7 @@ tags:
 <div><strong>Slash:</strong> 5</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://nlw33pw4fgldbxdwsayln63luxi5pu3c7kdscrg2nmjbodzx.arweave.net/au29v_twpljDcdpAwtvtrpdHX0_2L6hyFE2msSFw83E"><br/>
+<img src="https://vturlmxazoxjvcxvob3syr23busmfgvahef4qdtzk4kvpuambafq.arweave.net/rOkVsuDLrpqK9XB3LEdbDSTCmqA5C8gOeVcVV9AMCAs"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_ShortAxe">Short Axe</a></div>
 <div><strong>Bash:</strong> 1</div>
