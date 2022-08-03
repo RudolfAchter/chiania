@@ -27,7 +27,8 @@ DO NOT SPEND MONEY ON NFT JUST TO WIN
 - 🌱 Brave Seedling (rarity 1-800): HP + 1D5;
 - ❤️  Brave Seedling (rarity 22-101): HP + 2D5,
 - 💪   Brave Seedling (rarity 1-21): HP + 2D5, CON + 1D5
-Seedlings rarity list https://bit.ly/3Q6Jmgd
+
+Seedlings rarity list <https://bit.ly/3Q6Jmgd>
 
 ### FAMILIARS
 
