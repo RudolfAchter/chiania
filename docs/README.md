@@ -106,9 +106,11 @@ Categories
 Combat
 2) Location
 Map
-3) Registration
+3) Merchant
+Merchant
+4) Registration
 Registration
-4) Tools
+5) Tools
 Tools
 Type !help command for more info on a command.
 You can also type !help category for more info on a category.
@@ -123,6 +125,8 @@ So you can use these help Commands
 `!help Combat`
 
 `!help Location`
+
+`!help Merchant`
 
 `!help Registration`
 
@@ -142,6 +146,16 @@ Mimic understands a few "magic words". You can talk to mimic anytime and make so
 `!look`: Gives a description of the place around you. Says what you can do here and what direction you can go next.
 
 `!go (north|south|east|west)`: Example `go east`: Move your character. Look at the [World Map](world/salvia/00_salvia_main_continent.md) for reference
+
+### Merchant
+
+With the current version of Ingame Merchants you can get exclusive Offers for 0.03 XCH. This way you can directly use your coins from ingame wallet right now. **Attention** when you buy ingame in Discord, the Mimic Bot will send you an offer with a direct Message. You have to be able to receive Direct Messages from Mimic Bot. So check your privacy Settings for this. Maybe enable Direct Messages for Chia Inventory Server.
+
+- You Enter `!merchandise` in Discord.
+- Mimic answers with a table of items you can buy right now with Chiania Coin Prices
+- Enter `!buy <serialnumber>` use the serialnumber of the item you want to buy. For example `!buy 1`
+- Mimic sends you an offer as direct message
+- Download offer and accept it in your Chia Wallet
 
 ### Registration
 

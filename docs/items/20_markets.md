@@ -16,10 +16,21 @@ tags:
 ![](../include/places/lores/market.jpg){class="full_pic" style="width:600px;float:right;margin-left:20px;"}
 # The Chianian Market Square
 
+There is a lot of hustle and bustle on the [market square](https://discord.com/channels/994949585657143296/997830621831368734). Many adventurers are crowding in and haggle for the best prices. 
+
+## Ingame Merchants
+
+With the current version of Ingame Merchants you can get exclusive Offers for 0.03 XCH. This way you can directly use your coins from ingame wallet right now. **Attention** when you buy ingame in Discord, the Mimic Bot will send you an offer with a direct Message. You have to be able to receive Direct Messages from Mimic Bot. So check your privacy Settings for this. Maybe enable Direct Messages for Chia Inventory Server.
+
+- You Enter `!merchandise` in Discord.
+- Mimic answers with a table of items you can buy right now with Chiania Coin Prices
+- Enter `!buy <serialnumber>` use the serialnumber of the item you want to buy. For example `!buy 1`
+- Mimic sends you an offer as direct message
+- Download offer and accept it in your Chia Wallet
+
 ## Official Traders
 
-
-There is a lot of hustle and bustle on the [market square](https://discord.com/channels/994949585657143296/997830621831368734). Many adventurers are crowding in and haggle for the best prices. But the best merchant in the place is the [blue duck](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch). If you want good items follow the blue duck:
+The best merchant in the place is the [blue duck](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch). If you want good items follow the blue duck:
 
 <a href="https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch" target="_blank" markdown="1">
 ![](../include/dexie-logo-styled.png){style="height:128px"}
