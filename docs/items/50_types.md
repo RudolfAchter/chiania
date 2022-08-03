@@ -54,10 +54,9 @@ tags:
 <div><strong>Weight:</strong> 82</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://wxmn223xyouoqsgmus43lztesze2howdd73tm4b2rbpw4iokxmfa.arweave.net/tdjda3fDqOhIzKS5teZklkmjusMf9zZwOohfbiHKuwo"><br/>
+<img src="https://woeuj5mfqxtaea6m5gecowqafnpmrd3bndrmqbwe27mtxkxbdfxq.arweave.net/s4lE9YWF5gIDzOmIJ1oAK17Ij2Fo4sgGxNfZO6rhGW8"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_ClothArmor">Cloth Armor</a></div>
-<div><strong>Defence:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
 <img src="https://3hyv6canzscvnkhafiw5tgzucooeuvdabvrwpgmhs6xgr4m5l4ta.arweave.net/2fFfCA3MhVao4Cot2Zs0E5xKVGANY2eZh5euaPGdXyY"><br/>
@@ -65,7 +64,7 @@ tags:
 <div><strong>Item Type:</strong> <a href="../90_Deer">Deer</a></div>
 <div><strong>Accessory:</strong> None</div>
 <div><strong>Antlers:</strong> Small</div>
-<div><strong>Background:</strong> Flat (Lavender)</div>
+<div><strong>background:</strong> Flat (Lavender)</div>
 <div><strong>Deer:</strong> Topaz</div>
 <div><strong>Eye:</strong> Blue</div>
 <div><strong>Fur:</strong> Topaz</div>
@@ -86,6 +85,11 @@ tags:
 <div><strong>Dexterity:</strong> 1</div>
 <div><strong>Pierce:</strong> 1</div>
 <div><strong>Slash:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<img src="https://pnilv3h3e6pptmbrfc5aztyvpawi355sghd43ubwznhj6ga5hi.arweave.net/e1C67PsnnvmwMSi6DM8VeCyN97I-xx83QNstOnxgdOs"><br/>
+<div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
+<div><strong>Item Type:</strong> <a href="../90_Halberd">Halberd</a></div>
 </div>
 <div class="item_thumbnail">
 <img src="https://djgsyqpanctscxxhtp6klqckmlygdclm6acdkxshk2fdphfmwy.arweave.net/Gk0sQeBopyFe55_v8pcBKYvBhiWzwBDVeR1aKN5ysts"><br/>
@@ -189,7 +193,7 @@ tags:
 <div><strong>Collection:</strong> <a href="">Sheesh! Snail</a></div>
 <div><strong>Item Type:</strong> <a href="../90_snail">snail</a></div>
 <div><strong>antenna:</strong> 1/5</div>
-<div><strong>Background:</strong> 1/5</div>
+<div><strong>background:</strong> 1/5</div>
 <div><strong>body:</strong> 1/5</div>
 <div><strong>shell:</strong> 1/5</div>
 </div>
@@ -200,11 +204,10 @@ tags:
 <div><strong>Bash:</strong> 0</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://os7rgef2gycobpm6kgl7hmq5qiwhdltlwq644ud55ooirmac5u.arweave.net/dL8TELo2BOC9nlGX87Idgixxrmu0Pc5QfeuciL_AC7Q"><br/>
+<img src="https://4fhetw6fphgvhyudgki4qxshjdjkvgwdu2vcf3zqkjdvxhi.arweave.net/4U5J28V5zVPigzKRyF5HSNKqms-OmqiLvM_-FJ_HW50"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_Sword">Sword</a></div>
-<div><strong>Bash:</strong> 0</div>
-<div><strong>Pierce:</strong> 0</div>
+<div><strong>Pierce:</strong> 1</div>
 <div><strong>Slash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
