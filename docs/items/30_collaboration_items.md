@@ -58,7 +58,7 @@ providing more than one +1 buff (max +2).
 - 💓 +1CON from Cyan 🎨 or Water 🛠️ 
 - 👁️ +1INT from CeruleanBlue or Narcissus 🎨 or Magic 🛠️ 
 - 🧠 +1WIS from Green or PaleMauve 🎨 or Doorplate 🛠️ 
-- 🪞 +1CHA from DarkPurple or Turquoise 🎨 or Flowers 🛠️ 
+- 🟣 +1CHA from DarkPurple or Turquoise 🎨 or Flowers 🛠️ 
 - 🍀 +1LUCK from Gold 🎨 or Sapling 🛠️  
 - 😢 +1CHA +1 WIS -2 LUCK from Cry
 - 🌈 +1HP 10% +1 ALL from Rainbow
