@@ -58,8 +58,8 @@ He lifts the linen cloth from the table and mysterious boxes appear under the ta
 <div class="market-box" onclick="flip_marketbox(event)">
   <div class="market-box-inner" name="Mysterious Box 2">
     <div class="market-box-back">
-      <a class="black_market" href="../offers/khopesh09_1_nft1myhjwpkhle7hu49u06u37tgy8c346xrrktvm8nt2evdwsdt2fq9swhjpxf_x_0.35XCH.offer" name="Khopesh">
-      <img src="https://5vkzjihec5aiu2kxpcyhswo6zk6yuyjrtvig6byj3a22pwhx.arweave.net/7VWUoOQXQIppV3iw_eVneyr2KYT-GdUG8HCdg1p9j3Q" alt="Khopesh" style="width:150px;height:150px;">
+      <a class="black_market" href="../offers/cloth101_1_nft16mw87zh5t2p22nn6zw0ejn3p8qzpxrrx74x4cqytasx27yr7k0es87kff9_x_0.035XCH.offer" name="Cloth 101">
+      <img src="https://5tjmytztq3rpbzcjt3jt6djnttya4pl2wzrbvhs5xz5stiifzuda.arweave.net/7NLMTzOG4vDkSZ7TPw0tnPAOPXq2YhqeXb57KaEFzQY" alt="Cloth 101" style="width:150px;height:150px;">
       </a>
     </div>
     <div class="market-box-front">
