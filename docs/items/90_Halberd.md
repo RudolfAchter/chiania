@@ -1,7 +1,7 @@
 ---
 title: Halberd
 description: Halberd in Chia Inventory
-date: 2022-08-03
+date: 2022-08-04
 tags:
   - NFT
   - Items

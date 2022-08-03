@@ -1,7 +1,7 @@
 ---
 title: Knife
 description: Knife in Chia Inventory
-date: 2022-08-03
+date: 2022-08-04
 tags:
   - NFT
   - Items
@@ -118,14 +118,6 @@ tags:
 <div><strong>Description:</strong> An extremely common knife, designed for cutting fruits.</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://annrcosufgdjuw4htfbs6uyfd3bsf46kfv27db4mq3lzpdqiau.arweave.net/-A1sROlQphppbh5lDL1MFHsMi88otdfGHjIbXl44IBc"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x01c8d2f962561450f8e9311fdd549d77c88608898d1ec9c1fb4628735b1cdab8"><strong>Name:</strong> Knife 13</a></div>
-<div><strong>Collection:</strong> Chia Inventory</div>
-<div><strong>Pierce:</strong> 1</div>
-<div><strong>Slash:</strong> 1</div>
-<div><strong>Description:</strong> An extremely common knife, designed for cutting fruits.</div>
-</div>
-<div class="item_thumbnail_detail">
 <img src="https://laxurzrwjio7olzibdrozcdg4eycpngqipsh2zz3neeljtjw3ykq.arweave.net/WC9I5jZKHfcvKAji7Ihm4TAntNBD5H1nO2kItM023hU"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x30d1a262877ade5b31383cc1903ce4046d29535e108090370f803e9b1b703dbe"><strong>Name:</strong> Knife 13</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
@@ -133,6 +125,14 @@ tags:
 <div><strong>Rarity:</strong> 1</div>
 <div><strong>Slash:</strong> 1</div>
 <div><strong>Description:</strong> Deion: An extremely common knife, designed for cutting fruits.</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://annrcosufgdjuw4htfbs6uyfd3bsf46kfv27db4mq3lzpdqiau.arweave.net/-A1sROlQphppbh5lDL1MFHsMi88otdfGHjIbXl44IBc"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x01c8d2f962561450f8e9311fdd549d77c88608898d1ec9c1fb4628735b1cdab8"><strong>Name:</strong> Knife 13</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Pierce:</strong> 1</div>
+<div><strong>Slash:</strong> 1</div>
+<div><strong>Description:</strong> An extremely common knife, designed for cutting fruits.</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://fgfrlw326ithvic7afqd57e6yiqxzi2iejsyvw52r4pimbtcwy.arweave.net/KYsV23ryJnqgXwFgPvyewiF8o-0giZYrbuo8ehgZits"><br/>

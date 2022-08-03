@@ -1,7 +1,7 @@
 ---
 title: Item Types
 description: Item Types in Chia Inventory
-date: 2022-08-03
+date: 2022-08-04
 tags:
   - NFT
   - Items
@@ -146,7 +146,7 @@ tags:
 <div><strong>Constitution:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://usr4kfmhsgxhspcdwhkrc3dhc5ns6tvwr2d4ic4jqve2ffn4igmq.arweave.net/pKPFFYeRrnk8Q7HVEWxnF1svTraOh8QLiYVJopW8QZk"><br/>
+<img src="https://ei3xooyi2f3nzyakfxgolovleanjfz4fqpgbxr2icbt6lbr3.arweave.net/Ijd3OwjRdtzgCi-3M5bqrIBqS54WDzBvHSBBn5_YY70"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_PurpleNucleiKnife">Purple Nuclei Knife</a></div>
 <div><strong>Pierce:</strong> 1</div>
@@ -177,7 +177,7 @@ tags:
 <div><strong>Slash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://wysajenhpma4zibrrs6vus7bx56sn2sgezkmye6ct25rephgdu.arweave.net/t_iQEkad7AcygMYy9Wkvhv30m6kYmVMwTwp67EjzmHc"><br/>
+<img src="https://mhrslttczhebs6uvexv4qlpj6tpqtom27eawplxiuhtt6npwwodq.arweave.net/YeMlzmLJyBl6lSXryC3p9N8JuZr5AWeu6KHnPzX2s4c"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_ShortBow">Short Bow</a></div>
 <div><strong>Pierce:</strong> 2</div>
