@@ -1,7 +1,7 @@
 ---
 title: Large Monster Nuclei
 description: Large Monster Nuclei in Chia Inventory
-date: 2022-08-04
+date: 2022-08-05
 tags:
   - NFT
   - Items
