@@ -612,6 +612,16 @@ tags:
 <div><strong>Description:</strong> My favorite cat. You have no idea how fat he is...</div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://tuxxmwhzgevbilduxxocbzgdxyixvghupnvhdwhctqkt4gubki.arweave.net/nS92WPkxKhQsdL3cIOTD-vhF6mPR7anHY4pwVPhqBUg"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xdf018348bb6a0b641aca9e722c6adac17b19d3b0ae9476c0c35b45f0aeb6a487"><strong>Name:</strong> Brave Seedling #00064</a></div>
+<div><strong>Collection:</strong> Brave Seedling</div>
+<div><strong>drip:</strong> blue down</div>
+<div><strong>seedling:</strong> green health</div>
+<div><strong>soil:</strong> cat dodo</div>
+<div><strong>vine:</strong> green</div>
+<div><strong>Description:</strong> My favorite cat. You have no idea how fat he is...</div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://uymfys2bhonqflonydvzvqovtrhiilvbxmiezyxq4qla7nc4.arweave.net/phhcS0E7-mwKt_zcDrmsHVnE6ELqG7EE-zi8OQWD7Rc"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xc89af613c0b8ff600c6cc443faee692a24dbf3649ae89e12c31a04b041ebcdba"><strong>Name:</strong> Brave Seedling #00065</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
@@ -740,6 +750,16 @@ tags:
 <div><strong>decoration:</strong> caterpillar</div>
 <div><strong>seedling:</strong> green young</div>
 <div><strong>soil:</strong> amethyst</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://ni4iix2rxspfsnyzgxjqsbmjz66crvhehheeloorddm43qm5h4.arweave.net/ajiEX1G8nl-k3GTXTCQWJz7wo1OQ5yEW50RjZzcGdP0"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x240c28d20cb68478745c6ee55183f7e327ed5c4867299db45ad81e02f2c784a1"><strong>Name:</strong> Brave Seedling #104</a></div>
+<div><strong>Collection:</strong> Brave Seedling</div>
+<div><strong>background:</strong> lake blue</div>
+<div><strong>decoration:</strong> none</div>
+<div><strong>seedling:</strong> green strong</div>
+<div><strong>soil:</strong> green swamp</div>
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
@@ -2959,16 +2979,6 @@ tags:
 <div><strong>background:</strong> forest brown</div>
 <div><strong>decoration:</strong> drip above</div>
 <div><strong>seedling:</strong> green health</div>
-<div><strong>soil:</strong> green wetlands</div>
-<div><strong>Description:</strong> </div>
-</div>
-<div class="item_thumbnail_detail">
-<img src="https://ze2i7oqd3aubqtawkzuqxswrhsbbugpkoy5h3bv7s7uyega.arweave.net/yTSPugPYKBhMFlZpC8rRPII_aG_ep_2On2Gv-5fpghg"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0xe9c6f6540e076ca417258504993ee0563c3517e98b2baaebf6ba5568408590f4"><strong>Name:</strong> Brave Seedling #328</a></div>
-<div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>background:</strong> swamp green</div>
-<div><strong>decoration:</strong> yellow spots</div>
-<div><strong>seedling:</strong> green strong</div>
 <div><strong>soil:</strong> green wetlands</div>
 <div><strong>Description:</strong> </div>
 </div>
@@ -7310,15 +7320,6 @@ tags:
 - Sorry, this is my farm!</div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://vobnzbtdebisl635ye34f6ixxrnqjm4cu6y4evd5pev3o64fdfcq.arweave.net/q4LchmMgUSX7fcE3wvkXvFsEs4KnscJUfXkrt3uFGUU"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x73f67be4702e6223d73ac57196a805da0f9a0588f7d51ff86dedc72cbe6b9b89"><strong>Name:</strong> Brave Seedling #76</a></div>
-<div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>drip:</strong> blue down</div>
-<div><strong>seedling:</strong> shiny green</div>
-<div><strong>soil:</strong> elon</div>
-<div><strong>Description:</strong> Humanity will reach Mars in your lifetime.</div>
-</div>
-<div class="item_thumbnail_detail">
 <img src="https://6eljjtsh5yyhzgq7giaz5x2hhkeokow3z27ho2mcrb34neaueu.arweave.net/8RaUzkfuMHyaHz-IBnt9HOojlOtvOvndpgoh3xpAUJQ"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x3ae8a4c272c46181dda2cba4fc0c0dec51ea9c0fdc8c01249b7ed43d217c33f4"><strong>Name:</strong> Brave Seedling #760</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
@@ -7771,70 +7772,70 @@ tags:
 <img src="https://z26hg3zoiv2ig46mgfhegb4dz3dmmmbgc4ahl4kmilhkn6gnzq.arweave.net/zrxzb_y5FdINzzDFOQweDzsbGMCYXAHXxTELOpvjNzM"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x1d4153998b3ef7d616bd522d83a0cb073007776c08d710c0290a0711d47956b7"><strong>Name:</strong> Brave Seedling #Bram</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>Brave Seedling:</strong> Bram</div>
+<div><strong>BRAVE SEEDLING:</strong> Bram</div>
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://ujoqaofvnkwg3ty6ijz4cbytjvbzpydizcgzjvoblmgavlso.arweave.net/ol0AOLVqrG3PHkJzwQcTTUO-_X4GjIjZTVwVsMCq5OE"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x1f0a16d95d8849774d3b4300c556d0a1884c104449c9a52ce95c3460f63ce1fd"><strong>Name:</strong> Brave Seedling #BTC</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>Brave Seedling:</strong> BTC</div>
+<div><strong>BRAVE SEEDLING:</strong> BTC</div>
 <div><strong>Description:</strong> Dedicated to Satoshi.</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://zhmelrq23jo6oyhi4sl2jwqvkak7jquorjmmzj3eilw2dsqa.arweave.net/yd_hFxhraXedg6OSXpNoVUBX0wo6KWMynZ_-ELtocoA"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x711bac82674ecb5e936e48d083d657f1562df67c6fe83a94c36c290eed8ec361"><strong>Name:</strong> Brave Seedling #Cat Dodo</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>Brave Seedling:</strong> Cat Dodo</div>
+<div><strong>BRAVE SEEDLING:</strong> Cat Dodo</div>
 <div><strong>Description:</strong> My favorite cat. You have no idea how fat he is...</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://2iycerjdtgmj5mamu2gxlh2b3h45aayjiptoumao3zxvj2wy.arweave.net/0jAiRSOZm-J6wD_KaNdZ9B2f_nQAwlD5uowDt5vVOrY"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xc6d6679d4da48479e8c3e5b3d6e4f9989f5ca22a4f7f531aaeb27b3f15279b8c"><strong>Name:</strong> Brave Seedling #Chia</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>Brave Seedling:</strong> Chia</div>
+<div><strong>BRAVE SEEDLING:</strong> Chia</div>
 <div><strong>Description:</strong> Chia to the moon!</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://j2aqxyj37i5nseszotmjj552mfldnm6quhnlbwnpuvv6sgzqpnfa.arweave.net/ToEL4Tv6OtkSWXTYlPe6YVY2s9Ch2rDZr6Vr6Rswe0o"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x6c37f767554dfec93cdbe2c0265d792b3f06f02cbb2098d5f451c1cdebb74587"><strong>Name:</strong> Brave Seedling #Chuck</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>Brave Seedling:</strong> Chuck</div>
+<div><strong>BRAVE SEEDLING:</strong> Chuck</div>
 <div><strong>Description:</strong> Shocking power!!!</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://d3zdwktmdy3wszckxymeuvom4od5fxlg6tnibs6byoy6vwjkcq.arweave.net/Hv-I7KmweN2lkSr4YSlXM44fS3Wb02oDLwcOx6tkqFI"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xa50660286e4f54a719d7b63a67e513353e94cea753b7693bf020ece96e9d384a"><strong>Name:</strong> Brave Seedling #City Illusion</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>Brave Seedling:</strong> City Illusion</div>
+<div><strong>BRAVE SEEDLING:</strong> City Illusion</div>
 <div><strong>Description:</strong> I don't want to go home tonight.</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://mshtudx2fhxehfl7rv5fkxpkxhrubpi3zoqd3drlqhvkvxd464yq.arweave.net/ZI86Dvop7kOVf416VV3queNAvRvLoD2OK4Hqqtx89zE"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xd7076093573580a8a7d3e23ba4f0bf60e34689ed6d3fadbbaa6dc3fbb0e32a5b"><strong>Name:</strong> Brave Seedling #Elon</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>Brave Seedling:</strong> Elon</div>
+<div><strong>BRAVE SEEDLING:</strong> Elon</div>
 <div><strong>Description:</strong> Humanity will reach Mars in your lifetime.</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://avi65c3a24hlydlel2tgmbioozesubqvgxbj3xflxx3tu66jzy3a.arweave.net/BVHui2DXDrwNZF6mZgUOdkkqBhU1wp3cq733OnvJzjY"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xe1ffda7fa2d5035db104e73224744cb05c73d6e568b144e3043a8ef53253d153"><strong>Name:</strong> Brave Seedling #Gene</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>Brave Seedling:</strong> Gene</div>
+<div><strong>BRAVE SEEDLING:</strong> Gene</div>
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://a6sevkr2n26s2iscvhoabbdjzd4rauzpfzgot2yhgokua3rhce.arweave.net/B6RKqjpuvS0iQqncAIRp_yPkQUy8uTOnrBzOVQG4nEQ"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x40b2955573441e0cea2beb7df6dda56c72e01175780af2aa6da653a8d16d1524"><strong>Name:</strong> Brave Seedling #Gold Chia</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>Brave Seedling:</strong> Gold Chia</div>
+<div><strong>BRAVE SEEDLING:</strong> Gold Chia</div>
 <div><strong>Description:</strong> Chia to the moon!</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://6hwtenhj4vbfnkmeh5nhtyq4v3lzvbvccenr5tk6egmh6usn3e.arweave.net/8e0yNOnlQl_aphD9aeeIcrteahqIRGx7NXiGYf1JN2Y"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xe0bfb580f69397b9e9416d568915f52839b3bc9e677d27373578b77e72e6686c"><strong>Name:</strong> Brave Seedling #Hard Drive</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>Brave Seedling:</strong> Hard Drive</div>
+<div><strong>BRAVE SEEDLING:</strong> Hard Drive</div>
 <div><strong>Description:</strong> - May I borrow your hard drive
 - Sorry, this is my farm!</div>
 </div>
@@ -7842,14 +7843,14 @@ tags:
 <img src="https://k6ypobt2nrsf4cv7uck6wdeyvlwwkyvi3ksaq5oly5r6nytkza.arweave.net/V7D3BnpsZF4Kv6CV6wyYqu1lYqjap_Ah1y8dj5uJqyE"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x7045713e415aac6be405ac7c108feee16d411dc5b546c77b6b3273d971645df9"><strong>Name:</strong> Brave Seedling #Macintosh</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>Brave Seedling:</strong> Macintosh</div>
+<div><strong>BRAVE SEEDLING:</strong> Macintosh</div>
 <div><strong>Description:</strong> MAKE HISTORY, LIKE CHIA TODAY!</div>
 </div>
 <div class="item_thumbnail_detail">
 <img src="https://gvhnboqw7betweafw3qhpfrazdhlkrgplwch5xl6x3iw3pwmxu.arweave.net/NU7Quhb4STsQBbbgd5YgyM61RM9dh-H7dfr7Rbb7MvU"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xa74d2dea38f67d6eb72004e7876e265f3de486815ad4f6bcc1920f54b9c2c33e"><strong>Name:</strong> Brave Seedling #World Bank</a></div>
 <div><strong>Collection:</strong> Brave Seedling</div>
-<div><strong>Brave Seedling:</strong> World Bank</div>
+<div><strong>BRAVE SEEDLING:</strong> World Bank</div>
 <div><strong>Description:</strong> Chia is working with the World Bank’s Climate Change Group to support the development of the world’s first “Climate Warehouse” !</div>
 </div>
 

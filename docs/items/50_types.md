@@ -171,7 +171,7 @@ tags:
 <div><strong>Slash:</strong> 5</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://vturlmxazoxjvcxvob3syr23busmfgvahef4qdtzk4kvpuambafq.arweave.net/rOkVsuDLrpqK9XB3LEdbDSTCmqA5C8gOeVcVV9AMCAs"><br/>
+<img src="https://nlw33pw4fgldbxdwsayln63luxi5pu3c7kdscrg2nmjbodzx.arweave.net/au29v_twpljDcdpAwtvtrpdHX0_2L6hyFE2msSFw83E"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_ShortAxe">Short Axe</a></div>
 <div><strong>Bash:</strong> 1</div>
