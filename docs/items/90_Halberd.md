@@ -84,8 +84,8 @@ tags:
 <div><strong>Description:</strong> </div>
 </div>
 <div class="item_thumbnail_detail">
-<img src="https://sscrshwngvyspizmb3ih7gyvbhzw5bebdbwkksqq7yswxmi2zbhq.arweave.net/lIUZHs01cSejLA7Qf5sVCfNuhIEYbKVKEP4la7EayE8"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x7f3840604639e98fc69a28542f8c38aa424cba7880d3680022884e75997e3178"><strong>Name:</strong> Halberd 21</a></div>
+<img src="https://inodut2r2iislvyyorasn4ft4kt3w4ymawdi3zgwijrw62a.arweave.net/Q1w6T1HSESXXGHRBJvCz4_qe7cwwFho3k1-k_J-jb2g"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x7ae6da6c6d70078fbe1cc2e9eeaa27b1213288830565a7e4ac8bf8d8ca899505"><strong>Name:</strong> Halberd 20</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
@@ -140,12 +140,6 @@ tags:
 <div class="item_thumbnail_detail">
 <img src="https://fetjj56itjy4kuembkiekaclq245prcsmyjehv33giaqlltegm.arweave.net/KSaU98iaccVQjAqQRQBLhr_nXxFJmEkPXezIBBa5kM4"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xb92a411d38e6ffba77490c67adac66680fecd87274ff82c838546e7234e9f176"><strong>Name:</strong> Halberd 29</a></div>
-<div><strong>Collection:</strong> Chia Inventory</div>
-<div><strong>Description:</strong> </div>
-</div>
-<div class="item_thumbnail_detail">
-<img src="https://3vaat3at6gd2ccfnybhma3dzuew4xypo5q3d55eexxol2ls5lm.arweave.net/3UAJ7BPxh6EIrcBOwGx5oS3L4e7sNj70hL3cv-S5dW0"><br/>
-<div><a href="https://www.spacescan.io/xch/coin/0x254c5cfd95c163a935b67463149d4aafe19df11ab9e6245a34ef4b4c73026971"><strong>Name:</strong> Halberd 3</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
@@ -284,6 +278,12 @@ tags:
 <div class="item_thumbnail_detail">
 <img src="https://bb7o5l3dogdkt3azvcb6jqxqxr4m3sr5xbtdgnghitfdsnaw5wkq.arweave.net/CH7ur2NxhqnsGaiD5MLwvHjNyj24ZjM0x0TKOTQW7ZU"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0xe355af7f6af64dbccae2bedf9bc7c61d8f7d82da36f7f0016026501edcb358c6"><strong>Name:</strong> Halberd 5</a></div>
+<div><strong>Collection:</strong> Chia Inventory</div>
+<div><strong>Description:</strong> </div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://2hi2ssawebmsbx67vpmckelrbe2qifxxxq5zrj246hrozn3qbxwa.arweave.net/0dGpSBYgWSDf36vYJRFxCTUEFve8O5inXPHi7LdwDew"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x76c72ce3d0c69df52b1bb9f7aa53dfed440dc9084267390357f641b801d70251"><strong>Name:</strong> Halberd 50</a></div>
 <div><strong>Collection:</strong> Chia Inventory</div>
 <div><strong>Description:</strong> </div>
 </div>
