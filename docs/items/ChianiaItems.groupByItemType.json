@@ -175,6 +175,97 @@
       }
     }
   },
+  "Ring": {
+    "Nuclei Ring": {
+      "Normal": {
+        "nft10uwgwcpz04rwf352e3suamddcwtre50gt5apx806t3xxy3c3w65slzvl5r  ": {
+          "Name": "Nuclei Ring 04",
+          "ItemCategory": "Ring",
+          "ItemType": "Nuclei Ring",
+          "Prefix": "Normal",
+          "Collection": "Chia Inventory",
+          "nft_id": "nft10uwgwcpz04rwf352e3suamddcwtre50gt5apx806t3xxy3c3w65slzvl5r",
+          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
+          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
+          "item_uri": "https://bxnmr4ly4hvnvuvyqxafi4exktzcrjizrczbiaem5nkayk7sbm.arweave.net/DdrI8Xjh6trSuIXAVHCXVPIopRmIshQAjOtUDCvy_C0",
+          "attributes": [
+            {
+              "trait_type": "Constitution",
+              "value": "1"
+            }
+          ]
+        },
+        "nft1mdgkv3ar2jg0uu2wwrn4ngjvkm50jk3v93z4flurefa4pw3ql6wq85w2uw  ": {
+          "Name": "Nuclei Ring 01",
+          "ItemCategory": "Ring",
+          "ItemType": "Nuclei Ring",
+          "Prefix": "Normal",
+          "Collection": "Chia Inventory",
+          "nft_id": "nft1mdgkv3ar2jg0uu2wwrn4ngjvkm50jk3v93z4flurefa4pw3ql6wq85w2uw",
+          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
+          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
+          "item_uri": "https://lmsctphmbooladpu6lxrvi44stiw4gjkwqt3u6qe62zyponiwe.arweave.net/WyQpvOwLnLAN_9PLvGqOclNFuGSq0J7p6BPazh7mosY",
+          "attributes": [
+            {
+              "trait_type": "Strength",
+              "value": "1"
+            }
+          ]
+        },
+        "nft19elvajfnxl4mf639e2dtqdsflf5axxt68p028j6574wdhadvkqysxrkdh3  ": {
+          "Name": "Nuclei Ring 02",
+          "ItemCategory": "Ring",
+          "ItemType": "Nuclei Ring",
+          "Prefix": "Normal",
+          "Collection": "Chia Inventory",
+          "nft_id": "nft19elvajfnxl4mf639e2dtqdsflf5axxt68p028j6574wdhadvkqysxrkdh3",
+          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
+          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
+          "item_uri": "https://k36rfr4xwot2ehr2kszklyt32bj7ma4h56wnpqdwqnxj4ipanu.arweave.net/Vv0Sx5e-zp6IeOlSypeJ70FP2A4fvrNfAdoNuniHgbY",
+          "attributes": [
+            {
+              "trait_type": "Dexterity",
+              "value": "1"
+            }
+          ]
+        },
+        "nft1cvnclash76cnptutdpdtxyfg94ge9nzu0vl7agzn3ajezkqqqaeq9mymql  ": {
+          "Name": "Nuclei Ring 03",
+          "ItemCategory": "Ring",
+          "ItemType": "Nuclei Ring",
+          "Prefix": "Normal",
+          "Collection": "Chia Inventory",
+          "nft_id": "nft1cvnclash76cnptutdpdtxyfg94ge9nzu0vl7agzn3ajezkqqqaeq9mymql",
+          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
+          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
+          "item_uri": "https://tomzzrmqnnc2cxiz7swss4f4cwdm3fvhdiujpmlgbmpvnym73oma.arweave.net/m5mcxZBrRaFdGfytKXC8FYbNlqcaKJexZgsfVuGf25g",
+          "attributes": [
+            {
+              "trait_type": "Intelligence",
+              "value": "1"
+            }
+          ]
+        },
+        "nft135flumg3m2tdgmf5uhvthcdzz4t526nr4hhrj703x7asqsu2xuls6n63pv  ": {
+          "Name": "Nuclei Ring 05",
+          "ItemCategory": "Ring",
+          "ItemType": "Nuclei Ring",
+          "Prefix": "Normal",
+          "Collection": "Chia Inventory",
+          "nft_id": "nft135flumg3m2tdgmf5uhvthcdzz4t526nr4hhrj703x7asqsu2xuls6n63pv",
+          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
+          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
+          "item_uri": "https://zjau525d3rvrh3ortjzz6qwohxm675hksrg2ey6lygj7hwjz6m7a.arweave.net/ykFO66PcaxPt0Zpzn0LOPdnv9OqUTaJjy8GT89k58z4",
+          "attributes": [
+            {
+              "trait_type": "Wisdom",
+              "value": "1"
+            }
+          ]
+        }
+      }
+    }
+  },
   "Familiar": {
     "snail": {
       "Normal": {
@@ -4563,6 +4654,152 @@
             }
           ]
         },
+        "nft1y67pn2h6jsfkxgpcs43vw7ncmrjavwujw3d5jajf3y8qc6arukcshyuj8t  ": {
+          "Name": "Chia Slime #261",
+          "ItemCategory": "Familiar",
+          "ItemType": "Chia Slime",
+          "Prefix": "Normal",
+          "Collection": "Chia Slimes",
+          "nft_id": "nft1y67pn2h6jsfkxgpcs43vw7ncmrjavwujw3d5jajf3y8qc6arukcshyuj8t",
+          "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
+          "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
+          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/261.png",
+          "attributes": [
+            {
+              "trait_type": "Volume",
+              "value": "1"
+            },
+            {
+              "trait_type": "Drop Set",
+              "value": "Rock"
+            },
+            {
+              "trait_type": "Narrative Block",
+              "value": "Life"
+            },
+            {
+              "trait_type": "Mood",
+              "value": "Strong-Left"
+            },
+            {
+              "trait_type": "Acs1",
+              "value": "Basic Shine"
+            },
+            {
+              "trait_type": "Acs3",
+              "value": "None"
+            },
+            {
+              "trait_type": "Color",
+              "value": "Rock-RockyMuddy-725930"
+            },
+            {
+              "trait_type": "Acs2",
+              "value": "GolemSpikes"
+            },
+            {
+              "trait_type": "Floor",
+              "value": "Mountains"
+            },
+            {
+              "trait_type": "Sky",
+              "value": "Stary Night"
+            },
+            {
+              "trait_type": "Hidden Power",
+              "value": "None"
+            },
+            {
+              "trait_type": "Other Info",
+              "value": "None"
+            },
+            {
+              "trait_type": "Weight",
+              "value": 20,
+              "min_value": 0,
+              "max_value": 100
+            },
+            {
+              "trait_type": "Stickyness",
+              "value": 70,
+              "min_value": 0,
+              "max_value": 100
+            }
+          ]
+        },
+        "nft1hy36e285fwud0tkrdnv5h0qnnyzvmu8hcn6t5f4kwk4us5m9lk3qq0xzff  ": {
+          "Name": "Chia Slime #64",
+          "ItemCategory": "Familiar",
+          "ItemType": "Chia Slime",
+          "Prefix": "Normal",
+          "Collection": "Chia Slimes",
+          "nft_id": "nft1hy36e285fwud0tkrdnv5h0qnnyzvmu8hcn6t5f4kwk4us5m9lk3qq0xzff",
+          "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
+          "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
+          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/64.png",
+          "attributes": [
+            {
+              "trait_type": "Volume",
+              "value": "1"
+            },
+            {
+              "trait_type": "Drop Set",
+              "value": "Alpha"
+            },
+            {
+              "trait_type": "Narrative Block",
+              "value": "The Beginning"
+            },
+            {
+              "trait_type": "Mood",
+              "value": "Timid-Left"
+            },
+            {
+              "trait_type": "Acs1",
+              "value": "Glimmer"
+            },
+            {
+              "trait_type": "Acs2",
+              "value": "Rippled"
+            },
+            {
+              "trait_type": "Acs3",
+              "value": "None"
+            },
+            {
+              "trait_type": "Color",
+              "value": "Alpha-Red-d30000"
+            },
+            {
+              "trait_type": "Floor",
+              "value": "Grassy1"
+            },
+            {
+              "trait_type": "Sky",
+              "value": "Stary Night"
+            },
+            {
+              "trait_type": "Hidden Power",
+              "value": "None"
+            },
+            {
+              "trait_type": "Other Info",
+              "value": "PS9"
+            },
+            {
+              "trait_type": "Weight",
+              "value": 84,
+              "min_value": 0,
+              "max_value": 100
+            },
+            {
+              "trait_type": "Stickyness",
+              "value": 99,
+              "min_value": 0,
+              "max_value": 100
+            }
+          ]
+        },
         "nft19l2j7e9dvjzc3ams08ypnyedrggaq3sreyddy8l45yxckz5rs0ysqlhy4c  ": {
           "Name": "Chia Slime #271",
           "ItemCategory": "Familiar",
@@ -7466,16 +7703,16 @@
             }
           ]
         },
-        "nft1cuq78r99ay8gluwflfhcjfnqjj5k5zferre8cdckdcdszj629dxqjth8t9  ": {
-          "Name": "Chia Slime #83",
+        "nft1uzew4gg3h6m7493hjnn5ch660qfjlgezcwgdgyf2427gphka28wqjreysv  ": {
+          "Name": "Chia Slime #257",
           "ItemCategory": "Familiar",
           "ItemType": "Chia Slime",
           "Prefix": "Normal",
           "Collection": "Chia Slimes",
-          "nft_id": "nft1cuq78r99ay8gluwflfhcjfnqjj5k5zferre8cdckdcdszj629dxqjth8t9",
+          "nft_id": "nft1uzew4gg3h6m7493hjnn5ch660qfjlgezcwgdgyf2427gphka28wqjreysv",
           "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
           "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
-          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/83.png",
+          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/257.png",
           "attributes": [
             {
               "trait_type": "Volume",
@@ -7483,23 +7720,19 @@
             },
             {
               "trait_type": "Drop Set",
-              "value": "Alpha"
+              "value": "Rock"
             },
             {
               "trait_type": "Narrative Block",
-              "value": "The Beginning"
+              "value": "Life"
             },
             {
               "trait_type": "Mood",
-              "value": "Blank-Right"
+              "value": "Strong-Left"
             },
             {
               "trait_type": "Acs1",
               "value": "Basic Shine"
-            },
-            {
-              "trait_type": "Acs2",
-              "value": "None"
             },
             {
               "trait_type": "Acs3",
@@ -7507,15 +7740,19 @@
             },
             {
               "trait_type": "Color",
-              "value": "Alpha-Blue-0101b5"
+              "value": "Rock-GolemGray-565655"
+            },
+            {
+              "trait_type": "Acs2",
+              "value": "None"
             },
             {
               "trait_type": "Floor",
-              "value": "Grassy1"
+              "value": "Cave3-SW-M"
             },
             {
               "trait_type": "Sky",
-              "value": "Clear Skies"
+              "value": "Stary Night"
             },
             {
               "trait_type": "Hidden Power",
@@ -7527,13 +7764,13 @@
             },
             {
               "trait_type": "Weight",
-              "value": 33,
+              "value": 89,
               "min_value": 0,
               "max_value": 100
             },
             {
               "trait_type": "Stickyness",
-              "value": 90,
+              "value": 48,
               "min_value": 0,
               "max_value": 100
             }
@@ -8341,6 +8578,83 @@
             {
               "trait_type": "Stickyness",
               "value": 38,
+              "min_value": 0,
+              "max_value": 100
+            }
+          ]
+        },
+        "nft15ggv389u25fws356tgtk4u0eskvvmw493pqh25wkmpq83v8unx9qte920v  ": {
+          "Name": "Chia Slime #140",
+          "ItemCategory": "Familiar",
+          "ItemType": "Chia Slime",
+          "Prefix": "Normal",
+          "Collection": "Chia Slimes",
+          "nft_id": "nft15ggv389u25fws356tgtk4u0eskvvmw493pqh25wkmpq83v8unx9qte920v",
+          "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
+          "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
+          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/140.png",
+          "attributes": [
+            {
+              "trait_type": "Volume",
+              "value": "1"
+            },
+            {
+              "trait_type": "Drop Set",
+              "value": "Beta"
+            },
+            {
+              "trait_type": "Narrative Block",
+              "value": "The Beginning"
+            },
+            {
+              "trait_type": "Mood",
+              "value": "Happy-Right"
+            },
+            {
+              "trait_type": "Acs1",
+              "value": "More Shine"
+            },
+            {
+              "trait_type": "Acs2",
+              "value": "Drippy"
+            },
+            {
+              "trait_type": "Acs3",
+              "value": "CrudHair"
+            },
+            {
+              "trait_type": "Color",
+              "value": "Beta-Yellow-fffc01"
+            },
+            {
+              "trait_type": "Floor",
+              "value": "Mountains"
+            },
+            {
+              "trait_type": "Sky",
+              "value": "Foggy Night"
+            },
+            {
+              "trait_type": "Hidden Power",
+              "value": "None"
+            },
+            {
+              "trait_type": "Hidden Power",
+              "value": "None"
+            },
+            {
+              "trait_type": "Other Info",
+              "value": "None"
+            },
+            {
+              "trait_type": "Weight",
+              "value": 47,
+              "min_value": 0,
+              "max_value": 100
+            },
+            {
+              "trait_type": "Stickyness",
+              "value": 59,
               "min_value": 0,
               "max_value": 100
             }
@@ -11548,6 +11862,79 @@
             {
               "trait_type": "Stickyness",
               "value": 14,
+              "min_value": 0,
+              "max_value": 100
+            }
+          ]
+        },
+        "nft1cuq78r99ay8gluwflfhcjfnqjj5k5zferre8cdckdcdszj629dxqjth8t9  ": {
+          "Name": "Chia Slime #83",
+          "ItemCategory": "Familiar",
+          "ItemType": "Chia Slime",
+          "Prefix": "Normal",
+          "Collection": "Chia Slimes",
+          "nft_id": "nft1cuq78r99ay8gluwflfhcjfnqjj5k5zferre8cdckdcdszj629dxqjth8t9",
+          "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
+          "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
+          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/83.png",
+          "attributes": [
+            {
+              "trait_type": "Volume",
+              "value": "1"
+            },
+            {
+              "trait_type": "Drop Set",
+              "value": "Alpha"
+            },
+            {
+              "trait_type": "Narrative Block",
+              "value": "The Beginning"
+            },
+            {
+              "trait_type": "Mood",
+              "value": "Blank-Right"
+            },
+            {
+              "trait_type": "Acs1",
+              "value": "Basic Shine"
+            },
+            {
+              "trait_type": "Acs2",
+              "value": "None"
+            },
+            {
+              "trait_type": "Acs3",
+              "value": "None"
+            },
+            {
+              "trait_type": "Color",
+              "value": "Alpha-Blue-0101b5"
+            },
+            {
+              "trait_type": "Floor",
+              "value": "Grassy1"
+            },
+            {
+              "trait_type": "Sky",
+              "value": "Clear Skies"
+            },
+            {
+              "trait_type": "Hidden Power",
+              "value": "None"
+            },
+            {
+              "trait_type": "Other Info",
+              "value": "None"
+            },
+            {
+              "trait_type": "Weight",
+              "value": 33,
+              "min_value": 0,
+              "max_value": 100
+            },
+            {
+              "trait_type": "Stickyness",
+              "value": 90,
               "min_value": 0,
               "max_value": 100
             }
@@ -17258,6 +17645,79 @@
             }
           ]
         },
+        "nft10ul2zhcptkee95c6zrtr37vl9kfueylf8wsz3svawh5d69e0d47qrsm2ht  ": {
+          "Name": "Chia Slime #265",
+          "ItemCategory": "Familiar",
+          "ItemType": "Chia Slime",
+          "Prefix": "Normal",
+          "Collection": "Chia Slimes",
+          "nft_id": "nft10ul2zhcptkee95c6zrtr37vl9kfueylf8wsz3svawh5d69e0d47qrsm2ht",
+          "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
+          "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
+          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/265.png",
+          "attributes": [
+            {
+              "trait_type": "Volume",
+              "value": "1"
+            },
+            {
+              "trait_type": "Drop Set",
+              "value": "Rock"
+            },
+            {
+              "trait_type": "Narrative Block",
+              "value": "Life"
+            },
+            {
+              "trait_type": "Mood",
+              "value": "Strong-Left"
+            },
+            {
+              "trait_type": "Acs1",
+              "value": "More Shine"
+            },
+            {
+              "trait_type": "Acs3",
+              "value": "None"
+            },
+            {
+              "trait_type": "Color",
+              "value": "Rock-GolemAdam-0c2d04-"
+            },
+            {
+              "trait_type": "Acs2",
+              "value": "GolemSpikes"
+            },
+            {
+              "trait_type": "Floor",
+              "value": "Cave4-WF"
+            },
+            {
+              "trait_type": "Sky",
+              "value": "Stary Night"
+            },
+            {
+              "trait_type": "Hidden Power",
+              "value": "None"
+            },
+            {
+              "trait_type": "Other Info",
+              "value": "None"
+            },
+            {
+              "trait_type": "Weight",
+              "value": 52,
+              "min_value": 0,
+              "max_value": 100
+            },
+            {
+              "trait_type": "Stickyness",
+              "value": 31,
+              "min_value": 0,
+              "max_value": 100
+            }
+          ]
+        },
         "nft1upf4k0attm00q0jduta8lwraaf5vg7pdwraakd4x5vk9gz6e8l4q4smsn0  ": {
           "Name": "Chia Slime #199",
           "ItemCategory": "Familiar",
@@ -17789,16 +18249,16 @@
             }
           ]
         },
-        "nft1ms42u34hwrzvxpuggfat6sg6au0rf3hrwvpsg8anxjj6jjzpce7scxe6x0  ": {
-          "Name": "Chia Slime #123",
+        "nft1ak8n949l34tk3588wc3rpy8cw2p7w64ksp38uvl3cmmua3s2vd5s864228  ": {
+          "Name": "Chia Slime #268",
           "ItemCategory": "Familiar",
           "ItemType": "Chia Slime",
           "Prefix": "Normal",
           "Collection": "Chia Slimes",
-          "nft_id": "nft1ms42u34hwrzvxpuggfat6sg6au0rf3hrwvpsg8anxjj6jjzpce7scxe6x0",
+          "nft_id": "nft1ak8n949l34tk3588wc3rpy8cw2p7w64ksp38uvl3cmmua3s2vd5s864228",
           "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
           "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
-          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/123.png",
+          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/268.png",
           "attributes": [
             {
               "trait_type": "Volume",
@@ -17806,23 +18266,19 @@
             },
             {
               "trait_type": "Drop Set",
-              "value": "Beta"
+              "value": "Rock"
             },
             {
               "trait_type": "Narrative Block",
-              "value": "The Beginning"
+              "value": "Life"
             },
             {
               "trait_type": "Mood",
-              "value": "Timid-Left"
+              "value": "Confident-Left"
             },
             {
               "trait_type": "Acs1",
-              "value": "Targeted Shine"
-            },
-            {
-              "trait_type": "Acs2",
-              "value": "Blopy"
+              "value": "Basic Shine"
             },
             {
               "trait_type": "Acs3",
@@ -17830,23 +18286,23 @@
             },
             {
               "trait_type": "Color",
-              "value": "Beta-Yellow-fffc01"
+              "value": "Rock-RockyBrown-5b482a"
+            },
+            {
+              "trait_type": "Acs2",
+              "value": "None"
             },
             {
               "trait_type": "Floor",
-              "value": "Hilly1"
+              "value": "Dirt"
             },
             {
               "trait_type": "Sky",
-              "value": "Cloudy"
+              "value": "Foggy Night"
             },
             {
               "trait_type": "Hidden Power",
-              "value": "None"
-            },
-            {
-              "trait_type": "Hidden Power",
-              "value": "None"
+              "value": "Defensive Aura"
             },
             {
               "trait_type": "Other Info",
@@ -17854,13 +18310,13 @@
             },
             {
               "trait_type": "Weight",
-              "value": 92,
+              "value": 83,
               "min_value": 0,
               "max_value": 100
             },
             {
               "trait_type": "Stickyness",
-              "value": 37,
+              "value": 93,
               "min_value": 0,
               "max_value": 100
             }
@@ -19707,16 +20163,16 @@
             }
           ]
         },
-        "nft15ggv389u25fws356tgtk4u0eskvvmw493pqh25wkmpq83v8unx9qte920v  ": {
-          "Name": "Chia Slime #140",
+        "nft1ms42u34hwrzvxpuggfat6sg6au0rf3hrwvpsg8anxjj6jjzpce7scxe6x0  ": {
+          "Name": "Chia Slime #123",
           "ItemCategory": "Familiar",
           "ItemType": "Chia Slime",
           "Prefix": "Normal",
           "Collection": "Chia Slimes",
-          "nft_id": "nft15ggv389u25fws356tgtk4u0eskvvmw493pqh25wkmpq83v8unx9qte920v",
+          "nft_id": "nft1ms42u34hwrzvxpuggfat6sg6au0rf3hrwvpsg8anxjj6jjzpce7scxe6x0",
           "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
           "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
-          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/140.png",
+          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/123.png",
           "attributes": [
             {
               "trait_type": "Volume",
@@ -19732,19 +20188,19 @@
             },
             {
               "trait_type": "Mood",
-              "value": "Happy-Right"
+              "value": "Timid-Left"
             },
             {
               "trait_type": "Acs1",
-              "value": "More Shine"
+              "value": "Targeted Shine"
             },
             {
               "trait_type": "Acs2",
-              "value": "Drippy"
+              "value": "Blopy"
             },
             {
               "trait_type": "Acs3",
-              "value": "CrudHair"
+              "value": "None"
             },
             {
               "trait_type": "Color",
@@ -19752,11 +20208,11 @@
             },
             {
               "trait_type": "Floor",
-              "value": "Mountains"
+              "value": "Hilly1"
             },
             {
               "trait_type": "Sky",
-              "value": "Foggy Night"
+              "value": "Cloudy"
             },
             {
               "trait_type": "Hidden Power",
@@ -19772,13 +20228,13 @@
             },
             {
               "trait_type": "Weight",
-              "value": 47,
+              "value": 92,
               "min_value": 0,
               "max_value": 100
             },
             {
               "trait_type": "Stickyness",
-              "value": 59,
+              "value": 37,
               "min_value": 0,
               "max_value": 100
             }
@@ -21925,6 +22381,79 @@
             }
           ]
         },
+        "nft1khxvmhngrn88k5atw0u7wakjvxec24sm7agynsxykf3y0damg96q3292ka  ": {
+          "Name": "Chia Slime #263",
+          "ItemCategory": "Familiar",
+          "ItemType": "Chia Slime",
+          "Prefix": "Normal",
+          "Collection": "Chia Slimes",
+          "nft_id": "nft1khxvmhngrn88k5atw0u7wakjvxec24sm7agynsxykf3y0damg96q3292ka",
+          "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
+          "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
+          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/263.png",
+          "attributes": [
+            {
+              "trait_type": "Volume",
+              "value": "1"
+            },
+            {
+              "trait_type": "Drop Set",
+              "value": "Rock"
+            },
+            {
+              "trait_type": "Narrative Block",
+              "value": "Life"
+            },
+            {
+              "trait_type": "Mood",
+              "value": "Confident-Left"
+            },
+            {
+              "trait_type": "Acs1",
+              "value": "Basic Shine"
+            },
+            {
+              "trait_type": "Acs3",
+              "value": "None"
+            },
+            {
+              "trait_type": "Color",
+              "value": "Rock-GolemGray-565655"
+            },
+            {
+              "trait_type": "Acs2",
+              "value": "None"
+            },
+            {
+              "trait_type": "Floor",
+              "value": "Mountains"
+            },
+            {
+              "trait_type": "Sky",
+              "value": "Stary Night"
+            },
+            {
+              "trait_type": "Hidden Power",
+              "value": "None"
+            },
+            {
+              "trait_type": "Other Info",
+              "value": "None"
+            },
+            {
+              "trait_type": "Weight",
+              "value": 80,
+              "min_value": 0,
+              "max_value": 100
+            },
+            {
+              "trait_type": "Stickyness",
+              "value": 24,
+              "min_value": 0,
+              "max_value": 100
+            }
+          ]
+        },
         "nft1z05nvhglgdhf9nw5q9jrxr5r5jhgg4pgwq5dws2z76ksfzlxdj3sc0jwca  ": {
           "Name": "Chia Slime #128",
           "ItemCategory": "Familiar",
@@ -22224,79 +22753,6 @@
             {
               "trait_type": "Stickyness",
               "value": 79,
-              "min_value": 0,
-              "max_value": 100
-            }
-          ]
-        },
-        "nft1ptmhwwgxh3jlh3clldgyad7u03z6jpp905ukwwewfh6ltrgvek3qf936vt  ": {
-          "Name": "Chia Slime #215",
-          "ItemCategory": "Familiar",
-          "ItemType": "Chia Slime",
-          "Prefix": "Normal",
-          "Collection": "Chia Slimes",
-          "nft_id": "nft1ptmhwwgxh3jlh3clldgyad7u03z6jpp905ukwwewfh6ltrgvek3qf936vt",
-          "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
-          "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
-          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/215.png",
-          "attributes": [
-            {
-              "trait_type": "Volume",
-              "value": "1"
-            },
-            {
-              "trait_type": "Drop Set",
-              "value": "Rock"
-            },
-            {
-              "trait_type": "Narrative Block",
-              "value": "Life"
-            },
-            {
-              "trait_type": "Mood",
-              "value": "Cocky-Left"
-            },
-            {
-              "trait_type": "Acs1",
-              "value": "Basic Shine"
-            },
-            {
-              "trait_type": "Acs3",
-              "value": "None"
-            },
-            {
-              "trait_type": "Color",
-              "value": "Rock-RockyBrown-5b482a"
-            },
-            {
-              "trait_type": "Acs2",
-              "value": "None"
-            },
-            {
-              "trait_type": "Floor",
-              "value": "Cave3-SW-M"
-            },
-            {
-              "trait_type": "Sky",
-              "value": "Foggy Night"
-            },
-            {
-              "trait_type": "Hidden Power",
-              "value": "Heal"
-            },
-            {
-              "trait_type": "Other Info",
-              "value": "None"
-            },
-            {
-              "trait_type": "Weight",
-              "value": 10,
-              "min_value": 0,
-              "max_value": 100
-            },
-            {
-              "trait_type": "Stickyness",
-              "value": 19,
               "min_value": 0,
               "max_value": 100
             }
@@ -24605,16 +25061,16 @@
             }
           ]
         },
-        "nft1hy36e285fwud0tkrdnv5h0qnnyzvmu8hcn6t5f4kwk4us5m9lk3qq0xzff  ": {
-          "Name": "Chia Slime #64",
+        "nft1ptmhwwgxh3jlh3clldgyad7u03z6jpp905ukwwewfh6ltrgvek3qf936vt  ": {
+          "Name": "Chia Slime #215",
           "ItemCategory": "Familiar",
           "ItemType": "Chia Slime",
           "Prefix": "Normal",
           "Collection": "Chia Slimes",
-          "nft_id": "nft1hy36e285fwud0tkrdnv5h0qnnyzvmu8hcn6t5f4kwk4us5m9lk3qq0xzff",
+          "nft_id": "nft1ptmhwwgxh3jlh3clldgyad7u03z6jpp905ukwwewfh6ltrgvek3qf936vt",
           "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
           "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
-          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/64.png",
+          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/215.png",
           "attributes": [
             {
               "trait_type": "Volume",
@@ -24622,23 +25078,19 @@
             },
             {
               "trait_type": "Drop Set",
-              "value": "Alpha"
+              "value": "Rock"
             },
             {
               "trait_type": "Narrative Block",
-              "value": "The Beginning"
+              "value": "Life"
             },
             {
               "trait_type": "Mood",
-              "value": "Timid-Left"
+              "value": "Cocky-Left"
             },
             {
               "trait_type": "Acs1",
-              "value": "Glimmer"
-            },
-            {
-              "trait_type": "Acs2",
-              "value": "Rippled"
+              "value": "Basic Shine"
             },
             {
               "trait_type": "Acs3",
@@ -24646,33 +25098,37 @@
             },
             {
               "trait_type": "Color",
-              "value": "Alpha-Red-d30000"
+              "value": "Rock-RockyBrown-5b482a"
             },
             {
-              "trait_type": "Floor",
-              "value": "Grassy1"
-            },
-            {
-              "trait_type": "Sky",
-              "value": "Stary Night"
-            },
-            {
-              "trait_type": "Hidden Power",
+              "trait_type": "Acs2",
               "value": "None"
             },
             {
+              "trait_type": "Floor",
+              "value": "Cave3-SW-M"
+            },
+            {
+              "trait_type": "Sky",
+              "value": "Foggy Night"
+            },
+            {
+              "trait_type": "Hidden Power",
+              "value": "Heal"
+            },
+            {
               "trait_type": "Other Info",
-              "value": "PS9"
+              "value": "None"
             },
             {
               "trait_type": "Weight",
-              "value": 84,
+              "value": 10,
               "min_value": 0,
               "max_value": 100
             },
             {
               "trait_type": "Stickyness",
-              "value": 99,
+              "value": 19,
               "min_value": 0,
               "max_value": 100
             }
@@ -27342,6 +27798,79 @@
             }
           ]
         },
+        "nft1ramggm9zvr0jjt5wvhc2vg96jzy2gjs8ut2je0ymzpr8c0gvwmjqw2ynns  ": {
+          "Name": "Chia Slime #267",
+          "ItemCategory": "Familiar",
+          "ItemType": "Chia Slime",
+          "Prefix": "Normal",
+          "Collection": "Chia Slimes",
+          "nft_id": "nft1ramggm9zvr0jjt5wvhc2vg96jzy2gjs8ut2je0ymzpr8c0gvwmjqw2ynns",
+          "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
+          "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
+          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/267.png",
+          "attributes": [
+            {
+              "trait_type": "Volume",
+              "value": "1"
+            },
+            {
+              "trait_type": "Drop Set",
+              "value": "Rock"
+            },
+            {
+              "trait_type": "Narrative Block",
+              "value": "Life"
+            },
+            {
+              "trait_type": "Mood",
+              "value": "Amazed-Left"
+            },
+            {
+              "trait_type": "Acs1",
+              "value": "Basic Shine"
+            },
+            {
+              "trait_type": "Acs3",
+              "value": "Iron Ore"
+            },
+            {
+              "trait_type": "Color",
+              "value": "Rock-RockyBrown-5b482a"
+            },
+            {
+              "trait_type": "Acs2",
+              "value": "FoundSomeTreasure"
+            },
+            {
+              "trait_type": "Floor",
+              "value": "Cave2-SW"
+            },
+            {
+              "trait_type": "Sky",
+              "value": "Stary Night"
+            },
+            {
+              "trait_type": "Hidden Power",
+              "value": "Defensive Aura"
+            },
+            {
+              "trait_type": "Other Info",
+              "value": "None"
+            },
+            {
+              "trait_type": "Weight",
+              "value": 86,
+              "min_value": 0,
+              "max_value": 100
+            },
+            {
+              "trait_type": "Stickyness",
+              "value": 66,
+              "min_value": 0,
+              "max_value": 100
+            }
+          ]
+        },
         "nft17kwtpdp8y934xn7vftth2fcyuyz7jxqxhs7c55vv3cpkwcj5rhnshuy467  ": {
           "Name": "Chia Slime #113",
           "ItemCategory": "Familiar",
@@ -28602,6 +29131,79 @@
             {
               "trait_type": "Stickyness",
               "value": 19,
+              "min_value": 0,
+              "max_value": 100
+            }
+          ]
+        },
+        "nft1r0djpz5dpel2g86t4nsrnmps3z2je98yyvm3grvmt63tygvq293q8l6fyd  ": {
+          "Name": "Chia Slime #259",
+          "ItemCategory": "Familiar",
+          "ItemType": "Chia Slime",
+          "Prefix": "Normal",
+          "Collection": "Chia Slimes",
+          "nft_id": "nft1r0djpz5dpel2g86t4nsrnmps3z2je98yyvm3grvmt63tygvq293q8l6fyd",
+          "minter_did": "af2b8fcdfb0bb11d0751d43fdfec99784a8c956fc1c87fea1ff41ce8b3d77d13",
+          "collection_id": "col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2",
+          "item_uri": "https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/259.png",
+          "attributes": [
+            {
+              "trait_type": "Volume",
+              "value": "1"
+            },
+            {
+              "trait_type": "Drop Set",
+              "value": "Rock"
+            },
+            {
+              "trait_type": "Narrative Block",
+              "value": "Life"
+            },
+            {
+              "trait_type": "Mood",
+              "value": "Blank-Left"
+            },
+            {
+              "trait_type": "Acs1",
+              "value": "Basic Shine"
+            },
+            {
+              "trait_type": "Acs3",
+              "value": "None"
+            },
+            {
+              "trait_type": "Color",
+              "value": "Rock-GolemObsid-3b215a"
+            },
+            {
+              "trait_type": "Acs2",
+              "value": "None"
+            },
+            {
+              "trait_type": "Floor",
+              "value": "Mountains"
+            },
+            {
+              "trait_type": "Sky",
+              "value": "Stary Night"
+            },
+            {
+              "trait_type": "Hidden Power",
+              "value": "None"
+            },
+            {
+              "trait_type": "Other Info",
+              "value": "None"
+            },
+            {
+              "trait_type": "Weight",
+              "value": 63,
+              "min_value": 0,
+              "max_value": 100
+            },
+            {
+              "trait_type": "Stickyness",
+              "value": 27,
               "min_value": 0,
               "max_value": 100
             }
@@ -69273,95 +69875,6 @@
           ]
         }
       }
-    },
-    "Nuclei Ring": {
-      "Normal": {
-        "nft10uwgwcpz04rwf352e3suamddcwtre50gt5apx806t3xxy3c3w65slzvl5r  ": {
-          "Name": "Nuclei Ring 04",
-          "ItemCategory": "Other",
-          "ItemType": "Nuclei Ring",
-          "Prefix": "Normal",
-          "Collection": "Chia Inventory",
-          "nft_id": "nft10uwgwcpz04rwf352e3suamddcwtre50gt5apx806t3xxy3c3w65slzvl5r",
-          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
-          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
-          "item_uri": "https://bxnmr4ly4hvnvuvyqxafi4exktzcrjizrczbiaem5nkayk7sbm.arweave.net/DdrI8Xjh6trSuIXAVHCXVPIopRmIshQAjOtUDCvy_C0",
-          "attributes": [
-            {
-              "trait_type": "Constitution",
-              "value": "1"
-            }
-          ]
-        },
-        "nft1mdgkv3ar2jg0uu2wwrn4ngjvkm50jk3v93z4flurefa4pw3ql6wq85w2uw  ": {
-          "Name": "Nuclei Ring 01",
-          "ItemCategory": "Other",
-          "ItemType": "Nuclei Ring",
-          "Prefix": "Normal",
-          "Collection": "Chia Inventory",
-          "nft_id": "nft1mdgkv3ar2jg0uu2wwrn4ngjvkm50jk3v93z4flurefa4pw3ql6wq85w2uw",
-          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
-          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
-          "item_uri": "https://lmsctphmbooladpu6lxrvi44stiw4gjkwqt3u6qe62zyponiwe.arweave.net/WyQpvOwLnLAN_9PLvGqOclNFuGSq0J7p6BPazh7mosY",
-          "attributes": [
-            {
-              "trait_type": "Strength",
-              "value": "1"
-            }
-          ]
-        },
-        "nft19elvajfnxl4mf639e2dtqdsflf5axxt68p028j6574wdhadvkqysxrkdh3  ": {
-          "Name": "Nuclei Ring 02",
-          "ItemCategory": "Other",
-          "ItemType": "Nuclei Ring",
-          "Prefix": "Normal",
-          "Collection": "Chia Inventory",
-          "nft_id": "nft19elvajfnxl4mf639e2dtqdsflf5axxt68p028j6574wdhadvkqysxrkdh3",
-          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
-          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
-          "item_uri": "https://k36rfr4xwot2ehr2kszklyt32bj7ma4h56wnpqdwqnxj4ipanu.arweave.net/Vv0Sx5e-zp6IeOlSypeJ70FP2A4fvrNfAdoNuniHgbY",
-          "attributes": [
-            {
-              "trait_type": "Dexterity",
-              "value": "1"
-            }
-          ]
-        },
-        "nft1cvnclash76cnptutdpdtxyfg94ge9nzu0vl7agzn3ajezkqqqaeq9mymql  ": {
-          "Name": "Nuclei Ring 03",
-          "ItemCategory": "Other",
-          "ItemType": "Nuclei Ring",
-          "Prefix": "Normal",
-          "Collection": "Chia Inventory",
-          "nft_id": "nft1cvnclash76cnptutdpdtxyfg94ge9nzu0vl7agzn3ajezkqqqaeq9mymql",
-          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
-          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
-          "item_uri": "https://tomzzrmqnnc2cxiz7swss4f4cwdm3fvhdiujpmlgbmpvnym73oma.arweave.net/m5mcxZBrRaFdGfytKXC8FYbNlqcaKJexZgsfVuGf25g",
-          "attributes": [
-            {
-              "trait_type": "Intelligence",
-              "value": "1"
-            }
-          ]
-        },
-        "nft135flumg3m2tdgmf5uhvthcdzz4t526nr4hhrj703x7asqsu2xuls6n63pv  ": {
-          "Name": "Nuclei Ring 05",
-          "ItemCategory": "Other",
-          "ItemType": "Nuclei Ring",
-          "Prefix": "Normal",
-          "Collection": "Chia Inventory",
-          "nft_id": "nft135flumg3m2tdgmf5uhvthcdzz4t526nr4hhrj703x7asqsu2xuls6n63pv",
-          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
-          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
-          "item_uri": "https://zjau525d3rvrh3ortjzz6qwohxm675hksrg2ey6lygj7hwjz6m7a.arweave.net/ykFO66PcaxPt0Zpzn0LOPdnv9OqUTaJjy8GT89k58z4",
-          "attributes": [
-            {
-              "trait_type": "Wisdom",
-              "value": "1"
-            }
-          ]
-        }
-      }
     }
   },
   "Weapon": {
@@ -70158,6 +70671,23 @@
             }
           ]
         },
+        "nft1slgmcv5ynzhfvcvtelerjdfn30zfxhzfhl2ftga8khzn0uyghwrs0vfrns  ": {
+          "Name": "Short Bow 01",
+          "ItemCategory": "Weapon",
+          "ItemType": "Short Bow",
+          "Prefix": "Normal",
+          "Collection": "Chia Inventory",
+          "nft_id": "nft1slgmcv5ynzhfvcvtelerjdfn30zfxhzfhl2ftga8khzn0uyghwrs0vfrns",
+          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
+          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
+          "item_uri": "https://wysajenhpma4zibrrs6vus7bx56sn2sgezkmye6ct25rephgdu.arweave.net/t_iQEkad7AcygMYy9Wkvhv30m6kYmVMwTwp67EjzmHc",
+          "attributes": [
+            {
+              "trait_type": "Pierce",
+              "value": "2"
+            }
+          ]
+        },
         "nft1f98zpcwlvgypsat9wmk5h74l9hlqz423mrnu4uk3dj5n79cly0ss8alem9  ": {
           "Name": "Short Bow 01",
           "ItemCategory": "Weapon",
@@ -70175,16 +70705,16 @@
             }
           ]
         },
-        "nft1slgmcv5ynzhfvcvtelerjdfn30zfxhzfhl2ftga8khzn0uyghwrs0vfrns  ": {
-          "Name": "Short Bow 01",
+        "nft14zzxu8l6w2qgkzfkz8aafhpe6xw6uhwjd92nrgpl8qnkn8wyzxgq3mkx8t  ": {
+          "Name": "Short Bow 02",
           "ItemCategory": "Weapon",
           "ItemType": "Short Bow",
           "Prefix": "Normal",
           "Collection": "Chia Inventory",
-          "nft_id": "nft1slgmcv5ynzhfvcvtelerjdfn30zfxhzfhl2ftga8khzn0uyghwrs0vfrns",
+          "nft_id": "nft14zzxu8l6w2qgkzfkz8aafhpe6xw6uhwjd92nrgpl8qnkn8wyzxgq3mkx8t",
           "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
           "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
-          "item_uri": "https://wysajenhpma4zibrrs6vus7bx56sn2sgezkmye6ct25rephgdu.arweave.net/t_iQEkad7AcygMYy9Wkvhv30m6kYmVMwTwp67EjzmHc",
+          "item_uri": "https://itswwgynoa24srhrxmdbpkh2rjd4k7f7kdqkjsaxkycouwjora.arweave.net/ROVrGw1wNclE8bsGF6j6ikfFfL9Q4KTIF1YE6l_kuiI",
           "attributes": [
             {
               "trait_type": "Pierce",
@@ -70270,23 +70800,6 @@
           "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
           "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
           "item_uri": "https://zzckcxfpnepmqnc6vqentz2evxi5wvy33f6qbhoat5gnrla2.arweave.net/_zkShXK9pHsg0XqwI2edErdHbVxvZfQCdwJ9M2-KwaA",
-          "attributes": [
-            {
-              "trait_type": "Pierce",
-              "value": "2"
-            }
-          ]
-        },
-        "nft14zzxu8l6w2qgkzfkz8aafhpe6xw6uhwjd92nrgpl8qnkn8wyzxgq3mkx8t  ": {
-          "Name": "Short Bow 02",
-          "ItemCategory": "Weapon",
-          "ItemType": "Short Bow",
-          "Prefix": "Normal",
-          "Collection": "Chia Inventory",
-          "nft_id": "nft14zzxu8l6w2qgkzfkz8aafhpe6xw6uhwjd92nrgpl8qnkn8wyzxgq3mkx8t",
-          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
-          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
-          "item_uri": "https://itswwgynoa24srhrxmdbpkh2rjd4k7f7kdqkjsaxkycouwjora.arweave.net/ROVrGw1wNclE8bsGF6j6ikfFfL9Q4KTIF1YE6l_kuiI",
           "attributes": [
             {
               "trait_type": "Pierce",
@@ -71407,16 +71920,16 @@
             }
           ]
         },
-        "nft1mdt9umgh6mk7ptr2hza7jce5rg53vdd09z84h8wldt55a32pgqtqxfqj4x  ": {
-          "Name": "Knife 02",
+        "nft1esmjz370yh47fescvwk9e8enm7elguxnfvtarer8mhchmly0cyzsjwqq0w  ": {
+          "Name": "Knife 05",
           "ItemCategory": "Weapon",
           "ItemType": "Knife",
           "Prefix": "Normal",
           "Collection": "Chia Inventory",
-          "nft_id": "nft1mdt9umgh6mk7ptr2hza7jce5rg53vdd09z84h8wldt55a32pgqtqxfqj4x",
+          "nft_id": "nft1esmjz370yh47fescvwk9e8enm7elguxnfvtarer8mhchmly0cyzsjwqq0w",
           "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
           "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
-          "item_uri": "https://w2sul3pckelhjpkxnw3tiamqnnmpstqog2wamyruoheui4rqga.arweave.net/tqVF7e_JRFnS9V223NAGQa1j5Tg42rAZiNHHJRHIwMI",
+          "item_uri": "https://lgb7crrtn6tmihm3hcszk5zrrxeoy7vucjbwp6vkjbled5gr.arweave.net/WYPxRjNvpsQdmzillXcxj-cjsfrQS-Q2f6qkhWQfTR0",
           "attributes": [
             {
               "trait_type": "Slash",
@@ -71424,6 +71937,31 @@
             },
             {
               "trait_type": "Pierce",
+              "value": "1"
+            }
+          ]
+        },
+        "nft1qg28e9etljd8z8f52qtfqquhj5ynwgcytct4n2dzr224p6jhlx0s98365g  ": {
+          "Name": "Knife 13",
+          "ItemCategory": "Weapon",
+          "ItemType": "Knife",
+          "Prefix": "Normal",
+          "Collection": "Chia Inventory",
+          "nft_id": "nft1qg28e9etljd8z8f52qtfqquhj5ynwgcytct4n2dzr224p6jhlx0s98365g",
+          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
+          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
+          "item_uri": "https://laxurzrwjio7olzibdrozcdg4eycpngqipsh2zz3neeljtjw3ykq.arweave.net/WC9I5jZKHfcvKAji7Ihm4TAntNBD5H1nO2kItM023hU",
+          "attributes": [
+            {
+              "trait_type": "Slash",
+              "value": "1"
+            },
+            {
+              "trait_type": "Bash",
+              "value": "0"
+            },
+            {
+              "trait_type": "Rarity",
               "value": "1"
             }
           ]
@@ -71495,27 +72033,23 @@
             }
           ]
         },
-        "nft1qg28e9etljd8z8f52qtfqquhj5ynwgcytct4n2dzr224p6jhlx0s98365g  ": {
-          "Name": "Knife 13",
+        "nft1vm7zvj3g3cq7pdtc520ajv6nz0cuhr7xmcpa6kkkaxe96jdfavsq5vfw2q  ": {
+          "Name": "Knife 16",
           "ItemCategory": "Weapon",
           "ItemType": "Knife",
           "Prefix": "Normal",
           "Collection": "Chia Inventory",
-          "nft_id": "nft1qg28e9etljd8z8f52qtfqquhj5ynwgcytct4n2dzr224p6jhlx0s98365g",
+          "nft_id": "nft1vm7zvj3g3cq7pdtc520ajv6nz0cuhr7xmcpa6kkkaxe96jdfavsq5vfw2q",
           "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
           "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
-          "item_uri": "https://laxurzrwjio7olzibdrozcdg4eycpngqipsh2zz3neeljtjw3ykq.arweave.net/WC9I5jZKHfcvKAji7Ihm4TAntNBD5H1nO2kItM023hU",
+          "item_uri": "https://gtfldd5its2zspeuiimxmy4r54hrntkg7e6bemkce2fut54ffsba.arweave.net/NMqxj6ictZk8lEIZdmOR7w8WzUb5PBIxQiaLSfeFLII",
           "attributes": [
             {
               "trait_type": "Slash",
               "value": "1"
             },
             {
-              "trait_type": "Bash",
-              "value": "0"
-            },
-            {
-              "trait_type": "Rarity",
+              "trait_type": "Pierce",
               "value": "1"
             }
           ]
@@ -71562,16 +72096,16 @@
             }
           ]
         },
-        "nft1esmjz370yh47fescvwk9e8enm7elguxnfvtarer8mhchmly0cyzsjwqq0w  ": {
-          "Name": "Knife 05",
+        "nft1mdt9umgh6mk7ptr2hza7jce5rg53vdd09z84h8wldt55a32pgqtqxfqj4x  ": {
+          "Name": "Knife 02",
           "ItemCategory": "Weapon",
           "ItemType": "Knife",
           "Prefix": "Normal",
           "Collection": "Chia Inventory",
-          "nft_id": "nft1esmjz370yh47fescvwk9e8enm7elguxnfvtarer8mhchmly0cyzsjwqq0w",
+          "nft_id": "nft1mdt9umgh6mk7ptr2hza7jce5rg53vdd09z84h8wldt55a32pgqtqxfqj4x",
           "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
           "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
-          "item_uri": "https://lgb7crrtn6tmihm3hcszk5zrrxeoy7vucjbwp6vkjbled5gr.arweave.net/WYPxRjNvpsQdmzillXcxj-cjsfrQS-Q2f6qkhWQfTR0",
+          "item_uri": "https://w2sul3pckelhjpkxnw3tiamqnnmpstqog2wamyruoheui4rqga.arweave.net/tqVF7e_JRFnS9V223NAGQa1j5Tg42rAZiNHHJRHIwMI",
           "attributes": [
             {
               "trait_type": "Slash",
@@ -71681,27 +72215,6 @@
           "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
           "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
           "item_uri": "https://ha5ar3ujf2dhmqpubncreeror7nttil6rwne2xrbfvufw5hh2u.arweave.net/ODoI7okuhnZB9AtFEhIuj9s5oX6Nmk1e-IS1oW3Tn1c",
-          "attributes": [
-            {
-              "trait_type": "Slash",
-              "value": "1"
-            },
-            {
-              "trait_type": "Pierce",
-              "value": "1"
-            }
-          ]
-        },
-        "nft1vm7zvj3g3cq7pdtc520ajv6nz0cuhr7xmcpa6kkkaxe96jdfavsq5vfw2q  ": {
-          "Name": "Knife 16",
-          "ItemCategory": "Weapon",
-          "ItemType": "Knife",
-          "Prefix": "Normal",
-          "Collection": "Chia Inventory",
-          "nft_id": "nft1vm7zvj3g3cq7pdtc520ajv6nz0cuhr7xmcpa6kkkaxe96jdfavsq5vfw2q",
-          "minter_did": "a6d02e44beef9fcf57bfeaa279f92b46cece72fb9e6dc2b7735be0d8224a05ad",
-          "collection_id": "col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx",
-          "item_uri": "https://gtfldd5its2zspeuiimxmy4r54hrntkg7e6bemkce2fut54ffsba.arweave.net/NMqxj6ictZk8lEIZdmOR7w8WzUb5PBIxQiaLSfeFLII",
           "attributes": [
             {
               "trait_type": "Slash",

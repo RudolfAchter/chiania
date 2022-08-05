@@ -59,12 +59,21 @@ tags:
 <div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Weapon/Knife/Knife"><img src="https://w2sul3pckelhjpkxnw3tiamqnnmpstqog2wamyruoheui4rqga.arweave.net/tqVF7e_JRFnS9V223NAGQa1j5Tg42rAZiNHHJRHIwMI"></a><br/>
-<div><strong>Name:</strong> Knife 02</div>
+<a href="../../../Weapon/Knife/Knife"><img src="https://lgb7crrtn6tmihm3hcszk5zrrxeoy7vucjbwp6vkjbled5gr.arweave.net/WYPxRjNvpsQdmzillXcxj-cjsfrQS-Q2f6qkhWQfTR0"></a><br/>
+<div><strong>Name:</strong> Knife 05</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Knife/Knife">Knife</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Slash:</strong> 1</div>
 <div><strong>Pierce:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Weapon/Knife/Knife"><img src="https://laxurzrwjio7olzibdrozcdg4eycpngqipsh2zz3neeljtjw3ykq.arweave.net/WC9I5jZKHfcvKAji7Ihm4TAntNBD5H1nO2kItM023hU"></a><br/>
+<div><strong>Name:</strong> Knife 13</div>
+<div><strong>Item Type:</strong> <a href="../../../Weapon/Knife/Knife">Knife</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Slash:</strong> 1</div>
+<div><strong>Bash:</strong> 0</div>
+<div><strong>Rarity:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
 <a href="../../../Weapon/Knife/Knife"><img src="https://hsvcfgj2gqub6x25hmkso2occjpjmjhgsks4djljaqxcmkskro7q.arweave.net/PKoimTo0KB9fXTsVJ2nCEl6WJOaSpcGlaQQuJipKi78"></a><br/>
@@ -92,13 +101,12 @@ tags:
 <div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Weapon/Knife/Knife"><img src="https://laxurzrwjio7olzibdrozcdg4eycpngqipsh2zz3neeljtjw3ykq.arweave.net/WC9I5jZKHfcvKAji7Ihm4TAntNBD5H1nO2kItM023hU"></a><br/>
-<div><strong>Name:</strong> Knife 13</div>
+<a href="../../../Weapon/Knife/Knife"><img src="https://gtfldd5its2zspeuiimxmy4r54hrntkg7e6bemkce2fut54ffsba.arweave.net/NMqxj6ictZk8lEIZdmOR7w8WzUb5PBIxQiaLSfeFLII"></a><br/>
+<div><strong>Name:</strong> Knife 16</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Knife/Knife">Knife</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Slash:</strong> 1</div>
-<div><strong>Bash:</strong> 0</div>
-<div><strong>Rarity:</strong> 1</div>
+<div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
 <a href="../../../Weapon/Knife/Knife"><img src="https://rszpsnwuku6gb2xkzb6aq4uhmlscsvkdskbpqn4resfkcxxwyi.arweave.net/jLL5NtRVP_GDq6sh8CHKHYuQpVUOSgvg3kSSKoV72wo"></a><br/>
@@ -117,8 +125,8 @@ tags:
 <div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Weapon/Knife/Knife"><img src="https://lgb7crrtn6tmihm3hcszk5zrrxeoy7vucjbwp6vkjbled5gr.arweave.net/WYPxRjNvpsQdmzillXcxj-cjsfrQS-Q2f6qkhWQfTR0"></a><br/>
-<div><strong>Name:</strong> Knife 05</div>
+<a href="../../../Weapon/Knife/Knife"><img src="https://w2sul3pckelhjpkxnw3tiamqnnmpstqog2wamyruoheui4rqga.arweave.net/tqVF7e_JRFnS9V223NAGQa1j5Tg42rAZiNHHJRHIwMI"></a><br/>
+<div><strong>Name:</strong> Knife 02</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Knife/Knife">Knife</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Slash:</strong> 1</div>
@@ -160,14 +168,6 @@ tags:
 <div class="item_thumbnail">
 <a href="../../../Weapon/Knife/Knife"><img src="https://ha5ar3ujf2dhmqpubncreeror7nttil6rwne2xrbfvufw5hh2u.arweave.net/ODoI7okuhnZB9AtFEhIuj9s5oX6Nmk1e-IS1oW3Tn1c"></a><br/>
 <div><strong>Name:</strong> Knife 15</div>
-<div><strong>Item Type:</strong> <a href="../../../Weapon/Knife/Knife">Knife</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Slash:</strong> 1</div>
-<div><strong>Pierce:</strong> 1</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Weapon/Knife/Knife"><img src="https://gtfldd5its2zspeuiimxmy4r54hrntkg7e6bemkce2fut54ffsba.arweave.net/NMqxj6ictZk8lEIZdmOR7w8WzUb5PBIxQiaLSfeFLII"></a><br/>
-<div><strong>Name:</strong> Knife 16</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Knife/Knife">Knife</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Slash:</strong> 1</div>

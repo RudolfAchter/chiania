@@ -91,6 +91,46 @@ tags:
 <div><strong>Stickyness:</strong> 83</div>
 </div>
 <div class="item_thumbnail">
+<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/261.png"></a><br/>
+<div><strong>Name:</strong> Chia Slime #261</div>
+<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Mood:</strong> Strong-Left</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-RockyMuddy-725930</div>
+<div><strong>Acs2:</strong> GolemSpikes</div>
+<div><strong>Floor:</strong> Mountains</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Weight:</strong> 20</div>
+<div><strong>Stickyness:</strong> 70</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/64.png"></a><br/>
+<div><strong>Name:</strong> Chia Slime #64</div>
+<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Drop Set:</strong> Alpha</div>
+<div><strong>Narrative Block:</strong> The Beginning</div>
+<div><strong>Mood:</strong> Timid-Left</div>
+<div><strong>Acs1:</strong> Glimmer</div>
+<div><strong>Acs2:</strong> Rippled</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Alpha-Red-d30000</div>
+<div><strong>Floor:</strong> Grassy1</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Other Info:</strong> PS9</div>
+<div><strong>Weight:</strong> 84</div>
+<div><strong>Stickyness:</strong> 99</div>
+</div>
+<div class="item_thumbnail">
 <a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/271.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #271</div>
 <div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
@@ -885,24 +925,24 @@ tags:
 <div><strong>Stickyness:</strong> 74</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/83.png"></a><br/>
-<div><strong>Name:</strong> Chia Slime #83</div>
+<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/257.png"></a><br/>
+<div><strong>Name:</strong> Chia Slime #257</div>
 <div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
-<div><strong>Drop Set:</strong> Alpha</div>
-<div><strong>Narrative Block:</strong> The Beginning</div>
-<div><strong>Mood:</strong> Blank-Right</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Mood:</strong> Strong-Left</div>
 <div><strong>Acs1:</strong> Basic Shine</div>
-<div><strong>Acs2:</strong> None</div>
 <div><strong>Acs3:</strong> None</div>
-<div><strong>Color:</strong> Alpha-Blue-0101b5</div>
-<div><strong>Floor:</strong> Grassy1</div>
-<div><strong>Sky:</strong> Clear Skies</div>
+<div><strong>Color:</strong> Rock-GolemGray-565655</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Floor:</strong> Cave3-SW-M</div>
+<div><strong>Sky:</strong> Stary Night</div>
 <div><strong>Hidden Power:</strong> None</div>
 <div><strong>Other Info:</strong> None</div>
-<div><strong>Weight:</strong> 33</div>
-<div><strong>Stickyness:</strong> 90</div>
+<div><strong>Weight:</strong> 89</div>
+<div><strong>Stickyness:</strong> 48</div>
 </div>
 <div class="item_thumbnail">
 <a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/11.png"></a><br/>
@@ -1124,6 +1164,27 @@ tags:
 <div><strong>Other Info:</strong> None</div>
 <div><strong>Weight:</strong> 68</div>
 <div><strong>Stickyness:</strong> 38</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/140.png"></a><br/>
+<div><strong>Name:</strong> Chia Slime #140</div>
+<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Drop Set:</strong> Beta</div>
+<div><strong>Narrative Block:</strong> The Beginning</div>
+<div><strong>Mood:</strong> Happy-Right</div>
+<div><strong>Acs1:</strong> More Shine</div>
+<div><strong>Acs2:</strong> Drippy</div>
+<div><strong>Acs3:</strong> CrudHair</div>
+<div><strong>Color:</strong> Beta-Yellow-fffc01</div>
+<div><strong>Floor:</strong> Mountains</div>
+<div><strong>Sky:</strong> Foggy Night</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Weight:</strong> 47</div>
+<div><strong>Stickyness:</strong> 59</div>
 </div>
 <div class="item_thumbnail">
 <a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/135.png"></a><br/>
@@ -2001,6 +2062,26 @@ tags:
 <div><strong>Other Info:</strong> None</div>
 <div><strong>Weight:</strong> 12</div>
 <div><strong>Stickyness:</strong> 14</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/83.png"></a><br/>
+<div><strong>Name:</strong> Chia Slime #83</div>
+<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Drop Set:</strong> Alpha</div>
+<div><strong>Narrative Block:</strong> The Beginning</div>
+<div><strong>Mood:</strong> Blank-Right</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Alpha-Blue-0101b5</div>
+<div><strong>Floor:</strong> Grassy1</div>
+<div><strong>Sky:</strong> Clear Skies</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Weight:</strong> 33</div>
+<div><strong>Stickyness:</strong> 90</div>
 </div>
 <div class="item_thumbnail">
 <a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/360.png"></a><br/>
@@ -3564,6 +3645,26 @@ tags:
 <div><strong>Stickyness:</strong> 43</div>
 </div>
 <div class="item_thumbnail">
+<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/265.png"></a><br/>
+<div><strong>Name:</strong> Chia Slime #265</div>
+<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Mood:</strong> Strong-Left</div>
+<div><strong>Acs1:</strong> More Shine</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-GolemAdam-0c2d04-</div>
+<div><strong>Acs2:</strong> GolemSpikes</div>
+<div><strong>Floor:</strong> Cave4-WF</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Weight:</strong> 52</div>
+<div><strong>Stickyness:</strong> 31</div>
+</div>
+<div class="item_thumbnail">
 <a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/199.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #199</div>
 <div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
@@ -3709,25 +3810,24 @@ tags:
 <div><strong>Stickyness:</strong> 86</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/123.png"></a><br/>
-<div><strong>Name:</strong> Chia Slime #123</div>
+<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/268.png"></a><br/>
+<div><strong>Name:</strong> Chia Slime #268</div>
 <div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
-<div><strong>Drop Set:</strong> Beta</div>
-<div><strong>Narrative Block:</strong> The Beginning</div>
-<div><strong>Mood:</strong> Timid-Left</div>
-<div><strong>Acs1:</strong> Targeted Shine</div>
-<div><strong>Acs2:</strong> Blopy</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Mood:</strong> Confident-Left</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
 <div><strong>Acs3:</strong> None</div>
-<div><strong>Color:</strong> Beta-Yellow-fffc01</div>
-<div><strong>Floor:</strong> Hilly1</div>
-<div><strong>Sky:</strong> Cloudy</div>
-<div><strong>Hidden Power:</strong> None</div>
-<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Color:</strong> Rock-RockyBrown-5b482a</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Floor:</strong> Dirt</div>
+<div><strong>Sky:</strong> Foggy Night</div>
+<div><strong>Hidden Power:</strong> Defensive Aura</div>
 <div><strong>Other Info:</strong> None</div>
-<div><strong>Weight:</strong> 92</div>
-<div><strong>Stickyness:</strong> 37</div>
+<div><strong>Weight:</strong> 83</div>
+<div><strong>Stickyness:</strong> 93</div>
 </div>
 <div class="item_thumbnail">
 <a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/76.png"></a><br/>
@@ -4234,25 +4334,25 @@ tags:
 <div><strong>Stickyness:</strong> 50</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/140.png"></a><br/>
-<div><strong>Name:</strong> Chia Slime #140</div>
+<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/123.png"></a><br/>
+<div><strong>Name:</strong> Chia Slime #123</div>
 <div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Beta</div>
 <div><strong>Narrative Block:</strong> The Beginning</div>
-<div><strong>Mood:</strong> Happy-Right</div>
-<div><strong>Acs1:</strong> More Shine</div>
-<div><strong>Acs2:</strong> Drippy</div>
-<div><strong>Acs3:</strong> CrudHair</div>
+<div><strong>Mood:</strong> Timid-Left</div>
+<div><strong>Acs1:</strong> Targeted Shine</div>
+<div><strong>Acs2:</strong> Blopy</div>
+<div><strong>Acs3:</strong> None</div>
 <div><strong>Color:</strong> Beta-Yellow-fffc01</div>
-<div><strong>Floor:</strong> Mountains</div>
-<div><strong>Sky:</strong> Foggy Night</div>
+<div><strong>Floor:</strong> Hilly1</div>
+<div><strong>Sky:</strong> Cloudy</div>
 <div><strong>Hidden Power:</strong> None</div>
 <div><strong>Hidden Power:</strong> None</div>
 <div><strong>Other Info:</strong> None</div>
-<div><strong>Weight:</strong> 47</div>
-<div><strong>Stickyness:</strong> 59</div>
+<div><strong>Weight:</strong> 92</div>
+<div><strong>Stickyness:</strong> 37</div>
 </div>
 <div class="item_thumbnail">
 <a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/119.png"></a><br/>
@@ -4841,6 +4941,26 @@ tags:
 <div><strong>Stickyness:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
+<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/263.png"></a><br/>
+<div><strong>Name:</strong> Chia Slime #263</div>
+<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Mood:</strong> Confident-Left</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-GolemGray-565655</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Floor:</strong> Mountains</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Weight:</strong> 80</div>
+<div><strong>Stickyness:</strong> 24</div>
+</div>
+<div class="item_thumbnail">
 <a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/128.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #128</div>
 <div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
@@ -4922,26 +5042,6 @@ tags:
 <div><strong>Other Info:</strong> None</div>
 <div><strong>Weight:</strong> 43</div>
 <div><strong>Stickyness:</strong> 79</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/215.png"></a><br/>
-<div><strong>Name:</strong> Chia Slime #215</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
-<div><strong>Volume:</strong> 1</div>
-<div><strong>Drop Set:</strong> Rock</div>
-<div><strong>Narrative Block:</strong> Life</div>
-<div><strong>Mood:</strong> Cocky-Left</div>
-<div><strong>Acs1:</strong> Basic Shine</div>
-<div><strong>Acs3:</strong> None</div>
-<div><strong>Color:</strong> Rock-RockyBrown-5b482a</div>
-<div><strong>Acs2:</strong> None</div>
-<div><strong>Floor:</strong> Cave3-SW-M</div>
-<div><strong>Sky:</strong> Foggy Night</div>
-<div><strong>Hidden Power:</strong> Heal</div>
-<div><strong>Other Info:</strong> None</div>
-<div><strong>Weight:</strong> 10</div>
-<div><strong>Stickyness:</strong> 19</div>
 </div>
 <div class="item_thumbnail">
 <a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/4.png"></a><br/>
@@ -5574,24 +5674,24 @@ tags:
 <div><strong>Stickyness:</strong> 57</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/64.png"></a><br/>
-<div><strong>Name:</strong> Chia Slime #64</div>
+<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/215.png"></a><br/>
+<div><strong>Name:</strong> Chia Slime #215</div>
 <div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
-<div><strong>Drop Set:</strong> Alpha</div>
-<div><strong>Narrative Block:</strong> The Beginning</div>
-<div><strong>Mood:</strong> Timid-Left</div>
-<div><strong>Acs1:</strong> Glimmer</div>
-<div><strong>Acs2:</strong> Rippled</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Mood:</strong> Cocky-Left</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
 <div><strong>Acs3:</strong> None</div>
-<div><strong>Color:</strong> Alpha-Red-d30000</div>
-<div><strong>Floor:</strong> Grassy1</div>
-<div><strong>Sky:</strong> Stary Night</div>
-<div><strong>Hidden Power:</strong> None</div>
-<div><strong>Other Info:</strong> PS9</div>
-<div><strong>Weight:</strong> 84</div>
-<div><strong>Stickyness:</strong> 99</div>
+<div><strong>Color:</strong> Rock-RockyBrown-5b482a</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Floor:</strong> Cave3-SW-M</div>
+<div><strong>Sky:</strong> Foggy Night</div>
+<div><strong>Hidden Power:</strong> Heal</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Weight:</strong> 10</div>
+<div><strong>Stickyness:</strong> 19</div>
 </div>
 <div class="item_thumbnail">
 <a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/137.png"></a><br/>
@@ -6323,6 +6423,26 @@ tags:
 <div><strong>Stickyness:</strong> 96</div>
 </div>
 <div class="item_thumbnail">
+<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/267.png"></a><br/>
+<div><strong>Name:</strong> Chia Slime #267</div>
+<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Mood:</strong> Amazed-Left</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs3:</strong> Iron Ore</div>
+<div><strong>Color:</strong> Rock-RockyBrown-5b482a</div>
+<div><strong>Acs2:</strong> FoundSomeTreasure</div>
+<div><strong>Floor:</strong> Cave2-SW</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Hidden Power:</strong> Defensive Aura</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Weight:</strong> 86</div>
+<div><strong>Stickyness:</strong> 66</div>
+</div>
+<div class="item_thumbnail">
 <a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/113.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #113</div>
 <div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
@@ -6667,6 +6787,26 @@ tags:
 <div><strong>Other Info:</strong> None</div>
 <div><strong>Weight:</strong> 99</div>
 <div><strong>Stickyness:</strong> 19</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/259.png"></a><br/>
+<div><strong>Name:</strong> Chia Slime #259</div>
+<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Mood:</strong> Blank-Left</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-GolemObsid-3b215a</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Floor:</strong> Mountains</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Weight:</strong> 63</div>
+<div><strong>Stickyness:</strong> 27</div>
 </div>
 <div class="item_thumbnail">
 <a href="../../../Familiar/Chia_Slime/Chia_Slime"><img src="https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/165.png"></a><br/>

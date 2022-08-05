@@ -18,6 +18,13 @@ tags:
 <div><strong>Pierce:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
+<a href="../../../Weapon/Short_Bow/Short_Bow"><img src="https://wysajenhpma4zibrrs6vus7bx56sn2sgezkmye6ct25rephgdu.arweave.net/t_iQEkad7AcygMYy9Wkvhv30m6kYmVMwTwp67EjzmHc"></a><br/>
+<div><strong>Name:</strong> Short Bow 01</div>
+<div><strong>Item Type:</strong> <a href="../../../Weapon/Short_Bow/Short_Bow">Short Bow</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Pierce:</strong> 2</div>
+</div>
+<div class="item_thumbnail">
 <a href="../../../Weapon/Short_Bow/Short_Bow"><img src="https://mhrslttczhebs6uvexv4qlpj6tpqtom27eawplxiuhtt6npwwodq.arweave.net/YeMlzmLJyBl6lSXryC3p9N8JuZr5AWeu6KHnPzX2s4c"></a><br/>
 <div><strong>Name:</strong> Short Bow 01</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Short_Bow/Short_Bow">Short Bow</a></div>
@@ -25,8 +32,8 @@ tags:
 <div><strong>Pierce:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Weapon/Short_Bow/Short_Bow"><img src="https://wysajenhpma4zibrrs6vus7bx56sn2sgezkmye6ct25rephgdu.arweave.net/t_iQEkad7AcygMYy9Wkvhv30m6kYmVMwTwp67EjzmHc"></a><br/>
-<div><strong>Name:</strong> Short Bow 01</div>
+<a href="../../../Weapon/Short_Bow/Short_Bow"><img src="https://itswwgynoa24srhrxmdbpkh2rjd4k7f7kdqkjsaxkycouwjora.arweave.net/ROVrGw1wNclE8bsGF6j6ikfFfL9Q4KTIF1YE6l_kuiI"></a><br/>
+<div><strong>Name:</strong> Short Bow 02</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Short_Bow/Short_Bow">Short Bow</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Pierce:</strong> 2</div>
@@ -62,13 +69,6 @@ tags:
 <div class="item_thumbnail">
 <a href="../../../Weapon/Short_Bow/Short_Bow"><img src="https://zzckcxfpnepmqnc6vqentz2evxi5wvy33f6qbhoat5gnrla2.arweave.net/_zkShXK9pHsg0XqwI2edErdHbVxvZfQCdwJ9M2-KwaA"></a><br/>
 <div><strong>Name:</strong> Short Bow 09</div>
-<div><strong>Item Type:</strong> <a href="../../../Weapon/Short_Bow/Short_Bow">Short Bow</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Pierce:</strong> 2</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Weapon/Short_Bow/Short_Bow"><img src="https://itswwgynoa24srhrxmdbpkh2rjd4k7f7kdqkjsaxkycouwjora.arweave.net/ROVrGw1wNclE8bsGF6j6ikfFfL9Q4KTIF1YE6l_kuiI"></a><br/>
-<div><strong>Name:</strong> Short Bow 02</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Short_Bow/Short_Bow">Short Bow</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Pierce:</strong> 2</div>
