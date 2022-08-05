@@ -76,162 +76,172 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/50_types/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_BarkShield/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Armor/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_Barkshield/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Armor/Cloth_Armor/Cloth_Armor/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_BraveSeedling/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Collectable/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_CannedSlime/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Collectable/Canned_Slime/Canned_Slime/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_Catapult/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Collectable/Large_Monster_Nuclei/Large_Monster_Nuclei/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_ChiaSlime/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Collectable/Medium_Monster_Nuclei/Medium_Monster_Nuclei/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_ClothArmor/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_Deer/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_EnhancedTreeRoot/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Chia_Slime/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_GreenNucleiKnife/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/snail/snail/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_Halberd/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_Khopesh/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/Brave_Leef/Brave_Leef/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_Knife/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/Brave_Seedling/Brave_Seedling/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_LargeMonsterNuclei/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_MagicRoot/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Deer/Deer/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_MediumMonsterNuclei/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_NucleiRing/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/Catapult/Catapult/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_NucleiSword/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/Magic_Root/Magic_Root/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_OrangeNucleiKhopesh/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/Nuclei_Ring/Nuclei_Ring/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_OrangeNucleiWoodClub/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Shield/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_PurpleNucleiKnife/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Shield/Bark_Shield/Bark_shield/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_RedNucleiSword/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_ShadowSword/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Catapult/Catapult/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_ShadowswordPrototype/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Enhanced_Tree_Root/Enhanced_Tree_Root/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_ShortAxe/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Halberd/Halberd/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_ShortBow/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Khopesh/Khopesh/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_SmallMonsterNuclei/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Knife/Knife/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_Stone/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Shadow_Sword/Shadow_Sword/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_Sword/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Short_Axe/Short_Axe/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_WoodClub/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Short_Bow/Short_Bow/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/90_snail/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Stone/Stone/</loc>
+         <lastmod>2022-08-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Sword/Sword/</loc>
+         <lastmod>2022-08-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Wood_Club/Wood_Club/</loc>
          <lastmod>2022-08-05</lastmod>
          <changefreq>daily</changefreq>
     </url>
