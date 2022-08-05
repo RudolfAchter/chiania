@@ -4872,6 +4872,126 @@ tags:
 <div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
 </div>
 <div class="item_thumbnail_detail">
+<img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/394.png"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xbb88ac55aadda1492b99bb1c710ba45865e9ebbdb74ce825fb07069ddb7bafe3"><strong>Name:</strong> Chia Slime #394</a></div>
+<div><strong>Collection:</strong> Chia Slimes</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-GolemGray-565655</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Floor:</strong> Cave3-SW-M</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Mood:</strong> Confident-Left</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Stickyness:</strong> 30</div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Weight:</strong> 71</div>
+<div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/395.png"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xaf6467c8a7a70a13154599e2c5ac9c39303a62cd86fe7637c6591fc1275bc8c5"><strong>Name:</strong> Chia Slime #395</a></div>
+<div><strong>Collection:</strong> Chia Slimes</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-GolemGray-565655</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Floor:</strong> Mountains</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Mood:</strong> Cocky-Left</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Stickyness:</strong> 75</div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Weight:</strong> 94</div>
+<div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/396.png"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xc347ad9d6b932c3144942e36d2cb165240028b16bc024ec266b73756bdf5a7ea"><strong>Name:</strong> Chia Slime #396</a></div>
+<div><strong>Collection:</strong> Chia Slimes</div>
+<div><strong>Acs1:</strong> More Shine</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-GolemObsid-3b215a</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Floor:</strong> Mountains</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Mood:</strong> Blank-Left</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Stickyness:</strong> 48</div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Weight:</strong> 3</div>
+<div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/397.png"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x2204d4de8cb54425f711ead46f185cdf6d8472b4698d5c1529f2104bee53d8d5"><strong>Name:</strong> Chia Slime #397</a></div>
+<div><strong>Collection:</strong> Chia Slimes</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-MoltenIron-909596</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Floor:</strong> Cave1</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Mood:</strong> Happy-Left</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Stickyness:</strong> 73</div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Weight:</strong> 70</div>
+<div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/398.png"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xfd425588fd2700bcf0028f4d3e2d899ce48d8ecb5d704aa02bd09b14c067aa9c"><strong>Name:</strong> Chia Slime #398</a></div>
+<div><strong>Collection:</strong> Chia Slimes</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-RockyBrown-5b482a</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Floor:</strong> Cave4-WF</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Mood:</strong> Confident-Left</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Stickyness:</strong> 3</div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Weight:</strong> 45</div>
+<div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/399.png"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x56bee43e8ee9cae67837970b424c6349a4652c890b83843a5d9b474b79e5566a"><strong>Name:</strong> Chia Slime #399</a></div>
+<div><strong>Collection:</strong> Chia Slimes</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs2:</strong> RockSpikes</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-GolemGray-565655</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Floor:</strong> Cave3-SW-M</div>
+<div><strong>Hidden Power:</strong> Defensive Aura</div>
+<div><strong>Mood:</strong> Confident-Left</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Sky:</strong> Foggy Night</div>
+<div><strong>Stickyness:</strong> 32</div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Weight:</strong> 68</div>
+<div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
+</div>
+<div class="item_thumbnail_detail">
 <img src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/4.png"><br/>
 <div><a href="https://www.spacescan.io/xch/coin/0x557f197c1dc552fdf5d7ccb9a5723bdc59987cefef35482025b1be952aeca165"><strong>Name:</strong> Chia Slime #4</a></div>
 <div><strong>Collection:</strong> Chia Slimes</div>
@@ -4909,6 +5029,106 @@ tags:
 <div><strong>Stickyness:</strong> 65</div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Weight:</strong> 46</div>
+<div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/400.png"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xe47e8dd157912ad9f154a3bfe3bce8a09ba552c352d493ffd4327e7c792b5108"><strong>Name:</strong> Chia Slime #400</a></div>
+<div><strong>Collection:</strong> Chia Slimes</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-GolemAsh-565655</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Floor:</strong> Cave2-SW</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Mood:</strong> Cocky-Left</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Stickyness:</strong> 1</div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Weight:</strong> 92</div>
+<div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/401.png"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x979ff7f5162880c3fd71baddacd0982c0eaa9ececab24580589712bcc5738576"><strong>Name:</strong> Chia Slime #401</a></div>
+<div><strong>Collection:</strong> Chia Slimes</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-GolemMith-0f1d4a-</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Floor:</strong> Cave4-WF</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Mood:</strong> Happy-Left</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Other Info:</strong> PS9</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Stickyness:</strong> 10</div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Weight:</strong> 79</div>
+<div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/402.png"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0xbadcf5a32d75dcc8d9c55c03dfe3c0993d9d559c916153b5546f483d0ec12114"><strong>Name:</strong> Chia Slime #402</a></div>
+<div><strong>Collection:</strong> Chia Slimes</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs2:</strong> FoundSomeTreasure</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-GolemGray-565655</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Floor:</strong> Cave2-SW</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Mood:</strong> Strong-Left</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Stickyness:</strong> 63</div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Weight:</strong> 22</div>
+<div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/403.png"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x24bfc8fef7ea6b62a8e8708dbf4e3bc18506fe54f84c053f50c6621d41329734"><strong>Name:</strong> Chia Slime #403</a></div>
+<div><strong>Collection:</strong> Chia Slimes</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-RockyBrown-5b482a</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Floor:</strong> Dirt</div>
+<div><strong>Hidden Power:</strong> Defensive Aura</div>
+<div><strong>Mood:</strong> Cocky-Left</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Stickyness:</strong> 19</div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Weight:</strong> 65</div>
+<div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
+</div>
+<div class="item_thumbnail_detail">
+<img src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/404.png"><br/>
+<div><a href="https://www.spacescan.io/xch/coin/0x5c9869fc8a9da2687f6813b23ffecd1739d1abcbe9df9338c931f2cb9aaba05e"><strong>Name:</strong> Chia Slime #404</a></div>
+<div><strong>Collection:</strong> Chia Slimes</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-RockyMuddy-725930</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Floor:</strong> Cave1</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Mood:</strong> Strong-Left</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Sky:</strong> Foggy Night</div>
+<div><strong>Stickyness:</strong> 4</div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Weight:</strong> 2</div>
 <div><strong>Description:</strong> Thematic slime drops on the Chia Blockchain!</div>
 </div>
 <div class="item_thumbnail_detail">

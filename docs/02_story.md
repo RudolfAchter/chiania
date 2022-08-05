@@ -96,9 +96,9 @@ The deers are slimed and injured. Some adventurers try to find some medicine to 
 The volunteers that were able to kill a slime monster investigeted them further and found monster nucleis where their heart should be. Just like the master druid said. they take monster nucleis from corpses of slimes, which could also be a prove of combat for exchanging the rewards from the master druid.
 <hr style="clear:both">
 
+![](https://cdn.discordapp.com/attachments/995496698086432838/1000325786554880030/Head_of_master_druid.png){class="story_pic_left"}
 ## The master druid was killed!
 
-![](https://cdn.discordapp.com/attachments/995496698086432838/1000325786554880030/Head_of_master_druid.png){class="story_pic_left"}
 The brave volunteers who got a monster nucleis went to the hut in the western woods where the master druid lives. They kocked at the door, nobody answered. They begun to search him. A few meters deeper in the woods they only found his corpse. The head of master druid was cut off and was threw five meter away from his body. "How master druid, a hemigod in Chiania, was killed?" More importantly, where's the reward of quest?
 
 <hr style="clear:both">
@@ -108,6 +108,12 @@ A jeweler passed by the Blacksmith Shop, he was attracted by the glowing Monster
 
 <hr style="clear:both">
 
+![](world/salvia/include/gate_of_viridis.png){class="story_pic_left";style="width:600px;"}
+## Defense of Viridis
+
+While the wizards of Viridis are investigating the murder of the master druid, the volunteers of the city are defending their homes at the gate of viridis. Together with the City Guards they are patroling at the gate and at the border of the black forest. The most brave and strong adventurers advance even further and push into the deep woods to clean it from dangerous monsters. Meanwhile the most talented craftsmen are making equipment for the volunteers to protect them from danger. Nobody thought at the peaceful land of Salvia that any kind of mercenaries would ever be needed again. But these monsters have to be faced against.
+
+<hr style="clear:both">
 ## The Story continues...
 
 To get the latest news in chiania go to certain places:
