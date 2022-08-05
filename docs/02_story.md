@@ -111,7 +111,7 @@ A jeweler passed by the Blacksmith Shop, he was attracted by the glowing Monster
 ![](world/salvia/include/gate_of_viridis.png){class="story_pic_left";style="width:600px;"}
 ## Defense of Viridis
 
-While the wizards of Viridis are investigating the murder of the master druid, the volunteers of the city are defending their homes at the gate of viridis. Together with the City Guards they are patroling at the gate and at the border of the black forest. The most brave and strong adventurers advance even further and push into the deep woods to clean it from dangerous monsters. Meanwhile the most talented craftsmen are making equipment for the volunteers to protect them from danger. Nobody thought at the peaceful land of Salvia that any kind of mercenaries would ever be needed again. But these monsters have to be faced against.
+While the wizards of Viridis are investigating the murder of the master druid, the volunteers of the city are defending their homes at the gate of viridis. Together with the City Guards they are patroling at the gate and at the border of the black forest. The most brave and strong adventurers advance even further and push into the deep woods to clean it from dangerous monsters. Meanwhile the most talented craftsmen are making [equipment](items/20_markets.md) for the volunteers to protect them from danger. Nobody thought at the peaceful land of Salvia that any kind of mercenaries would ever be needed again. But these monsters have to be faced against.
 
 <hr style="clear:both">
 ## The Story continues...
