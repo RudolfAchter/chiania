@@ -178,7 +178,7 @@ tags:
 <div><strong>Slash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<img src="https://mhrslttczhebs6uvexv4qlpj6tpqtom27eawplxiuhtt6npwwodq.arweave.net/YeMlzmLJyBl6lSXryC3p9N8JuZr5AWeu6KHnPzX2s4c"><br/>
+<img src="https://wysajenhpma4zibrrs6vus7bx56sn2sgezkmye6ct25rephgdu.arweave.net/t_iQEkad7AcygMYy9Wkvhv30m6kYmVMwTwp67EjzmHc"><br/>
 <div><strong>Collection:</strong> <a href="">Chia Inventory</a></div>
 <div><strong>Item Type:</strong> <a href="../90_ShortBow">Short Bow</a></div>
 <div><strong>Pierce:</strong> 2</div>
