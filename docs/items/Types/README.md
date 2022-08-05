@@ -25,4 +25,4 @@ The Data that belongs to these Items is a combination of Chia Blockchain Metadat
 There is some central DataSource needed for the attributes so that i can easily show them on this website.
 So far i collect attributes that i can generate from Blockchain Data and SpaceScan.io API.
 
-How Data is collected for the following pages is shown here: [Get-ChianiaItems_V4.ps1](https://github.com/RudolfAchter/ChiaShell/blob/master/Powershell/Scripts/Get-ChianiaItems_V4.ps1)
+How Data is collected for the following pages is shown here: [Get-ChianiaItems_V4.ps1](https://github.com/RudolfAchter/ChiaShell/blob/master/Powershell/Scripts/Get-ChianiaItems_V4.ps1). Raw Data is here [ChianiaItems.groupByItemType.json](../ChianiaItems.groupByItemType.json)
