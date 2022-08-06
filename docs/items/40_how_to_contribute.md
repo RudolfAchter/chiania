@@ -21,15 +21,15 @@ How Data is collected for the following pages is shown here: [Get-ChianiaItems_V
 Right now there are datasources in two GitHub repositories. We try to get this into as less datasources as possible. The lowest programming language independent common denominator would be [JSON](https://en.wikipedia.org/wiki/JSON) data format. It would be independent of programming language and can provide very well structured data. It could be used in a NoSQL Database like [MongoDB](https://www.mongodb.com/) as well as in a plain file.
 
 - [Chia-Inventory-The-Green-Whale/Chia-Inventory (official chiania repository)](https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory)
-  - look in [item_list.py](https://raw.githubusercontent.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/main/item_list.py) to see how Items are put into Categories
-  - in [attributes_assign.py](https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/blob/main/attribute_assign.py) you can contribute what ingame attributes should be assigned to the items
-  - in [level_eq.csv](https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/blob/main/level_eq.csv) you can see how equipment stats scale with your character level. These scales are calculated from [attribute_assign.py](https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/blob/main/attribute_assign.py)
-  - in [monster.py](https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/blob/main/monster.py) you can contribute your ideas for monsters.
+    - look in [item_list.py](https://raw.githubusercontent.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/main/item_list.py) to see how Items are put into Categories
+    - in [attributes_assign.py](https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/blob/main/attribute_assign.py) you can contribute what ingame attributes should be assigned to the items
+    - in [level_eq.csv](https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/blob/main/level_eq.csv) you can see how equipment stats scale with your character level. These scales are calculated from [attribute_assign.py](https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/blob/main/attribute_assign.py)
+    - in [monster.py](https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/blob/main/monster.py) you can contribute your ideas for monsters.
 - [RudolfAchter/chiania (repository of this website)](https://github.com/RudolfAchter/chiania)
-  - data is in [config](https://github.com/RudolfAchter/chiania/tree/main/config) directory
-  - in [nft_collections.json](https://github.com/RudolfAchter/chiania/blob/main/config/nft_collections.json) you can contribute your collections
-  - in [nft_name_patterns.json](https://github.com/RudolfAchter/chiania/blob/main/config/nft_name_patterns.json) are regular expresssions which define with which name patterns collections of items of the same type are recognized
-  - in [nft_type_patterns.json](https://github.com/RudolfAchter/chiania/blob/main/config/nft_type_patterns.json) is defined how item collections by name are recognized in which equipment category they belong to (Weapon, Armor, Herb, Ring, Shield, and so on...)
+    - data is in [config](https://github.com/RudolfAchter/chiania/tree/main/config) directory
+    - in [nft_collections.json](https://github.com/RudolfAchter/chiania/blob/main/config/nft_collections.json) you can contribute your collections
+    - in [nft_name_patterns.json](https://github.com/RudolfAchter/chiania/blob/main/config/nft_name_patterns.json) are regular expresssions which define with which name patterns collections of items of the same type are recognized
+    - in [nft_type_patterns.json](https://github.com/RudolfAchter/chiania/blob/main/config/nft_type_patterns.json) is defined how item collections by name are recognized in which equipment category they belong to (Weapon, Armor, Herb, Ring, Shield, and so on...)
 
 **Files can change in progress of development...**
 
