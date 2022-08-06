@@ -285,6 +285,10 @@ div.item_maximized {
   scrollbar-width: thin;
 }
 
+div.item_maximized img {
+  float: left;
+}
+
 div.item_type_thumbnail {
   width:300px; height:400px; 
   float:left;

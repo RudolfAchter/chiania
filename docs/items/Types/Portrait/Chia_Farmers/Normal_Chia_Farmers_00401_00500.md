@@ -9,9 +9,9 @@ tags:
 
 # Chia Farmers - Normal (401 - 500)
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0401.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0401.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #401</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Hotpink</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -25,9 +25,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0402.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0402.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #402</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Citron</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -41,9 +41,9 @@ tags:
 <div><strong>Expression:</strong> Gloomy</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0403.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0403.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #403</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Cyan</div>
@@ -57,9 +57,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0404.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0404.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #404</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> MistViolet</div>
 <div><strong>Skin:</strong> Green</div>
@@ -73,9 +73,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0405.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0405.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #405</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Cyan</div>
@@ -89,9 +89,9 @@ tags:
 <div><strong>Expression:</strong> Boring</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0406.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0406.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #406</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Citron</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -105,9 +105,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0407.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0407.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #407</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Purple</div>
 <div><strong>Skin:</strong> PaleMauve</div>
@@ -121,9 +121,9 @@ tags:
 <div><strong>Expression:</strong> Gloomy</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0408.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0408.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #408</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Grey</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -137,9 +137,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0409.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0409.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #409</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Ultramarine</div>
 <div><strong>Skin:</strong> Narcissus</div>
@@ -153,9 +153,9 @@ tags:
 <div><strong>Expression:</strong> Gloomy</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0410.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0410.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #410</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Jasmine</div>
@@ -169,9 +169,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0411.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0411.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #411</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Citron</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -185,9 +185,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0412.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0412.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #412</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Grey</div>
 <div><strong>Skin:</strong> Narcissus</div>
@@ -201,9 +201,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0413.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0413.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #413</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Hotpink</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -217,9 +217,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0414.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0414.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #414</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Purple</div>
 <div><strong>Skin:</strong> DarkPurple</div>
@@ -233,9 +233,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0415.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0415.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #415</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Grey</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -249,9 +249,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0416.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0416.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #416</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Cry</div>
@@ -265,9 +265,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0417.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0417.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #417</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Purple</div>
 <div><strong>Skin:</strong> Green</div>
@@ -281,9 +281,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0418.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0418.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #418</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Purple</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -297,9 +297,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0419.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0419.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #419</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -313,9 +313,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0420.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0420.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #420</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Russet</div>
 <div><strong>Skin:</strong> Narcissus</div>
@@ -329,9 +329,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0421.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0421.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #421</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Narcissus</div>
@@ -345,9 +345,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0422.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0422.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #422</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Citron</div>
 <div><strong>Skin:</strong> Gold</div>
@@ -361,9 +361,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0423.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0423.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #423</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -377,9 +377,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0424.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0424.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #424</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Honey Orange</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -393,9 +393,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0425.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0425.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #425</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Jasmine</div>
@@ -409,9 +409,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0426.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0426.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #426</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -425,9 +425,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0427.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0427.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #427</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Ultramarine</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -441,9 +441,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0428.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0428.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #428</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Grey</div>
 <div><strong>Skin:</strong> Narcissus</div>
@@ -457,9 +457,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0429.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0429.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #429</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Hotpink</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -473,9 +473,9 @@ tags:
 <div><strong>Expression:</strong> Boring</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0430.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0430.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #430</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Brown</div>
 <div><strong>Skin:</strong> Gold</div>
@@ -489,9 +489,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0431.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0431.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #431</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Hotpink</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -505,9 +505,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0432.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0432.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #432</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Honey Orange</div>
 <div><strong>Skin:</strong> Gold</div>
@@ -521,9 +521,9 @@ tags:
 <div><strong>Expression:</strong> Boring</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0433.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0433.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #433</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Honey Orange</div>
 <div><strong>Skin:</strong> Cyan</div>
@@ -537,9 +537,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0434.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0434.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #434</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Purple</div>
 <div><strong>Skin:</strong> Cyan</div>
@@ -553,9 +553,9 @@ tags:
 <div><strong>Expression:</strong> Boring</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0435.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0435.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #435</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Purple</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -569,9 +569,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0436.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0436.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #436</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Citron</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -585,9 +585,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0437.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0437.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #437</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Brown</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -601,9 +601,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0438.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0438.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #438</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Brown</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -617,9 +617,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0439.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0439.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #439</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -633,9 +633,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0440.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0440.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #440</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Grey</div>
 <div><strong>Skin:</strong> Narcissus</div>
@@ -649,9 +649,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0441.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0441.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #441</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Citron</div>
 <div><strong>Skin:</strong> Cyan</div>
@@ -665,9 +665,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0442.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0442.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #442</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Hotpink</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -681,9 +681,9 @@ tags:
 <div><strong>Expression:</strong> Boring</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0443.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0443.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #443</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Purple</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -697,9 +697,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0444.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0444.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #444</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Grey</div>
 <div><strong>Skin:</strong> Narcissus</div>
@@ -713,9 +713,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0445.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0445.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #445</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> MistViolet</div>
 <div><strong>Skin:</strong> Gold</div>
@@ -729,9 +729,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0446.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0446.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #446</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Citron</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -745,9 +745,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0447.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0447.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #447</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Honey Orange</div>
 <div><strong>Skin:</strong> Gold</div>
@@ -761,9 +761,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0448.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0448.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #448</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Purple</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -777,9 +777,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0449.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0449.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #449</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Gold</div>
@@ -793,9 +793,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0450.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0450.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #450</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Ultramarine</div>
 <div><strong>Skin:</strong> Narcissus</div>
@@ -809,9 +809,9 @@ tags:
 <div><strong>Expression:</strong> Boring</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0451.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0451.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #451</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> DarkPurple</div>
@@ -825,9 +825,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0452.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0452.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #452</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Citron</div>
 <div><strong>Skin:</strong> Cyan</div>
@@ -841,9 +841,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0453.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0453.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #453</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Brown</div>
 <div><strong>Skin:</strong> Jasmine</div>
@@ -857,9 +857,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0454.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0454.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #454</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Citron</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -873,9 +873,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0455.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0455.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #455</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Cry</div>
@@ -889,9 +889,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0456.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0456.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #456</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Jasmine</div>
@@ -905,9 +905,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0457.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0457.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #457</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -921,9 +921,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0458.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0458.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #458</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Brown</div>
 <div><strong>Skin:</strong> Green</div>
@@ -937,9 +937,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0459.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0459.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #459</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -953,9 +953,9 @@ tags:
 <div><strong>Expression:</strong> Gloomy</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0460.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0460.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #460</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Jasmine</div>
@@ -969,9 +969,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0461.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0461.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #461</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Green</div>
@@ -985,9 +985,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0462.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0462.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #462</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Brown</div>
 <div><strong>Skin:</strong> Gold</div>
@@ -1001,9 +1001,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0463.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0463.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #463</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Hotpink</div>
 <div><strong>Skin:</strong> Gold</div>
@@ -1017,9 +1017,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0464.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0464.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #464</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -1033,9 +1033,9 @@ tags:
 <div><strong>Expression:</strong> Gloomy</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0465.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0465.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #465</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Citron</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -1049,9 +1049,9 @@ tags:
 <div><strong>Expression:</strong> Boring</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0466.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0466.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #466</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Green</div>
@@ -1065,9 +1065,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0467.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0467.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #467</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Hotpink</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -1081,9 +1081,9 @@ tags:
 <div><strong>Expression:</strong> Boring</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0468.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0468.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #468</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Ultramarine</div>
 <div><strong>Skin:</strong> Green</div>
@@ -1097,9 +1097,9 @@ tags:
 <div><strong>Expression:</strong> Boring</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0469.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0469.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #469</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Purple</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -1113,9 +1113,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0470.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0470.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #470</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Honey Orange</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -1129,9 +1129,9 @@ tags:
 <div><strong>Expression:</strong> Boring</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0471.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0471.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #471</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Honey Orange</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -1145,9 +1145,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0472.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0472.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #472</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Russet</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -1161,9 +1161,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0473.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0473.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #473</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Grey</div>
 <div><strong>Skin:</strong> Green</div>
@@ -1177,9 +1177,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0474.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0474.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #474</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -1193,9 +1193,9 @@ tags:
 <div><strong>Expression:</strong> Gloomy</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0475.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0475.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #475</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Cyan</div>
@@ -1209,9 +1209,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0476.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0476.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #476</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Brown</div>
 <div><strong>Skin:</strong> Narcissus</div>
@@ -1225,9 +1225,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0477.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0477.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #477</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -1241,9 +1241,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0478.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0478.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #478</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Grey</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -1257,9 +1257,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0479.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0479.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #479</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Hotpink</div>
 <div><strong>Skin:</strong> Gold</div>
@@ -1273,9 +1273,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0480.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0480.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #480</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Jasmine</div>
@@ -1289,9 +1289,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0481.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0481.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #481</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Brown</div>
 <div><strong>Skin:</strong> Green</div>
@@ -1305,9 +1305,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0482.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0482.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #482</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Cyan</div>
@@ -1321,9 +1321,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0483.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0483.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #483</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Ultramarine</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -1337,9 +1337,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0484.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0484.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #484</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Jasmine</div>
@@ -1353,9 +1353,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0485.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0485.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #485</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Grey</div>
 <div><strong>Skin:</strong> Vermeil</div>
@@ -1369,9 +1369,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0486.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0486.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #486</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -1385,9 +1385,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0487.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0487.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #487</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Purple</div>
 <div><strong>Skin:</strong> DarkPurple</div>
@@ -1401,9 +1401,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0488.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0488.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #488</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Brown</div>
 <div><strong>Skin:</strong> Jasmine</div>
@@ -1417,9 +1417,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0489.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0489.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #489</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Hotpink</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -1433,9 +1433,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0490.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0490.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #490</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Ultramarine</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -1449,9 +1449,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0491.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0491.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #491</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Hotpink</div>
 <div><strong>Skin:</strong> Cry</div>
@@ -1465,9 +1465,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0492.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0492.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #492</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Narcissus</div>
@@ -1481,9 +1481,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0493.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0493.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #493</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Hotpink</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -1497,9 +1497,9 @@ tags:
 <div><strong>Expression:</strong> Gloomy</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0494.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0494.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #494</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Brown</div>
 <div><strong>Skin:</strong> Turquoise</div>
@@ -1513,9 +1513,9 @@ tags:
 <div><strong>Expression:</strong> none</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0495.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0495.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #495</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Grey</div>
 <div><strong>Skin:</strong> Cry</div>
@@ -1529,9 +1529,9 @@ tags:
 <div><strong>Expression:</strong> Gloomy</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0496.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0496.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #496</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Citron</div>
 <div><strong>Skin:</strong> Cyan</div>
@@ -1545,9 +1545,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0497.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0497.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #497</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Grey</div>
 <div><strong>Skin:</strong> Narcissus</div>
@@ -1561,9 +1561,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0498.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0498.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #498</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Purple</div>
 <div><strong>Skin:</strong> Narcissus</div>
@@ -1577,9 +1577,9 @@ tags:
 <div><strong>Expression:</strong> Jubilant</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0499.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0499.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #499</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Hotpink</div>
 <div><strong>Skin:</strong> CeruleanBlue</div>
@@ -1593,9 +1593,9 @@ tags:
 <div><strong>Expression:</strong> Shyness</div>
 </div>
 <div class="item_thumbnail">
-<a href="#"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0500.png"></a><br/>
+<img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/0500.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #500</div>
-<div><strong>Item Type:</strong> <a href="#">Chia Farmers</a></div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 <div><strong>Background:</strong> Pink</div>
 <div><strong>Skin:</strong> Vermeil</div>
