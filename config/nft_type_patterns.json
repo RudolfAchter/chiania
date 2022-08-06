@@ -54,5 +54,10 @@
     "patterns": [
       ".* Armor"
     ]
+  },
+  "Portrait":{
+    "patterns": [
+      "Chia Farmers"
+    ]
   }
 }

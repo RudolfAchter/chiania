@@ -11,7 +11,7 @@ curl "https://dexie.space/v1/offers?offered=col1syclna803y6h3zl24fwswk0thmm7ad84
 
 $Global:ChiaShell
 
-$srcDir="~/git/chiania/src"
+#$srcDir="~/git/chiania/src"
 $configDir="~/git/chiania/config"
 $itemsDir="~/git/chiania/docs/items"
 $logPath="~/Documents/chiania_items.log"
@@ -52,7 +52,7 @@ if(-not (Test-Path $collectionConfigFile)){$a_collections | ConvertTo-Json -Dept
 $a_collections=Get-Content $collectionConfigFile -Encoding UTF8 | ConvertFrom-Json -Depth 5
 
 
-
+$k=0
 $totalData=$a_collections | ForEach-Object {
     $coll=$_
     #$collData=Invoke-RestMethod -Uri ("https://api2.spacescan.io/api/nft/collection/" + $coll.collection_id + "?x-auth-id=" + $h_config.spacescan.apiKey + "&coin=xch&page=1&count=40&version=1")
@@ -61,27 +61,34 @@ $totalData=$a_collections | ForEach-Object {
     $count=40
     $version=1
 
+    Write-Progress -Id 1 -Activity "Getting Collection Data from SpaceScan" -Status ("collection $k of " + $a_collections.count) -PercentComplete ($k / $a_collections.count * 100)
     do{
-        $collData=Invoke-RestMethod -Uri ("https://api2.spacescan.io/api/nft/collection/" + $coll.collection_id + "?x-auth-id=" + $h_config.spacescan.apiKey + "&coin=xch&page=$page&count=$count&version=$version")
+        $collData=Invoke-RestMethod -Uri ("https://api2.spacescan.io/api/nft/collection/" + $coll.collection_id + "?x-auth-id=" + $h_config.spacescan.apiKey + "&coin=xch&page=$page&count=$count&version=$version") -TimeoutSec 2
         $dat=$null
         if($collData.status -eq "success"){
             $collData.data | ForEach-Object {
                 $dat=$_
                 $collCount=$dat.count
                 #Ausgabe
-                Out-File -FilePath $logPath -InputObject ($dat.meta_info.name + ": " + $i + " of " + $collCount) -Append
+                Write-Progress -Id 2 -Activity "Getting NFTs from Collection" -Status ("NFT $i of " + $collCount + " : " + $dat.meta_info.name + " : " + $dat.nft_id) -PercentComplete ($i / $collcount * 100)
+                Out-File -FilePath $logPath -InputObject ((Get-Date -Format "yyyy-MM-dd HH:mm:ss") + $dat.meta_info.name + ": " + $dat.nft_id + ": " + $i + " of " + $collCount) -Append
                 $dat
                 #zählen
                 $i++
             }
         }
         else{
-            $collData
+            Write-Warning("Error:" + ("https://api2.spacescan.io/api/nft/collection/" + $coll.collection_id + "?x-auth-id=" + $h_config.spacescan.apiKey + "&coin=xch&page=$page&count=$count&version=$version"))
+            $i=$page * $count
+            Write-Progress -Id 2 -Activity "Getting NFTs from Collection" -Status ("Nft $i of " + $collCount + " : ---") -PercentComplete ($i / $collcount * 100)
         }
         $page++
     }while($i -lt $collCount)
+    Write-Progress -Id 2 -Activity "Getting NFTs from Collection" -Status ("NFT $i of " + $collCount + " : " + $dat.meta_info.name + " : " + $dat.nft_id) -Completed
     #}while($false)
+    $k++
 }
+Write-Progress -Id 1 -Activity "Getting Collection Data from SpaceScan" -Status ("collection $k of " + $a_collections.count) -Completed
 
 #Vertrannte Items müssen weg
 #$totalData | Where-Object {$_.meta_info.name -like "Khopesh 01"} | Select-Object {$_.meta_info.name},{$_.owner_hash}
@@ -256,7 +263,7 @@ tags:
             $o_itemPrefix.Value.GetEnumerator() | Select-Object -Last 1 | ForEach-Object{
                 $indexItem=$_.Value
                 $out+='<div class="item_type_thumbnail">' + "`r`n"
-                $out+='<a href="../../Types/'+ $itemCategoryName + '/' + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_')+ "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "" +'"><img src="' + $indexItem.item_uri + '"></a><br/>' + "`r`n"
+                $out+='<a href="../../Types/'+ $itemCategoryName + '/' + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_')+ "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "" +'"><img loading="lazy" src="' + $indexItem.item_uri + '"></a><br/>' + "`r`n"
                 $out += '<div><strong>' + "Item Type" + ':</strong> <a href="../../Types/'+ $itemCategoryName + '/' + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_')+ "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "" +'">' + $indexItem.ItemType + '</a></div>' + "`r`n"
                 $out += '<div><strong>' + "Collection" + ':</strong> <a href="https://www.spacescan.io/xch/nft/collection/' + $indexItem.collection_id +'">' + $indexItem.Collection + '</a></div>' + "`r`n"
                 <#
@@ -280,12 +287,15 @@ tags:
 }
 
 #ItemType Indexes
+$i=0
 
+$itemCategoryCount=($itemList.GetEnumerator() | Measure-Object).Count
 
 $itemList.GetEnumerator() | ForEach-Object {
-
     $o_itemCategory=$_
     $itemCategoryName=$o_itemCategory.Name
+
+    Write-Progress -Id 1 -Activity "Writing Item Categories" -Status "$i of $itemCategoryCount" -PercentComplete ($i / $itemCategoryCount * 100)
 
     $o_itemCategory.Value.GetEnumerator() | ForEach-Object {
 
@@ -313,14 +323,21 @@ tags:
             New-Item -Path $itemTypePath -ItemType Directory | Out-Null
         }
 
+        $itemTypeCount=($o_itemType.Value.GetEnumerator() | Measure-Object).Count
+
         #Render First Item of Each itemType for Preview
+        $j=0
         $o_itemType.Value.GetEnumerator() | ForEach-Object{
             $o_itemPrefix=$_
             $out+="## " + $o_itemPrefix.Name + "`r`n`r`n"
+
+            $indexItemCount=($o_itemPrefix.Value.GetEnumerator() | Measure-Object).Count
+            $k=0
             $o_itemPrefix.Value.GetEnumerator() | ForEach-Object{
                 $indexItem=$_.Value
+                Write-Progress -Id 2 -Activity "Writing Items" -Status ("$k of $indexItemCount") -PercentComplete ($k / $indexItemCount * 100)
                 $out+='<div class="item_thumbnail">' + "`r`n"
-                $out+='<a href="../../../'+ $itemCategoryName + '/' + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_')+ "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "" +'"><img src="' + $indexItem.item_uri + '"></a><br/>' + "`r`n"
+                $out+='<a href="../../../'+ $itemCategoryName + '/' + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_')+ "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "" +'"><img loading="lazy" src="' + $indexItem.item_uri + '"></a><br/>' + "`r`n"
                 $out += '<div><strong>' + "Name" + ':</strong> ' + $indexItem.Name + '</div>' + "`r`n"
                 $out += '<div><strong>' + "Item Type" + ':</strong> <a href="../../../'+ $itemCategoryName + '/' + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_')+ "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "" +'">' + $indexItem.ItemType + '</a></div>' + "`r`n"
                 $out += '<div><strong>' + "Collection" + ':</strong> <a href="https://www.spacescan.io/xch/nft/collection/' + $indexItem.collection_id +'">' + $indexItem.Collection + '</a></div>' + "`r`n"
@@ -330,11 +347,16 @@ tags:
                 }
 
                 $out+='</div>' + "`r`n"
+                $k++
             }
+            Write-Progress -Id 2 -Activity "Writing Items" -Status ("$k of $indexItemCount") -Completed
             $out+='<hr style="clear:both;"/>' + "`r`n"
+            $j++
         }
 
         $out | Out-File -FilePath ($itemTypePath + "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + ".md")
     }
+    $i++
 }
 
+Write-Progress -Id 1 -Activity "Writing Item Categories" -Status "$i of $itemCategoryCount" -Completed
