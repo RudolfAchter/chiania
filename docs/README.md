@@ -178,7 +178,7 @@ Go to the [registration-counter in the adventurers guild](https://discord.com/ch
 
 ### Look which items you can use for Chiania
 
-- [Item Types](http://0.0.0.0:8082/chiania/public/items/50_types/)
+- [Item Types](items/Types/README.md)
 
 ### Ask for Offers on Discord
 
