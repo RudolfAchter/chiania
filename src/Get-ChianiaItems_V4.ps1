@@ -124,6 +124,8 @@ $patternsFile=$configDir + "/" + "nft_name_patterns.json"
 if(-not (Test-Path -Path $patternsFile)){$patterns | ConvertTo-Json | Out-File -FilePath $patternsfile -Encoding UTF8}
 $patterns=Get-Content -Path $patternsFile -Encoding UTF8 | ConvertFrom-Json
 
+#THESE ARE ONLY EXAMPLES!!! Configure in nft_type_patterns.json
+
 $h_typePatterns=@{
     'Armor'  = @{
         patterns = @('.* Armor')
@@ -138,9 +140,8 @@ $h_typePatterns=@{
         patterns = @('snail','Chia Slime')
     }
     'Weapon' = @{
-        patterns = @('Catapult','Halberd','Khopesh','Knife','Sword','.* Axe','Axe',
-                     '.* Bow','Bow','Stone','.* Club','Club','Enhanced Tree Root',
-                     'Chiania Long Arm Blade')
+        patterns = @('Chiania Long Arm Blade','Catapult','Halberd','Khopesh','Knife','Sword','.* Axe','Axe',
+                     '.* Bow','Bow','Stone','.* Club','Club','Enhanced Tree Root')
     }
     'Ring' = @{
         patterns = @('.* Ring','Ring')
@@ -169,8 +170,8 @@ $totalData | ForEach-Object {
 
         $match=$null
         ForEach($pattern in $patterns){
-            if($item.meta_info.name -match $pattern){
-                $match=Select-String -InputObject $item.meta_info.name -Pattern $pattern
+            if($item.meta_info.name.Trim() -match $pattern){
+                $match=Select-String -InputObject $item.meta_info.name.Trim() -Pattern $pattern
                 [string]$prefix=$match.Matches[0].Groups[1].Value.Trim()
                 [string]$itemType=$match.Matches[0].Groups[2].Value.Trim()
                 #when Pattern has matched abort here
