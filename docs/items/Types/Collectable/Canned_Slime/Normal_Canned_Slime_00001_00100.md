@@ -1,7 +1,7 @@
 ---
 title: Canned Slime - Normal (1 - 100)
 description: Canned Slime Items in Chia Inventory
-date: 2022-08-06
+date: 2022-08-07
 tags:
     - NFT
     - Items

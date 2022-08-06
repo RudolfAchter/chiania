@@ -1,7 +1,7 @@
 ---
 title: Cloth Armor - Normal (101 - 200)
 description: Cloth Armor Items in Chia Inventory
-date: 2022-08-06
+date: 2022-08-07
 tags:
     - NFT
     - Items
