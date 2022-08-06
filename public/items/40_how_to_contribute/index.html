@@ -2897,16 +2897,20 @@ So far i collect attributes that i can generate from Blockchain Data and SpaceSc
 <h2 id="how-to-contribute-my-nft-data">How to contribute my NFT data</h2>
 <p>Right now there are datasources in two GitHub repositories. We try to get this into as less datasources as possible. The lowest programming language independent common denominator would be <a href="https://en.wikipedia.org/wiki/JSON">JSON</a> data format. It would be independent of programming language and can provide very well structured data. It could be used in a NoSQL Database like <a href="https://www.mongodb.com/">MongoDB</a> as well as in a plain file.</p>
 <ul>
-<li><a href="https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory">Chia-Inventory-The-Green-Whale/Chia-Inventory (official chiania repository)</a></li>
+<li><a href="https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory">Chia-Inventory-The-Green-Whale/Chia-Inventory (official chiania repository)</a><ul>
 <li>look in <a href="https://raw.githubusercontent.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/main/item_list.py">item_list.py</a> to see how Items are put into Categories</li>
 <li>in <a href="https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/blob/main/attribute_assign.py">attributes_assign.py</a> you can contribute what ingame attributes should be assigned to the items</li>
 <li>in <a href="https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/blob/main/level_eq.csv">level_eq.csv</a> you can see how equipment stats scale with your character level. These scales are calculated from <a href="https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/blob/main/attribute_assign.py">attribute_assign.py</a></li>
 <li>in <a href="https://github.com/Chia-Inventory-The-Green-Whale/Chia-Inventory/blob/main/monster.py">monster.py</a> you can contribute your ideas for monsters.</li>
-<li><a href="https://github.com/RudolfAchter/chiania">RudolfAchter/chiania (repository of this website)</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/RudolfAchter/chiania">RudolfAchter/chiania (repository of this website)</a><ul>
 <li>data is in <a href="https://github.com/RudolfAchter/chiania/tree/main/config">config</a> directory</li>
 <li>in <a href="https://github.com/RudolfAchter/chiania/blob/main/config/nft_collections.json">nft_collections.json</a> you can contribute your collections</li>
 <li>in <a href="https://github.com/RudolfAchter/chiania/blob/main/config/nft_name_patterns.json">nft_name_patterns.json</a> are regular expresssions which define with which name patterns collections of items of the same type are recognized</li>
 <li>in <a href="https://github.com/RudolfAchter/chiania/blob/main/config/nft_type_patterns.json">nft_type_patterns.json</a> is defined how item collections by name are recognized in which equipment category they belong to (Weapon, Armor, Herb, Ring, Shield, and so on...)</li>
+</ul>
+</li>
 </ul>
 <p><strong>Files can change in progress of development...</strong></p>
 <p>All contributions should be done by making a <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks">code fork</a> and sending <a href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request">Pull Requests</a></p>
