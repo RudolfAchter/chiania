@@ -280,9 +280,14 @@ tags:
             $o_itemPrefix=$_
             $o_itemPrefix.Value.GetEnumerator() | Select-Object -Last 1 | ForEach-Object{
                 $indexItem=$_.Value
+                $itemStart=1
+                $itemEnd=$itemStart + ($itemsPerPage - 1)
+                $firstItemLink = '../../Types/'+ $itemCategoryName + '/' + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_')+ "/"+ 
+                    ($o_itemPrefix.Name  -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') +
+                    ("{0:d5}" -f $itemStart) + "_" + ("{0:d5}" -f $itemEnd) + ".md"
                 $out+='<div class="item_type_thumbnail">' + "`r`n"
-                $out+='<a href="../../Types/'+ $itemCategoryName + '/' + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_')+ "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "" +'"><img loading="lazy" src="' + $indexItem.item_uri + '"></a><br/>' + "`r`n"
-                $out += '<div><strong>' + "Item Type" + ':</strong> <a href="../../Types/'+ $itemCategoryName + '/' + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_')+ "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "" +'">' + $indexItem.ItemType + '</a></div>' + "`r`n"
+                $out+='<a href="' + $firstItemLink + '"><img loading="lazy" src="' + $indexItem.item_uri + '"></a><br/>' + "`r`n"
+                $out += '<div><strong>' + "Item Type" + ':</strong> <a href="' + $firstItemLink  + '">' + $indexItem.ItemType + '</a></div>' + "`r`n"
                 $out += '<div><strong>' + "Collection" + ':</strong> <a href="https://www.spacescan.io/xch/nft/collection/' + $indexItem.collection_id +'">' + $indexItem.Collection + '</a></div>' + "`r`n"
                 <#
                 ForEach ($attr in $indexItem.attributes){
