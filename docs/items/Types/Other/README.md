@@ -9,13 +9,13 @@ tags:
 
 # Category - Other
 <div class="item_type_thumbnail">
-<a href="../../Types/Other/Magic_Root/Magic_Root"><img loading="lazy" src="https://g3besa3udzok3iz4dbboefkpzxwny462bwqf4oasrbmmenz3aa.arweave.net/NsJJA3QeXK2jPBhC4hVPzezcc9oNoF44EohYwjc7-AM"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Other/Magic_Root/Magic_Root">Magic Root</a></div>
+<a href="../../Types/Other/Magic_Root/Normal/Magic_Root00001_00100.md"><img loading="lazy" src="https://g3besa3udzok3iz4dbboefkpzxwny462bwqf4oasrbmmenz3aa.arweave.net/NsJJA3QeXK2jPBhC4hVPzezcc9oNoF44EohYwjc7-AM"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Other/Magic_Root/Normal/Magic_Root00001_00100.md">Magic Root</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Other/Shadow_Sword/Shadow_Sword"><img loading="lazy" src="https://gtzefsfwqsityt2axdlopvhheygq4sd5i5vzyaggaqxcqdfed4nq.arweave.net/NPJCyLaEkTxPQLjW59TnJg0OSH1Ha5wAxgQuKAykHxs"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Other/Shadow_Sword/Shadow_Sword">Shadow Sword</a></div>
+<a href="../../Types/Other/Shadow_Sword/Normal/Shadow_Sword00001_00100.md"><img loading="lazy" src="https://gtzefsfwqsityt2axdlopvhheygq4sd5i5vzyaggaqxcqdfed4nq.arweave.net/NPJCyLaEkTxPQLjW59TnJg0OSH1Ha5wAxgQuKAykHxs"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Other/Shadow_Sword/Normal/Shadow_Sword00001_00100.md">Shadow Sword</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 

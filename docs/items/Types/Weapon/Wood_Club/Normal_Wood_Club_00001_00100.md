@@ -16,16 +16,16 @@ tags:
 <div><strong>Bash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Weapon/Wood_Club/Wood_Club"><img loading="lazy" src="https://a3cnvns5xwt4zt2pfvizrms3p4hfnvieypsrai7o7uor3ai.arweave.net/BsTatl2_9p8zPTy1RmLJbfw_5W1Q_TD5R_Aj7v0dHYE"></a><br/>
-<div><strong>Name:</strong> Wood Club 02</div>
-<div><strong>Item Type:</strong> <a href="../../../Weapon/Wood_Club/Wood_Club">Wood Club</a></div>
+<a href="../../../Weapon/Wood_club/Wood_club"><img loading="lazy" src="https://3ug7tb4bjnc4k5ljoaeb42levwmwklkqjlyyoiwvbmankfvi.arweave.net/3Q35h4FLRcV1aXAIHmlkrZllLVBK8Yc_i1QsA1Rao-g"></a><br/>
+<div><strong>Name:</strong> Wood club 02</div>
+<div><strong>Item Type:</strong> <a href="../../../Weapon/Wood_club/Wood_club">Wood club</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Bash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Weapon/Wood_club/Wood_club"><img loading="lazy" src="https://3ug7tb4bjnc4k5ljoaeb42levwmwklkqjlyyoiwvbmankfvi.arweave.net/3Q35h4FLRcV1aXAIHmlkrZllLVBK8Yc_i1QsA1Rao-g"></a><br/>
-<div><strong>Name:</strong> Wood club 02</div>
-<div><strong>Item Type:</strong> <a href="../../../Weapon/Wood_club/Wood_club">Wood club</a></div>
+<a href="../../../Weapon/Wood_Club/Wood_Club"><img loading="lazy" src="https://a3cnvns5xwt4zt2pfvizrms3p4hfnvieypsrai7o7uor3ai.arweave.net/BsTatl2_9p8zPTy1RmLJbfw_5W1Q_TD5R_Aj7v0dHYE"></a><br/>
+<div><strong>Name:</strong> Wood Club 02</div>
+<div><strong>Item Type:</strong> <a href="../../../Weapon/Wood_Club/Wood_Club">Wood Club</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Bash:</strong> 2</div>
 </div>

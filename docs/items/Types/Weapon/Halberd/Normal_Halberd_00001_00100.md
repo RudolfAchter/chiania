@@ -69,6 +69,12 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
+<a href="../../../Weapon/Halberd/Halberd"><img loading="lazy" src="https://rzydim5jdvckrthjfkyiidv5zdtk3s5kt2wjim7jdeqghpie.arweave.net/jnA0M6kd_RKjM6SqwhA69yOaty6-qerJQz6RkgY70EM"></a><br/>
+<div><strong>Name:</strong> Halberd 11</div>
+<div><strong>Item Type:</strong> <a href="../../../Weapon/Halberd/Halberd">Halberd</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
 <a href="../../../Weapon/Halberd/Halberd"><img loading="lazy" src="https://b7nvlomuhwm45koetsmnt4plyefrbf3xdq6foybeay2jbetv.arweave.net/D9tVuZQ9mc6pxJyY2fHrwQsQl-3ccPFdgJAY-0kJJ1A"></a><br/>
 <div><strong>Name:</strong> Halberd 12</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Halberd/Halberd">Halberd</a></div>
@@ -107,12 +113,6 @@ tags:
 <div class="item_thumbnail">
 <a href="../../../Weapon/Halberd/Halberd"><img loading="lazy" src="https://cz5xi5hr4wyhxlg22bgm7g2b62vy7tt4uac5o6icvqtx5iyx.arweave.net/Fnt0d_PHlsHus2tBMz5tB9quPznygBdd5AqwnfqMX-w"></a><br/>
 <div><strong>Name:</strong> Halberd 18</div>
-<div><strong>Item Type:</strong> <a href="../../../Weapon/Halberd/Halberd">Halberd</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Weapon/Halberd/Halberd"><img loading="lazy" src="https://zdziqzrtkxr54b4v2w57luqgfgrbabiol6nobricgxt2umjvem.arweave.net/yPKI_ZjNV494HldW79dIGKaIQBQ5fmuDFAjXnqjE1I8"></a><br/>
-<div><strong>Name:</strong> Halberd 19</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Halberd/Halberd">Halberd</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
@@ -185,6 +185,12 @@ tags:
 <div class="item_thumbnail">
 <a href="../../../Weapon/Halberd/Halberd"><img loading="lazy" src="https://3u25ljbuy3kxdedj4xytfmswtkydjcylsmsqm5zu3nuggbendg6a.arweave.net/3TXVpDTG1XGQaeXxMrJWmrA0iwuTJQZ3NNtoYwSNGbw"></a><br/>
 <div><strong>Name:</strong> Halberd 31</div>
+<div><strong>Item Type:</strong> <a href="../../../Weapon/Halberd/Halberd">Halberd</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Weapon/Halberd/Halberd"><img loading="lazy" src="https://pn7fiushcv2hpxxey6tdhvw7ffz7q5uevcwefmj4vya6ccro.arweave.net/e35UUkcVdHfe5MemM9bfKXP4doSorEKxPK4B4__Qouo"></a><br/>
+<div><strong>Name:</strong> Halberd 32</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Halberd/Halberd">Halberd</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
