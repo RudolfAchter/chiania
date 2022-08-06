@@ -9,8 +9,13 @@ tags:
 
 # Category - Other
 <div class="item_type_thumbnail">
-<a href="../../Types/Other/Catapult/Catapult"><img loading="lazy" src="https://gtzefsfwqsityt2axdlopvhheygq4sd5i5vzyaggaqxcqdfed4nq.arweave.net/NPJCyLaEkTxPQLjW59TnJg0OSH1Ha5wAxgQuKAykHxs"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Other/Catapult/Catapult">Catapult</a></div>
+<a href="../../Types/Other/Chia_Farmers/Chia_Farmers"><img loading="lazy" src="https://gtzefsfwqsityt2axdlopvhheygq4sd5i5vzyaggaqxcqdfed4nq.arweave.net/NPJCyLaEkTxPQLjW59TnJg0OSH1Ha5wAxgQuKAykHxs"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Other/Chia_Farmers/Chia_Farmers">Chia Farmers</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_type_thumbnail">
+<a href="../../Types/Other/Chiania_Long_Arm_Blade/Chiania_Long_Arm_Blade"><img loading="lazy" src="https://3ojdrcyz7s4k6btwgqhfmg4fgleznv2xahzeucj5ws3qu3zh.arweave.net/25I4ixn8uK8GdjQO_VhuFMsmW11cB8koJPbS3Cm-8n0"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Other/Chiania_Long_Arm_Blade/Chiania_Long_Arm_Blade">Chiania Long Arm Blade</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">

@@ -27,7 +27,7 @@ $h_config=@{
         apiKey="yourApiKey"
     }
 }
-
+$itemsPerPage=100
 
 $scriptConfigFile=$configDir + "/" + "scriptConfig.json"
 
@@ -61,7 +61,7 @@ $totalData=$a_collections | ForEach-Object {
     $count=40
     $version=1
 
-    Write-Progress -Id 1 -Activity "Getting Collection Data from SpaceScan" -Status ("collection $k of " + $a_collections.count) -PercentComplete ($k / $a_collections.count * 100)
+    Write-Progress -Id 1 -Activity "Getting Collection Data from SpaceScan" -Status ("collection " + ($k+1) + " of " + $a_collections.count) -PercentComplete (($k + 1)/ $a_collections.count * 100)
     do{
         $collData=Invoke-RestMethod -Uri ("https://api2.spacescan.io/api/nft/collection/" + $coll.collection_id + "?x-auth-id=" + $h_config.spacescan.apiKey + "&coin=xch&page=$page&count=$count&version=$version") -TimeoutSec 2
         $dat=$null
@@ -69,6 +69,17 @@ $totalData=$a_collections | ForEach-Object {
             $collData.data | ForEach-Object {
                 $dat=$_
                 $collCount=$dat.count
+
+                $pattern='.*?([0-9]+)'
+                if($dat.meta_info.name -match $pattern){
+                    $match=$dat.meta_info.name | Select-String -Pattern $pattern
+                    [int]$itemNr=$match.Matches[0].Groups[1].Value
+                }
+                else{
+                    [int]$itemNr=0
+                }
+                Add-Member -InputObject $dat.meta_info -MemberType NoteProperty -Name "nr" -Value $itemNr
+
                 #Ausgabe
                 Write-Progress -Id 2 -Activity "Getting NFTs from Collection" -Status ("NFT $i of " + $collCount + " : " + $dat.meta_info.name + " : " + $dat.nft_id) -PercentComplete ($i / $collcount * 100)
                 Out-File -FilePath $logPath -InputObject ((Get-Date -Format "yyyy-MM-dd HH:mm:ss") + $dat.meta_info.name + ": " + $dat.nft_id + ": " + $i + " of " + $collCount) -Append
@@ -93,12 +104,14 @@ Write-Progress -Id 1 -Activity "Getting Collection Data from SpaceScan" -Status 
 #Vertrannte Items müssen weg
 #$totalData | Where-Object {$_.meta_info.name -like "Khopesh 01"} | Select-Object {$_.meta_info.name},{$_.owner_hash}
 
-$totalData=$totalData | 
-    Sort-Object -Property @({$_.meta_info.collection.name},{$_.meta_info.name}) |
-    #Filter out Burned Objects
-    Where-Object {$_.owner_hash -ne "000000000000000000000000000000000000000000000000000000000000dead"}
+#Filter Out Burned Objects
+$totalData=$totalData | Where-Object {$_.owner_hash -ne "000000000000000000000000000000000000000000000000000000000000dead"}
 
+#Sort objects
+$totalData=$totalData | Sort-Object -Property @({$_.meta_info.collection.name},{$_.meta_info.nr})
 
+#Show Sorted Objects
+#$totalData | ForEach-Object{Write-Host($_.meta_info.collection.name + " : " + $_.meta_info.nr + " : " + $_.meta_info.name)}
 
 $patterns=@(
     '(.*? Nuclei) ([a-zA-z].*?)([#0-9]+)',
@@ -126,7 +139,8 @@ $h_typePatterns=@{
     }
     'Weapon' = @{
         patterns = @('Catapult','Halberd','Khopesh','Knife','Sword','.* Axe','Axe',
-                     '.* Bow','Bow','Stone','.* Club','Club','Enhanced Tree Root')
+                     '.* Bow','Bow','Stone','.* Club','Club','Enhanced Tree Root',
+                     'Chiania Long Arm Blade')
     }
     'Ring' = @{
         patterns = @('.* Ring','Ring')
@@ -151,6 +165,8 @@ $totalData | ForEach-Object {
     $item=$_
 
     if($null -eq $itemList.($item.nft_id)){
+        $match=$null
+
         $match=$null
         ForEach($pattern in $patterns){
             if($item.meta_info.name -match $pattern){
@@ -193,6 +209,7 @@ $totalData | ForEach-Object {
             if($null -eq $itemList.($itemCategory).($itemType).($prefix).($item.nft_id)){
                 $itemList.($itemCategory).($itemType).($prefix).Add($item.nft_id,[PSCustomObject]@{
                     Name = $item.meta_info.name.Trim()
+                    Nr = $item.meta_info.nr
                     ItemCategory = $itemCategory
                     ItemType = $itemType
                     Prefix = $prefix
@@ -302,20 +319,6 @@ $itemList.GetEnumerator() | ForEach-Object {
         $o_itemType=$_
         $itemTypeName=$o_itemType.Name
 
-        $out=@"
----
-title: $itemTypeName
-description: Item Types in Chia Inventory
-date: $curDate
-tags:
-    - NFT
-    - Items
----
-
-# $itemTypeName
-
-"@
-
 
         $itemTypePath=($itemsDir + "/Types/"+ ($itemCategoryName -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "/" + ($o_itemType.Name -replace '[^A-Za-zäöüÄÖÜ\-_]','_'))
 
@@ -325,16 +328,51 @@ tags:
 
         $itemTypeCount=($o_itemType.Value.GetEnumerator() | Measure-Object).Count
 
-        #Render First Item of Each itemType for Preview
+        
         $j=0
         $o_itemType.Value.GetEnumerator() | ForEach-Object{
             $o_itemPrefix=$_
-            $out+="## " + $o_itemPrefix.Name + "`r`n`r`n"
-
+            $itemPrefixName=$o_itemPrefix.Name
+            $newItemPrefix=$true
             $indexItemCount=($o_itemPrefix.Value.GetEnumerator() | Measure-Object).Count
             $k=0
+            $itemStart=$k+1
+            $itemEnd=$k+$itemsPerPage
+
+            Write-Host($itemTypeName + ":" + $itemPrefixName + "Items $itemStart - $itemEnd")
+
+            #Render All Items
             $o_itemPrefix.Value.GetEnumerator() | ForEach-Object{
                 $indexItem=$_.Value
+
+
+                $out_prefix=@"
+---
+title: $itemTypeName - $itemPrefixName ($itemStart - $itemEnd)
+description: $itemTypeName Items in Chia Inventory
+date: $curDate
+tags:
+    - NFT
+    - Items
+---
+
+# $itemTypeName - $itemPrefixName ($itemStart - $itemEnd)
+
+"@
+                #Flush Out Buffer when there are enough Items
+                if($k -ge $itemEnd -or $newItemPrefix){
+                    $newItemPrefix=$false
+                    $out=$out_prefix + $out
+                    $out | Out-File -FilePath ($itemTypePath + "/" + ($itemPrefixName -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "_" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "_" + 
+                        ("{0:d5}" -f $itemStart) + "_" + ("{0:d5}" -f $itemEnd) + ".md")
+
+                    $itemStart=$k+1
+                    $itemEnd=$k+$itemsPerPage
+                    $out=""
+                }
+
+                #$out+="## " + $o_itemPrefix.Name + "`r`n`r`n"
+
                 Write-Progress -Id 2 -Activity "Writing Items" -Status ("$k of $indexItemCount") -PercentComplete ($k / $indexItemCount * 100)
                 $out+='<div class="item_thumbnail">' + "`r`n"
                 $out+='<a href="../../../'+ $itemCategoryName + '/' + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_')+ "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "" +'"><img loading="lazy" src="' + $indexItem.item_uri + '"></a><br/>' + "`r`n"
@@ -347,14 +385,29 @@ tags:
                 }
 
                 $out+='</div>' + "`r`n"
+
+
+
                 $k++
             }
+
+            #Flush Out Rest
+
+            $newItemPrefix=$false
+            $out=$out_prefix + $out
+            $out | Out-File -FilePath ($itemTypePath + "/" + ($itemPrefixName -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "_" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "_" + 
+                ("{0:d5}" -f $itemStart) + "_" + ("{0:d5}" -f $itemEnd) + ".md")
+
+            $itemStart=$k+1
+            $itemEnd=$k+$itemsPerPage
+            $out=""
+
             Write-Progress -Id 2 -Activity "Writing Items" -Status ("$k of $indexItemCount") -Completed
-            $out+='<hr style="clear:both;"/>' + "`r`n"
+            #$out+='<hr style="clear:both;"/>' + "`r`n"
             $j++
         }
 
-        $out | Out-File -FilePath ($itemTypePath + "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + ".md")
+        #$out | Out-File -FilePath ($itemTypePath + "/" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + ".md")
     }
     $i++
 }
