@@ -381,9 +381,9 @@ tags:
 
                 Write-Progress -Id 2 -Activity "Writing Items" -Status ("$k of $indexItemCount") -PercentComplete ($k / $indexItemCount * 100)
                 $out+='<div class="item_thumbnail">' + "`r`n"
-                $out+='<a href="#"><img loading="lazy" src="' + $indexItem.item_uri + '"></a><br/>' + "`r`n"
+                $out+='<img loading="lazy" src="' + $indexItem.item_uri + '"><br/>' + "`r`n"
                 $out += '<div><strong>' + "Name" + ':</strong> ' + $indexItem.Name + '</div>' + "`r`n"
-                $out += '<div><strong>' + "Item Type" + ':</strong> <a href="#">' + $indexItem.ItemType + '</a></div>' + "`r`n"
+                $out += '<div><strong>' + "Item Type" + ':</strong> ' + $indexItem.ItemType + '</div>' + "`r`n"
                 $out += '<div><strong>' + "Collection" + ':</strong> <a href="https://www.spacescan.io/xch/nft/collection/' + $indexItem.collection_id +'">' + $indexItem.Collection + '</a></div>' + "`r`n"
                 
                 ForEach ($attr in $indexItem.attributes){

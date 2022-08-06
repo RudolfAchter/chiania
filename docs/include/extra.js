@@ -19,10 +19,30 @@ function get_marketbox_offer(event){
 }
 
 
+function item_maximize(event){
+  console.log("item_maximize")
+  console.log(event)
+  target=$(event.currentTarget)
+  target.attr("class","item_maximized")
+  target.off("click",item_maximize)
+  target.on("click",item_minimize)
+}
+
+
+function item_minimize(event){
+  console.log("item_minimize")
+  console.log(event)
+  target=$(event.currentTarget)
+  target.attr("class","item_thumbnail")
+  target.off("click",item_minimize)
+  target.on("click",item_maximize)
+}
+
+
 $( window ).on("load",function() {
     console.log( "jquery ready!" );
     //falls ich jquery brauche
-    $(".market-box").bind("click",flip_marketbox)
-    $(".market-box").bind("tap",flip_marketbox)
-    
+    $(".market-box").on("click",flip_marketbox)
+    $(".market-box").on("tap",flip_marketbox)
+    $(".item_thumbnail").on("click",item_maximize)
 });
