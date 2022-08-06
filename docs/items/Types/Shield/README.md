@@ -9,7 +9,7 @@ tags:
 
 # Category - Shield
 <div class="item_type_thumbnail">
-<a href="../../Types/Shield/Bark_shield/Bark_shield"><img loading="lazy" src="https://lg63p2noqvwzmgn4rdgfnhtbpsknws3u7th2olyoxiiva2br.arweave.net/-Wb236a6FbZYZvIjMVp5hfJTbS3T8z6_cvDroRUGgxk"></a><br/>
+<a href="../../Types/Shield/Bark_shield/Bark_shield"><img loading="lazy" src="https://uudmvaspmpmnv54qsn2wrhju2l2gwvqhuimptxks7j3duyp4sa.arweave.net/pQbKgk9j2Nr3kJN1aJ000v_RrVgeiGPndUvp2OmH8kI"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Shield/Bark_shield/Bark_shield">Bark shield</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
