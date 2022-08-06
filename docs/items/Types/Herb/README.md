@@ -9,12 +9,12 @@ tags:
 
 # Category - Herb
 <div class="item_type_thumbnail">
-<a href="../../Types/Herb/Brave_Leef/Brave_Leef"><img src="https://t4cg3l3uagnvnfuf5waioltbxcuyd3uz5jwwfgge6dv5xwlg3m.arweave.net/nwRtr3QB-m1aWhe2Ahy5huKmB7pnqbWKYxPDr29lm20"></a><br/>
+<a href="../../Types/Herb/Brave_Leef/Brave_Leef"><img src="https://j23oysnjzxncyi5ezbud63fbbc4ir4n2ws3rzwkydcojk7hxdi.arweave.net/Trb_sSanN2iwjpMhoP2yhCLiI8bq0txzZWBiclXz3Gg"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Herb/Brave_Leef/Brave_Leef">Brave Leef</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Herb/Brave_Seedling/Brave_Seedling"><img src="https://4b2ls734ibhwlgri5j22tk7frfeqm3libmzktgfhyg6ywe7kbwca.arweave.net/4HS5f3xAT2WaKOp1qavliUkGbWgLMqmYp8G9ixPqDYQ"></a><br/>
+<a href="../../Types/Herb/Brave_Seedling/Brave_Seedling"><img src="https://5twegucsfw6cyelwzgqkd4z4eabrpqbforkfjliplsy55ixamq.arweave.net/7OxDUFItvCwRds-mgofM8IAMXwCV0VFStD1yx3qLgZA"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Herb/Brave_Seedling/Brave_Seedling">Brave Seedling</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
 </div>

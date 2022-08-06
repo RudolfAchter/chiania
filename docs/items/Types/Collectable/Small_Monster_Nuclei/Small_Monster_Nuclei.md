@@ -11,15 +11,22 @@ tags:
 ## Normal
 
 <div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://jfikxh6jehi7426fbrqy62dqdm3ancrawkmkoq5if3jf3f4cfq.arweave.net/SVC_rn8kh0f5rxQxhj2hwGzYGiiCymKdDqC7SXZeCLM"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 18</div>
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://s6kqravgjqjxxom7wwhzguutlh2xtafd7hapynguibgaaxwoxq.arweave.net/l5UIgqZME3u5n7WPk1KTWfV5gKP5wPw01EBMAF-7OvA"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 14</div>
 <div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Collectable:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://f54rmzluxu4shfd7srsqlszxnqjlckymyu4cxhnzic3emeneym.arweave.net/L3kWZXS9OSOUf5RlBcs3bBKxKwzFOCuduUC2-RhGkww"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 03</div>
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://pd6ekenv5gofa4f5phjb3ggsj6datg4d6zigoku6c5majdsvs5rq.arweave.net/ePxFEbXpnFBwvXnSHZjST4YJm4P2UGcqnhdYBI5Vl2M"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 10</div>
+<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Collectable:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://2poutlkq3g6sgizdbevuuqm6laucjn63sludl4s6cqcikxrnapeq.arweave.net/091JrVDZvSMjIwkrSkGeWCgkt9uS6DXyXhQEhV4tA8k"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 05</div>
 <div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Collectable:</strong> 1</div>
@@ -32,22 +39,50 @@ tags:
 <div><strong>Collectable:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://vkcpfsrv2rlcavfpeksskhjmr4ebttlym3bhicmca7ad5vuuuy.arweave.net/qoTy-yjXUViBUryKlJR0sjwgZzXhmwnQJggfAPtaUpo"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 02</div>
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://62a5ugwdysoumublefbxhmxr3lripz2sghj4ltidl2emwmbo6jkq.arweave.net/9oHaGsPEnUZQKyFDc7Lx2uKH51Ix08XNA16IyzAu8lU"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 16</div>
 <div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Collectable:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://ud3babzzbstvywa64glet3uwpjq5wyrg3tp4plus7zp6zgix.arweave.net/oPYQBzkMp1xYHuGWSe6WemHb_Yibc38eukv5f7Jk_Xc"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 17</div>
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://sia64ntyo5sawy5kbzocqo7dmwsa2ia3ae3waqtmxisbumuwb4.arweave.net/kgHuNnh3ZAtjqg5cKDvjZa-QNIBsBN2BCbLokGjKWDw"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 20</div>
 <div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Collectable:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://x2sbq6lkw7z4c24hfklghj6l2gyxcmsmssvdqgagcjckvtevkwda.arweave.net/vqQYeWq388FrhyqWY6fL0bFxMkyUqjgYBhJEqsyVVYY"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 12</div>
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://fd6fn2eoibxl6xabhjf2oyiueji2qit5bkqdkwn7ejga.arweave.net/KPxW6I5Abr9cATp__Lp2EU_I-lGoI_n_0KoDVZvyJMY"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 07</div>
+<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Collectable:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://jfikxh6jehi7426fbrqy62dqdm3ancrawkmkoq5if3jf3f4cfq.arweave.net/SVC_rn8kh0f5rxQxhj2hwGzYGiiCymKdDqC7SXZeCLM"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 18</div>
+<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Collectable:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://jtnlujm66podmlaka4nsfob45wvwu7nciqijtvkhm6puqrbe.arweave.net/TNq6J_Z7z3DYsCgcbIr_g87atqfaJEEJnVR2efSEQk4"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 15</div>
+<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Collectable:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://f54rmzluxu4shfd7srsqlszxnqjlckymyu4cxhnzic3emeneym.arweave.net/L3kWZXS9OSOUf5RlBcs3bBKxKwzFOCuduUC2-RhGkww"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 03</div>
+<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Collectable:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://xgo7olbz3mwwh4nn52fvm4mozgadfjthgbog3dai6rhcrf43qy.arweave.net/uZ33LDnbLWPxre6LVnGOyYAypmcwXG2MC-PROKJebhg"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 06</div>
 <div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Collectable:</strong> 1</div>
@@ -67,27 +102,6 @@ tags:
 <div><strong>Collectable:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://sia64ntyo5sawy5kbzocqo7dmwsa2ia3ae3waqtmxisbumuwb4.arweave.net/kgHuNnh3ZAtjqg5cKDvjZa-QNIBsBN2BCbLokGjKWDw"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 20</div>
-<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Collectable:</strong> 1</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://pd6ekenv5gofa4f5phjb3ggsj6datg4d6zigoku6c5majdsvs5rq.arweave.net/ePxFEbXpnFBwvXnSHZjST4YJm4P2UGcqnhdYBI5Vl2M"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 10</div>
-<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Collectable:</strong> 1</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://xgo7olbz3mwwh4nn52fvm4mozgadfjthgbog3dai6rhcrf43qy.arweave.net/uZ33LDnbLWPxre6LVnGOyYAypmcwXG2MC-PROKJebhg"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 06</div>
-<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Collectable:</strong> 1</div>
-</div>
-<div class="item_thumbnail">
 <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://jzqqaskyxlbq3vvl3bmx4wpeqtnxxtu5bveo6qqbsigv6xu7.arweave.net/TmEASV-i6ww3Wq9hZflnkhNt7zp0NSO9CAZINX1_6f4"></a><br/>
 <div><strong>Name:</strong> Small Monster Nuclei 09</div>
 <div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
@@ -95,36 +109,8 @@ tags:
 <div><strong>Collectable:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://fd6fn2eoibxl6xabhjf2oyiueji2qit5bkqdkwn7ejga.arweave.net/KPxW6I5Abr9cATp__Lp2EU_I-lGoI_n_0KoDVZvyJMY"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 07</div>
-<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Collectable:</strong> 1</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://lakofg2m5guiuvrdumjboplybxzb3nt4d4iqayhsm2fg5nwv.arweave.net/WBTi-m0zpqI_pWI6MSFz14DfIdtnwfEQBg8maKbrbVc"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 19</div>
-<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Collectable:</strong> 1</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://62a5ugwdysoumublefbxhmxr3lripz2sghj4ltidl2emwmbo6jkq.arweave.net/9oHaGsPEnUZQKyFDc7Lx2uKH51Ix08XNA16IyzAu8lU"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 16</div>
-<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Collectable:</strong> 1</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://s6kqravgjqjxxom7wwhzguutlh2xtafd7hapynguibgaaxwoxq.arweave.net/l5UIgqZME3u5n7WPk1KTWfV5gKP5wPw01EBMAF-7OvA"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 14</div>
-<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Collectable:</strong> 1</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://2poutlkq3g6sgizdbevuuqm6laucjn63sludl4s6cqcikxrnapeq.arweave.net/091JrVDZvSMjIwkrSkGeWCgkt9uS6DXyXhQEhV4tA8k"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 05</div>
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://x2sbq6lkw7z4c24hfklghj6l2gyxcmsmssvdqgagcjckvtevkwda.arweave.net/vqQYeWq388FrhyqWY6fL0bFxMkyUqjgYBhJEqsyVVYY"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 12</div>
 <div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Collectable:</strong> 1</div>
@@ -144,8 +130,22 @@ tags:
 <div><strong>Collectable:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://jtnlujm66podmlaka4nsfob45wvwu7nciqijtvkhm6puqrbe.arweave.net/TNq6J_Z7z3DYsCgcbIr_g87atqfaJEEJnVR2efSEQk4"></a><br/>
-<div><strong>Name:</strong> Small Monster Nuclei 15</div>
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://lakofg2m5guiuvrdumjboplybxzb3nt4d4iqayhsm2fg5nwv.arweave.net/WBTi-m0zpqI_pWI6MSFz14DfIdtnwfEQBg8maKbrbVc"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 19</div>
+<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Collectable:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://ud3babzzbstvywa64glet3uwpjq5wyrg3tp4plus7zp6zgix.arweave.net/oPYQBzkMp1xYHuGWSe6WemHb_Yibc38eukv5f7Jk_Xc"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 17</div>
+<div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Collectable:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei"><img src="https://vkcpfsrv2rlcavfpeksskhjmr4ebttlym3bhicmca7ad5vuuuy.arweave.net/qoTy-yjXUViBUryKlJR0sjwgZzXhmwnQJggfAPtaUpo"></a><br/>
+<div><strong>Name:</strong> Small Monster Nuclei 02</div>
 <div><strong>Item Type:</strong> <a href="../../../Collectable/Small_Monster_Nuclei/Small_Monster_Nuclei">Small Monster Nuclei</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Collectable:</strong> 1</div>
