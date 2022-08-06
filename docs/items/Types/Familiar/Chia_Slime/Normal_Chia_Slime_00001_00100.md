@@ -9,9 +9,9 @@ tags:
 
 # Chia Slime - Normal (1 - 100)
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/1.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/1.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #1</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -29,9 +29,9 @@ tags:
 <div><strong>Stickyness:</strong> 75</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/2.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/2.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #2</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -49,9 +49,9 @@ tags:
 <div><strong>Stickyness:</strong> 14</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/3.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/3.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #3</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -69,9 +69,9 @@ tags:
 <div><strong>Stickyness:</strong> 65</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/4.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/4.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #4</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -89,9 +89,9 @@ tags:
 <div><strong>Stickyness:</strong> 61</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/5.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/5.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #5</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -109,9 +109,9 @@ tags:
 <div><strong>Stickyness:</strong> 36</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/6.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/6.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #6</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -129,9 +129,9 @@ tags:
 <div><strong>Stickyness:</strong> 83</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/7.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/7.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #7</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -149,9 +149,9 @@ tags:
 <div><strong>Stickyness:</strong> 27</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/8.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/8.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #8</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -169,9 +169,9 @@ tags:
 <div><strong>Stickyness:</strong> 43</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/9.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/9.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #9</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -189,9 +189,9 @@ tags:
 <div><strong>Stickyness:</strong> 72</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/10.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/10.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #10</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -209,9 +209,9 @@ tags:
 <div><strong>Stickyness:</strong> 97</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/11.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/11.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #11</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -229,9 +229,9 @@ tags:
 <div><strong>Stickyness:</strong> 23</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/12.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/12.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #12</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -249,9 +249,9 @@ tags:
 <div><strong>Stickyness:</strong> 3</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/13.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/13.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #13</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -269,9 +269,9 @@ tags:
 <div><strong>Stickyness:</strong> 71</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/14.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/14.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #14</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -289,9 +289,9 @@ tags:
 <div><strong>Stickyness:</strong> 79</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/15.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/15.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #15</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -309,9 +309,9 @@ tags:
 <div><strong>Stickyness:</strong> 15</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/16.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/16.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #16</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -329,9 +329,9 @@ tags:
 <div><strong>Stickyness:</strong> 70</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/17.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/17.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #17</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -349,9 +349,9 @@ tags:
 <div><strong>Stickyness:</strong> 12</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/18.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/18.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #18</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -369,9 +369,9 @@ tags:
 <div><strong>Stickyness:</strong> 46</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/19.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/19.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #19</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -389,9 +389,9 @@ tags:
 <div><strong>Stickyness:</strong> 56</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/20.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/20.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #20</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -409,9 +409,9 @@ tags:
 <div><strong>Stickyness:</strong> 98</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/21.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/21.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #21</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -429,9 +429,9 @@ tags:
 <div><strong>Stickyness:</strong> 21</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/22.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/22.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #22</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -449,9 +449,9 @@ tags:
 <div><strong>Stickyness:</strong> 15</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/23.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/23.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #23</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -469,9 +469,9 @@ tags:
 <div><strong>Stickyness:</strong> 23</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/24.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/24.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #24</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -489,9 +489,9 @@ tags:
 <div><strong>Stickyness:</strong> 94</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/25.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/25.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #25</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -509,9 +509,9 @@ tags:
 <div><strong>Stickyness:</strong> 59</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/26.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/26.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #26</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -529,9 +529,9 @@ tags:
 <div><strong>Stickyness:</strong> 6</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/27.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/27.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #27</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -549,9 +549,9 @@ tags:
 <div><strong>Stickyness:</strong> 26</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/28.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/28.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #28</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -569,9 +569,9 @@ tags:
 <div><strong>Stickyness:</strong> 50</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/29.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/29.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #29</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -589,9 +589,9 @@ tags:
 <div><strong>Stickyness:</strong> 10</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/30.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/30.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #30</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -609,9 +609,9 @@ tags:
 <div><strong>Stickyness:</strong> 92</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/31.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/31.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #31</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -629,9 +629,9 @@ tags:
 <div><strong>Stickyness:</strong> 43</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/32.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/32.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #32</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -649,9 +649,9 @@ tags:
 <div><strong>Stickyness:</strong> 92</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/33.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/33.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #33</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -669,9 +669,9 @@ tags:
 <div><strong>Stickyness:</strong> 32</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/34.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/34.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #34</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -689,9 +689,9 @@ tags:
 <div><strong>Stickyness:</strong> 86</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/35.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/35.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #35</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -709,9 +709,9 @@ tags:
 <div><strong>Stickyness:</strong> 54</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/36.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/36.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #36</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -729,9 +729,9 @@ tags:
 <div><strong>Stickyness:</strong> 62</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/37.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/37.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #37</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -749,9 +749,9 @@ tags:
 <div><strong>Stickyness:</strong> 28</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/38.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/38.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #38</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -769,9 +769,9 @@ tags:
 <div><strong>Stickyness:</strong> 10</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/39.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/39.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #39</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -789,9 +789,9 @@ tags:
 <div><strong>Stickyness:</strong> 79</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/40.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/40.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #40</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -809,9 +809,9 @@ tags:
 <div><strong>Stickyness:</strong> 65</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/41.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/41.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #41</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -829,9 +829,9 @@ tags:
 <div><strong>Stickyness:</strong> 82</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/42.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/42.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #42</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -849,9 +849,9 @@ tags:
 <div><strong>Stickyness:</strong> 12</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/43.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/43.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #43</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -869,9 +869,9 @@ tags:
 <div><strong>Stickyness:</strong> 22</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/44.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/44.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #44</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -889,9 +889,9 @@ tags:
 <div><strong>Stickyness:</strong> 31</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/45.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/45.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #45</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -909,9 +909,9 @@ tags:
 <div><strong>Stickyness:</strong> 6</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/46.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/46.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #46</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -929,9 +929,9 @@ tags:
 <div><strong>Stickyness:</strong> 92</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/47.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/47.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #47</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -949,9 +949,9 @@ tags:
 <div><strong>Stickyness:</strong> 58</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/48.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/48.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #48</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -969,9 +969,9 @@ tags:
 <div><strong>Stickyness:</strong> 88</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/49.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/49.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #49</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -989,9 +989,9 @@ tags:
 <div><strong>Stickyness:</strong> 70</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/50.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/50.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #50</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1009,9 +1009,9 @@ tags:
 <div><strong>Stickyness:</strong> 37</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/51.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/51.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #51</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1029,9 +1029,9 @@ tags:
 <div><strong>Stickyness:</strong> 87</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/52.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/52.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #52</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1049,9 +1049,9 @@ tags:
 <div><strong>Stickyness:</strong> 51</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/53.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/53.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #53</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1069,9 +1069,9 @@ tags:
 <div><strong>Stickyness:</strong> 67</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/54.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/54.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #54</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1089,9 +1089,9 @@ tags:
 <div><strong>Stickyness:</strong> 41</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/55.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/55.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #55</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1109,9 +1109,9 @@ tags:
 <div><strong>Stickyness:</strong> 26</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/56.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/56.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #56</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1129,9 +1129,9 @@ tags:
 <div><strong>Stickyness:</strong> 44</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/57.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/57.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #57</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1149,9 +1149,9 @@ tags:
 <div><strong>Stickyness:</strong> 83</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/58.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/58.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #58</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1169,9 +1169,9 @@ tags:
 <div><strong>Stickyness:</strong> 39</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/59.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/59.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #59</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1189,9 +1189,9 @@ tags:
 <div><strong>Stickyness:</strong> 92</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/60.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/60.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #60</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1209,9 +1209,9 @@ tags:
 <div><strong>Stickyness:</strong> 13</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/61.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/61.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #61</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1229,9 +1229,9 @@ tags:
 <div><strong>Stickyness:</strong> 59</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/62.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/62.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #62</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1249,9 +1249,9 @@ tags:
 <div><strong>Stickyness:</strong> 74</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/63.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/63.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #63</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1269,9 +1269,9 @@ tags:
 <div><strong>Stickyness:</strong> 84</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/64.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/64.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #64</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1289,9 +1289,9 @@ tags:
 <div><strong>Stickyness:</strong> 99</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/65.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/65.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #65</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1309,9 +1309,9 @@ tags:
 <div><strong>Stickyness:</strong> 57</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/66.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/66.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #66</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1329,9 +1329,9 @@ tags:
 <div><strong>Stickyness:</strong> 53</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/67.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/67.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #67</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1349,9 +1349,9 @@ tags:
 <div><strong>Stickyness:</strong> 16</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/68.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/68.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #68</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1369,9 +1369,9 @@ tags:
 <div><strong>Stickyness:</strong> 68</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/69.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/69.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #69</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1389,9 +1389,9 @@ tags:
 <div><strong>Stickyness:</strong> 24</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/70.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/70.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #70</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1409,9 +1409,9 @@ tags:
 <div><strong>Stickyness:</strong> 11</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/71.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/71.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #71</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1429,9 +1429,9 @@ tags:
 <div><strong>Stickyness:</strong> 29</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/72.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/72.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #72</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1449,9 +1449,9 @@ tags:
 <div><strong>Stickyness:</strong> 35</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/73.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/73.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #73</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1469,9 +1469,9 @@ tags:
 <div><strong>Stickyness:</strong> 97</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/74.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/74.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #74</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1489,9 +1489,9 @@ tags:
 <div><strong>Stickyness:</strong> 79</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/75.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/75.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #75</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1509,9 +1509,9 @@ tags:
 <div><strong>Stickyness:</strong> 94</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/76.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/76.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #76</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1529,9 +1529,9 @@ tags:
 <div><strong>Stickyness:</strong> 90</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/77.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/77.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #77</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1549,9 +1549,9 @@ tags:
 <div><strong>Stickyness:</strong> 25</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/78.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/78.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #78</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1569,9 +1569,9 @@ tags:
 <div><strong>Stickyness:</strong> 57</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/79.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/79.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #79</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1589,9 +1589,9 @@ tags:
 <div><strong>Stickyness:</strong> 28</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/80.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/80.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #80</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1609,9 +1609,9 @@ tags:
 <div><strong>Stickyness:</strong> 19</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/81.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/81.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #81</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1629,9 +1629,9 @@ tags:
 <div><strong>Stickyness:</strong> 65</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/82.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/82.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #82</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1649,9 +1649,9 @@ tags:
 <div><strong>Stickyness:</strong> 77</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/83.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/83.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #83</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1669,9 +1669,9 @@ tags:
 <div><strong>Stickyness:</strong> 90</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/84.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/84.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #84</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1689,9 +1689,9 @@ tags:
 <div><strong>Stickyness:</strong> 86</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/85.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/85.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #85</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1709,9 +1709,9 @@ tags:
 <div><strong>Stickyness:</strong> 53</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/86.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/86.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #86</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1729,9 +1729,9 @@ tags:
 <div><strong>Stickyness:</strong> 42</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/87.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/87.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #87</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1749,9 +1749,9 @@ tags:
 <div><strong>Stickyness:</strong> 87</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/88.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/88.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #88</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1769,9 +1769,9 @@ tags:
 <div><strong>Stickyness:</strong> 19</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/89.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/89.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #89</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1789,9 +1789,9 @@ tags:
 <div><strong>Stickyness:</strong> 3</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/90.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/90.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #90</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1809,9 +1809,9 @@ tags:
 <div><strong>Stickyness:</strong> 51</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/91.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/91.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #91</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1829,9 +1829,9 @@ tags:
 <div><strong>Stickyness:</strong> 11</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/92.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/92.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #92</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1849,9 +1849,9 @@ tags:
 <div><strong>Stickyness:</strong> 91</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/93.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/93.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #93</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1869,9 +1869,9 @@ tags:
 <div><strong>Stickyness:</strong> 23</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/94.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/94.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #94</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1889,9 +1889,9 @@ tags:
 <div><strong>Stickyness:</strong> 19</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/95.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/95.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #95</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1909,9 +1909,9 @@ tags:
 <div><strong>Stickyness:</strong> 42</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/96.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/96.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #96</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1929,9 +1929,9 @@ tags:
 <div><strong>Stickyness:</strong> 75</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/97.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/97.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #97</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1949,9 +1949,9 @@ tags:
 <div><strong>Stickyness:</strong> 10</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/98.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/98.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #98</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1969,9 +1969,9 @@ tags:
 <div><strong>Stickyness:</strong> 39</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/99.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/99.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #99</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>
@@ -1989,9 +1989,9 @@ tags:
 <div><strong>Stickyness:</strong> 42</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/100.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/100.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #100</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Alpha</div>

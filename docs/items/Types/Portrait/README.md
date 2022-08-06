@@ -9,8 +9,8 @@ tags:
 
 # Category - Portrait
 <div class="item_type_thumbnail">
-<a href="../../Types/Portrait/Chia_Farmers/Normal/Chia_Farmers00001_00100/"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/3939.png"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Portrait/Chia_Farmers/Normal/Chia_Farmers00001_00100/">Chia Farmers</a></div>
+<a href="../../Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_"><img loading="lazy" src="https://bafybeihapkvhiopdwccs7jway76oadqb4ltsx3xnk23dm3z35uyxeiotky.ipfs.nftstorage.link/3939.png"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_">Chia Farmers</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
 </div>
 

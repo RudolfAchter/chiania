@@ -9,9 +9,9 @@ tags:
 
 # Chia Slime - Normal (401 - 500)
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/401.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/401.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #401</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Rock</div>
@@ -29,9 +29,9 @@ tags:
 <div><strong>Stickyness:</strong> 10</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/402.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/402.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #402</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Rock</div>
@@ -49,9 +49,9 @@ tags:
 <div><strong>Stickyness:</strong> 63</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/403.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/403.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #403</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Rock</div>
@@ -69,9 +69,9 @@ tags:
 <div><strong>Stickyness:</strong> 19</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/404.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/404.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #404</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Rock</div>
@@ -89,9 +89,9 @@ tags:
 <div><strong>Stickyness:</strong> 4</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/405.png"></a><br/>
+<a href="#"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/405.png"></a><br/>
 <div><strong>Name:</strong> Chia Slime #405</div>
-<div><strong>Item Type:</strong> <a href="../../../Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
+<div><strong>Item Type:</strong> <a href="#">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 <div><strong>Volume:</strong> 1</div>
 <div><strong>Drop Set:</strong> Rock</div>
