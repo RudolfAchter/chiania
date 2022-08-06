@@ -9,27 +9,27 @@ tags:
 
 # Category - Weapon
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Catapult/Catapult"><img src="https://aj3eiki5k4vr554tlggsceo7o5z4u7s7fkapue5kahfrarnleu.arweave.net/AnZEKR1-XKx73k1mNIRHfd3PKfl8qgPoTqgHLEEWrJc"></a><br/>
+<a href="../../Types/Weapon/Catapult/Catapult"><img src="https://oufmwdufovem6xaukasb2dyizs6k65bphjo5jf5444d4qe6i.arweave.net/d-QrLDoV1SM9cFFAkHQ8Iz_LyvdC86XdSXvOcHyBPIc"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Weapon/Catapult/Catapult">Catapult</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Enhanced_Tree_Root/Enhanced_Tree_Root"><img src="https://u4ljecuzfg24lvn7s5evirjwmz6oddeh3xhgz2jxwaol65wi.arweave.net/pxaSCpk_ptcXVv5dJVEU2Z_nzh_jIfdzmzpN7Acv3bI"></a><br/>
+<a href="../../Types/Weapon/Enhanced_Tree_Root/Enhanced_Tree_Root"><img src="https://3pm7lkzxa7d5gkwh2spdnju6tq3k3jhrwwqszdqbeb6gxmgu.arweave.net/29n1qzcHx9Mqx9S_eNqaenDatpPG1oS_yOASB8a7DUw"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Weapon/Enhanced_Tree_Root/Enhanced_Tree_Root">Enhanced Tree Root</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Halberd/Halberd"><img src="https://4rydlhmtc6sdbouq4wav3gdrvabfvxbeln2ccwhrctun3cha.arweave.net/5H_A1nZMXpDC6k-OWBXZhxqAJa3CRbdCFY8RTo3Yj_g"></a><br/>
+<a href="../../Types/Weapon/Halberd/Halberd"><img src="https://6rbfjwtnklnotubc3orjw3yidmadixpbpibwmzvs7zv6ktgyy4.arweave.net/9EJU2m1S2unQItuim28I-GwA0XeF6A2Zmsv5r5UzYx0"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Weapon/Halberd/Halberd">Halberd</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Khopesh/Khopesh"><img src="https://jv2btzv3z6x3ms4ltnhd4lz2mczgsdmlrmwamktgyo6ttxq.arweave.net/TX-QZ5rvPr7-ZLi5_tOPi86YLJpDYuLLAYqZsO-9Od4"></a><br/>
+<a href="../../Types/Weapon/Khopesh/Khopesh"><img src="https://yfwqvcabfymqgrr463l52qheo6qsdwkw4r5wsdyg6cqja7q5.arweave.net/_wW0KiAEuGQNGPPbX3UDkd6Eh2Vbke2kPBvCgkH-4dA"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Weapon/Khopesh/Khopesh">Khopesh</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Knife/Knife"><img src="https://5aq4pd3rj2l5vky4jlxu2tuzv6kzdwbrisz2fhdud4thi3ht.arweave.net/-6C_HHj3FOl9qrHErvTU6Zr5WR2DFEs6KcdB8mdGzzI"></a><br/>
+<a href="../../Types/Weapon/Knife/Knife"><img src="https://kaqikv2v42xleuf4chh6ke6fz7pb6regn5ye256626fvlbk4.arweave.net/UCCFV1XmrrJQvBHP5RPFz94f_R_IZvcE133te-LVYVc"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Weapon/Knife/Knife">Knife</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
@@ -39,22 +39,22 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Short_Axe/Short_Axe"><img src="https://ziuivzhifikxr47q2koo4isrzvc4feq235gsglvgqcse52ti.arweave.net/yii-K5OgqFXjz8NKc7iJRzUX_CkhrfTSMupoC_kTupo"></a><br/>
+<a href="../../Types/Weapon/Short_Axe/Short_Axe"><img src="https://vturlmxazoxjvcxvob3syr23busmfgvahef4qdtzk4kvpuambafq.arweave.net/rOkVsuDLrpqK9XB3LEdbDSTCmqA5C8gOeVcVV9AMCAs"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Weapon/Short_Axe/Short_Axe">Short Axe</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Short_Bow/Short_Bow"><img src="https://itswwgynoa24srhrxmdbpkh2rjd4k7f7kdqkjsaxkycouwjora.arweave.net/ROVrGw1wNclE8bsGF6j6ikfFfL9Q4KTIF1YE6l_kuiI"></a><br/>
+<a href="../../Types/Weapon/Short_Bow/Short_Bow"><img src="https://zocefmjh5im7phfxxw2ym3cfx6ow3mlqtgxntfitb4bfg6kt2d6a.arweave.net/y4RCsSfqGfect721hmxFv51tsXCZrtmVEw8CU3lT0Pw"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Weapon/Short_Bow/Short_Bow">Short Bow</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Stone/Stone"><img src="https://tse2buqmvjecgofpixjezdzkpddbqtcnrzdjditi4txhvuq.arweave.net/nImg0gyqSCM4_r0XSTI8qeM_Y--YTE2ORpGiaOTuetI"></a><br/>
+<a href="../../Types/Weapon/Stone/Stone"><img src="https://ad7qwazr4vl5jiooup23opifhu3n2n4wbjdb62aplxss5622vu.arweave.net/AP8-LAzHlV9ShzqP1tz0FPTbdN5YKRh9oD13lLvtarQ"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Weapon/Stone/Stone">Stone</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Sword/Sword"><img src="https://tfns6ihu7nice2iuaq2m423k6uliasag3ggpqumglpz3vl2jgi.arweave.net/mVsvIPT7UCJpFAQ0zmtq9RaASAbZjPhRhlvzuq9J-Ms"></a><br/>
+<a href="../../Types/Weapon/Sword/Sword"><img src="https://pwsn4kgehxnsiewjthl4pwalxxuqelcvcvf2mfczmurtdiv2ba.arweave.net/faTeKMQ92yQSyZnXx9gLvekCLFUVS_6YUWWUjMaK6CE"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Weapon/Sword/Sword">Sword</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
