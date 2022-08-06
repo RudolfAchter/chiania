@@ -159,7 +159,7 @@ if(-not (Test-Path $typePatternsFile)){$h_typePatterns | ConvertTo-Json -Depth 5
 $h_typePatterns=Get-Content -Path $typePatternsFile -Encoding UTF8 | ConvertFrom-Json -Depth 5
 
 
-$itemList=@{}
+$itemList=[ordered]@{}
 
 #Powershell Objekte erstellen
 $totalData | ForEach-Object {
@@ -204,9 +204,9 @@ $totalData | ForEach-Object {
         
         Try{
             #build JSON Tree (as Powershell HashTables)
-            if($null -eq $itemList.($itemCategory)){$itemList.Add($itemCategory,@{})}
-            if($null -eq $itemList.($itemCategory).($itemType)){$itemList.($itemCategory).Add($itemType,@{})}
-            if($null -eq $itemList.($itemCategory).($itemType).($prefix)){$itemList.($itemCategory).($itemType).Add($prefix,@{})}
+            if($null -eq $itemList.($itemCategory)){$itemList.Add($itemCategory,[ordered]@{})}
+            if($null -eq $itemList.($itemCategory).($itemType)){$itemList.($itemCategory).Add($itemType,[ordered]@{})}
+            if($null -eq $itemList.($itemCategory).($itemType).($prefix)){$itemList.($itemCategory).($itemType).Add($prefix,[ordered]@{})}
             if($null -eq $itemList.($itemCategory).($itemType).($prefix).($item.nft_id)){
                 $itemList.($itemCategory).($itemType).($prefix).Add($item.nft_id,[PSCustomObject]@{
                     Name = $item.meta_info.name.Trim()
