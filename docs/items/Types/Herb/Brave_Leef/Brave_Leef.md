@@ -1,7 +1,7 @@
 ---
 title: Brave Leef
 description: Item Types in Chia Inventory
-date: 2022-08-05
+date: 2022-08-06
 tags:
     - NFT
     - Items
@@ -10,6 +10,13 @@ tags:
 # Brave Leef
 ## Normal
 
+<div class="item_thumbnail">
+<a href="../../../Herb/Brave_Leef/Brave_Leef"><img src="https://5h66agvkcb7rmg2fnezisoflcz5gg3wghqihrggf4m4rqqvx.arweave.net/6f3gGqoQfxYbRWkyiTirFnpjbsY_8-EHiYxeM5GEK3k"></a><br/>
+<div><strong>Name:</strong> Brave Leef</div>
+<div><strong>Item Type:</strong> <a href="../../../Herb/Brave_Leef/Brave_Leef">Brave Leef</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
+<div><strong>number:</strong> 7/10000</div>
+</div>
 <div class="item_thumbnail">
 <a href="../../../Herb/Brave_Leef/Brave_Leef"><img src="https://zsboxklocdgzxez3oubdvq5uyuzrkrbugxa6jen2iygrrnvgau.arweave.net/zILrqW4QzZu_TO3UCOsO0xTMVRDQ1weSRukYNGLamBc"></a><br/>
 <div><strong>Name:</strong> Brave Leef</div>
@@ -44,13 +51,6 @@ tags:
 <div><strong>Item Type:</strong> <a href="../../../Herb/Brave_Leef/Brave_Leef">Brave Leef</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
 <div><strong>number:</strong> 1/10000</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Herb/Brave_Leef/Brave_Leef"><img src="https://5h66agvkcb7rmg2fnezisoflcz5gg3wghqihrggf4m4rqqvx.arweave.net/6f3gGqoQfxYbRWkyiTirFnpjbsY_8-EHiYxeM5GEK3k"></a><br/>
-<div><strong>Name:</strong> Brave Leef</div>
-<div><strong>Item Type:</strong> <a href="../../../Herb/Brave_Leef/Brave_Leef">Brave Leef</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
-<div><strong>number:</strong> 7/10000</div>
 </div>
 <div class="item_thumbnail">
 <a href="../../../Herb/Brave_Leef/Brave_Leef"><img src="https://dziypifbmpuihtzq664rdbhdmdvsrqwmjokifndurnieuq5gy3kq.arweave.net/HlGHoKFj6IPPMPe5EYTjYOsowsxLlIK0dItQSkOmxtU"></a><br/>

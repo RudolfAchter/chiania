@@ -1,0 +1,58 @@
+{
+  "Herb": {
+    "patterns": [
+      "Brave Seedling",
+      "Brave Leef"
+    ]
+  },
+  "Ring": {
+    "patterns": [
+      ".* Ring",
+      "Ring"
+    ]
+  },
+  "Weapon": {
+    "patterns": [
+      "Catapult",
+      "Halberd",
+      "Khopesh",
+      "Knife",
+      "Sword",
+      ".* Axe",
+      "Axe",
+      ".* Bow",
+      "Bow",
+      "Stone",
+      ".* Club",
+      "Club",
+      "Enhanced Tree Root"
+    ]
+  },
+  "Familiar": {
+    "patterns": [
+      "snail",
+      "Chia Slime"
+    ]
+  },
+  "Shield": {
+    "patterns": [
+      ".* Shield"
+    ]
+  },
+  "Collectable": {
+    "patterns": [
+      ".* Monster Nuclei",
+      "Canned Slime"
+    ]
+  },
+  "Mount": {
+    "patterns": [
+      "Deer"
+    ]
+  },
+  "Armor": {
+    "patterns": [
+      ".* Armor"
+    ]
+  }
+}

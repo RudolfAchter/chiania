@@ -1,7 +1,7 @@
 ---
 title: Canned Slime
 description: Item Types in Chia Inventory
-date: 2022-08-05
+date: 2022-08-06
 tags:
     - NFT
     - Items
