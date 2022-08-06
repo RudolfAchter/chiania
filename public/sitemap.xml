@@ -81,6 +81,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/01_how_to_contribute/</loc>
+         <lastmod>2022-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Armor/</loc>
          <lastmod>2022-08-06</lastmod>
          <changefreq>daily</changefreq>
@@ -246,7 +251,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Wood_Club/Wood_club/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Wood_Club/Wood_Club/</loc>
          <lastmod>2022-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
