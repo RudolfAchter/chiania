@@ -9,12 +9,12 @@ tags:
 
 # Category - Familiar
 <div class="item_type_thumbnail">
-<a href="../../Types/Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/96.png"></a><br/>
+<a href="../../Types/Familiar/Chia_Slime/Chia_Slime"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/405.png"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Familiar/Chia_Slime/Chia_Slime">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Familiar/snail/snail"><img loading="lazy" src="https://2burhsmwkzp2rghagvmegangnmnym2o3m7obb3aybdybb5zf.arweave.net/-0GkTyZZWX6iY4DVY-QwGmaxuGadtn3BDsGAjwEPclA"></a><br/>
+<a href="../../Types/Familiar/snail/snail"><img loading="lazy" src="https://5kbhhbvmgslzaqdfqmdxzvg6uaexcoukhxivpsghzbukd434na.arweave.net/6oJzhqw0l-5BAZYMHfNTeoAlxOoo90VfIx8hoofN8aM"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Familiar/snail/snail">snail</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1syclna803y6h3zl24fwswk0thmm7ad845cfc6sv4sndfzu26q8cq3pprct">Sheesh! Snail</a></div>
 </div>

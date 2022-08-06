@@ -9,6 +9,13 @@ tags:
 
 # Stone - Normal (1 - 100)
 <div class="item_thumbnail">
+<a href="../../../Weapon/Stone/Stone"><img loading="lazy" src="https://djxxkjx52yigcm7sorhjvkr2xrtestgpddftrhd5pwwfuuvp.arweave.net/Gm9_1Jv3W_EGEz8nROmqo6vGZJTM8YyzicfX2sWlKvE"></a><br/>
+<div><strong>Name:</strong> Stone 01</div>
+<div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Bash:</strong> 0</div>
+</div>
+<div class="item_thumbnail">
 <a href="../../../Weapon/Stone/Stone"><img loading="lazy" src="https://tse2buqmvjecgofpixjezdzkpddbqtcnrzdjditi4txhvuq.arweave.net/nImg0gyqSCM4_r0XSTI8qeM_Y--YTE2ORpGiaOTuetI"></a><br/>
 <div><strong>Name:</strong> Stone 02</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
@@ -25,13 +32,6 @@ tags:
 <div class="item_thumbnail">
 <a href="../../../Weapon/Stone/Stone"><img loading="lazy" src="https://ctxekgklf2tajkcmjc5xlupo2eixxoyrcy6q4gybwflrj444ma.arweave.net/FO5FGUsupg_SoTEi7ddHu0RF7uxEWPQ4bAbFXFPOcYA"></a><br/>
 <div><strong>Name:</strong> Stone 08</div>
-<div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Bash:</strong> 0</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Weapon/Stone/Stone"><img loading="lazy" src="https://djxxkjx52yigcm7sorhjvkr2xrtestgpddftrhd5pwwfuuvp.arweave.net/Gm9_1Jv3W_EGEz8nROmqo6vGZJTM8YyzicfX2sWlKvE"></a><br/>
-<div><strong>Name:</strong> Stone 01</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Bash:</strong> 0</div>
@@ -58,13 +58,6 @@ tags:
 <div><strong>Bash:</strong> 0</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Weapon/Stone/Stone"><img loading="lazy" src="https://tpiovso3m7fmgvftuucwpeorkc7c24l3f6socxgngltgokx3iu.arweave.net/m9DqydtnysNUs6UFZ5HRUL4tcXs_vpOFczTLmZyr7RU"></a><br/>
-<div><strong>Name:</strong> Stone 23</div>
-<div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Bash:</strong> 0</div>
-</div>
-<div class="item_thumbnail">
 <a href="../../../Weapon/Stone/Stone"><img loading="lazy" src="https://mccgdudvdfzs5iedw56cfmckefqn4zgyg2u5tgdvo7kgehcy.arweave.net/YIRh0HUZcy6gg7d8IrBKIW--DeZNg2qdmY-dXfUYhxY"></a><br/>
 <div><strong>Name:</strong> Stone 19</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
@@ -74,6 +67,13 @@ tags:
 <div class="item_thumbnail">
 <a href="../../../Weapon/Stone/Stone"><img loading="lazy" src="https://x2t7glnx7evx2igefxycenorvzzebsb5mkm3pxb7tdolsc2r.arweave.net/v_qfzLbf5K3-0gxC3wIjXRrnJAyD1imbfcP5jcuQtR8"></a><br/>
 <div><strong>Name:</strong> Stone 21</div>
+<div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Bash:</strong> 0</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Weapon/Stone/Stone"><img loading="lazy" src="https://tpiovso3m7fmgvftuucwpeorkc7c24l3f6socxgngltgokx3iu.arweave.net/m9DqydtnysNUs6UFZ5HRUL4tcXs_vpOFczTLmZyr7RU"></a><br/>
+<div><strong>Name:</strong> Stone 23</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Bash:</strong> 0</div>
