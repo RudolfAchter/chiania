@@ -22,10 +22,16 @@ function get_marketbox_offer(event){
 function item_maximize(event){
   console.log("item_maximize")
   console.log(event)
+  $(".item_maximized").attr("class","item_thumbnail")
   target=$(event.currentTarget)
   target.attr("class","item_maximized")
   target.off("click",item_maximize)
   target.on("click",item_minimize)
+
+  $([document.documentElement, document.body]).animate({
+    scrollTop: ($(target).offset().top - 200)
+  }, 500);
+
 }
 
 
@@ -36,6 +42,11 @@ function item_minimize(event){
   target.attr("class","item_thumbnail")
   target.off("click",item_minimize)
   target.on("click",item_maximize)
+
+  $([document.documentElement, document.body]).animate({
+    scrollTop: ($(target).offset().top - 200)
+  }, 500);
+
 }
 
 
