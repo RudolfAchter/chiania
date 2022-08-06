@@ -340,7 +340,7 @@ $itemList.GetEnumerator() | ForEach-Object {
             $itemStart=$k+1
             $itemEnd=$k+$itemsPerPage
 
-            Write-Host($itemTypeName + ":" + $itemPrefixName + "Items $itemStart - $itemEnd")
+            Write-Host($itemTypeName + ":" + $itemPrefixName + " Items $itemStart - $itemEnd")
 
             #Render All Items
             $o_itemPrefix.Value.GetEnumerator() | ForEach-Object{
