@@ -283,7 +283,7 @@ tags:
                 $itemStart=1
                 $itemEnd=$itemStart + ($itemsPerPage - 1)
                 $firstItemLink = '../../Types/'+ $itemCategoryName + '/' + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_')+ "/"+ 
-                    ($o_itemPrefix.Name  -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "_" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "_"
+                    ($o_itemPrefix.Name  -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "_" + ($indexItem.ItemType -replace '[^A-Za-zäöüÄÖÜ\-_]','_') + "_" +
                     ("{0:d5}" -f $itemStart) + "_" + ("{0:d5}" -f $itemEnd) + "/"
                 $out+='<div class="item_type_thumbnail">' + "`r`n"
                 $out+='<a href="' + $firstItemLink + '"><img loading="lazy" src="' + $indexItem.item_uri + '"></a><br/>' + "`r`n"
