@@ -21,4 +21,4 @@ tags:
 
 ## How to contribute / collaborate
 
-If you want to contribute your NFT Projtect to chiania. Check if it could fit into the lore and theme of the game. There can also be creative or funny integrations. Then read further in [How to contribute](01_how_to_contribute.md)
+If you want to contribute your NFT Projtect to chiania. Check if it could fit into the lore and theme of the game. There can also be creative or funny integrations. Then read further in [How to contribute](../40_how_to_contribute.md)
