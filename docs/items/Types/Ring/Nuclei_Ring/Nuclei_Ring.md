@@ -18,6 +18,13 @@ tags:
 <div><strong>Constitution:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
+<a href="../../../Ring/Nuclei_Ring/Nuclei_Ring"><img src="https://zjau525d3rvrh3ortjzz6qwohxm675hksrg2ey6lygj7hwjz6m7a.arweave.net/ykFO66PcaxPt0Zpzn0LOPdnv9OqUTaJjy8GT89k58z4"></a><br/>
+<div><strong>Name:</strong> Nuclei Ring 05</div>
+<div><strong>Item Type:</strong> <a href="../../../Ring/Nuclei_Ring/Nuclei_Ring">Nuclei Ring</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Wisdom:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
 <a href="../../../Ring/Nuclei_Ring/Nuclei_Ring"><img src="https://lmsctphmbooladpu6lxrvi44stiw4gjkwqt3u6qe62zyponiwe.arweave.net/WyQpvOwLnLAN_9PLvGqOclNFuGSq0J7p6BPazh7mosY"></a><br/>
 <div><strong>Name:</strong> Nuclei Ring 01</div>
 <div><strong>Item Type:</strong> <a href="../../../Ring/Nuclei_Ring/Nuclei_Ring">Nuclei Ring</a></div>
@@ -37,13 +44,6 @@ tags:
 <div><strong>Item Type:</strong> <a href="../../../Ring/Nuclei_Ring/Nuclei_Ring">Nuclei Ring</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Intelligence:</strong> 1</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Ring/Nuclei_Ring/Nuclei_Ring"><img src="https://zjau525d3rvrh3ortjzz6qwohxm675hksrg2ey6lygj7hwjz6m7a.arweave.net/ykFO66PcaxPt0Zpzn0LOPdnv9OqUTaJjy8GT89k58z4"></a><br/>
-<div><strong>Name:</strong> Nuclei Ring 05</div>
-<div><strong>Item Type:</strong> <a href="../../../Ring/Nuclei_Ring/Nuclei_Ring">Nuclei Ring</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Wisdom:</strong> 1</div>
 </div>
 <hr style="clear:both;"/>
 

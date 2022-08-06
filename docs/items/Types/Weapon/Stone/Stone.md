@@ -11,15 +11,15 @@ tags:
 ## Normal
 
 <div class="item_thumbnail">
-<a href="../../../Weapon/Stone/Stone"><img src="https://itcwhnfjgrhqslfiiaeie73cmcucqjoekb3qqlt5ietbrw4j.arweave.net/RMVjtKk0TwksqEA_Ign-9iYKgoJcRQdwgufUEmGNuJI"></a><br/>
-<div><strong>Name:</strong> Stone 10</div>
+<a href="../../../Weapon/Stone/Stone"><img src="https://or6t2cedelnjo3b4uddliinfe6tj3jz664nkw3mhzvdbjv6ihfma.arweave.net/dH09CIMi2pdsPKDGtCGlJ6adpz73Gqtth81GFNfIOVg"></a><br/>
+<div><strong>Name:</strong> Stone 07</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Bash:</strong> 0</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Weapon/Stone/Stone"><img src="https://lpkqufnagvdm3fnyzcgg7hhlnbrowhjj5vbi3goptubly7i7fxdq.arweave.net/W9UKFaA1Rs2VuMiMb5zraGLrHSntQo2Zz50CvH0fLcc"></a><br/>
-<div><strong>Name:</strong> Stone 15</div>
+<a href="../../../Weapon/Stone/Stone"><img src="https://tpiovso3m7fmgvftuucwpeorkc7c24l3f6socxgngltgokx3iu.arweave.net/m9DqydtnysNUs6UFZ5HRUL4tcXs_vpOFczTLmZyr7RU"></a><br/>
+<div><strong>Name:</strong> Stone 23</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Bash:</strong> 0</div>
@@ -46,22 +46,8 @@ tags:
 <div><strong>Bash:</strong> 0</div>
 </div>
 <div class="item_thumbnail">
-<a href="../../../Weapon/Stone/Stone"><img src="https://x2t7glnx7evx2igefxycenorvzzebsb5mkm3pxb7tdolsc2r.arweave.net/v_qfzLbf5K3-0gxC3wIjXRrnJAyD1imbfcP5jcuQtR8"></a><br/>
-<div><strong>Name:</strong> Stone 21</div>
-<div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Bash:</strong> 0</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Weapon/Stone/Stone"><img src="https://or6t2cedelnjo3b4uddliinfe6tj3jz664nkw3mhzvdbjv6ihfma.arweave.net/dH09CIMi2pdsPKDGtCGlJ6adpz73Gqtth81GFNfIOVg"></a><br/>
-<div><strong>Name:</strong> Stone 07</div>
-<div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Bash:</strong> 0</div>
-</div>
-<div class="item_thumbnail">
-<a href="../../../Weapon/Stone/Stone"><img src="https://tpiovso3m7fmgvftuucwpeorkc7c24l3f6socxgngltgokx3iu.arweave.net/m9DqydtnysNUs6UFZ5HRUL4tcXs_vpOFczTLmZyr7RU"></a><br/>
-<div><strong>Name:</strong> Stone 23</div>
+<a href="../../../Weapon/Stone/Stone"><img src="https://itcwhnfjgrhqslfiiaeie73cmcucqjoekb3qqlt5ietbrw4j.arweave.net/RMVjtKk0TwksqEA_Ign-9iYKgoJcRQdwgufUEmGNuJI"></a><br/>
+<div><strong>Name:</strong> Stone 10</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Bash:</strong> 0</div>
@@ -76,6 +62,20 @@ tags:
 <div class="item_thumbnail">
 <a href="../../../Weapon/Stone/Stone"><img src="https://tse2buqmvjecgofpixjezdzkpddbqtcnrzdjditi4txhvuq.arweave.net/nImg0gyqSCM4_r0XSTI8qeM_Y--YTE2ORpGiaOTuetI"></a><br/>
 <div><strong>Name:</strong> Stone 02</div>
+<div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Bash:</strong> 0</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Weapon/Stone/Stone"><img src="https://lpkqufnagvdm3fnyzcgg7hhlnbrowhjj5vbi3goptubly7i7fxdq.arweave.net/W9UKFaA1Rs2VuMiMb5zraGLrHSntQo2Zz50CvH0fLcc"></a><br/>
+<div><strong>Name:</strong> Stone 15</div>
+<div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Bash:</strong> 0</div>
+</div>
+<div class="item_thumbnail">
+<a href="../../../Weapon/Stone/Stone"><img src="https://x2t7glnx7evx2igefxycenorvzzebsb5mkm3pxb7tdolsc2r.arweave.net/v_qfzLbf5K3-0gxC3wIjXRrnJAyD1imbfcP5jcuQtR8"></a><br/>
+<div><strong>Name:</strong> Stone 21</div>
 <div><strong>Item Type:</strong> <a href="../../../Weapon/Stone/Stone">Stone</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Bash:</strong> 0</div>
