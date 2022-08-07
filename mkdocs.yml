@@ -10,7 +10,7 @@ copyright: |
   You have a chiania item (NFT that you don't need anymore) for me? <br/>Send your mild gift to: <span style="color: #c5e1a5;">xch1t707p8usz9x3zx8ktdfcnuvqj709unclwqdxxshla0x3ytlkd58sucl8cf</span>
 theme: 
   name: material
-  custom_dir: theme
+  custom_dir: overrides
   logo: include/chiania-logo.gif
   palette:
     - scheme: default

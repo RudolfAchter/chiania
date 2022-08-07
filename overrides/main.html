@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block scripts %}
+    <script src="{{ 'assets/javascripts/bundle.6c7ad80a.min.js' | url }}"></script>
+    {% for path in config["extra_javascript"] %}
+    <script src="{{ path | url }}"></script>
+    {% endfor %}
+
+    {% if page.meta and page.meta.title == "Profile" %}
+        <script type="text/javascript"> 
+            console.log("override script test")
+            $(document).ready(function(){
+                $("#profile").innerHTML("Test")
+            })
+        </script>
+    {% endif %}
+{% endblock %}
