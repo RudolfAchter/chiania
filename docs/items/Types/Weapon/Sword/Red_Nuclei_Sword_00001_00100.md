@@ -1,7 +1,7 @@
 ---
 title: Sword - Red Nuclei (1 - 100)
 description: Sword Items in Chia Inventory
-date: 2022-08-07
+date: 2022-08-08
 tags:
     - NFT
     - Items

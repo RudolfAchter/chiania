@@ -1,7 +1,7 @@
 ---
 title: Enhanced Tree Root - Normal (1 - 100)
 description: Enhanced Tree Root Items in Chia Inventory
-date: 2022-08-07
+date: 2022-08-08
 tags:
     - NFT
     - Items
@@ -401,6 +401,13 @@ tags:
 <div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
+<img loading="lazy" src="https://xhgmenmvdeosis5pov64cuytdwnwo7jnow6q2a4ikakrnfiw.arweave.net/uczCNZUZHSRLr3V9wVMT-HZtnfS11vQ0DiFAVFpUW_8"><br/>
+<div><strong>Name:</strong> Enhanced Tree Root 57</div>
+<div><strong>Item Type:</strong> Enhanced Tree Root</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Pierce:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://svwraogelesqxxaride37fzefrera6uxiiqhpgvyheo64o53zu.arweave.net/lW0QO_MRZJQvcEUDJv5ckLEkQepdCIHeauDkd7ju7zY"><br/>
 <div><strong>Name:</strong> Enhanced Tree Root 58</div>
 <div><strong>Item Type:</strong> Enhanced Tree Root</div>
@@ -625,17 +632,17 @@ tags:
 <div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
+<img loading="lazy" src="https://yidqpkt66sxnzbvgcdrrgz47g4w27xcv4yvzskfheayxkgyuze.arweave.net/wgcHqn70rtyGphDjE2efNy2v3FXmK5kopyAx-dRsUyc"><br/>
+<div><strong>Name:</strong> Enhanced Tree Root 90</div>
+<div><strong>Item Type:</strong> Enhanced Tree Root</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://m4yi4czcbio6vlzsx2esqahfmg555jkwgepisnsc6653xefqqpaq.arweave.net/ZzCOCyIKHeqvMr6JKADlYbvepVYxHok2Qve7u5Cwg8E"><br/>
 <div><strong>Name:</strong> Enhanced Tree Root 90</div>
 <div><strong>Item Type:</strong> Enhanced Tree Root</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Pierce:</strong> 1</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://yidqpkt66sxnzbvgcdrrgz47g4w27xcv4yvzskfheayxkgyuze.arweave.net/wgcHqn70rtyGphDjE2efNy2v3FXmK5kopyAx-dRsUyc"><br/>
-<div><strong>Name:</strong> Enhanced Tree Root 90</div>
-<div><strong>Item Type:</strong> Enhanced Tree Root</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://pargi2sn5rcvaeam43arlpups6jnehbivk5mxwhgxt2juqqe.arweave.net/eCJkak3sRVAQDObBFb6Pl5LSHCiqusv_Y5_rz0_mkIE"><br/>
@@ -696,13 +703,6 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://ofu6w2e3toz4edzbxhxosvlcog2jkfosangpmiddfftjzn32.arweave.net/c_WnraJubs8IPIbnu6VVicbSV_FdIDTPYgYylmnLd6c"><br/>
 <div><strong>Name:</strong> Enhanced Tree Root 99</div>
-<div><strong>Item Type:</strong> Enhanced Tree Root</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Pierce:</strong> 1</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://mikjvdawlnq34nno2clycdqzbowryzbu2zbztmovfmp6hg35cq.arweave.net/YhSajBZbYb41rtCXgQ4ZC60_cZDTWQ5mx1Ssf45t9FA"><br/>
-<div><strong>Name:</strong> Enhanced Tree Root 100</div>
 <div><strong>Item Type:</strong> Enhanced Tree Root</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Pierce:</strong> 1</div>

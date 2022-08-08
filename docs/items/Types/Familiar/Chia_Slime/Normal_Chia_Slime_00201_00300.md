@@ -1,7 +1,7 @@
 ---
 title: Chia Slime - Normal (201 - 300)
 description: Chia Slime Items in Chia Inventory
-date: 2022-08-07
+date: 2022-08-08
 tags:
     - NFT
     - Items

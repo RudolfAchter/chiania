@@ -1,23 +1,13 @@
 ---
 title: Brave Seedling - Normal (401 - 500)
 description: Brave Seedling Items in Chia Inventory
-date: 2022-08-07
+date: 2022-08-08
 tags:
     - NFT
     - Items
 ---
 
 # Brave Seedling - Normal (401 - 500)
-<div class="item_thumbnail">
-<img loading="lazy" src="https://akszx4olfjy322pu7bl44mtwe3mhrvufo53kqxabhyzf4kmedy.arweave.net/AqWb8csqcb1p9PhXzjJ2Jth41oV3dqhc-AT4yXimEHg"><br/>
-<div><strong>Name:</strong> Brave Seedling #390</div>
-<div><strong>Item Type:</strong> Brave Seedling</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
-<div><strong>background:</strong> lake blue</div>
-<div><strong>soil:</strong> brown organic</div>
-<div><strong>seedling:</strong> yellow withered</div>
-<div><strong>decoration:</strong> yellow spots</div>
-</div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://cnos5g64qhqchxc4ldy7dnjmr24gxpijhuu35n5cujymhqk2k4.arweave.net/E10u-m9yB4CPcXFjx8bUsjrhrvQk9Kb63oqJww8FaV0"><br/>
 <div><strong>Name:</strong> Brave Seedling #391</div>
@@ -1007,5 +997,15 @@ tags:
 <div><strong>soil:</strong> green swamp</div>
 <div><strong>seedling:</strong> green strong</div>
 <div><strong>decoration:</strong> drip above</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://p5rxexrlblijdk2ekk35sdxmqvq2m6wl4qtlgm24pu5hlwuy.arweave.net/f2NyXisK0JGrRFK32_Q7shWGmesvkJ-rMzXH06ddqYk"><br/>
+<div><strong>Name:</strong> Brave Seedling #490</div>
+<div><strong>Item Type:</strong> Brave Seedling</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
+<div><strong>background:</strong> forest brown</div>
+<div><strong>soil:</strong> green wetlands</div>
+<div><strong>seedling:</strong> green young</div>
+<div><strong>decoration:</strong> none</div>
 </div>
 

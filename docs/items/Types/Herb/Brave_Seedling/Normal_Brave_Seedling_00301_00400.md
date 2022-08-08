@@ -1,7 +1,7 @@
 ---
 title: Brave Seedling - Normal (301 - 400)
 description: Brave Seedling Items in Chia Inventory
-date: 2022-08-07
+date: 2022-08-08
 tags:
     - NFT
     - Items
@@ -539,16 +539,6 @@ tags:
 <div><strong>decoration:</strong> drip below</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://tj5hekqitg5muvyaaige4zmzk4d4kwogxn2un4tagiaofjmq5gbq.arweave.net/mnpyKgiZuspXAAIMTmWZVwfFWca7dUbyYDIA4qWQ6YM"><br/>
-<div><strong>Name:</strong> Brave Seedling #343</div>
-<div><strong>Item Type:</strong> Brave Seedling</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
-<div><strong>background:</strong> forest brown</div>
-<div><strong>soil:</strong> moon well</div>
-<div><strong>seedling:</strong> green strong</div>
-<div><strong>decoration:</strong> nourish</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://unedw6qpgei45ulyx243c6gkjinnw4knufai5g6b5xl62kiaku.arweave.net/o0g7eg8xEc7ReL65s-XjKShrbcU2hQI6bwe3X7SkAVY"><br/>
 <div><strong>Name:</strong> Brave Seedling #344</div>
 <div><strong>Item Type:</strong> Brave Seedling</div>
@@ -1007,5 +997,15 @@ tags:
 <div><strong>soil:</strong> green wetlands</div>
 <div><strong>seedling:</strong> yellow withered</div>
 <div><strong>decoration:</strong> none</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://akszx4olfjy322pu7bl44mtwe3mhrvufo53kqxabhyzf4kmedy.arweave.net/AqWb8csqcb1p9PhXzjJ2Jth41oV3dqhc-AT4yXimEHg"><br/>
+<div><strong>Name:</strong> Brave Seedling #390</div>
+<div><strong>Item Type:</strong> Brave Seedling</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
+<div><strong>background:</strong> lake blue</div>
+<div><strong>soil:</strong> brown organic</div>
+<div><strong>seedling:</strong> yellow withered</div>
+<div><strong>decoration:</strong> yellow spots</div>
 </div>
 
