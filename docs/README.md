@@ -139,9 +139,15 @@ Mimic understands a few "magic words". You can talk to mimic anytime and make so
 
 ### Combat
 
+#### !hunt
+
 `!hunt` : Go hunting for monsters on your current location. You hant whatever monsters can be found at your current location. Maybe check your current location first `!look` and your `!profile` before you go hunting. If you die angainst a monster It will last 3 hours until the [Goddess of Chiania](03_characters#goddess-of-chiania) can revive you.
 
+#### !attack
+
 `!attack` : You can directly target a specific monster with `!attack Monster Name`. You can examine which monsters are here by using `!look`. Monsters spawn from time to time and can move between some locations.
+
+#### !set_channel
 
 `!set_channel` : Fighting and Hunting creates a lot of text in the text channels. But doing hunting in Direct Messages woudn't be so much fun. So we decided to have multiple "hunting grounds" were player can come together and go hunting. Choose one of the hunting Grounds in Discord. For example [hunting-ground-4](https://discord.com/channels/994949585657143296/1006148629150576730) then type `!set_channel`
 
@@ -155,24 +161,36 @@ Then all hunting and fighting notifications for you go in this channel.
 
 ### Location
 
+#### !look
+
 `!look`: Gives a description of the place around you. Says what you can do here and what direction you can go next.
+
+#### !go
 
 `!go (north|south|east|west)`: Example `go east`: Move your character. Look at the [World Map](world/salvia/00_salvia_main_continent.md) for reference
 
 ### Merchant
 
+#### !merchandise
+
 With the current version of Ingame Merchants you can get exclusive Offers for 0.03 XCH. This way you can directly use your coins from ingame wallet right now. **Attention** when you buy ingame in Discord, the Mimic Bot will send you an offer with a direct Message. You have to be able to receive Direct Messages from Mimic Bot. So check your privacy Settings for this. Maybe enable Direct Messages for Chia Inventory Server.
 
 - You Enter `!merchandise` in Discord.
 - Mimic answers with a table of items you can buy right now with Chiania Coin Prices
+
+#### !buy
+
 - Enter `!buy <serialnumber>` use the serialnumber of the item you want to buy. For example `!buy 1`
 - Mimic sends you an offer as direct message
 - Download offer and accept it in your Chia Wallet
 
 ### Registration
 
+#### !register
 `!register`
 Example: `!register xch1example1234example4321` : Registers the DID Address you use for playing. Items must be in there. If you change your DID your progress (Experience Points, "virtual" Wallet) is lost. NFTs and CAT2 Coins will stay in your wallet.
+
+#### !profile
 
 `!profile`
 Example: `!profile` : Shows your profile the Mimic bot has registered. This includes your character stats and your equipped items. One Item of each category is randomly selected and equipped. So if you want to control this have just only one item of each category in this profile / did. You can register multiple profiles with one chia wallet, but a item can only be in one profile. Before each quests your base stats will be rerolled. So your character can have a "good" or "bad day". Item Attribut bonuses will be calculated on your rolled base stats.
@@ -180,7 +198,19 @@ Example: `!profile` : Shows your profile the Mimic bot has registered. This incl
 
 ### Tools
 
+#### !dice
+
 `!dice`: Rolls a dice with 20 numbers. No Function until now
+
+#### !set_channel
+
+`!set_channel` : Fighting and Hunting creates a lot of text in the text channels. But doing hunting in Direct Messages woudn't be so much fun. So we decided to have multiple "hunting grounds" were player can come together and go hunting. Choose one of the hunting Grounds in Discord. For example [hunting-ground-4](https://discord.com/channels/994949585657143296/1006148629150576730) then type `!set_channel`
+
+Mimic answers
+
+```text
+You decided to set 🍎hunting-ground-4 as your home.
+```
 
 ## Register for Quests
 
