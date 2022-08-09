@@ -120,7 +120,7 @@ There is "page forward", "page back" and "cancel" under the help menu. You can c
 
 ![](2022-07-29-06-29-47.png)
 
-So you can use these help Commands
+So you can use these help Commands:
 
 `!help Combat`
 

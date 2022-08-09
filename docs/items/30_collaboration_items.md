@@ -15,10 +15,20 @@ REMEMBER THE RISK THAT STATS CAN CHANGE
 DO NOT SPEND MONEY ON NFT JUST TO WIN
 
 ### MOUNTS
-
 #### DEER ( Twitter handle: @ Chreatures1 )
-- 🦌 Deer: DEX + 1D5;
-- 👑 🦌 Majestic Deer: DEX + 1D5 and STR + 1D5
+- Antlers:
+    - 🤏 Small: +1D3 DEX
+    - 🦌 Medium: +1D3 DEX , +1 STR
+    - 👑 🦌 Majestic: +1D3 DEX, +1D3 STR
+    - 🍷 🦌 Antlers with vines, added: +1WIS
+- Accessories:
+    - 🟩 Slime, added: -1D3 DEX +1D3 LUC
+    - 🟪 Purple Bandana, added: +1 CON
+    - 🟥 Red Bandana, added: +1 INT
+- Eye, Hooves:
+    - 📸 one of the two "flashy", added: 20% +1CHA
+    - 📸 📸 two with "flashy", added: 50% +1CHA
+    - 🔴 emerald or rudolf nose, added: 50% +1CHA
 
 ### HERBS
 
@@ -27,8 +37,7 @@ DO NOT SPEND MONEY ON NFT JUST TO WIN
 - 🌱 Brave Seedling (rarity 1-800): HP + 1D5;
 - ❤️  Brave Seedling (rarity 22-101): HP + 2D5,
 - 💪   Brave Seedling (rarity 1-21): HP + 2D5, CON + 1D5
-
-Seedlings rarity list <https://bit.ly/3Q6Jmgd>
+- Seedlings rarity list https://bit.ly/3Q6Jmgd
 
 ### FAMILIARS
 
@@ -39,28 +48,31 @@ Seedlings rarity list <https://bit.ly/3Q6Jmgd>
 - 🟠 Orange Slime: +1 CON -1 DEX
 - 🟡 Yellow Slime: +1 CHA -1 WIS
 - 🟣 Purple Slime: +1 WIS -1 CHA
+- ⚫ Rock Slime: +2 CON -1 DEX -1 WIS
+
+- 🔪 Spiked: 20% to add +1 pierce 
+- 🛡️ Power Defensive Aura: 20% to add +1 defense
 - 🧑‍⚕️ Power Heal: 20% to add 2-4 HP
 - 👓 Power Identify: 20% to add 2-4 INT
 
 #### 2) SNAILS ( Twitter handle: @ snailnft1 )
+
 - 🐌 Snail: LUC +1D5, DEX -1D5
-- 🐌 Hard Snail: CON +1D5
+- 🛡 🐌 Hard Snail: CON +1D5
 
 ### PORTRAITS
 
-#### 1) CHIA FARMERS ( Twitter handle: @ ChiaFarmersNFT )
-
-Buffs from skin and tool can sum up from one NFT,
-providing more than one +1 buff (max +2).
-
+#### CHIA FARMERS ( Twitter handle: @ ChiaFarmersNFT )
+- Buffs from skin and tool can sum up from one NFT,
+- providing more than one +1 buff (max +2).
 - 🎨 - skin 🛠️  - tool
 - 💪 +1STR from Vermeil 🎨 or Pitchfork or Sickle 🛠️
 - 👟 +1DEX from Jasmine 🎨 or Shelf 🛠️ 
 - 💓 +1CON from Cyan 🎨 or Water 🛠️ 
 - 👁️ +1INT from CeruleanBlue or Narcissus 🎨 or Magic 🛠️ 
 - 🧠 +1WIS from Green or PaleMauve 🎨 or Doorplate 🛠️ 
-- 🟣 +1CHA from DarkPurple or Turquoise 🎨 or Flowers 🛠️ 
-- 🍀 +1LUCK from Gold 🎨 or Sapling 🛠️  
+- 🪞 +1CHA from DarkPurple or Turquoise 🎨 or Flowers 🛠️ 
+- 🍀 +1LUCK from Gold 🎨 or Sapling 🛠️ 
 - 😢 +1CHA +1 WIS -2 LUCK from Cry
 - 🌈 +1HP 10% +1 ALL from Rainbow
 - 🧑‍🌾 +1HP 10% +2HP from Chia Farm 
