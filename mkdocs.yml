@@ -32,7 +32,7 @@ theme:
       - toc.integrate
       - navigation.instant
       - navigation.tabs
-      - navigation.indexes
+      #- navigation.indexes
       #- navigation.expand
       - navigation.top
 extra:
@@ -79,7 +79,8 @@ extra_javascript:
   
 
 plugins:
-  - search:
+  - search
+  - awesome-pages
   - mkdocs-video:
       css_style:
         width: "1496px"
