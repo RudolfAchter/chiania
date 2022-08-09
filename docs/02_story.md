@@ -17,7 +17,7 @@ To edit something -> [click here (GitHub/Rudolf Achter/chiania)](https://github.
 
 ## The World
 
-![](2022-07-21-19-12-35.png){class="story_pic" style="max-width: 100%; width:100%"}
+![](include/2022-07-21-19-12-35.png){class="story_pic" style="max-width: 100%; width:100%"}
 
 ![](media/01_quest_start.jpg){style="" class="story_pic_left"}
 

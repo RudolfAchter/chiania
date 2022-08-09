@@ -51,13 +51,16 @@ When starting Chia the first time you are asked which mode you want. "Light Wall
 ### Create a Profile - DID
 
 First you have to create a DID (Distributed Identifier). In Chia Wallet it's called "Profile". - Go to Settings -> Profiles
-- Create a new Profile (or better two)
+
+- Create a new Profile **you need only one profile. I recommend the second profile if you have many items. I use one DID to Equip items. The other DID has NFTs in reserve (that i dont have equipped or i want to trade with.)
 - Name the first Profile "Chiania Equipped"
     - this would be for the items your Character has equipped
-- Name the seconds Profile "Chiania Inventory"
+- **Optional:** Name the seconds Profile "Chiania Inventory"
     - this would be items you have in reserve
+- **Give it some time to settle on the Blockchain**. It can last some time until your DID is settled on the Blockchain. So if you get an error message while registering that your did does not exist you may have to wait ()
 
-![](2022-07-27-13-27-10.png)
+
+![](include/2022-07-27-13-27-10.png)
 
 - Go to [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854) and register with a command like this:
 
@@ -65,17 +68,17 @@ First you have to create a DID (Distributed Identifier). In Chia Wallet it's cal
 !register did:chia:1abczooEXAMPLEooEXAMPLEoodbca
 ```
 
-![](2022-07-27-13-31-22.png)
+![](include/2022-07-27-13-31-22.png)
 
 ### Manage your Items
 
 When you want to use a item for Chiania you simply move it into the right Profile.
 
-![](2022-07-27-13-50-26.png)
+![](include/2022-07-27-13-50-26.png)
 
 In this example i want to equip "Short Axe"
 
-![](2022-07-27-13-53-09.png)
+![](include/2022-07-27-13-53-09.png)
 
 You can have one item of each category equipped. If there is more than one item of one category in your "equipped" DID, then one item randomly is selected for you.
 
@@ -94,7 +97,7 @@ Item Categories so far:
 To check what you character now has equipped use the command `!profile`.
 The stats of you character are rerolled at each quest. So your character can have a "goog" or a "bad" day. The Items you have give you a buff. With a little luck even worse equipped characters could be strong when they roll good stats in a quest.
 
-![](2022-07-25-13-19-27.png)
+![](include/2022-07-25-13-19-27.png)
 
 ## Check what you can do - Get Help
 
@@ -118,7 +121,7 @@ You can also type !help category for more info on a category.
 
 There is "page forward", "page back" and "cancel" under the help menu. You can click them.
 
-![](2022-07-29-06-29-47.png)
+![](include/2022-07-29-06-29-47.png)
 
 So you can use these help Commands:
 
