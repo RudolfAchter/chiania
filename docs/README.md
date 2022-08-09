@@ -141,6 +141,18 @@ Mimic understands a few "magic words". You can talk to mimic anytime and make so
 
 `!hunt` : Go hunting for monsters on your current location. You hant whatever monsters can be found at your current location. Maybe check your current location first `!look` and your `!profile` before you go hunting. If you die angainst a monster It will last 3 hours until the [Goddess of Chiania](03_characters#goddess-of-chiania) can revive you.
 
+`!attack` : You can directly target a specific monster with `!attack Monster Name`. You can examine which monsters are here by using `!look`. Monsters spawn from time to time and can move between some locations.
+
+`!set_channel` : Fighting and Hunting creates a lot of text in the text channels. But doing hunting in Direct Messages woudn't be so much fun. So we decided to have multiple "hunting grounds" were player can come together and go hunting. Choose one of the hunting Grounds in Discord. For example [hunting-ground-4](https://discord.com/channels/994949585657143296/1006148629150576730) then type `!set_channel`
+
+Mimic answers
+
+```text
+You decided to set 🍎hunting-ground-4 as your home.
+```
+
+Then all hunting and fighting notifications for you go in this channel.
+
 ### Location
 
 `!look`: Gives a description of the place around you. Says what you can do here and what direction you can go next.

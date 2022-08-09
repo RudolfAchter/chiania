@@ -112,8 +112,16 @@ A jeweler passed by the Blacksmith Shop, he was attracted by the glowing Monster
 ## Defense of Viridis
 
 While the wizards of Viridis are investigating the murder of the master druid, the volunteers of the city are defending their homes at the gate of viridis. Together with the City Guards they are patroling at the gate and at the border of the black forest. The most brave and strong adventurers advance even further and push into the deep woods to clean it from dangerous monsters. Meanwhile the most talented craftsmen are making [equipment](items/20_markets.md) for the volunteers to protect them from danger. Nobody thought at the peaceful land of Salvia that any kind of mercenaries would ever be needed again. But these monsters have to be faced against.
-
 <hr style="clear:both">
+
+The master blacksmith has come back and forged many new weapons and armors. This time he decided to sell items by himself, not through black market (Dexie). Adventurers could join our [Discord](https://discord.gg/vPCvmGmZ) and buy these items by `!merchandise` and `!buy`, all cost Chiania Coins (CC). You can earn Coins when you go hunting in the world of chiania. Look in [How to Play](README.md) to get started.
+
+![](https://cdn.discordapp.com/attachments/995945537603911770/1005696994653777941/unknown.png){class="story_pic_wide"}
+
+![](https://pbs.twimg.com/media/FZsPchKaAAAl0UA?format=png&name=small){class="story_pic_right"}
+"Who killed the master druid?" "More importantly, who took the wand of master druid?" This question ramains in the mind of blacksmith's greedy apprentice, and he knows a method to track an item with such powerful magic.....
+
+
 ## The Story continues...
 
 To get the latest news in chiania go to certain places:
@@ -122,7 +130,8 @@ To get the latest news in chiania go to certain places:
 - [Chiania Events](https://discord.com/channels/994949585657143296/995484176428044378)
 - [Quest Announcements](https://discord.com/channels/994949585657143296/995496698086432838)
 
-If you have valuable items to sell:
+If you want to buy items or have valuable items to sell:
 
 - Go to the [marketplace](https://discord.com/channels/994949585657143296/997830621831368734) in the kingdom street
-- Or look which [markets](items/20_markets.md) are known in the world of chiania
+- Look which [markets](items/20_markets.md) are known in the world of chiania
+- Use the command `!merchandise` to see what the NPCs have to offer
