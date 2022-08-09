@@ -1,0 +1,13 @@
+{
+    "spacescan": {
+      "apiKey": "yourApiKey"
+    },
+    "mongodb":{
+      "server":"your.MongoDb.Server",
+      "database":"your-mongodb-database",
+      "user":"mongodbuser",
+      "password":"mongopass",
+      "apikey":"ApiKeyForMongoDbAtlasAPI"
+    }
+  }
+  
