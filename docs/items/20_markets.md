@@ -66,6 +66,7 @@ He lifts the linen cloth from the table and mysterious boxes appear under the ta
     </div>
   </div>
 </div>
+
 <div class="market-box" onclick="flip_marketbox(event)">
   <div class="market-box-inner" name="Mysterious Box 2">
     <div class="market-box-back">
@@ -78,6 +79,41 @@ He lifts the linen cloth from the table and mysterious boxes appear under the ta
   </div>
 </div>
 
+<div class="market-box" onclick="flip_marketbox(event)">
+  <div class="market-box-inner" name="Mysterious Box 3">
+    <div class="market-box-back">
+      <a class="black_market" href="../offers/chiania-long-arm-blade-21_nft10jjzr2vs37297zhaeamcgg6y7njmdelu657rkj8lmwstgu6qdhwq9dtrkm_x_0,3XCH.offer" name="Chiania Long Arm Blade 21">
+      <img src="https://4u7gwejqe2ck2szl3cxemvyg6k5lgezl2r4atejhf52b224f3u.arweave.net/5T5rETAmhK1-LK9iuRlcG8rqzEyvUeAmRJy90HWuF3c" alt="Chiania Long Arm Blade 21" style="width:150px;height:150px;">
+      </a>
+    </div>
+    <div class="market-box-front">
+    </div>
+  </div>
+</div>
+
+<div class="market-box" onclick="flip_marketbox(event)">
+  <div class="market-box-inner" name="Mysterious Box 4">
+    <div class="market-box-back">
+      <a class="black_market" href="../offers/deer_052_1_nft1txxzmdpmnhtvqugfxf4apm6w6wtg3lfxq4dz2h9lf9l9q2m48h6qva4kx2_x_0,3XCH.offer" name="Deer 052">
+      <img src="https://4tinwagvdgydzluzrhovn6y4d5hug5gc2fqwrg6ewhri2joqky.arweave.net/5NDbANUZsDyumYndVvs-cH09DdMLRYWibxLHijSXQVs" alt="Deer 052" style="width:150px;height:150px;">
+      </a>
+    </div>
+    <div class="market-box-front">
+    </div>
+  </div>
+</div>
+
+<div class="market-box" onclick="flip_marketbox(event)">
+  <div class="market-box-inner" name="Mysterious Box 5">
+    <div class="market-box-back">
+      <a class="black_market" href="../offers/deer_061_1_nft1mm4ghj2ykzq2hef6h6m6nwds06a7d5k2qj5xk6jn2ws98m32xc5sce53n7_x_0,3XCH.offer" name="Deer 061">
+      <img src="https://z5jbv346223gv65hf5uaboyasnrepfxr37htj64nv5ghefue64.arweave.net/z1Ia757Wtmr7py9oALsAk2JHlvHfzzT7ja9Mcha_E98" alt="Deer 061" style="width:150px;height:150px;">
+      </a>
+    </div>
+    <div class="market-box-front">
+    </div>
+  </div>
+</div>
 <!-- OFFEREND -->
 
 <hr style="clear:both">
