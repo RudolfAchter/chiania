@@ -121,6 +121,7 @@ The master blacksmith has come back and forged many new weapons and armors. This
 ![](https://pbs.twimg.com/media/FZsPchKaAAAl0UA?format=png&name=small){class="story_pic_right"}
 "Who killed the master druid?" "More importantly, who took the wand of master druid?" This question ramains in the mind of blacksmith's greedy apprentice, and he knows a method to track an item with such powerful magic.....
 
+The apprentice of blacksmith has disappeared! "Cloth of the missing apprentice was found in the northern border of slime forest, which is dominated by the goblin stronghold...", a local hunter says.
 
 ## The Story continues...
 
