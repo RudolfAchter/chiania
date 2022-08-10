@@ -1,21 +1,13 @@
 ---
 title: Sword - Normal (1 - 100)
 description: Sword Items in Chia Inventory
-date: 2022-08-09
+date: 2022-08-10
 tags:
     - NFT
     - Items
 ---
 
 # Sword - Normal (1 - 100)
-<div class="item_thumbnail">
-<img loading="lazy" src="https://4fhetw6fphgvhyudgki4qxshjdjkvgwdu2vcf3zqkjdvxhi.arweave.net/4U5J28V5zVPigzKRyF5HSNKqms-OmqiLvM_-FJ_HW50"><br/>
-<div><strong>Name:</strong> Sword 01</div>
-<div><strong>Item Type:</strong> Sword</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Slash:</strong> 2</div>
-<div><strong>Pierce:</strong> 1</div>
-</div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://os7rgef2gycobpm6kgl7hmq5qiwhdltlwq644ud55ooirmac5u.arweave.net/dL8TELo2BOC9nlGX87Idgixxrmu0Pc5QfeuciL_AC7Q"><br/>
 <div><strong>Name:</strong> Sword 01</div>
@@ -24,6 +16,14 @@ tags:
 <div><strong>Slash:</strong> 2</div>
 <div><strong>Bash:</strong> 0</div>
 <div><strong>Pierce:</strong> 0</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://4fhetw6fphgvhyudgki4qxshjdjkvgwdu2vcf3zqkjdvxhi.arweave.net/4U5J28V5zVPigzKRyF5HSNKqms-OmqiLvM_-FJ_HW50"><br/>
+<div><strong>Name:</strong> Sword 01</div>
+<div><strong>Item Type:</strong> Sword</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Slash:</strong> 2</div>
+<div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://c3gipvtflesrwhoyxhzzwjivmyb7ufewfafvxq3ylslycsvcne.arweave.net/FsyH1mVZJRsd2LnzmyUVZgP6FJYoC_1vDeFyXgUqiac"><br/>

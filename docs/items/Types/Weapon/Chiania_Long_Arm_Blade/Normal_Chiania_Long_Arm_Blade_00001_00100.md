@@ -1,7 +1,7 @@
 ---
 title: Chiania Long Arm Blade - Normal (1 - 100)
 description: Chiania Long Arm Blade Items in Chia Inventory
-date: 2022-08-09
+date: 2022-08-10
 tags:
     - NFT
     - Items
@@ -47,12 +47,6 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://brmbjg4oufa6tw2r5tuqc4a6j6fxmxfj57pvppetj2fgnagrtevq.arweave.net/DFgUm46hQenbUezpAXAeT4t2XKnv31e8k06KZoDRmSs"><br/>
 <div><strong>Name:</strong> Chiania Long Arm Blade 7</div>
-<div><strong>Item Type:</strong> Chiania Long Arm Blade</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://kgd3cm2g63dwumspu42vhlkoj2c674i6cvmwl43ocd32tngjzm.arweave.net/UYexM0b2x2oyT6c1U61OToXv8R4VWWXzbhD3-qbTJy4"><br/>
-<div><strong>Name:</strong> Chiania Long Arm Blade 8</div>
 <div><strong>Item Type:</strong> Chiania Long Arm Blade</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
@@ -287,12 +281,6 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://vljzpraoqafxofo7hnxtfwkgcusslomeum3lwlszap65n4ap.arweave.net/qtOXxA6AC3cV3ztvMtlGFSUluYSjNrsuWQP91-vAP_s"><br/>
 <div><strong>Name:</strong> Chiania Long Arm Blade 47</div>
-<div><strong>Item Type:</strong> Chiania Long Arm Blade</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://y5pepl3v2xypgul3sdb4hehorysxdlu33ewyansgpjda.arweave.net/-x15__Hr3-XV8PNR_e5DDw5DujiVxrpvZLYA2Rnp-Gs"><br/>
-<div><strong>Name:</strong> Chiania Long Arm Blade 48</div>
 <div><strong>Item Type:</strong> Chiania Long Arm Blade</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>

@@ -1,33 +1,13 @@
 ---
 title: Chia Slime - Normal (101 - 200)
 description: Chia Slime Items in Chia Inventory
-date: 2022-08-09
+date: 2022-08-10
 tags:
     - NFT
     - Items
 ---
 
 # Chia Slime - Normal (101 - 200)
-<div class="item_thumbnail">
-<img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/101.png"><br/>
-<div><strong>Name:</strong> Chia Slime #101</div>
-<div><strong>Item Type:</strong> Chia Slime</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
-<div><strong>Volume:</strong> 1</div>
-<div><strong>Drop Set:</strong> Alpha</div>
-<div><strong>Narrative Block:</strong> The Beginning</div>
-<div><strong>Mood:</strong> Blank-Right</div>
-<div><strong>Acs1:</strong> Drop Lines</div>
-<div><strong>Acs2:</strong> None</div>
-<div><strong>Acs3:</strong> None</div>
-<div><strong>Color:</strong> Alpha-Drop</div>
-<div><strong>Floor:</strong> None</div>
-<div><strong>Sky:</strong> Clear Skies</div>
-<div><strong>Hidden Power:</strong> Drop</div>
-<div><strong>Other Info:</strong> None</div>
-<div><strong>Weight:</strong> 99</div>
-<div><strong>Stickyness:</strong> 99</div>
-</div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/buildslimegods/images/102.png"><br/>
 <div><strong>Name:</strong> Chia Slime #102</div>
@@ -2104,5 +2084,26 @@ tags:
 <div><strong>Other Info:</strong> None</div>
 <div><strong>Weight:</strong> 62</div>
 <div><strong>Stickyness:</strong> 77</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/beta/build/images/201.png"><br/>
+<div><strong>Name:</strong> Chia Slime #201</div>
+<div><strong>Item Type:</strong> Chia Slime</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Drop Set:</strong> Beta</div>
+<div><strong>Narrative Block:</strong> The Beginning</div>
+<div><strong>Mood:</strong> Sad-Left</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs2:</strong> Drippy</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Alpha-Green-00af29</div>
+<div><strong>Floor:</strong> Grassy2</div>
+<div><strong>Sky:</strong> Clear Skies</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Weight:</strong> 34</div>
+<div><strong>Stickyness:</strong> 16</div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 title: Brave Leef - Normal (1 - 100)
 description: Brave Leef Items in Chia Inventory
-date: 2022-08-09
+date: 2022-08-10
 tags:
     - NFT
     - Items
@@ -16,18 +16,18 @@ tags:
 <div><strong>number:</strong> 11/10000</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://j23oysnjzxncyi5ezbud63fbbc4ir4n2ws3rzwkydcojk7hxdi.arweave.net/Trb_sSanN2iwjpMhoP2yhCLiI8bq0txzZWBiclXz3Gg"><br/>
-<div><strong>Name:</strong> Brave Leef</div>
-<div><strong>Item Type:</strong> Brave Leef</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
-<div><strong>number:</strong> 9/10000</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://hi2onh5ifj3mcmn5kevyboyfu5wnkgjzgbmxdfeorfafvcyp2kmq.arweave.net/OjTmn6gqdsExvVErgLsFp2zVGTkwWXGUjolAWosP0pk"><br/>
 <div><strong>Name:</strong> Brave Leef</div>
 <div><strong>Item Type:</strong> Brave Leef</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
 <div><strong>number:</strong> 5/10000</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://j23oysnjzxncyi5ezbud63fbbc4ir4n2ws3rzwkydcojk7hxdi.arweave.net/Trb_sSanN2iwjpMhoP2yhCLiI8bq0txzZWBiclXz3Gg"><br/>
+<div><strong>Name:</strong> Brave Leef</div>
+<div><strong>Item Type:</strong> Brave Leef</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
+<div><strong>number:</strong> 9/10000</div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://lwluae4v6wmoccrzszxwnhzz2fqzuj6uiud3z6w7sl4thqfkxu.arweave.net/XZdAE5X1mOEKOZZvZp850WGaJ9RFB7z635L5M_8CqvU"><br/>

@@ -1,7 +1,7 @@
 ---
 title: Brave Seedling - Normal (201 - 300)
 description: Brave Seedling Items in Chia Inventory
-date: 2022-08-09
+date: 2022-08-10
 tags:
     - NFT
     - Items

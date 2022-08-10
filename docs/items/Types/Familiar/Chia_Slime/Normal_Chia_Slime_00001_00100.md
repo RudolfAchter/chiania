@@ -1,7 +1,7 @@
 ---
 title: Chia Slime - Normal (1 - 100)
 description: Chia Slime Items in Chia Inventory
-date: 2022-08-09
+date: 2022-08-10
 tags:
     - NFT
     - Items
@@ -1369,26 +1369,6 @@ tags:
 <div><strong>Stickyness:</strong> 68</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/69.png"><br/>
-<div><strong>Name:</strong> Chia Slime #69</div>
-<div><strong>Item Type:</strong> Chia Slime</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
-<div><strong>Volume:</strong> 1</div>
-<div><strong>Drop Set:</strong> Alpha</div>
-<div><strong>Narrative Block:</strong> The Beginning</div>
-<div><strong>Mood:</strong> Blank-Right</div>
-<div><strong>Acs1:</strong> Glimmer</div>
-<div><strong>Acs2:</strong> Drippy</div>
-<div><strong>Acs3:</strong> None</div>
-<div><strong>Color:</strong> Alpha-Red-d30000</div>
-<div><strong>Floor:</strong> Dirt</div>
-<div><strong>Sky:</strong> Clear Skies</div>
-<div><strong>Hidden Power:</strong> None</div>
-<div><strong>Other Info:</strong> None</div>
-<div><strong>Weight:</strong> 27</div>
-<div><strong>Stickyness:</strong> 24</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/70.png"><br/>
 <div><strong>Name:</strong> Chia Slime #70</div>
 <div><strong>Item Type:</strong> Chia Slime</div>
@@ -2007,5 +1987,25 @@ tags:
 <div><strong>Other Info:</strong> None</div>
 <div><strong>Weight:</strong> 51</div>
 <div><strong>Stickyness:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/build/images/101.png"><br/>
+<div><strong>Name:</strong> Chia Slime #101</div>
+<div><strong>Item Type:</strong> Chia Slime</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Drop Set:</strong> Alpha</div>
+<div><strong>Narrative Block:</strong> The Beginning</div>
+<div><strong>Mood:</strong> Blank-Right</div>
+<div><strong>Acs1:</strong> Drop Lines</div>
+<div><strong>Acs2:</strong> None</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Alpha-Drop</div>
+<div><strong>Floor:</strong> None</div>
+<div><strong>Sky:</strong> Clear Skies</div>
+<div><strong>Hidden Power:</strong> Drop</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Weight:</strong> 99</div>
+<div><strong>Stickyness:</strong> 99</div>
 </div>
 

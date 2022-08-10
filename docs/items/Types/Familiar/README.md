@@ -1,7 +1,7 @@
 ---
 title: Category - Familiar
 description: Item Types in Chia Inventory
-date: 2022-08-09
+date: 2022-08-10
 tags:
     - NFT
     - Items

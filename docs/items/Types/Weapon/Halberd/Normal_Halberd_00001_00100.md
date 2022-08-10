@@ -1,7 +1,7 @@
 ---
 title: Halberd - Normal (1 - 100)
 description: Halberd Items in Chia Inventory
-date: 2022-08-09
+date: 2022-08-10
 tags:
     - NFT
     - Items
@@ -17,12 +17,6 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://nmqqgax3lhenjgiguonkbyrrddo7rt4h4a7hs67ilp5loasv.arweave.net/-ayEDAvtZyNSZBqOaoOIxGN34z4fgPnl76Fv6tw-JVw"><br/>
 <div><strong>Name:</strong> Halberd 2</div>
-<div><strong>Item Type:</strong> Halberd</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://3vaat3at6gd2ccfnybhma3dzuew4xypo5q3d55eexxol2ls5lm.arweave.net/3UAJ7BPxh6EIrcBOwGx5oS3L4e7sNj70hL3cv-S5dW0"><br/>
-<div><strong>Name:</strong> Halberd 3</div>
 <div><strong>Item Type:</strong> Halberd</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
@@ -125,6 +119,12 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://inodut2r2iislvyyorasn4ft4kt3w4ymawdi3zgwijrw62a.arweave.net/Q1w6T1HSESXXGHRBJvCz4_qe7cwwFho3k1-k_J-jb2g"><br/>
 <div><strong>Name:</strong> Halberd 20</div>
+<div><strong>Item Type:</strong> Halberd</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://sscrshwngvyspizmb3ih7gyvbhzw5bebdbwkksqq7yswxmi2zbhq.arweave.net/lIUZHs01cSejLA7Qf5sVCfNuhIEYbKVKEP4la7EayE8"><br/>
+<div><strong>Name:</strong> Halberd 21</div>
 <div><strong>Item Type:</strong> Halberd</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
@@ -239,6 +239,12 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://5w7tdqi6wycuifej3w2yvrctfskgjkuxbi7hj5ve3ljjrs3qcq.arweave.net/7b8xwR62BUQUid21isRTLJRkqpcKPnT2pNrSmMtwF_A"><br/>
 <div><strong>Name:</strong> Halberd 41</div>
+<div><strong>Item Type:</strong> Halberd</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://zjhwop66c4ozucavkwztva4su4y4ecdl66sowysmeqaxbefl.arweave.net/yk9nP94XHZoIFVWz_OoOSpzHCCGv3pOtiTCQBc-JCrk"><br/>
+<div><strong>Name:</strong> Halberd 42</div>
 <div><strong>Item Type:</strong> Halberd</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
