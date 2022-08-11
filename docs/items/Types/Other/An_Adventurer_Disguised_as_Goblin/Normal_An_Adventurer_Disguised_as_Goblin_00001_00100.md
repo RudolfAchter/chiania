@@ -81,6 +81,12 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
+<img loading="lazy" src="https://6fm2odq4ild2w5ys5euov4xlc4czcidfs7gakv3ketviujq.arweave.net/8VmnDhxCx6t3Euko6vLrFw_WRIG-WX_zAVXa_iTqiiY"><br/>
+<div><strong>Name:</strong> An Adventurer Disguised as Goblin 28</div>
+<div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://56u5xkea4cr5dnpaardfv6ijbjyzmoled6yi3bw7hhb57enekypa.arweave.net/76nbqIDgo9G14ARGWvkJCnGWOWQfsI2G3znD35GkVh4"><br/>
 <div><strong>Name:</strong> An Adventurer Disguised as Goblin 29</div>
 <div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
@@ -113,6 +119,12 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://r22pusqlf5etjxs24ez6xmohpzt2eqpzptkbidd2bgtjwjvh.arweave.net/jrT6_SgsvSTTeWuEz67HHfmeiQfl81BQMegmmmya-nY"><br/>
 <div><strong>Name:</strong> An Adventurer Disguised as Goblin 43</div>
+<div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://yhc2jgnmq5dzkrppxgkqf5qefauzhgsihopykbns32hksi52um.arweave.net/wcWkmayHR-5VF77mVAvYEKCmTmkg7n4UFst6OqSO6o4"><br/>
+<div><strong>Name:</strong> An Adventurer Disguised as Goblin 44</div>
 <div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
@@ -209,6 +221,12 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://dtbb5xayf4obz7he6pjtv3qolrb7urywfiklkigr24sbmc44.arweave.net/HMIe3BgvHBz85PPT-Ou4OXEP6R-xYqFLUg0dckFg_uc"><br/>
 <div><strong>Name:</strong> An Adventurer Disguised as Goblin 72</div>
+<div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://sorbgpkkrwihj3lwgnas2hjddzg2ymmflap32e3llh2xlgdkda.arweave.net/k6ITPUqNkHTt-djNBLR0jHk2sMYVYH70Ta1n1dZhqGA"><br/>
+<div><strong>Name:</strong> An Adventurer Disguised as Goblin 73</div>
 <div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
