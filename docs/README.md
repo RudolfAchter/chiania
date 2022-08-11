@@ -23,19 +23,7 @@ Players can also sell NFTs to allow newbies to join the game.
 So, this is the concept, an endless Role Play Game with NFTs as items for your character and the world. Fun and story are the core values of Chia Inventory.
 
 
-## Come to Discord
-
-At this time "Chia Inventory - the Chianian Quest" is played in Discord.
-
-- [Join here (Discord Channel - Chia Inventory)](https://discord.gg/pDGJf5f6)
-
-
-## Register your player
-
-![](include/chiania-mimic.png){class="story_pic_right" style="width:200px"}
-Mimic is a living chest and the bot who welcomes you to the world of chiania in the Adventurers Guild. Go to the [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854) and spell the magic word `!register` and mimic will memorize you with your Chia Address. 
-
-### Get an official Chia Light Wallet
+## Get an official Chia Light Wallet
 
 The official Chia Wallet is the most safe place for your Chiania Items (NFTs).
 
@@ -47,12 +35,14 @@ When starting Chia the first time you are asked which mode you want. "Light Wall
 - Create your wallet
 - Write down your menmonic
 - Wait until Wallet is fully synced
+- While waiting you can [join our Discord Channel](https://discord.gg/pDGJf5f6)
 
-### Create a Profile - DID
+## Create a Profile - DID
 
-First you have to create a DID (Distributed Identifier). In Chia Wallet it's called "Profile". - Go to Settings -> Profiles
+First you have to create a DID (Distributed Identifier). In Chia Wallet it's called "Profile". This is where you save the NFTs you use for Chiania
 
-- Create a new Profile **you need only one profile. I recommend the second profile if you have many items. I use one DID to Equip items. The other DID has NFTs in reserve (that i dont have equipped or i want to trade with.)
+- Go to Settings -> Profiles
+- Create a new Profile **you need only one profile**. I recommend the second profile if you have many items. I use one DID to Equip items. The other DID has NFTs in reserve (that i dont have equipped or i want to trade with.)
 - Name the first Profile "Chiania Equipped"
     - this would be for the items your Character has equipped
 - **Optional:** Name the seconds Profile "Chiania Inventory"
@@ -62,6 +52,17 @@ First you have to create a DID (Distributed Identifier). In Chia Wallet it's cal
 
 ![](include/2022-07-27-13-27-10.png)
 
+## Come to Discord
+
+"Chia Inventory - the Chianian Quest" is played in Discord. Join our Discord Channel if you haven't already.
+
+- [Join here (Discord Channel - Chia Inventory)](https://discord.gg/pDGJf5f6)
+
+## Register your player to connect your Chia DID / Profile to your Discord ID
+
+![](include/chiania-mimic.png){class="story_pic_right" style="width:200px"}
+Mimic is a living chest and the bot who welcomes you to the world of chiania in the Adventurers Guild. Go to the [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854) and spell the magic word `!register` and mimic will memorize you with your Chia Address. 
+
 - Go to [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854) and register with a command like this:
 
 ```text
@@ -69,6 +70,22 @@ First you have to create a DID (Distributed Identifier). In Chia Wallet it's cal
 ```
 
 ![](include/2022-07-27-13-31-22.png)
+
+## Get Equipment for your character
+
+### Look which items you can use for Chiania
+
+- [Item Types](items/Types/README.md)
+
+### Ask for Offers on Discord
+
+- [Marketplace Channel](https://discord.com/channels/994949585657143296/997830621831368734)
+- [The Tavern](https://discord.com/channels/994949585657143296/995483089881026631)
+
+### Go to the [markets](items/20_markets.md)
+
+At the [markets](items/20_markets.md) you will find equipment for your character. The ["blue duck" at the Main Market Square](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch) is open 24x7. But if you look carefully then you can find goood offer for example by the blacksmith. Go to the [markets](items/20_markets.md) stroll and look.
+
 
 ### Manage your Items
 
@@ -89,8 +106,6 @@ Item Categories so far:
 - Ring
 - Mount (something you ride on)
 - Familar (a pet or so)
-
-
 
 ## Check your registered Inventory
 
@@ -219,20 +234,6 @@ You decided to set 🍎hunting-ground-4 as your home.
 
 Go to the [registration-counter in the adventurers guild](https://discord.com/channels/994949585657143296/1000344248312397854). When there is a quest announced in [quest-announcements](https://discord.com/channels/994949585657143296/995496698086432838) you have a few days time to register for it at [registration-counter](https://discord.com/channels/994949585657143296/1000344248312397854)
 
-## Get Equipment for your character
-
-### Look which items you can use for Chiania
-
-- [Item Types](items/Types/README.md)
-
-### Ask for Offers on Discord
-
-- [Marketplace Channel](https://discord.com/channels/994949585657143296/997830621831368734)
-- [The Tavern](https://discord.com/channels/994949585657143296/995483089881026631)
-
-### Go to the [markets](items/20_markets.md)
-
-At the [markets](items/20_markets.md) you will find equipment for your character. The ["blue duck" at the Main Market Square](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch) is open 24x7. But if you look carefully then you can find goood offer for example by the blacksmith. Go to the [markets](items/20_markets.md) stroll and look.
 
 ## Gaming System
 
