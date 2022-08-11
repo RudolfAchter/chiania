@@ -58,6 +58,8 @@ First you have to create a DID (Distributed Identifier). In Chia Wallet it's cal
 
 - [Join here (Discord Channel - Chia Inventory)](https://discord.gg/pDGJf5f6)
 
+ **Attention**. Some actions require to **receive Direct Messages from Bots on this server**. Check your privacy Settings to receive Direct Messages from our Discord Server or at least allow Direct Messages from the bots there.
+
 ## Register your player to connect your Chia DID / Profile to your Discord ID
 
 ![](include/chiania-mimic.png){class="story_pic_right" style="width:200px"}
