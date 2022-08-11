@@ -9,7 +9,7 @@ tags:
 
 # Category - Armor
 <div class="item_type_thumbnail">
-<a href="../../Types/Armor/Cloth_Armor/Normal_Cloth_Armor_00001_00100/"><img loading="lazy" src="https://46vimmmbbfbmdgthaxnmqhvyqdxqsegeqad3v4twmwube4it.arweave.net/-56q_GMYEJQsGaZwXayB64gO8JEMSAB7rydmWoEnETY"></a><br/>
+<a href="../../Types/Armor/Cloth_Armor/Normal_Cloth_Armor_00001_00100/"><img loading="lazy" src="https://hetyfs3skgio5yntk6sdi6xv2dc3wsf3qxiqmqpwc3fyouz5.arweave.net/OSeCy3JRkO7-hs1ekNHr10M-W7SLuF0QZB9hbLh1M9Q"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Armor/Cloth_Armor/Normal_Cloth_Armor_00001_00100/">Cloth Armor</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>

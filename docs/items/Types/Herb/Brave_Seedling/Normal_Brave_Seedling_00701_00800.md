@@ -9,16 +9,6 @@ tags:
 
 # Brave Seedling - Normal (701 - 800)
 <div class="item_thumbnail">
-<img loading="lazy" src="https://mbemz23qjay2fmyiwnumzgxsk2xv7pixlnholbyvzftc4qq7.arweave.net/YEjM63BIMaKzCLNozJ_ryVq9fvRdbTuWHFclmLkI_f8"><br/>
-<div><strong>Name:</strong> Brave Seedling #690</div>
-<div><strong>Item Type:</strong> Brave Seedling</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
-<div><strong>background:</strong> swamp green</div>
-<div><strong>soil:</strong> moon well</div>
-<div><strong>seedling:</strong> green strong</div>
-<div><strong>decoration:</strong> none</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://qff4laqbtfa63z33f25nrqaasgdmnzy6gz3yw2fj5tolc4pg.arweave.net/gUvFggGZQe3ney662M-AAkYb-G5x42d4toqezcsXHm8"><br/>
 <div><strong>Name:</strong> Brave Seedling #691</div>
 <div><strong>Item Type:</strong> Brave Seedling</div>
@@ -859,6 +849,16 @@ tags:
 <div><strong>seedling:</strong> fel green</div>
 <div><strong>decoration:</strong> flowing fel</div>
 <div><strong>soil:</strong> fel pool</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://jzodgy4yipnpwfortbcj5jsxawgjbxxrfxrsveilxmr5ta2pai.arweave.net/TlwzY5hD2vsV0ZhEnqZXBYyQ_3vEt4yqRC7sj2YNPAk"><br/>
+<div><strong>Name:</strong> Brave Seedling #796</div>
+<div><strong>Item Type:</strong> Brave Seedling</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
+<div><strong>seedling:</strong> devil black</div>
+<div><strong>decoration:</strong> blood drop</div>
+<div><strong>soil:</strong> devil blood</div>
+<div><strong>background:</strong> devil shadow</div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://jzodgy4yipnpwfortbcj5jsxawgjbxxrfxrsveilxmr5ta2pai.arweave.net/TlwzY5hD2vsV0ZhEnqZXBYyQ_3vEt4yqRC7sj2YNPAk"><br/>
