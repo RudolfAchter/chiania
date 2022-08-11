@@ -118,11 +118,16 @@ The master blacksmith has come back and forged many new weapons and armors. This
 
 ![](https://cdn.discordapp.com/attachments/995945537603911770/1005696994653777941/unknown.png){class="story_pic_wide"}
 
-![](https://pbs.twimg.com/media/FZsPchKaAAAl0UA?format=png&name=small){class="story_pic_right"}
-"Who killed the master druid?" "More importantly, who took the wand of master druid?" This question ramains in the mind of blacksmith's greedy apprentice, and he knows a method to track an item with such powerful magic.....
+![](https://cdn.discordapp.com/attachments/995945537603911770/1006412333658153001/unknown.png){class="story_pic_right"}
+"Who killed the master druid?" "More importantly, who took the wand of master druid?" This question remains in the mind of blacksmith's greedy apprentice, and he knows a method to track an item with such powerful magic.....
 
 The apprentice of blacksmith has disappeared! "Cloth of the missing apprentice was found in the northern border of slime forest, which is dominated by the goblin stronghold...", a local hunter says.
 
+<hr style="clear:both">
+![](https://cdn.discordapp.com/attachments/995945537603911770/1007181227159199784/An_Adventurer_Disguised_as_Goblin_12.gif){class="story_pic_left"}
+Goblin stronghold is a dangerous place... To save the stupid apprentice, the master blacksmith ask his wisest friend, the oldest old magician, to provide some "magical suggestions". "hum... as I know, there is a spell called `!goblinization`" says by old magician
+
+<hr style="clear:both">
 ## The Story continues...
 
 To get the latest news in chiania go to certain places:
