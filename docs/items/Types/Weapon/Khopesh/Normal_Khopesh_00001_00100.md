@@ -63,12 +63,6 @@ tags:
 <div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://vl2ycm6qorvc6zur4mr5mhcqvy7ezrwzamrcbistvyd2cnclaa.arweave.net/qvWBM9B0-ai9mkeMj1hxQrj5MxtkDIiCiU64HoTRLAM"><br/>
-<div><strong>Name:</strong> Khopesh 08</div>
-<div><strong>Item Type:</strong> Khopesh</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://bdvw2gazwm2jriypr25kzo6z6b3zzqcalzo4wo3pk3jmkrmuim.arweave.net/COttGBmzNJijD466rLvZ8HecwEBeXcs7b1b-SxUWUQ4"><br/>
 <div><strong>Name:</strong> Khopesh 08</div>
 <div><strong>Item Type:</strong> Khopesh</div>
@@ -76,6 +70,12 @@ tags:
 <div><strong>Slash:</strong> 1</div>
 <div><strong>Bash:</strong> 1</div>
 <div><strong>Pierce:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://vl2ycm6qorvc6zur4mr5mhcqvy7ezrwzamrcbistvyd2cnclaa.arweave.net/qvWBM9B0-ai9mkeMj1hxQrj5MxtkDIiCiU64HoTRLAM"><br/>
+<div><strong>Name:</strong> Khopesh 08</div>
+<div><strong>Item Type:</strong> Khopesh</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://5vkzjihec5aiu2kxpcyhswo6zk6yuyjrtvig6byj3a22pwhx.arweave.net/7VWUoOQXQIppV3iw_eVneyr2KYT-GdUG8HCdg1p9j3Q"><br/>
