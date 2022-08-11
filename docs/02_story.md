@@ -140,4 +140,4 @@ If you want to buy items or have valuable items to sell:
 
 - Go to the [marketplace](https://discord.com/channels/994949585657143296/997830621831368734) in the kingdom street
 - Look which [markets](items/20_markets.md) are known in the world of chiania
-- Use the command `!merchandise` to see what the NPCs have to offer
+- Use the spell `!merchandise` in [Discord](https://discord.com/channels/994949585657143296/997830621831368734) to see what the NPCs have to offer
