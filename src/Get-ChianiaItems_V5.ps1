@@ -225,8 +225,11 @@ $itemObjects=$totalData | ForEach-Object {
         str    = @{val = 0; scale=0}
         dex    = @{val = 0; scale=0}
         con    = @{val = 0; scale=0}
+        cha    = @{val = 0; scale=0}
         wis    = @{val = 0; scale=0}
         luc    = @{val = 0; scale=0}
+        health = @{val = 0; scale=0}
+        spells = @()
     }
     
     Switch($itemType){
@@ -316,18 +319,104 @@ $itemObjects=$totalData | ForEach-Object {
             #Majestic Deers
             $trait=$item.attributes | Where-Object{$_.trait_type -eq "Antlers"}
             if($trait.value -like "Majestic *"){
-                $stats.str = (Get-Random -Minimum 1 -Maximum 5)
+                $stats.str.val = (Get-Random -Minimum 1 -Maximum 5)
             }
             break
         }
         "Brave Seedling"{
             if($itemName -in $itemListData.Brave_Seedling_list){
-                $stats.health = (Get-Random -Minimum 1 -Maximum 5)
+                $stats.health.val = (Get-Random -Minimum 1 -Maximum 5)
             }
-            #XXX hier weiter mit Rest von Brave Seedling
+            if($itemName -in $itemListData.Powerful_Brave_Seedling_list){
+                $stats.health.val = (Get-Random -Minimum 3 -Maximum 5)
+            }
+            if($itemName -in $itemListData.Super_Powerful_Brave_Seedling_list){
+                $stats.health.val = (Get-Random -Minimum 3 -Maximum 5)
+                #XXX Brave Seedling doesn't scale here?
+                $stats.con.val = (Get-Random -Minimum 1 -Maximum 5)
+            }
             break
         }
-        #XXX hier weiter mit Chia Slime
+        "Chia Slime"{
+            if($itemName -in $itemListData.Red_Chia_Slime_list){
+                $stats.str.val = 1
+                $stats.int.val = -1
+            }
+            elseif($itemName -in $itemListData.Blue_Chia_Slime_list){
+                $stats.int.val = 1
+                $stats.str.val = -1
+            }
+            elseif($itemName -in $itemListData.Green_Chia_Slime_list){
+                $stats.dex.val = 1
+                $stats.con.val = -1
+            }
+            elseif($itemName -in $itemListData.Orange_Chia_Slime_list){
+                $stats.con.val = 1
+                $stats.dex.val = -1
+            }
+            elseif($itemName -in $itemListData.Yellow_Chia_Slime_list){
+                $stats.cha.val = 1
+                $stats.wis.val = -1
+            }
+            elseif($itemName -in $itemListData.Yellow_Chia_Slime_list){
+                $stats.wis.val = 1
+                $stats.cha.val = -1
+            }
+            
+            #These properties are ADDITIONAL
+            if($itemName -in $itemListData.Healing_Chia_Slime_list){
+                #TODO Spells on items are special. Need a way to interpret these Spell values in Code (that is has effect in Game)
+                $stats.spells += @{
+                    "name" = "heal"
+                    "effect" = @{
+                        "add_health"=@{
+                            "chance" = 0.2
+                            "min" = 2
+                            "max" = 4
+                        }
+                    }
+                }
+            }
+
+            if($itemName -in $itemListData.Identify_Chia_Slime_list){
+                $stats.spells += @{
+                    "name" = "identify"
+                    "effect" = @{
+                        "add_int"=@{
+                            "chance" = 0.2
+                            "min" = 2
+                            "max" = 4
+                        }
+                    }
+                }
+            }
+        }
+        "snail" {
+            if($itemName -in $itemListData.Snail_List){
+                $stats.dex.val = -(Get-Random -Minimum 1 -Maximum 5)
+                $stats.luc.val = +(Get-Random -Minimum 1 -Maximum 5)
+            }
+            if($itemName -in $itemListData.Hard_Snail_list){
+                $stats.con.val = +(Get-Random -Minimum 1 -Maximum 5)
+            }
+        }
+        "Chia Farmers" {
+            if($itemName -in $itemListData.CeruleanBlueSkin_Chia_Farmers_List){
+                $stats.int.val = 1
+            }
+            elseif($itemName -in $itemListData.CyanSkin_Chia_Farmers_List){
+                $stats.con.val = 1
+            }
+            elseif($itemName -in $itemListData.DarkPurpleSkin_Chia_Farmers_List){
+                $stats.cha.val = 1
+            }
+            elseif($itemName -in $itemListData.GoldSkin_Chia_Farmers_List){
+                $stats.luc.val = 1
+            }
+            #XXX hier weiter mit Chia Farmers
+
+        }
+
 
     }
 
@@ -368,6 +457,14 @@ $itemObjects=$totalData | ForEach-Object {
 }
 
 Connect-Mdbc -ConnectionString $connectionString -DatabaseName $DatabaseName -CollectionName "items"
-$itemObjects | Add-MdbcData
+
+
+#Set New Values for NFTs (if any)
+$writtenItemObjects=$itemObjects | ForEach-Object {
+    Get-MdbcData -Filter @{
+            "nft_id" = $_.nft_id
+        }`
+        -Set $_
+}
 
 
