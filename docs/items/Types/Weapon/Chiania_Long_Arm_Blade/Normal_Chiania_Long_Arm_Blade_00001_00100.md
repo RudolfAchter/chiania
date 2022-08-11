@@ -105,6 +105,18 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
+<img loading="lazy" src="https://kk3nvjhn5a45gry2jmuag54fqnpmnup642j5jmy7lifmsznvc4.arweave.net/UrbapO3oOdNHGksoA3e-Fg17G0f7mk9SzH1oKyWW1F0"><br/>
+<div><strong>Name:</strong> Chiania Long Arm Blade 17</div>
+<div><strong>Item Type:</strong> Chiania Long Arm Blade</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://zfowuwr2aq7kljudsk3d6tdgpw5hkvqhlonyy6dnc3w54lmmly.arweave.net/yV1qWjoEPqWmg5K2P0xmfbp1V_gdbm4x4bRbt3i2MXo"><br/>
+<div><strong>Name:</strong> Chiania Long Arm Blade 18</div>
+<div><strong>Item Type:</strong> Chiania Long Arm Blade</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://3td4yqfnrslx4w3pnfbzxwblcw4kf5tr6rj5k3s5yxy5pdww64.arweave.net/3MfMQK2Ml35bb2lDm9g-rFbii9nH0U9VuXcXx147W9w"><br/>
 <div><strong>Name:</strong> Chiania Long Arm Blade 19</div>
 <div><strong>Item Type:</strong> Chiania Long Arm Blade</div>
@@ -245,12 +257,6 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://vcykl2knlxepsv4nbrfoaaqlgbvste6ezvbpvcgwws3ck6js.arweave.net/-qLCl6U1dyPlXjQxK4AILMGspk8TNQvqI1-rS2JXkyA"><br/>
 <div><strong>Name:</strong> Chiania Long Arm Blade 40</div>
-<div><strong>Item Type:</strong> Chiania Long Arm Blade</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://zuus55n6nmnnkyth25trqvkhdj6jzsmkb7ldfssdnbx3wfseoodq.arweave.net/zSku9b5rGtViZ9dnGFVHGnycyYoP1jLKQ2hvuxZEc4c"><br/>
-<div><strong>Name:</strong> Chiania Long Arm Blade 41</div>
 <div><strong>Item Type:</strong> Chiania Long Arm Blade</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>

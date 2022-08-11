@@ -9,6 +9,24 @@ tags:
 
 # Cloth Armor - Normal (201 - 300)
 <div class="item_thumbnail">
+<img loading="lazy" src="https://vwxicmhx3twjibj5hsi2fni6zzmednzwqc5iwhe7ytwkceul.arweave.net/ra6_BMPfc7JQFPTyRorUezl_hBtzaAuoscn8TsoRKL8"><br/>
+<div><strong>Name:</strong> Cloth Armor 193</div>
+<div><strong>Item Type:</strong> Cloth Armor</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://pzaeue4kzzbyrgldosn4l6i62dugtvdfoaxlgaoyvkmdpljx.arweave.net/_fkBKE4rOQ4iZY3Sbxfke0Ohp1GVwLrMB_2KqYN603E"><br/>
+<div><strong>Name:</strong> Cloth Armor 194</div>
+<div><strong>Item Type:</strong> Cloth Armor</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://vuuwhlknxlefvai4gt5nay5gowuvl3jcxnnzo5hpnnszbein2bza.arweave.net/rSljrU26yFqBHDT60GOmdalV7SK7W5d072tlkJEN0HI"><br/>
+<div><strong>Name:</strong> Cloth Armor 195</div>
+<div><strong>Item Type:</strong> Cloth Armor</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://cxndr2gsz3qnnwtrq3wbhdl43qjtzc4bfhem2hbnmzcrb3y5.arweave.net/Fdo46N-LO4NbacYbsE4183BM8i4EpyM0cLW_ZFEO8dw"><br/>
 <div><strong>Name:</strong> Cloth Armor 196</div>
 <div><strong>Item Type:</strong> Cloth Armor</div>
