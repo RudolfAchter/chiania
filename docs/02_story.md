@@ -125,8 +125,9 @@ The apprentice of blacksmith has disappeared! "Cloth of the missing apprentice w
 
 <hr style="clear:both">
 ![](https://cdn.discordapp.com/attachments/995945537603911770/1007181227159199784/An_Adventurer_Disguised_as_Goblin_12.gif){class="story_pic_left"}
-Goblin stronghold is a dangerous place... To save the stupid apprentice, the master blacksmith ask his wisest friend, the oldest old magician, to provide some "magical suggestions". "hum... as I know, there is a spell called `!goblinization`" says by old magician
+Goblin stronghold is a dangerous place... To save the stupid apprentice, the master blacksmith ask his wisest friend, the oldest old magician, to provide some "magical suggestions". "hum... as I know, there is a spell called `!goblinization`" says by old magician.
 
+"Sounds a good idea to infiltrate the Goblin Stronghold, but how to cast such spell?" asked by the master Blacksmith. "This spell is simple, listen carefully...LIKE-AND-RETWEET-AND-JOIN-OUR-DISCORD-AND TYPE !register your-did-address THEN say !goblinization" says by the magician
 <hr style="clear:both">
 ## The Story continues...
 
