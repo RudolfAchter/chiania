@@ -1,13 +1,23 @@
 ---
 title: Brave Seedling - Normal (301 - 400)
 description: Brave Seedling Items in Chia Inventory
-date: 2022-08-11
+date: 2022-08-12
 tags:
     - NFT
     - Items
 ---
 
 # Brave Seedling - Normal (301 - 400)
+<div class="item_thumbnail">
+<img loading="lazy" src="https://4b2ls734ibhwlgri5j22tk7frfeqm3libmzktgfhyg6ywe7kbwca.arweave.net/4HS5f3xAT2WaKOp1qavliUkGbWgLMqmYp8G9ixPqDYQ"><br/>
+<div><strong>Name:</strong> Brave Seedling #290</div>
+<div><strong>Item Type:</strong> Brave Seedling</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
+<div><strong>background:</strong> dream purple</div>
+<div><strong>soil:</strong> moon well</div>
+<div><strong>seedling:</strong> green strong</div>
+<div><strong>decoration:</strong> none</div>
+</div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://eqmgumlhfux43mfffgmy45ythtomuz3ut5ufgxzkbp3yhrk6yy.arweave.net/JBhqMWc_tL82wpSmZjncTPNzKZ3SfaFNfKgv3g8Vexo"><br/>
 <div><strong>Name:</strong> Brave Seedling #291</div>
@@ -917,16 +927,6 @@ tags:
 <div><strong>soil:</strong> amethyst</div>
 <div><strong>seedling:</strong> green health</div>
 <div><strong>decoration:</strong> nourish</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://zmnm55ityma4l5isinekznt2pmkzgd52jme3mkoecm62gyibpnza.arweave.net/yxrO9RPDAcX1EkNIrLZ6exWTD7pLCbYpxBM9o2EBe3I"><br/>
-<div><strong>Name:</strong> Brave Seedling #382</div>
-<div><strong>Item Type:</strong> Brave Seedling</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
-<div><strong>background:</strong> swamp green</div>
-<div><strong>soil:</strong> green wetlands</div>
-<div><strong>seedling:</strong> green young</div>
-<div><strong>decoration:</strong> yellow spots</div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://lbzpyiv5zy2wmqv4r2o3egsj5pj3i6ema5xcsipitvntwugffm.arweave.net/WHL8Ir_3ONWZCvI6dshpJ69O0eIwHbikh6J1bO1DFK0"><br/>

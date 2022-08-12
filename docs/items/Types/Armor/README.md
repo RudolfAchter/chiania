@@ -1,7 +1,7 @@
 ---
 title: Category - Armor
 description: Item Types in Chia Inventory
-date: 2022-08-11
+date: 2022-08-12
 tags:
     - NFT
     - Items
