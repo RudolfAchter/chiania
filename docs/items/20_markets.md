@@ -68,18 +68,6 @@ He lifts the linen cloth from the table and mysterious boxes appear under the ta
 </div>
 
 <div class="market-box" onclick="flip_marketbox(event)">
-  <div class="market-box-inner" name="Mysterious Box 2">
-    <div class="market-box-back">
-      <a class="black_market" href="../offers/cloth101_1_nft16mw87zh5t2p22nn6zw0ejn3p8qzpxrrx74x4cqytasx27yr7k0es87kff9_x_0.035XCH.offer" name="Cloth 101">
-      <img src="https://5tjmytztq3rpbzcjt3jt6djnttya4pl2wzrbvhs5xz5stiifzuda.arweave.net/7NLMTzOG4vDkSZ7TPw0tnPAOPXq2YhqeXb57KaEFzQY" alt="Cloth 101" style="width:150px;height:150px;">
-      </a>
-    </div>
-    <div class="market-box-front">
-    </div>
-  </div>
-</div>
-
-<div class="market-box" onclick="flip_marketbox(event)">
   <div class="market-box-inner" name="Mysterious Box 3">
     <div class="market-box-back">
       <a class="black_market" href="../offers/chiania-long-arm-blade-21_nft10jjzr2vs37297zhaeamcgg6y7njmdelu657rkj8lmwstgu6qdhwq9dtrkm_x_0,3XCH.offer" name="Chiania Long Arm Blade 21">
@@ -103,17 +91,6 @@ He lifts the linen cloth from the table and mysterious boxes appear under the ta
   </div>
 </div>
 
-<div class="market-box" onclick="flip_marketbox(event)">
-  <div class="market-box-inner" name="Mysterious Box 5">
-    <div class="market-box-back">
-      <a class="black_market" href="../offers/deer_061_1_nft1mm4ghj2ykzq2hef6h6m6nwds06a7d5k2qj5xk6jn2ws98m32xc5sce53n7_x_0,3XCH.offer" name="Deer 061">
-      <img src="https://z5jbv346223gv65hf5uaboyasnrepfxr37htj64nv5ghefue64.arweave.net/z1Ia757Wtmr7py9oALsAk2JHlvHfzzT7ja9Mcha_E98" alt="Deer 061" style="width:150px;height:150px;">
-      </a>
-    </div>
-    <div class="market-box-front">
-    </div>
-  </div>
-</div>
 <!-- OFFEREND -->
 
 <hr style="clear:both">
