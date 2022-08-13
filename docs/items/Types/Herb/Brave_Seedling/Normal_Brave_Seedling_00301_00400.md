@@ -9,6 +9,46 @@ tags:
 
 # Brave Seedling - Normal (301 - 400)
 <div class="item_thumbnail">
+<img loading="lazy" src="https://4b2ls734ibhwlgri5j22tk7frfeqm3libmzktgfhyg6ywe7kbwca.arweave.net/4HS5f3xAT2WaKOp1qavliUkGbWgLMqmYp8G9ixPqDYQ"><br/>
+<div><strong>Name:</strong> Brave Seedling #290</div>
+<div><strong>Item Type:</strong> Brave Seedling</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
+<div><strong>background:</strong> dream purple</div>
+<div><strong>soil:</strong> moon well</div>
+<div><strong>seedling:</strong> green strong</div>
+<div><strong>decoration:</strong> none</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://eqmgumlhfux43mfffgmy45ythtomuz3ut5ufgxzkbp3yhrk6yy.arweave.net/JBhqMWc_tL82wpSmZjncTPNzKZ3SfaFNfKgv3g8Vexo"><br/>
+<div><strong>Name:</strong> Brave Seedling #291</div>
+<div><strong>Item Type:</strong> Brave Seedling</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
+<div><strong>background:</strong> swamp green</div>
+<div><strong>soil:</strong> moon well</div>
+<div><strong>seedling:</strong> green young</div>
+<div><strong>decoration:</strong> drip below</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://wtomj2keczz5arvosuhf4svazjhio4fc5qv546pa5ynboove.arweave.net/t-NzE_6UQWc9BGrpUOXkqgyk6HcKLsK9_554O4aFzqk"><br/>
+<div><strong>Name:</strong> Brave Seedling #292</div>
+<div><strong>Item Type:</strong> Brave Seedling</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
+<div><strong>background:</strong> cosmic blue</div>
+<div><strong>soil:</strong> green swamp</div>
+<div><strong>seedling:</strong> green strong</div>
+<div><strong>decoration:</strong> yellow spots</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://pkysgg2whw62g32swarz3fdjeejkwalz3ycecbiwyqr2sb2f.arweave.net/erEjG1Y-9vaNvUrAjnZRpIRKrAXneBEEF-FsQjqQdFw"><br/>
+<div><strong>Name:</strong> Brave Seedling #293</div>
+<div><strong>Item Type:</strong> Brave Seedling</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
+<div><strong>background:</strong> cosmic blue</div>
+<div><strong>soil:</strong> green wetlands</div>
+<div><strong>seedling:</strong> green strong</div>
+<div><strong>decoration:</strong> yellow spots</div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://b65rvsvndbe7tdxujjcks7arbd7hzpjb6zshoxlhyr6x2oxu.arweave.net/D7sayq0YSfmO9EpE-qXwRCP58vSH2ZHddZ-8R9fTr0U"><br/>
 <div><strong>Name:</strong> Brave Seedling #294</div>
 <div><strong>Item Type:</strong> Brave Seedling</div>
@@ -967,45 +1007,5 @@ tags:
 <div><strong>soil:</strong> green wetlands</div>
 <div><strong>seedling:</strong> yellow withered</div>
 <div><strong>decoration:</strong> none</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://akszx4olfjy322pu7bl44mtwe3mhrvufo53kqxabhyzf4kmedy.arweave.net/AqWb8csqcb1p9PhXzjJ2Jth41oV3dqhc-AT4yXimEHg"><br/>
-<div><strong>Name:</strong> Brave Seedling #390</div>
-<div><strong>Item Type:</strong> Brave Seedling</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
-<div><strong>background:</strong> lake blue</div>
-<div><strong>soil:</strong> brown organic</div>
-<div><strong>seedling:</strong> yellow withered</div>
-<div><strong>decoration:</strong> yellow spots</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://cnos5g64qhqchxc4ldy7dnjmr24gxpijhuu35n5cujymhqk2k4.arweave.net/E10u-m9yB4CPcXFjx8bUsjrhrvQk9Kb63oqJww8FaV0"><br/>
-<div><strong>Name:</strong> Brave Seedling #391</div>
-<div><strong>Item Type:</strong> Brave Seedling</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
-<div><strong>background:</strong> swamp green</div>
-<div><strong>soil:</strong> moon well</div>
-<div><strong>seedling:</strong> green young</div>
-<div><strong>decoration:</strong> caterpillar</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://cxtjwjljf4wdjucfmym5avdwg22eczt7m26tpf7h3tpdmo6z.arweave.net/FeabJWkvL-D_TQRWYZ0FR2NrRBZn9mvTeX59zeNjvZ8"><br/>
-<div><strong>Name:</strong> Brave Seedling #392</div>
-<div><strong>Item Type:</strong> Brave Seedling</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
-<div><strong>background:</strong> lake blue</div>
-<div><strong>soil:</strong> green swamp</div>
-<div><strong>seedling:</strong> yellow withered</div>
-<div><strong>decoration:</strong> drip above</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://2dnec3jlvqudog4k6l5xrjs63z3wrjo2gglmoldrx5a526ia.arweave.net/0_NpB-bSus-KDcbivL7eKZe3ndopdoxlscscb9B3XkA"><br/>
-<div><strong>Name:</strong> Brave Seedling #393</div>
-<div><strong>Item Type:</strong> Brave Seedling</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
-<div><strong>background:</strong> swamp green</div>
-<div><strong>soil:</strong> green swamp</div>
-<div><strong>seedling:</strong> purple variation</div>
-<div><strong>decoration:</strong> nourish</div>
 </div>
 

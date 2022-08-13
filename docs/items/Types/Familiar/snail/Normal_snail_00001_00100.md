@@ -299,7 +299,7 @@ tags:
 <div><strong>background:</strong> 1/5</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://meqn67oobpywejckreyjso4tcf4zrqldhbjph5m6jkqgqpq.arweave.net/-YSDffc4L8W-IkS_okwmTuTEXmYwWM4UvP1nkqgaD-4"><br/>
+<img loading="lazy" src="https://zntk24y35rivkao5ogamd5cftzjp3aer2drev7mkwf4q2.arweave.net/y2atcxvsUV-UB3XGAwfR__FnlL9gJH_Q4kr9irF5_DU"><br/>
 <div><strong>Name:</strong> snail099</div>
 <div><strong>Item Type:</strong> snail</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1syclna803y6h3zl24fwswk0thmm7ad845cfc6sv4sndfzu26q8cq3pprct">Sheesh! Snail</a></div>
@@ -309,7 +309,7 @@ tags:
 <div><strong>background:</strong> 1/5</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://zntk24y35rivkao5ogamd5cftzjp3aer2drev7mkwf4q2.arweave.net/y2atcxvsUV-UB3XGAwfR__FnlL9gJH_Q4kr9irF5_DU"><br/>
+<img loading="lazy" src="https://meqn67oobpywejckreyjso4tcf4zrqldhbjph5m6jkqgqpq.arweave.net/-YSDffc4L8W-IkS_okwmTuTEXmYwWM4UvP1nkqgaD-4"><br/>
 <div><strong>Name:</strong> snail099</div>
 <div><strong>Item Type:</strong> snail</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1syclna803y6h3zl24fwswk0thmm7ad845cfc6sv4sndfzu26q8cq3pprct">Sheesh! Snail</a></div>

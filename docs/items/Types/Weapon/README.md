@@ -29,8 +29,8 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Khopesh/Normal_Khopesh_00001_00100/"><img loading="lazy" src="https://qzdlypw6klqlorogiy64yyfjg2lfou264giu3yc2nqovxegcla.arweave.net/hka8Pt5S4LdFxkY9_zGCpNpZXU17hkU3gWmwdW5DCWI"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Khopesh/Normal_Khopesh_00001_00100/">Khopesh</a></div>
+<a href="../../Types/Weapon/Khopesh/Orange_Nuclei_Khopesh_00001_00100/"><img loading="lazy" src="https://jv2btzv3z6x3ms4ltnhd4lz2mczgsdmlrmwamktgyo6ttxq.arweave.net/TX-QZ5rvPr7-ZLi5_tOPi86YLJpDYuLLAYqZsO-9Od4"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Khopesh/Orange_Nuclei_Khopesh_00001_00100/">Khopesh</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
@@ -64,8 +64,8 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Wood_Club/Normal_Wood_Club_00001_00100/"><img loading="lazy" src="https://6b4fxnuqtrwyprrkjqry6avhauvaxakm2g52giuvvz63uc4fgi.arweave.net/8HhbtpCcbYfGKkwjjwKnBSoLgUzR_u6Mila59uguFMg"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Wood_Club/Normal_Wood_Club_00001_00100/">Wood Club</a></div>
+<a href="../../Types/Weapon/Wood_Club/Orange_Nuclei_Wood_Club_00001_00100/"><img loading="lazy" src="https://zzxkjbbdkgcgomldkdsqca7gymxigwyydc3dz6l5qnkwr6mg4xzq.arweave.net/zm6khCNRhGcxY1DlAQPmwy6DWxgYtjz5fYNVaPmG5fM"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Wood_Club/Orange_Nuclei_Wood_Club_00001_00100/">Wood Club</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 
