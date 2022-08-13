@@ -2,767 +2,797 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/00_tags/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/02_story/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/03_characters/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/how_to/50_troubleshooting/</loc>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/ideas/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/ideas/99_ideas/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/ideas/dev_stuff/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/ideas/dev_stuff/character_system/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/ideas/dev_stuff/fighting_system/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/ideas/dev_stuff/mysterious_places/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/ideas/dev_stuff/stamina_system/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/ideas/dev_stuff/test_system/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/ideas/dev_stuff/world_and_moving/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/ideas/dev_stuff/database/mongodb/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/20_markets/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/30_collaboration_items/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/40_how_to_contribute/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Armor/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Armor/Cloth_Armor/Normal_Cloth_Armor_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Armor/Cloth_Armor/Normal_Cloth_Armor_00101_00200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Collectable/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Collectable/Canned_Slime/Normal_Canned_Slime_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Collectable/Large_Monster_Nuclei/Normal_Large_Monster_Nuclei_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Collectable/Medium_Monster_Nuclei/Normal_Medium_Monster_Nuclei_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Collectable/Small_Monster_Nuclei/Normal_Small_Monster_Nuclei_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Normal_Chia_Slime_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Normal_Chia_Slime_00101_00200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Normal_Chia_Slime_00201_00300/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Normal_Chia_Slime_00301_00400/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Normal_Chia_Slime_00401_00500/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/snail/Normal_snail_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/snail/Normal_snail_00101_00200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/Brave_Leef/Normal_Brave_Leef_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/Brave_Seedling/Normal_Brave_Seedling_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/Brave_Seedling/Normal_Brave_Seedling_00101_00200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/Brave_Seedling/Normal_Brave_Seedling_00201_00300/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/Brave_Seedling/Normal_Brave_Seedling_00301_00400/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/Brave_Seedling/Normal_Brave_Seedling_00401_00500/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/Brave_Seedling/Normal_Brave_Seedling_00501_00600/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/Brave_Seedling/Normal_Brave_Seedling_00601_00700/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Herb/Brave_Seedling/Normal_Brave_Seedling_00701_00800/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Deer/Normal_Deer_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Deer/Normal_Deer_00101_00200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Deer/Normal_Deer_00201_00300/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/Chia_Farmers/Normal_Chia_Farmers_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00101_00200/</loc>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/Magic_Root/Normal_Magic_Root_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/Shadow_Sword/Normal_Shadow_Sword_00001_00100/</loc>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_00101_00200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_00201_00300/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_00301_00400/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_00401_00500/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_00501_00600/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_00601_00700/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_00701_00800/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_00801_00900/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_00901_01000/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_01001_01100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_01101_01200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_01201_01300/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_01301_01400/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_01401_01500/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_01501_01600/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_01601_01700/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_01701_01800/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_01801_01900/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_01901_02000/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_02001_02100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_02101_02200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_02201_02300/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_02301_02400/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_02401_02500/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_02501_02600/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_02601_02700/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_02701_02800/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_02801_02900/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_02901_03000/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_03001_03100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_03101_03200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_03201_03300/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_03301_03400/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_03401_03500/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_03501_03600/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_03601_03700/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_03701_03800/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_03801_03900/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_03901_04000/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_04001_04100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_04101_04200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_04201_04300/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_04301_04400/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_04401_04500/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_04501_04600/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_04601_04700/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_04701_04800/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_04801_04900/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_04901_05000/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_05001_05100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_05101_05200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_05201_05300/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_05301_05400/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_05401_05500/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_05501_05600/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_05601_05700/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_05701_05800/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_05801_05900/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_05901_06000/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_06001_06100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_06101_06200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_06201_06300/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_06301_06400/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_06401_06500/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_06501_06600/</loc>
+         <lastmod>2022-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_06601_06700/</loc>
+         <lastmod>2022-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_06701_06800/</loc>
+         <lastmod>2022-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/Chia_Farmers/Normal_Chia_Farmers_06801_06900/</loc>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Ring/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Ring/Nuclei_Ring/Normal_Nuclei_Ring_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Shield/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Shield/Bark_Shield/Normal_Bark_Shield_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Shield/Bark_Shield/Normal_Bark_shield_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Catapult/Normal_Catapult_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Chiania_Long_Arm_Blade/Normal_Chiania_Long_Arm_Blade_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Enhanced_Tree_Root/Normal_Enhanced_Tree_Root_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Enhanced_Tree_Root/Normal_Enhanced_Tree_Root_00101_00200/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Halberd/Normal_Halberd_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Khopesh/Normal_Khopesh_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Khopesh/Orange_Nuclei_Khopesh_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Knife/Green_Nuclei_Knife_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Knife/Normal_Knife_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Knife/Purple_Nuclei_Knife_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Shadow_Sword/Normal_Shadow_Sword_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Short_Axe/Normal_Short_Axe_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Short_Bow/Normal_Short_Bow_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Stone/Normal_Stone_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Sword/Normal_Sword_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Sword/Red_Nuclei_Sword_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Wood_Club/Normal_Wood_Club_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Weapon/Wood_Club/Orange_Nuclei_Wood_Club_00001_00100/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/profile/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/world/00_world/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/world/01_world_map/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/world/aquarum/00_aquarum_lakes/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/world/glacies/00_glacies_iceland/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/world/harenae/00_harenae_desert/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/world/salvia/00_salvia_main_continent/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/world/salvia/01_viridis_main_city/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/world/salvia/02_nigreos_black_forest/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/world/salvia/03_serunt_western_woods/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/00_tags/</loc>
-         <lastmod>2022-08-12</lastmod>
+         <lastmod>2022-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
