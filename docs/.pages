@@ -1,5 +1,7 @@
 nav:
-  - README.md
+  - How to Play (start here):
+    - README.md
+    - how_to
   - 02_story.md
   - 03_characters.md
   - ...
