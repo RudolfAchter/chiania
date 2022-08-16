@@ -1,12 +1,22 @@
 <#
-ERLEDIGT Mintgarden api benutzen!
-https://api.mintgarden.io/search?query=Chia+Inventory
-col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx
-https://api.mintgarden.io/collections/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/nfts?page=1&size=12
-
 TODO Dexie.space Angebote holen
 Beispiel: 
 curl "https://dexie.space/v1/offers?offered=col1syclna803y6h3zl24fwswk0thmm7ad845cfc6sv4sndfzu26q8cq3pprct&requested=xch&page=1&page_size=50&sort=price_asc"
+
+I use chia-dev-tools for encoding and decoding puzzle hashes
+https://github.com/Chia-Network/chia-dev-tools
+
+```bash
+pip install chia-dev-tools
+
+
+cdv encode --prefix "did:chia:" $item.owner_did
+
+cdv encode für ALLE Datensätze zu machen ist zu langsam stattdessen bei Query sowas hier machen
+
+cdv decode did:chia:1cl7p3apyphluqwn4scndes6rpky35pn8stcr0fzg4hhug3wfas9s6t30kw
+
+```
 #>
 Import-Module -Name "Mdbc"
 
@@ -177,9 +187,8 @@ $connectionString="mongodb+srv://" + $User + ":" + $Password + "@" + $Server + "
 Connect-Mdbc -ConnectionString $connectionString -DatabaseName $DatabaseName -CollectionName "items"
 
 
-
-#Powershell Objekte erstellen
-$itemObjects=$totalData | ForEach-Object {
+#Powershell Objekte in Datenbank schreiben
+$totalData | ForEach-Object {
     $item=$_
     $match=$null
     $itemName=$item.meta_info.name.Trim()
@@ -226,6 +235,7 @@ $itemObjects=$totalData | ForEach-Object {
         dex    = @{val = 0; scale=0}
         con    = @{val = 0; scale=0}
         cha    = @{val = 0; scale=0}
+        int    = @{val = 0; scale=0}
         wis    = @{val = 0; scale=0}
         luc    = @{val = 0; scale=0}
         health = @{val = 0; scale=0}
@@ -440,34 +450,50 @@ $itemObjects=$totalData | ForEach-Object {
 
     #TODO add NFT owner (DID-ID)
 
-    [PSCustomObject]@{
+    $h_properties=[ordered]@{
         Name = $itemName
         Nr = $item.meta_info.nr
         ItemCategory = $itemCategory
         ItemType = $itemType
         Prefix = $prefix
         Collection = $item.meta_info.collection.name.Trim()
-        nft_id = $item.nft_id.Trim()
-        minter_did = $item.minter_did.Trim()
-        minter_hash = $item.minter_hash.Trim()
-        owner_did= $item.owner_did.Trim()
-        owner_hash = $item.owner_hash.Trim()
+        nft_id = $item.nft_id.Trim()        
         collection_id = $item.synthetic_id.Trim()
         item_uri = $item.nft_info.data_uris[0]
         attributes = $item.meta_info.attributes
         stats = $stats
     }
-}
 
-Connect-Mdbc -ConnectionString $connectionString -DatabaseName $DatabaseName -CollectionName "items"
+    if($null -ne $item.minter_did){
+        $h_properties.minter_did = $item.minter_did.Trim()
+        #$h_properties.minter_did_encoded = (cdv encode --prefix "did:chia:" $item.minter_did.Trim())
+        $h_properties.minter_hash = $item.minter_hash.Trim()
+    }
+
+    if($null -ne $item.owner_did){
+        $h_properties.owner_did= $item.owner_did.Trim()
+        #$h_properties.owner_did_encoded = (cdv encode --prefix "did:chia:" $item.owner_did.Trim())
+        $h_properties.owner_hash = $item.owner_hash.Trim()
+    }
+    
 
 
-#Set New Values for NFTs (if any)
-$writtenItemObjects=$itemObjects | ForEach-Object {
+    [PSCustomObject]$h_properties
+
+} | ForEach-Object {
+    #Set New Values for NFTs (if any)
     Get-MdbcData -Filter @{
             "nft_id" = $_.nft_id
         }`
         -Set $_
-}
+} | Out-Null
+
+
+
+
+
+
+
+#$writtenItemObjects=$itemObjects 
 
 
