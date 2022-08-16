@@ -1,7 +1,7 @@
 ---
 title: Short Bow - Normal (1 - 100)
 description: Short Bow Items in Chia Inventory
-date: 2022-08-13
+date: 2022-08-16
 tags:
     - NFT
     - Items
@@ -23,14 +23,14 @@ tags:
 <div><strong>Pierce:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://itswwgynoa24srhrxmdbpkh2rjd4k7f7kdqkjsaxkycouwjora.arweave.net/ROVrGw1wNclE8bsGF6j6ikfFfL9Q4KTIF1YE6l_kuiI"><br/>
+<img loading="lazy" src="https://2aktk2ghyfrp2dxrr444onxxczexjbco5vsbadxlmqn6mugj4e.arweave.net/0BU1aMfB-Yv0O8Y85xzb3Fkl0hE7tZBAO62Qb5lDJ4c"><br/>
 <div><strong>Name:</strong> Short Bow 02</div>
 <div><strong>Item Type:</strong> Short Bow</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Pierce:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://2aktk2ghyfrp2dxrr444onxxczexjbco5vsbadxlmqn6mugj4e.arweave.net/0BU1aMfB-Yv0O8Y85xzb3Fkl0hE7tZBAO62Qb5lDJ4c"><br/>
+<img loading="lazy" src="https://itswwgynoa24srhrxmdbpkh2rjd4k7f7kdqkjsaxkycouwjora.arweave.net/ROVrGw1wNclE8bsGF6j6ikfFfL9Q4KTIF1YE6l_kuiI"><br/>
 <div><strong>Name:</strong> Short Bow 02</div>
 <div><strong>Item Type:</strong> Short Bow</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
