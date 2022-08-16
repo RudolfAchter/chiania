@@ -1,7 +1,7 @@
 ---
 title: Category - Weapon
 description: Item Types in Chia Inventory
-date: 2022-08-13
+date: 2022-08-16
 tags:
     - NFT
     - Items
@@ -34,8 +34,8 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Knife/Normal_Knife_00001_00100/"><img loading="lazy" src="https://j52icybw26nbo55ktjcnf6ic5g666ii2ofer5xbia3p4rkhowfwq.arweave.net/T3SBYDbXmhd3qppE0vkC6b3vIRpxSR7cKAbfyKjusW0"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Knife/Normal_Knife_00001_00100/">Knife</a></div>
+<a href="../../Types/Weapon/Knife/Green_Nuclei_Knife_00001_00100/"><img loading="lazy" src="https://5aq4pd3rj2l5vky4jlxu2tuzv6kzdwbrisz2fhdud4thi3ht.arweave.net/-6C_HHj3FOl9qrHErvTU6Zr5WR2DFEs6KcdB8mdGzzI"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Knife/Green_Nuclei_Knife_00001_00100/">Knife</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
@@ -64,8 +64,8 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Wood_Club/Orange_Nuclei_Wood_Club_00001_00100/"><img loading="lazy" src="https://zzxkjbbdkgcgomldkdsqca7gymxigwyydc3dz6l5qnkwr6mg4xzq.arweave.net/zm6khCNRhGcxY1DlAQPmwy6DWxgYtjz5fYNVaPmG5fM"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Wood_Club/Orange_Nuclei_Wood_Club_00001_00100/">Wood Club</a></div>
+<a href="../../Types/Weapon/Wood_Club/Normal_Wood_Club_00001_00100/"><img loading="lazy" src="https://6b4fxnuqtrwyprrkjqry6avhauvaxakm2g52giuvvz63uc4fgi.arweave.net/8HhbtpCcbYfGKkwjjwKnBSoLgUzR_u6Mila59uguFMg"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Wood_Club/Normal_Wood_Club_00001_00100/">Wood Club</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 

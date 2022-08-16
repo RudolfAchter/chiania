@@ -1,7 +1,7 @@
 ---
 title: Category - Other
 description: Item Types in Chia Inventory
-date: 2022-08-13
+date: 2022-08-16
 tags:
     - NFT
     - Items
@@ -9,7 +9,7 @@ tags:
 
 # Category - Other
 <div class="item_type_thumbnail">
-<a href="../../Types/Other/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00001_00100/"><img loading="lazy" src="https://6xmjffjy6fswzscuk66bscbk6o2pz35xg56mpxphbvopiosjyfoq.arweave.net/9diSlTjxZWzIVFe8GQgq87T877c3fMfd5w1c9DpJwV0"></a><br/>
+<a href="../../Types/Other/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00001_00100/"><img loading="lazy" src="https://wk7sudf2ibyxiribphye5rz4kqo55ijlhqcv6lyhrcysarj2.arweave.net/sr8qDLpAcXRFA_XnwTsc8VB3_eoSs8BV8vB4ixIEU6E"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Other/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00001_00100/">An Adventurer Disguised as Goblin</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: Knife - Normal (1 - 100)
 description: Knife Items in Chia Inventory
-date: 2022-08-13
+date: 2022-08-16
 tags:
     - NFT
     - Items
@@ -107,6 +107,12 @@ tags:
 <div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
+<img loading="lazy" src="https://lj66memk5i3il64vo632qs72hzya4tqse4oztksu4kskk5dp.arweave.net/Wn3mEYrqNoX7lXe3qEv6PnA-OThInHZmqVOKkpX-Rvo"><br/>
+<div><strong>Name:</strong> Knife 12</div>
+<div><strong>Item Type:</strong> Knife</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://536qvpg6utn4t4c2uhzkk2t3gzyeuzdjixsrndyzhacxtenywa.arweave.net/7v0KvN6k28-nwWqHypWp7NnBKZGlF5RaPGTgFeZG4sA"><br/>
 <div><strong>Name:</strong> Knife 12</div>
 <div><strong>Item Type:</strong> Knife</div>
@@ -115,10 +121,12 @@ tags:
 <div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://lj66memk5i3il64vo632qs72hzya4tqse4oztksu4kskk5dp.arweave.net/Wn3mEYrqNoX7lXe3qEv6PnA-OThInHZmqVOKkpX-Rvo"><br/>
-<div><strong>Name:</strong> Knife 12</div>
+<img loading="lazy" src="https://annrcosufgdjuw4htfbs6uyfd3bsf46kfv27db4mq3lzpdqiau.arweave.net/-A1sROlQphppbh5lDL1MFHsMi88otdfGHjIbXl44IBc"><br/>
+<div><strong>Name:</strong> Knife 13</div>
 <div><strong>Item Type:</strong> Knife</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Slash:</strong> 1</div>
+<div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://laxurzrwjio7olzibdrozcdg4eycpngqipsh2zz3neeljtjw3ykq.arweave.net/WC9I5jZKHfcvKAji7Ihm4TAntNBD5H1nO2kItM023hU"><br/>
@@ -128,14 +136,6 @@ tags:
 <div><strong>Slash:</strong> 1</div>
 <div><strong>Bash:</strong> 0</div>
 <div><strong>Rarity:</strong> 1</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://annrcosufgdjuw4htfbs6uyfd3bsf46kfv27db4mq3lzpdqiau.arweave.net/-A1sROlQphppbh5lDL1MFHsMi88otdfGHjIbXl44IBc"><br/>
-<div><strong>Name:</strong> Knife 13</div>
-<div><strong>Item Type:</strong> Knife</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Slash:</strong> 1</div>
-<div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://fgfrlw326ithvic7afqd57e6yiqxzi2iejsyvw52r4pimbtcwy.arweave.net/KYsV23ryJnqgXwFgPvyewiF8o-0giZYrbuo8ehgZits"><br/>

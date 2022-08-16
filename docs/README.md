@@ -35,7 +35,7 @@ When starting Chia the first time you are asked which mode you want. "Light Wall
 - Create your wallet
 - Write down your menmonic
 - Wait until Wallet is fully synced
-- While waiting you can [join our Discord Channel](https://discord.gg/pDGJf5f6)
+- While waiting you can [join our Discord Channel](https://discord.gg/56Kxu95y)
 
 ## Create a Profile - DID
 
@@ -56,7 +56,7 @@ First you have to create a DID (Distributed Identifier). In Chia Wallet it's cal
 
 "Chia Inventory - the Chianian Quest" is played in Discord. Join our Discord Channel if you haven't already.
 
-- [Join here (Discord Channel - Chia Inventory)](https://discord.gg/pDGJf5f6)
+- [Join here (Discord Channel - Chia Inventory)](https://discord.gg/56Kxu95y)
 
  **Attention**. Some actions require to **receive Direct Messages from Bots on this server**. Check your privacy Settings to receive Direct Messages from our Discord Server or at least allow Direct Messages from the bots there.
 
@@ -239,7 +239,7 @@ Go to the [registration-counter in the adventurers guild](https://discord.com/ch
 
 ## Gaming System
 
-It is best to follow the game via the [Chia Inventory Discord Server](https://discord.gg/pDGJf5f6)
+It is best to follow the game via the [Chia Inventory Discord Server](https://discord.gg/56Kxu95y)
 
 ### General Game Progress
 

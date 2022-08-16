@@ -1,7 +1,7 @@
 ---
 title: Wood Club - Normal (1 - 100)
 description: Wood Club Items in Chia Inventory
-date: 2022-08-13
+date: 2022-08-16
 tags:
     - NFT
     - Items
@@ -16,13 +16,6 @@ tags:
 <div><strong>Bash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://a3cnvns5xwt4zt2pfvizrms3p4hfnvieypsrai7o7uor3ai.arweave.net/BsTatl2_9p8zPTy1RmLJbfw_5W1Q_TD5R_Aj7v0dHYE"><br/>
-<div><strong>Name:</strong> Wood Club 02</div>
-<div><strong>Item Type:</strong> Wood Club</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-<div><strong>Bash:</strong> 2</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://3ug7tb4bjnc4k5ljoaeb42levwmwklkqjlyyoiwvbmankfvi.arweave.net/3Q35h4FLRcV1aXAIHmlkrZllLVBK8Yc_i1QsA1Rao-g"><br/>
 <div><strong>Name:</strong> Wood club 02</div>
 <div><strong>Item Type:</strong> Wood club</div>
@@ -30,9 +23,9 @@ tags:
 <div><strong>Bash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://xqxisjgoierj4bfa3zo3nnrst37wvyrjnxdzq52xpdnkptet.arweave.net/vC6JJM5BIp4EoN5dtrY_ynv9q4ilt-x5h3V3jap8yTg"><br/>
-<div><strong>Name:</strong> Wood club 03</div>
-<div><strong>Item Type:</strong> Wood club</div>
+<img loading="lazy" src="https://a3cnvns5xwt4zt2pfvizrms3p4hfnvieypsrai7o7uor3ai.arweave.net/BsTatl2_9p8zPTy1RmLJbfw_5W1Q_TD5R_Aj7v0dHYE"><br/>
+<div><strong>Name:</strong> Wood Club 02</div>
+<div><strong>Item Type:</strong> Wood Club</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Bash:</strong> 2</div>
 </div>
@@ -44,15 +37,15 @@ tags:
 <div><strong>Bash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://6busoun2zzivarb4j2nhkqx5pmgmkzdxclc5wsaez2auvrxg44.arweave.net/8GknUbrOUVBEP_E6adUL9ewzFZHcSxdtIBM6BSsbm50"><br/>
-<div><strong>Name:</strong> Wood Club 05</div>
-<div><strong>Item Type:</strong> Wood Club</div>
+<img loading="lazy" src="https://xqxisjgoierj4bfa3zo3nnrst37wvyrjnxdzq52xpdnkptet.arweave.net/vC6JJM5BIp4EoN5dtrY_ynv9q4ilt-x5h3V3jap8yTg"><br/>
+<div><strong>Name:</strong> Wood club 03</div>
+<div><strong>Item Type:</strong> Wood club</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Bash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://yrptfpyfa2jmaknoyn42wobajqhij2xpor2fk54gyzcto6puwy.arweave.net/xF8yvwUGksAprsN5qzggTA6E6u90dFV3hs_ZFN3n0ts"><br/>
-<div><strong>Name:</strong> Wood Club 06</div>
+<img loading="lazy" src="https://6busoun2zzivarb4j2nhkqx5pmgmkzdxclc5wsaez2auvrxg44.arweave.net/8GknUbrOUVBEP_E6adUL9ewzFZHcSxdtIBM6BSsbm50"><br/>
+<div><strong>Name:</strong> Wood Club 05</div>
 <div><strong>Item Type:</strong> Wood Club</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Bash:</strong> 2</div>
@@ -62,6 +55,13 @@ tags:
 <div><strong>Name:</strong> Wood Club 06</div>
 <div><strong>Item Type:</strong> Wood Club</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://yrptfpyfa2jmaknoyn42wobajqhij2xpor2fk54gyzcto6puwy.arweave.net/xF8yvwUGksAprsN5qzggTA6E6u90dFV3hs_ZFN3n0ts"><br/>
+<div><strong>Name:</strong> Wood Club 06</div>
+<div><strong>Item Type:</strong> Wood Club</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+<div><strong>Bash:</strong> 2</div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://gnnfhcnxfhhuicc6y55miruw5ogxprolc5ke2q34wu6xwuw4.arweave.net/M1pTibcpz0QIXsd6xEaW-6413xcsXVE1DfL_U9e1Lcg"><br/>
