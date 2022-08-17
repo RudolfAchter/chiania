@@ -14,7 +14,7 @@ tags:
 **All players start in [Viridis - Main City](salvia/01_viridis_main_city.md)** so this should be the first map to look at.
 
 
-- [World Map](01_world_map.md)
+- [World Map](01_world_map.md.off)
 - [Salvia - Main Continent (Forests)](salvia/00_salvia_main_continent.md)
     - [Viridis - Main City](salvia/01_viridis_main_city.md)
     - [Nigreos - Black Forest](salvia/02_nigreos_black_forest.md)
