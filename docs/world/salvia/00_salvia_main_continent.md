@@ -12,7 +12,7 @@ tags:
 
 - [Viridis - Main City](01_viridis_main_city.md)
 - [Nigreos - Black Forest](02_nigreos_black_forest.md)
-- [Serunt - Western Woods](03_serunt_western_woods.md)
+- [Serunt - Western Woods](03_serunt_western_woods.md.off)
 
 
 <div class="map_background" style="background-image: url(../include/map-background-overgrown-temple.png); background-repeat: no-repeat; background-size: cover;padding:10px;" markdown="1">

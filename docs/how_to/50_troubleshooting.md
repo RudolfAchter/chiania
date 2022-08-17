@@ -38,4 +38,4 @@ To help Transactions go faster you can always use 0.000005 XCH as Fee (that's 5,
 
 When your item is in the Chia Profile again, you can recheck [Mintgarden.io](https://mintgarden.io) and check `!profile` in Discord again
 
-If Mintgarden does't find any NFTs then there's a bigger Problem on Mitgarden site then you could try reaching out in [Mitgarden Discord](https://discord.gg/56Kxu95y)
+If Mintgarden does't find any NFTs then there's a bigger Problem on Mitgarden site then you could try reaching out in [Mitgarden Discord](https://discord.gg/8JmQ9Wu5aF)

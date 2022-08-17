@@ -18,7 +18,9 @@ tags:
 - [Salvia - Main Continent (Forests)](salvia/00_salvia_main_continent.md)
     - [Viridis - Main City](salvia/01_viridis_main_city.md)
     - [Nigreos - Black Forest](salvia/02_nigreos_black_forest.md)
-    - [Serunt - Western Woods](salvia/03_serunt_western_woods.md)
+    - [Gobbo Patriack - Goblin Territory](salvia/04_goblin_territory.md)
+      - [Eerles Kraa - Goblin Stronghold](salvia/05_goblin_stronghold.md)
+<!--    - [Serunt - Western Woods](salvia/03_serunt_western_woods.md.off)-->
 
 - [Aquarum - Land of Rivers and lakes](aquarum/00_aquarum_lakes.md)
 - [Glacies - the ice land](glacies/00_glacies_iceland.md)

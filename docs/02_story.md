@@ -114,7 +114,7 @@ A jeweler passed by the Blacksmith Shop, he was attracted by the glowing Monster
 While the wizards of Viridis are investigating the murder of the master druid, the volunteers of the city are defending their homes at the gate of viridis. Together with the City Guards they are patroling at the gate and at the border of the black forest. The most brave and strong adventurers advance even further and push into the deep woods to clean it from dangerous monsters. Meanwhile the most talented craftsmen are making [equipment](items/20_markets.md) for the volunteers to protect them from danger. Nobody thought at the peaceful land of Salvia that any kind of mercenaries would ever be needed again. But these monsters have to be faced against.
 <hr style="clear:both">
 
-The master blacksmith has come back and forged many new weapons and armors. This time he decided to sell items by himself, not through black market (Dexie). Adventurers could join our [Discord](https://discord.gg/56Kxu95y) and buy these items by `!merchandise` and `!buy`, all cost Chiania Coins (CC). You can earn Coins when you go hunting in the world of chiania. Look in [How to Play](README.md) to get started.
+The master blacksmith has come back and forged many new weapons and armors. This time he decided to sell items by himself, not through black market (Dexie). Adventurers could join our [Discord](https://discord.gg/8JmQ9Wu5aF) and buy these items by `!merchandise` and `!buy`, all cost Chiania Coins (CC). You can earn Coins when you go hunting in the world of chiania. Look in [How to Play](README.md) to get started.
 
 ![](https://cdn.discordapp.com/attachments/995945537603911770/1005696994653777941/unknown.png){class="story_pic_wide"}
 
@@ -127,7 +127,7 @@ The apprentice of blacksmith has disappeared! "Cloth of the missing apprentice w
 ![](https://cdn.discordapp.com/attachments/995945537603911770/1007181227159199784/An_Adventurer_Disguised_as_Goblin_12.gif){class="story_pic_left"}
 Goblin stronghold is a dangerous place... To save the stupid apprentice, the master blacksmith ask his wisest friend, the oldest old magician, to provide some "magical suggestions". "hum... as I know, there is a spell called `!goblinization`" says by old magician.
 
-"Sounds a good idea to infiltrate the Goblin Stronghold, but how to cast such spell?" asked by the master Blacksmith. "This spell is simple, listen carefully... You need a [magic backpack so save your goods](README.md) .LIKE-AND-RETWEET-AND-[JOIN-OUR-DISCORD](https://discord.gg/56Kxu95y)-AND TYPE `!register your-did-address` THEN say `!goblinization`" says by the magician
+"Sounds a good idea to infiltrate the Goblin Stronghold, but how to cast such spell?" asked by the master Blacksmith. "This spell is simple, listen carefully... You need a [magic backpack so save your goods](README.md) .LIKE-AND-RETWEET-AND-[JOIN-OUR-DISCORD](https://discord.gg/8JmQ9Wu5aF)-AND TYPE `!register your-did-address` THEN say `!goblinization`" says by the magician
 <hr style="clear:both">
 ## The Story continues...
 
