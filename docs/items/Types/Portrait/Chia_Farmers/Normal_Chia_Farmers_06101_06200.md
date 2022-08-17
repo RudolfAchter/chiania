@@ -9,22 +9,6 @@ tags:
 
 # Chia Farmers - Normal (6101 - 6200)
 <div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/06250.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #06250</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> T-shirt</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/06251.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #06251</div>
 <div><strong>Item Type:</strong> Chia Farmers</div>
@@ -1607,5 +1591,21 @@ tags:
 <div><strong>Tools:</strong> Magic</div>
 <div><strong>Glasses:</strong> Monocle</div>
 <div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/06350.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #06350</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> CeruleanBlue</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Water</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Shyness</div>
 </div>
 

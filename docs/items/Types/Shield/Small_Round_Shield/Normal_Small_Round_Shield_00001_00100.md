@@ -15,6 +15,12 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
+<img loading="lazy" src="https://ow3xi424xvcbb3oviggrrtudhmhs3ggmjipax54c2njr2as3nm.arweave.net/dbd0c1y9RBDt1UGNGM6DOw8tmMxKHgv3gt-NTHQJba0"><br/>
+<div><strong>Name:</strong> Small Round Shield 2</div>
+<div><strong>Item Type:</strong> Small Round Shield</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://kxna2prz3sf5hsqj74ccqgaxlirjqk547ewpmf4zfurh7spxl6aq.arweave.net/VdoNPjnci9PKCf8EKBgXWiKYK7z5LPYXmS0if8n3X4E"><br/>
 <div><strong>Name:</strong> Small Round Shield 3</div>
 <div><strong>Item Type:</strong> Small Round Shield</div>
@@ -111,18 +117,6 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://jvlwja3vuytqh7k7uebmaengp7fynlxyolndxytzoi4kmpu6hm.arweave.net/TVdkg_3WmJwP9X6ECwBGmf8uGrvhy2jvieXI4pj6eO0"><br/>
-<div><strong>Name:</strong> Small Round Shield 20</div>
-<div><strong>Item Type:</strong> Small Round Shield</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://lu5i2axfsfqrs2wmd2gom443ty3fguh6242upcsulylyt2lmye.arweave.net/XTqNAuWRYRlqzB6M5nObnjZTUP7XNUeK_VF4XielswQ"><br/>
-<div><strong>Name:</strong> Small Round Shield 21</div>
-<div><strong>Item Type:</strong> Small Round Shield</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://m23zqo6fmze6qrkawqhj644defl2k3avmfnvg4vqqs6aewbboi.arweave.net/ZreYO8VmSehFQLQOn3ODIVelbBVhW_1NysIS8Alghcg"><br/>
 <div><strong>Name:</strong> Small Round Shield 22</div>
 <div><strong>Item Type:</strong> Small Round Shield</div>
@@ -141,14 +135,14 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://imyjvk2q5ndif6cj3owioczbumwfvx4lazt4ovk7sb5e4ii.arweave.net/QzCaq-1DrRoL4S-dushwshoyx-a34-sGZ8dVX5B6TiE"><br/>
-<div><strong>Name:</strong> Small Round Shield 26</div>
+<img loading="lazy" src="https://h3wo3mrtkfd2phjnmzpeb4hxuujpwcmfdrfbhgz423vrioya.arweave.net/PuztsjNRR6edLWZeQPD3p_RL7CY_UcShObPNbrFDsAM"><br/>
+<div><strong>Name:</strong> Small Round Shield 25</div>
 <div><strong>Item Type:</strong> Small Round Shield</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://x7dfs5qaqnxypkpkn3vvo3ehcjdnkwuhzskd4wtigibq.arweave.net/_v8ZZ_-dgCDb4ep6m7rV_2yHEkbVW_ofM-lD5aaDIDU"><br/>
-<div><strong>Name:</strong> Small Round Shield 27</div>
+<img loading="lazy" src="https://imyjvk2q5ndif6cj3owioczbumwfvx4lazt4ovk7sb5e4ii.arweave.net/QzCaq-1DrRoL4S-dushwshoyx-a34-sGZ8dVX5B6TiE"><br/>
+<div><strong>Name:</strong> Small Round Shield 26</div>
 <div><strong>Item Type:</strong> Small Round Shield</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
@@ -207,6 +201,12 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
+<img loading="lazy" src="https://lqulvyjcu6um5gdotdzwf5ebgteyn4hkhjbdimtf6a4qmyva.arweave.net/XCi64SKnqM6YbpjzYvSBN_MmG8Oo6QjQyZfA5Bm_Kgs"><br/>
+<div><strong>Name:</strong> Small Round Shield 38</div>
+<div><strong>Item Type:</strong> Small Round Shield</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://vk55srguj2jfgdn2zwwl3lzujwkcazvdnek3tf5zpfskditc3a2q.arweave.net/qrvZRNROklMNus2sva80TZQgZqNpFbmXuXlkoaJi2DU"><br/>
 <div><strong>Name:</strong> Small Round Shield 39</div>
 <div><strong>Item Type:</strong> Small Round Shield</div>
@@ -255,8 +255,8 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://xldqck456iollzwsij63pipookzvhfet457tvj246ek56pmncqya.arweave.net/uscBK53yHLXm0kJ9t6HucrNTlJPnfzqnXPEV3z2NFDA"><br/>
-<div><strong>Name:</strong> Small Round Shield 48</div>
+<img loading="lazy" src="https://f4sdv4dhw7rrr6vy7fxx2irewnhli3xz7btdxauki3uogoev.arweave.net/LyQ68Ge34xj6uPlvfSIks06--0bvn4ZjuCikbo4ziVs"><br/>
+<div><strong>Name:</strong> Small Round Shield 47</div>
 <div><strong>Item Type:</strong> Small Round Shield</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
@@ -269,12 +269,6 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://jobdyswe2stfpsf6wu3cvs7mhiwfvbqtpfrxao27u5xkis2jimvq.arweave.net/S4I8SsTUplfIvrU2KsvsOixahhN5Y3A7X6dupEtJQys"><br/>
 <div><strong>Name:</strong> Small Round Shield 50</div>
-<div><strong>Item Type:</strong> Small Round Shield</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://tf4cdrvc4pecsxhauh35arsex662kicmwab5cxxlsqjevj35z6aq.arweave.net/mXghxqLjyClc4KH30EZEv72lIEywA9Fe65QSSqd9z4E"><br/>
-<div><strong>Name:</strong> Small Round Shield 51</div>
 <div><strong>Item Type:</strong> Small Round Shield</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
@@ -359,12 +353,6 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://yg3a5vckpamtyjrspu4wxxjvp7dufvwcnolhoyi7rndjshcqk7aa.arweave.net/wbYO1Ep4GTwmMn05a901f8dC1sJrlndhH4tGmRxQV8A"><br/>
 <div><strong>Name:</strong> Small Round Shield 65</div>
-<div><strong>Item Type:</strong> Small Round Shield</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://rv7lm5kkd57mqs7omcsudkv56l5vqqzdadgzhz2lvyrav4vfav2a.arweave.net/jX62dUoffshL7mClQaq98vtYQyMAzZPnS64iCvKlBXQ"><br/>
-<div><strong>Name:</strong> Small Round Shield 67</div>
 <div><strong>Item Type:</strong> Small Round Shield</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
@@ -479,6 +467,12 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://s5cqizz2dkwstoykrnfw6chutupq6u3mzdjcfn3wp5gcpjoz.arweave.net/l0UEZzoarSm7Co_tLbwj-0nR8PU2zI0iK3dn9MJ6XZ8"><br/>
 <div><strong>Name:</strong> Small Round Shield 87</div>
+<div><strong>Item Type:</strong> Small Round Shield</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://cmzczwxouuubtobffkcphiacnwqzoazlmct2xc4cczma.arweave.net/Ez_Is2-u6lKBm4JSqE86A-_C-baGX-Aytgp6uLghZYU"><br/>
+<div><strong>Name:</strong> Small Round Shield 88</div>
 <div><strong>Item Type:</strong> Small Round Shield</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>

@@ -9,22 +9,6 @@ tags:
 
 # Chia Farmers - Normal (7901 - 8000)
 <div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08055.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08055</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Underwaist</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> Flower</div>
-<div><strong>Tools:</strong> Pitchfork</div>
-<div><strong>Glasses:</strong> none</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08056.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #08056</div>
 <div><strong>Item Type:</strong> Chia Farmers</div>
@@ -1607,5 +1591,21 @@ tags:
 <div><strong>Tools:</strong> Sapling</div>
 <div><strong>Glasses:</strong> Sunglasses</div>
 <div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08159.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08159</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Russet</div>
+<div><strong>Skin:</strong> Gold</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> PeakedCap</div>
+<div><strong>Mouth:</strong> SurgicalMask</div>
+<div><strong>Tools:</strong> Doorplate</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Gloomy</div>
 </div>
 

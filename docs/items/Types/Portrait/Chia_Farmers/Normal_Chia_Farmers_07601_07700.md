@@ -9,22 +9,6 @@ tags:
 
 # Chia Farmers - Normal (7601 - 7700)
 <div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/07752.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #07752</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Brown</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> Blouse</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Red</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> Laugh</div>
-<div><strong>Tools:</strong> Magic</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/07753.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #07753</div>
 <div><strong>Item Type:</strong> Chia Farmers</div>
@@ -1607,5 +1591,21 @@ tags:
 <div><strong>Tools:</strong> Water</div>
 <div><strong>Glasses:</strong> Sunglasses</div>
 <div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/07853.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #07853</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Underwaist</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> PeakedCap</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Magic</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Gloomy</div>
 </div>
 
