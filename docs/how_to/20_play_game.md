@@ -92,7 +92,13 @@ Then all hunting and fighting notifications for you go in this channel.
 
 #### !merchandise
 
-With the current version of Ingame Merchants you can get exclusive Offers for 0.03 XCH. This way you can directly use your coins from ingame wallet right now. **Attention** when you buy ingame in Discord, the Mimic Bot will send you an offer with a direct Message. You have to be able to receive Direct Messages from Mimic Bot. So check your privacy Settings for this. Maybe enable Direct Messages for Chia Inventory Server.
+With the current version of Ingame Merchants you can get exclusive Offers for 0.03 XCH. This way you can directly use your coins from ingame wallet right now. 
+
+**Attention** when you buy ingame in Discord, the Mimic Bot will send you an offer with a direct Message. You have to be able to receive Direct Messages from Mimic Bot. So check your privacy Settings for this. Maybe enable Direct Messages for Chia Inventory Server.
+
+![](include/privacy_settings_01.png)
+
+![](include/privacy_settings_02.png)
 
 - You Enter `!merchandise` in Discord.
 - Mimic answers with a table of items you can buy right now with Chiania Coin Prices

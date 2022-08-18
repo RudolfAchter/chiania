@@ -13,6 +13,9 @@
 
 At the [markets](../items/20_markets.md) you will find equipment for your character. The ["blue duck" at the Main Market Square](https://dexie.space/offers/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx/xch) is open 24x7. But if you look carefully then you can find goood offer for example by the blacksmith. Go to the [markets](../items/20_markets.md) stroll and look.
 
+## Buy Items Ingame
+
+You can also buy Items ingame. Look at [Merchant](20_play_game.md#merchant)
 
 ## Manage your Items
 

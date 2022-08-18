@@ -20,13 +20,7 @@ There is a lot of hustle and bustle on the [market square](https://discord.com/c
 
 ## Ingame Merchants
 
-With the current version of Ingame Merchants you can get exclusive Offers for 0.03 XCH. This way you can directly use your coins from ingame wallet right now. **Attention** when you buy ingame in Discord, the Mimic Bot will send you an offer with a direct Message. You have to be able to receive Direct Messages from Mimic Bot. So check your privacy Settings for this. Maybe enable Direct Messages for Chia Inventory Server.
-
-- You Enter `!merchandise` in Discord.
-- Mimic answers with a table of items you can buy right now with Chiania Coin Prices
-- Enter `!buy <serialnumber>` use the serialnumber of the item you want to buy. For example `!buy 1`
-- Mimic sends you an offer as direct message
-- Download offer and accept it in your Chia Wallet
+Look in [How to Play Chiania / Merchant](../how_to/20_play_game.md#merchant) to learn how to interact with in Game Merchants and Trade with them.
 
 ## Official Traders
 
