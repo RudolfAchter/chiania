@@ -34,8 +34,8 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Knife/Green_Nuclei_Knife_00001_00100/"><img loading="lazy" src="https://5aq4pd3rj2l5vky4jlxu2tuzv6kzdwbrisz2fhdud4thi3ht.arweave.net/-6C_HHj3FOl9qrHErvTU6Zr5WR2DFEs6KcdB8mdGzzI"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Knife/Green_Nuclei_Knife_00001_00100/">Knife</a></div>
+<a href="../../Types/Weapon/Knife/Normal_Knife_00001_00100/"><img loading="lazy" src="https://j52icybw26nbo55ktjcnf6ic5g666ii2ofer5xbia3p4rkhowfwq.arweave.net/T3SBYDbXmhd3qppE0vkC6b3vIRpxSR7cKAbfyKjusW0"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Knife/Normal_Knife_00001_00100/">Knife</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
@@ -59,8 +59,8 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Sword/Normal_Sword_00001_00100/"><img loading="lazy" src="https://55ttc4wa5dqpqjgbmouww5xoymvg2ibhis3adwwvjjrntcirclcq.arweave.net/72cxcsDo4PgkwWOpa3buwyptICdEtgHa1Upi2YkREsU"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Sword/Normal_Sword_00001_00100/">Sword</a></div>
+<a href="../../Types/Weapon/Sword/Red_Nuclei_Sword_00001_00100/"><img loading="lazy" src="https://i6b5oljksfziqkgn3cta7ntntqboilc6i6stfvwwznwutpunm4.arweave.net/R4PXLSqRcogozdimD7ZtnALkLF-5HpTLW1sttSb6NZ0"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Sword/Red_Nuclei_Sword_00001_00100/">Sword</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
