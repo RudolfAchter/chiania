@@ -45,12 +45,6 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://2wcvmxbnehizrfbrsulkxswrl7brtwx5hcshzltbbwqjhrru.arweave.net/1YVWXC0h0ZiUMZUWq8-rRX8MZ2v04pHy_uYQ2gk8Y0s"><br/>
-<div><strong>Name:</strong> Halberd 7</div>
-<div><strong>Item Type:</strong> Halberd</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://bzi4nwq5wdzku7j7wfdh4ny33zw6lyzr6zjqf5hvygw2nxdc.arweave.net/DlHG2h2w8qp9P7FGfjcb3m3l4zH2UwL09-cGt_ptxiQ"><br/>
 <div><strong>Name:</strong> Halberd 8</div>
 <div><strong>Item Type:</strong> Halberd</div>

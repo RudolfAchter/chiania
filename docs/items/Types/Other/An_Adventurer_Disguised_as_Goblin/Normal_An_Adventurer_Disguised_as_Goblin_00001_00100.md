@@ -39,6 +39,12 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
+<img loading="lazy" src="https://dlnwvflgsevfbeegjloc7swlvqrzhjxjuuiphrzluqnu7mqz.arweave.net/Gttql_Wa_RKlCQhkrcL8rLrCOTpumlEPPHK6QbT7IZA"><br/>
+<div><strong>Name:</strong> An Adventurer Disguised as Goblin 6</div>
+<div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://6k7oxqxb7xlbavy3seyamtgibxpa4vxnnr7va2fgytkr5ia4.arweave.net/8r7rwuH91hBXG5EwBkzID-d4_OVu1sf1BopsTVHqAcI"><br/>
 <div><strong>Name:</strong> An Adventurer Disguised as Goblin 7</div>
 <div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
@@ -399,6 +405,12 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
+<img loading="lazy" src="https://4vefbpwftjpzfywvspabtohtyy63a35mltij3hiwtecbjbwe.arweave.net/5UhQvsWaX5Li1ZPAGb-jzxj2wb6xc0-J2dFp_kEFIbE"><br/>
+<div><strong>Name:</strong> An Adventurer Disguised as Goblin 58</div>
+<div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://n4wovsxfzjbpgwd43fhathcypg4aownepcmr5625ikel5use.arweave.net/byzqyuXKQvNYfNlOCZxYebgHWaR4m__R7-7XUKIvtJE"><br/>
 <div><strong>Name:</strong> An Adventurer Disguised as Goblin 59</div>
 <div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
@@ -407,12 +419,6 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://ktm7xnymwb4w2lprtm623qxam6j4fmag7w5bfbrceksj5dax.arweave.net/VNn7twyw-eW0t8Zs9rcLgZ5PC-sAb9uhKGIiKknowXI"><br/>
 <div><strong>Name:</strong> An Adventurer Disguised as Goblin 60</div>
-<div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://5twal3s4wpwwpxkoktteqa65t46v7zyjmq64dozlsdkfiiuh2m.arweave.net/7OwF7lyz7WfdTlTmSAPdnz1f5wlkPcG7K5DUVCKH-0w"><br/>
-<div><strong>Name:</strong> An Adventurer Disguised as Goblin 61</div>
 <div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
@@ -599,12 +605,6 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://jfyr2gvplzq3bu4q2rwaxo3y3tppk2rku4jkr23hko55fjtfvq.arweave.net/SXEdGq9eYbDTkN-RsC7t43N71aiqnEqjrZ1O70qZlrE"><br/>
 <div><strong>Name:</strong> An Adventurer Disguised as Goblin 87</div>
-<div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://vfuhfduvctgpbsfsnw3bcxjrpome52zaol2hezy4w7jylyr2.arweave.net/qWhyj-pUUzPDIsm22EV0x-e5hO6yBy9HJnHLfTheI6g"><br/>
-<div><strong>Name:</strong> An Adventurer Disguised as Goblin 88</div>
 <div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
