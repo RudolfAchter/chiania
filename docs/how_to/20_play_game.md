@@ -145,6 +145,15 @@ You decided to set 🍎hunting-ground-4 as your home.
 
 `!tavern` teleports you back to Tavern, in case you got Lost. This takes all your stamina so you have to recover again.
 
+#### !goblinization
+
+`!goblinization` is a spell to get you disguised as a goblin. You get an offer sent per direct Message. So make sure your **privacy Settings** allow this on this Discord Server
+
+![](include/privacy_settings_01.png)
+
+![](include/privacy_settings_02.png)
+
+You get a cheap Chia offer for a Goblin NFT which counts as disguise as a goblin.
 
 ## Register for Quests
 
