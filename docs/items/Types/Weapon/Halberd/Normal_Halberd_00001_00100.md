@@ -1,7 +1,7 @@
 ---
 title: Halberd - Normal (1 - 100)
 description: Halberd Items in Chia Inventory
-date: 2022-08-18
+date: 2022-08-19
 tags:
     - NFT
     - Items
@@ -41,6 +41,12 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://zietrm6ot7bxnsq4zrdidlysoee73pfl7nq6flgf5foiujkdlm.arweave.net/ygk4s86fw3bKHMxGga8ScQn9vKv7Y_eKsxelciiVDW0"><br/>
 <div><strong>Name:</strong> Halberd 6</div>
+<div><strong>Item Type:</strong> Halberd</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://2wcvmxbnehizrfbrsulkxswrl7brtwx5hcshzltbbwqjhrru.arweave.net/1YVWXC0h0ZiUMZUWq8-rRX8MZ2v04pHy_uYQ2gk8Y0s"><br/>
+<div><strong>Name:</strong> Halberd 7</div>
 <div><strong>Item Type:</strong> Halberd</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>

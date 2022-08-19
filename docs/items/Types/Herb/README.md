@@ -1,7 +1,7 @@
 ---
 title: Category - Herb
 description: Item Types in Chia Inventory
-date: 2022-08-18
+date: 2022-08-19
 tags:
     - NFT
     - Items
@@ -9,7 +9,7 @@ tags:
 
 # Category - Herb
 <div class="item_type_thumbnail">
-<a href="../../Types/Herb/Brave_Leef/Normal_Brave_Leef_00001_00100/"><img loading="lazy" src="https://bb5j266fdio4m56qtqbsykbul6zhizbtlvo4eektcbjmmpg5zy.arweave.net/CHqde8UaHcZ30JwDL_Cg0X7J0ZDNdXcIRUxBSxjzdzs"></a><br/>
+<a href="../../Types/Herb/Brave_Leef/Normal_Brave_Leef_00001_00100/"><img loading="lazy" src="https://hi2onh5ifj3mcmn5kevyboyfu5wnkgjzgbmxdfeorfafvcyp2kmq.arweave.net/OjTmn6gqdsExvVErgLsFp2zVGTkwWXGUjolAWosP0pk"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Herb/Brave_Leef/Normal_Brave_Leef_00001_00100/">Brave Leef</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
 </div>

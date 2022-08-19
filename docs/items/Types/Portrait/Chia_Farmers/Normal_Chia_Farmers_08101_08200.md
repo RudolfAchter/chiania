@@ -1,13 +1,1453 @@
 ---
 title: Chia Farmers - Normal (8101 - 8200)
 description: Chia Farmers Items in Chia Inventory
-date: 2022-08-18
+date: 2022-08-19
 tags:
     - NFT
     - Items
 ---
 
 # Chia Farmers - Normal (8101 - 8200)
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08087.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08087</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> MistViolet</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> Crown</div>
+<div><strong>Mouth:</strong> Unhappy</div>
+<div><strong>Tools:</strong> none</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08088.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08088</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> Cry</div>
+<div><strong>Clothes:</strong> BaseballJacket</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> SurgicalMask</div>
+<div><strong>Tools:</strong> Doorplate</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08089.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08089</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Doorplate</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08090.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08090</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Pink</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> FormalAttire</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> Crown</div>
+<div><strong>Mouth:</strong> Laugh</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08091.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08091</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Purple</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Henley</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> PeakedCap</div>
+<div><strong>Mouth:</strong> Leaf</div>
+<div><strong>Tools:</strong> Doorplate</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08092.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08092</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Citron</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Henley</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> Crown</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Doorplate</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08093.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08093</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> MistViolet</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Raincoat</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> BucketHat</div>
+<div><strong>Mouth:</strong> Flower</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08094.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08094</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> MistViolet</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> BaseballJacket</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Water</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08095.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08095</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Rainbow</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Vest</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> SurgicalMask</div>
+<div><strong>Tools:</strong> Water</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08096.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08096</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Rainbow</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Blouse</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08097.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08097</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Purple</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> Blouse</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> Crown</div>
+<div><strong>Mouth:</strong> Pipe</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08098.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08098</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> MistViolet</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Underwaist</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08099.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08099</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> Cry</div>
+<div><strong>Clothes:</strong> Vest</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> SurgicalMask</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08100.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08100</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> FormalAttire</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08101.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08101</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Russet</div>
+<div><strong>Skin:</strong> Jasmine</div>
+<div><strong>Clothes:</strong> Vest</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> BucketHat</div>
+<div><strong>Mouth:</strong> Leaf</div>
+<div><strong>Tools:</strong> Sapling</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08102.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08102</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Grey</div>
+<div><strong>Skin:</strong> CeruleanBlue</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> Pipe</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08103.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08103</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> PeakedCap</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> none</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08104.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08104</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Rainbow</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Blouse</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08105.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08105</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Honey Orange</div>
+<div><strong>Skin:</strong> Gold</div>
+<div><strong>Clothes:</strong> Blouse</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Orange</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> Cigarette</div>
+<div><strong>Tools:</strong> Sapling</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08106.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08106</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> MistViolet</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Underwaist</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> BucketHat</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> none</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08107.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08107</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Magic</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08108.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08108</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Pink</div>
+<div><strong>Skin:</strong> CeruleanBlue</div>
+<div><strong>Clothes:</strong> BaseballJacket</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> Leaf</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08109.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08109</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Citron</div>
+<div><strong>Skin:</strong> CeruleanBlue</div>
+<div><strong>Clothes:</strong> Vest</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> BucketHat</div>
+<div><strong>Mouth:</strong> Unhappy</div>
+<div><strong>Tools:</strong> Sapling</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08110.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08110</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> T-shirt</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> HardHat</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08111.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08111</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> Green</div>
+<div><strong>Clothes:</strong> Blouse</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> BucketHat</div>
+<div><strong>Mouth:</strong> SurgicalMask</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08112.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08112</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> Cry</div>
+<div><strong>Clothes:</strong> Underwaist</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08113.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08113</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Citron</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Blouse</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Magic</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08114.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08114</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Pink</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> FormalAttire</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> Leaf</div>
+<div><strong>Tools:</strong> Doorplate</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08115.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08115</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> MistViolet</div>
+<div><strong>Skin:</strong> CeruleanBlue</div>
+<div><strong>Clothes:</strong> FormalAttire</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08116.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08116</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Citron</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> BaseballJacket</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> CrewCut</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Magic</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08117.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08117</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Honey Orange</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> BaseballJacket</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> Cigarette</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08118.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08118</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> DarkPurple</div>
+<div><strong>Clothes:</strong> Raincoat</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> Flower</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08119.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08119</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Grey</div>
+<div><strong>Skin:</strong> CeruleanBlue</div>
+<div><strong>Clothes:</strong> Vest</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> Flower</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08120.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08120</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> Cry</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> SurgicalMask</div>
+<div><strong>Tools:</strong> Sapling</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08121.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08121</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> none</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08122.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08122</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> DarkPurple</div>
+<div><strong>Clothes:</strong> Vest</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Doorplate</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08123.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08123</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Russet</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> FormalAttire</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> Cigarette</div>
+<div><strong>Tools:</strong> none</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08124.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08124</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> CeruleanBlue</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> StrawCap</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08125.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08125</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> CeruleanBlue</div>
+<div><strong>Clothes:</strong> BaseballJacket</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> none</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> Leaf</div>
+<div><strong>Tools:</strong> Flowers</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08126.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08126</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> Cyan</div>
+<div><strong>Clothes:</strong> Raincoat</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> Crown</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Water</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08127.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08127</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> T-shirt</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> CrewCut</div>
+<div><strong>Mouth:</strong> SurgicalMask</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08128.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08128</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Pink</div>
+<div><strong>Skin:</strong> Cry</div>
+<div><strong>Clothes:</strong> T-shirt</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> BucketHat</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Water</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08129.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08129</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Honey Orange</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> BucketHat</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> none</div>
+<div><strong>Glasses:</strong> none</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08130.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08130</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Grey</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> T-shirt</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> Cigarette</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08133.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08133</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Purple</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> Laugh</div>
+<div><strong>Tools:</strong> Doorplate</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08134.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08134</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Grey</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> T-shirt</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> Crown</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Magic</div>
+<div><strong>Glasses:</strong> none</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08135.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08135</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> Vest</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> StrawCap</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> none</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08136.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08136</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Rainbow</div>
+<div><strong>Skin:</strong> DarkPurple</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> ChiaFarm</div>
+<div><strong>Glasses:</strong> none</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08137.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08137</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> MistViolet</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> T-shirt</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08140.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08140</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> Raincoat</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> SurgicalMask</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08141.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08141</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> none</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> Flower</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08142.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08142</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Russet</div>
+<div><strong>Skin:</strong> CeruleanBlue</div>
+<div><strong>Clothes:</strong> FormalAttire</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> Leaf</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08143.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08143</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> MistViolet</div>
+<div><strong>Skin:</strong> DarkPurple</div>
+<div><strong>Clothes:</strong> Raincoat</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08144.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08144</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Rainbow</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08145.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08145</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> Blouse</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> Crown</div>
+<div><strong>Mouth:</strong> Flower</div>
+<div><strong>Tools:</strong> Water</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08146.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08146</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Russet</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> BubbleGum</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08147.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08147</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Russet</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> Underwaist</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08148.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08148</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Citron</div>
+<div><strong>Skin:</strong> Turquoise</div>
+<div><strong>Clothes:</strong> T-shirt</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Water</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08149.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08149</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Pink</div>
+<div><strong>Skin:</strong> DarkPurple</div>
+<div><strong>Clothes:</strong> BaseballJacket</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> none</div>
+<div><strong>Head:</strong> StrawCap</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08150.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08150</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Rainbow</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Underwaist</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> Crown</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08151.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08151</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Underwaist</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> BucketHat</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08152.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08152</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Rainbow</div>
+<div><strong>Skin:</strong> DarkPurple</div>
+<div><strong>Clothes:</strong> Underwaist</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> none</div>
+<div><strong>Head:</strong> PeakedCap</div>
+<div><strong>Mouth:</strong> Leaf</div>
+<div><strong>Tools:</strong> Flowers</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08153.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08153</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Rainbow</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08154.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08154</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Rainbow</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> FormalAttire</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> none</div>
+<div><strong>Head:</strong> BucketHat</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Magic</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08155.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08155</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Grey</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> T-shirt</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> PeakedCap</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08156.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08156</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> Cry</div>
+<div><strong>Clothes:</strong> Raincoat</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> Cigarette</div>
+<div><strong>Tools:</strong> Water</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08157.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08157</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> Cry</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Magic</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08158.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08158</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Sapling</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08159.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08159</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Russet</div>
+<div><strong>Skin:</strong> Gold</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> PeakedCap</div>
+<div><strong>Mouth:</strong> SurgicalMask</div>
+<div><strong>Tools:</strong> Doorplate</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08160.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08160</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> MistViolet</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Raincoat</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Magic</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08161.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08161</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> MistViolet</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> BaseballJacket</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> Leaf</div>
+<div><strong>Tools:</strong> none</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08162.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08162</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Russet</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> Blouse</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> Smile</div>
+<div><strong>Tools:</strong> Water</div>
+<div><strong>Glasses:</strong> Presbyopia</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08163.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08163</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Citron</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> SurgicalMask</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08164.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08164</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Purple</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> Underwaist</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> Leaf</div>
+<div><strong>Tools:</strong> Doorplate</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08165.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08165</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> Jasmine</div>
+<div><strong>Clothes:</strong> BaseballJacket</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> Cigarette</div>
+<div><strong>Tools:</strong> Sapling</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08166.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08166</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Purple</div>
+<div><strong>Skin:</strong> Cyan</div>
+<div><strong>Clothes:</strong> FormalAttire</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> BucketHat</div>
+<div><strong>Mouth:</strong> Pipe</div>
+<div><strong>Tools:</strong> none</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08167.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08167</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Citron</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> stubble</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> CoolHair</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Magic</div>
+<div><strong>Glasses:</strong> none</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08168.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08168</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Pink</div>
+<div><strong>Skin:</strong> Turquoise</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> Crown</div>
+<div><strong>Mouth:</strong> Cigarette</div>
+<div><strong>Tools:</strong> Doorplate</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08169.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08169</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> BaseballJacket</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> CrewCut</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08170.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08170</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> MistViolet</div>
+<div><strong>Skin:</strong> Gold</div>
+<div><strong>Clothes:</strong> Henley</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> PeakedCap</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Shelf</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08171.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08171</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Rainbow</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> Blouse</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> StrawCap</div>
+<div><strong>Mouth:</strong> Leaf</div>
+<div><strong>Tools:</strong> Water</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08172.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08172</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Rainbow</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> StrawCap</div>
+<div><strong>Mouth:</strong> SurgicalMask</div>
+<div><strong>Tools:</strong> Magic</div>
+<div><strong>Glasses:</strong> none</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08173.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08173</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Citron</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> Underwaist</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08174.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08174</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> MistViolet</div>
+<div><strong>Skin:</strong> Vermeil</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> Fedora</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Gloomy</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08175.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08175</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Pink</div>
+<div><strong>Skin:</strong> Cyan</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> SurgicalMask</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08176.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08176</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Grey</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> BaseballJacket</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Green</div>
+<div><strong>Head:</strong> PeakedCap</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> none</div>
+<div><strong>Expression:</strong> Jubilant</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08177.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08177</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Pink</div>
+<div><strong>Skin:</strong> PaleMauve</div>
+<div><strong>Clothes:</strong> FormalAttire</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Red</div>
+<div><strong>Head:</strong> KnittedHat</div>
+<div><strong>Mouth:</strong> Leaf</div>
+<div><strong>Tools:</strong> Doorplate</div>
+<div><strong>Glasses:</strong> Monocle</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08178.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08178</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Brown</div>
+<div><strong>Skin:</strong> CeruleanBlue</div>
+<div><strong>Clothes:</strong> Workwear</div>
+<div><strong>Beard:</strong> whiskers</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> AfroHair</div>
+<div><strong>Mouth:</strong> Leaf</div>
+<div><strong>Tools:</strong> Water</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Shyness</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08179.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08179</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Ultramarine</div>
+<div><strong>Skin:</strong> Narcissus</div>
+<div><strong>Clothes:</strong> Sweater</div>
+<div><strong>Beard:</strong> none</div>
+<div><strong>Earrings:</strong> Yellow</div>
+<div><strong>Head:</strong> CrewCut</div>
+<div><strong>Mouth:</strong> ChewingGum</div>
+<div><strong>Tools:</strong> Pitchfork</div>
+<div><strong>Glasses:</strong> Sunglasses</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08180.png"><br/>
+<div><strong>Name:</strong> Chia Farmers #08180</div>
+<div><strong>Item Type:</strong> Chia Farmers</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
+<div><strong>Background:</strong> Purple</div>
+<div><strong>Skin:</strong> Turquoise</div>
+<div><strong>Clothes:</strong> Vest</div>
+<div><strong>Beard:</strong> sideburns</div>
+<div><strong>Earrings:</strong> Grey</div>
+<div><strong>Head:</strong> BucketHat</div>
+<div><strong>Mouth:</strong> GreyMask</div>
+<div><strong>Tools:</strong> Sickle</div>
+<div><strong>Glasses:</strong> Cyber</div>
+<div><strong>Expression:</strong> Boring</div>
+</div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08181.png"><br/>
 <div><strong>Name:</strong> Chia Farmers #08181</div>
@@ -167,1445 +1607,5 @@ tags:
 <div><strong>Tools:</strong> Water</div>
 <div><strong>Glasses:</strong> Cyber</div>
 <div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08191.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08191</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> FormalAttire</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> Crown</div>
-<div><strong>Mouth:</strong> ChewingGum</div>
-<div><strong>Tools:</strong> Flowers</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08192.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08192</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> Cyan</div>
-<div><strong>Clothes:</strong> Blouse</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> AfroHair</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08193.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08193</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Brown</div>
-<div><strong>Skin:</strong> Jasmine</div>
-<div><strong>Clothes:</strong> BaseballJacket</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> CrewCut</div>
-<div><strong>Mouth:</strong> ChewingGum</div>
-<div><strong>Tools:</strong> Water</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08194.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08194</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> DarkPurple</div>
-<div><strong>Clothes:</strong> Underwaist</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Magic</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08195.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08195</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> DarkPurple</div>
-<div><strong>Clothes:</strong> BaseballJacket</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> SurgicalMask</div>
-<div><strong>Tools:</strong> Pitchfork</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08196.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08196</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> Crown</div>
-<div><strong>Mouth:</strong> ChewingGum</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08197.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08197</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Pink</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> T-shirt</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> Crown</div>
-<div><strong>Mouth:</strong> Flower</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08198.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08198</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Brown</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> Blouse</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08199.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08199</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> AfroHair</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08200.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08200</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Underwaist</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Water</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08201.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08201</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> T-shirt</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> AfroHair</div>
-<div><strong>Mouth:</strong> SurgicalMask</div>
-<div><strong>Tools:</strong> Doorplate</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08202.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08202</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Pink</div>
-<div><strong>Skin:</strong> Jasmine</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08203.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08203</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Brown</div>
-<div><strong>Skin:</strong> Cyan</div>
-<div><strong>Clothes:</strong> T-shirt</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Red</div>
-<div><strong>Head:</strong> AfroHair</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Pitchfork</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08204.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08204</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Red</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> Flower</div>
-<div><strong>Tools:</strong> Water</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08205.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08205</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Raincoat</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Crown</div>
-<div><strong>Mouth:</strong> Smile</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> none</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08206.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08206</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Grey</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> Blouse</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Pitchfork</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08207.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08207</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> DarkPurple</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Pitchfork</div>
-<div><strong>Glasses:</strong> none</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08208.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08208</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Sweater</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Pitchfork</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08209.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08209</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> Jasmine</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> ChewingGum</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08210.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08210</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Rainbow</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> PeakedCap</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08211.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08211</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> DarkPurple</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> Smile</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08212.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08212</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Rainbow</div>
-<div><strong>Skin:</strong> CeruleanBlue</div>
-<div><strong>Clothes:</strong> Blouse</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> PeakedCap</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08213.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08213</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> T-shirt</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> StrawCap</div>
-<div><strong>Mouth:</strong> Flower</div>
-<div><strong>Tools:</strong> Pitchfork</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08214.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08214</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> Cyan</div>
-<div><strong>Clothes:</strong> T-shirt</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Red</div>
-<div><strong>Head:</strong> StrawCap</div>
-<div><strong>Mouth:</strong> Smile</div>
-<div><strong>Tools:</strong> ChiaFarm</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08215.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08215</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> Cry</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Unhappy</div>
-<div><strong>Tools:</strong> Flowers</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08216.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08216</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> BaseballJacket</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> Smile</div>
-<div><strong>Tools:</strong> Magic</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08217.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08217</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> DarkPurple</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> SurgicalMask</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> none</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08218.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08218</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> CeruleanBlue</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> CrewCut</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Water</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08219.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08219</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Water</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08220.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08220</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> DarkPurple</div>
-<div><strong>Clothes:</strong> Blouse</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> SurgicalMask</div>
-<div><strong>Tools:</strong> Magic</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08221.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08221</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08222.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08222</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Rainbow</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> BaseballJacket</div>
-<div><strong>Beard:</strong> stubble</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> PeakedCap</div>
-<div><strong>Mouth:</strong> Smile</div>
-<div><strong>Tools:</strong> none</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08223.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08223</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Rainbow</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> T-shirt</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> Crown</div>
-<div><strong>Mouth:</strong> SurgicalMask</div>
-<div><strong>Tools:</strong> Water</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08224.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08224</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> FormalAttire</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> Flower</div>
-<div><strong>Tools:</strong> Flowers</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08225.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08225</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Pink</div>
-<div><strong>Skin:</strong> Jasmine</div>
-<div><strong>Clothes:</strong> Underwaist</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> PeakedCap</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08226.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08226</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Underwaist</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Laugh</div>
-<div><strong>Tools:</strong> Magic</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08227.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08227</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Russet</div>
-<div><strong>Skin:</strong> Cry</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> ChiaFarm</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08228.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08228</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Rainbow</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> Henley</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> Laugh</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08229.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08229</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> Cry</div>
-<div><strong>Clothes:</strong> FormalAttire</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Red</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08230.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08230</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Rainbow</div>
-<div><strong>Skin:</strong> Cyan</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Flowers</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08231.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08231</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> Cyan</div>
-<div><strong>Clothes:</strong> T-shirt</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> ChewingGum</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08232.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08232</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Rainbow</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Sweater</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> BucketHat</div>
-<div><strong>Mouth:</strong> Smile</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08233.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08233</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Rainbow</div>
-<div><strong>Skin:</strong> Cyan</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> CrewCut</div>
-<div><strong>Mouth:</strong> Unhappy</div>
-<div><strong>Tools:</strong> ChiaFarm</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08234.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08234</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Blouse</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> Unhappy</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08237.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08237</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> Cyan</div>
-<div><strong>Clothes:</strong> Blouse</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> SurgicalMask</div>
-<div><strong>Tools:</strong> Magic</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08238.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08238</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Rainbow</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> FormalAttire</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08239.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08239</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> Underwaist</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> StrawCap</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Sapling</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08240.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08240</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> Cry</div>
-<div><strong>Clothes:</strong> BaseballJacket</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> Flower</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08241.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08241</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Pink</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> FormalAttire</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Red</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> Flower</div>
-<div><strong>Tools:</strong> Pitchfork</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08242.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08242</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> T-shirt</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> Laugh</div>
-<div><strong>Tools:</strong> Sapling</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08243.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08243</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> Sweater</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> SurgicalMask</div>
-<div><strong>Tools:</strong> Water</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08244.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08244</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Pink</div>
-<div><strong>Skin:</strong> Cry</div>
-<div><strong>Clothes:</strong> BaseballJacket</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Red</div>
-<div><strong>Head:</strong> AfroHair</div>
-<div><strong>Mouth:</strong> ChewingGum</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08245.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08245</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> Polo</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Water</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08246.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08246</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Brown</div>
-<div><strong>Skin:</strong> Cry</div>
-<div><strong>Clothes:</strong> Raincoat</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> Smile</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08247.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08247</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> FormalAttire</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> PeakedCap</div>
-<div><strong>Mouth:</strong> Laugh</div>
-<div><strong>Tools:</strong> Water</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08248.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08248</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> Cry</div>
-<div><strong>Clothes:</strong> T-shirt</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> BucketHat</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Flowers</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08249.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08249</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Pink</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> StrawCap</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Water</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08250.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08250</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> Blouse</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Pitchfork</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08251.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08251</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> BaseballJacket</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> CrewCut</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08252.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08252</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Honey Orange</div>
-<div><strong>Skin:</strong> Cyan</div>
-<div><strong>Clothes:</strong> Underwaist</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> AfroHair</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Magic</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08253.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08253</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Brown</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> T-shirt</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Red</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> SurgicalMask</div>
-<div><strong>Tools:</strong> Sapling</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08254.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08254</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Hotpink</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> Sweater</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08255.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08255</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Blouse</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> CrewCut</div>
-<div><strong>Mouth:</strong> ChewingGum</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08256.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08256</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> MistViolet</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> Sweater</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> AfroHair</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Magic</div>
-<div><strong>Glasses:</strong> none</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08257.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08257</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> Jasmine</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Crown</div>
-<div><strong>Mouth:</strong> SurgicalMask</div>
-<div><strong>Tools:</strong> Doorplate</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08258.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08258</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> CeruleanBlue</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Pitchfork</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08259.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08259</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Doorplate</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08260.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08260</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> Underwaist</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> AfroHair</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08261.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08261</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> Cry</div>
-<div><strong>Clothes:</strong> FormalAttire</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08262.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08262</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> Jasmine</div>
-<div><strong>Clothes:</strong> Sweater</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Fedora</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08263.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08263</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> stubble</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08264.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08264</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> CeruleanBlue</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> ChewingGum</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08265.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08265</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> AfroHair</div>
-<div><strong>Mouth:</strong> Smile</div>
-<div><strong>Tools:</strong> Flowers</div>
-<div><strong>Glasses:</strong> none</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08266.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08266</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Rainbow</div>
-<div><strong>Skin:</strong> Cyan</div>
-<div><strong>Clothes:</strong> FormalAttire</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Orange</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Doorplate</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08267.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08267</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Brown</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Red</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Pitchfork</div>
-<div><strong>Glasses:</strong> Sunglasses</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08268.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08268</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> FormalAttire</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> StrawCap</div>
-<div><strong>Mouth:</strong> Flower</div>
-<div><strong>Tools:</strong> Water</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08269.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08269</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Honey Orange</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Blouse</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> Crown</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Doorplate</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08272.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08272</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Grey</div>
-<div><strong>Skin:</strong> Narcissus</div>
-<div><strong>Clothes:</strong> Underwaist</div>
-<div><strong>Beard:</strong> stubble</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> BucketHat</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08273.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08273</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Rainbow</div>
-<div><strong>Skin:</strong> DarkPurple</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> CrewCut</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> ChiaFarm</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08274.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08274</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Purple</div>
-<div><strong>Skin:</strong> CeruleanBlue</div>
-<div><strong>Clothes:</strong> Henley</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> HardHat</div>
-<div><strong>Mouth:</strong> Flower</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08275.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08275</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Honey Orange</div>
-<div><strong>Skin:</strong> PaleMauve</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> Crown</div>
-<div><strong>Mouth:</strong> Flower</div>
-<div><strong>Tools:</strong> none</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08276.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08276</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Russet</div>
-<div><strong>Skin:</strong> Cry</div>
-<div><strong>Clothes:</strong> Sweater</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> none</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08277.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08277</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Ultramarine</div>
-<div><strong>Skin:</strong> DarkPurple</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> none</div>
-<div><strong>Head:</strong> KnittedHat</div>
-<div><strong>Mouth:</strong> Cigarette</div>
-<div><strong>Tools:</strong> Sapling</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Gloomy</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08278.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08278</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Rainbow</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Underwaist</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> AfroHair</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Boring</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08279.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08279</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Brown</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Underwaist</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Green</div>
-<div><strong>Head:</strong> CrewCut</div>
-<div><strong>Mouth:</strong> Leaf</div>
-<div><strong>Tools:</strong> Shelf</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08280.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08280</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Honey Orange</div>
-<div><strong>Skin:</strong> Jasmine</div>
-<div><strong>Clothes:</strong> FormalAttire</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> Crown</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08281.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08281</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Vest</div>
-<div><strong>Beard:</strong> sideburns</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> CoolHair</div>
-<div><strong>Mouth:</strong> SurgicalMask</div>
-<div><strong>Tools:</strong> Pitchfork</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08282.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08282</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> FormalAttire</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Grey</div>
-<div><strong>Head:</strong> AfroHair</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Water</div>
-<div><strong>Glasses:</strong> Presbyopia</div>
-<div><strong>Expression:</strong> Jubilant</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08283.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08283</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Citron</div>
-<div><strong>Skin:</strong> Vermeil</div>
-<div><strong>Clothes:</strong> Henley</div>
-<div><strong>Beard:</strong> none</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> PeakedCap</div>
-<div><strong>Mouth:</strong> Smile</div>
-<div><strong>Tools:</strong> Magic</div>
-<div><strong>Glasses:</strong> Monocle</div>
-<div><strong>Expression:</strong> Shyness</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeib3fcsqrhng7de7s3slrr7kzy2zqrvn4o3fj6sq6krh576umg77fq.ipfs.nftstorage.link/08284.png"><br/>
-<div><strong>Name:</strong> Chia Farmers #08284</div>
-<div><strong>Item Type:</strong> Chia Farmers</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj">Chia Farmers</a></div>
-<div><strong>Background:</strong> Brown</div>
-<div><strong>Skin:</strong> Cyan</div>
-<div><strong>Clothes:</strong> Workwear</div>
-<div><strong>Beard:</strong> whiskers</div>
-<div><strong>Earrings:</strong> Yellow</div>
-<div><strong>Head:</strong> AfroHair</div>
-<div><strong>Mouth:</strong> GreyMask</div>
-<div><strong>Tools:</strong> Sickle</div>
-<div><strong>Glasses:</strong> Cyber</div>
-<div><strong>Expression:</strong> Jubilant</div>
 </div>
 

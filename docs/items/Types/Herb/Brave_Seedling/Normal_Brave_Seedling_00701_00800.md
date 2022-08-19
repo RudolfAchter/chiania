@@ -1,7 +1,7 @@
 ---
 title: Brave Seedling - Normal (701 - 800)
 description: Brave Seedling Items in Chia Inventory
-date: 2022-08-18
+date: 2022-08-19
 tags:
     - NFT
     - Items
@@ -258,16 +258,6 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
 <div><strong>background:</strong> speed forward</div>
 <div><strong>seedling:</strong> gold</div>
-<div><strong>soil:</strong> gold chia</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://jhdbtlmsqj2kcduqtm4ubu2m5oga2wfzwc25m4gwzqhws6xojbma.arweave.net/ScYZrZKCdKEOkJs5QNNM64wNWLmwtdZw1swPaXruSFg"><br/>
-<div><strong>Name:</strong> Brave Seedling #716</div>
-<div><strong>Item Type:</strong> Brave Seedling</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
-<div><strong>background:</strong> speed forward</div>
-<div><strong>seedling:</strong> gold</div>
-<div><strong>decoration:</strong> spots</div>
 <div><strong>soil:</strong> gold chia</div>
 </div>
 <div class="item_thumbnail">
