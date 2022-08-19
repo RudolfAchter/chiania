@@ -18,6 +18,9 @@ cdv decode did:chia:1cl7p3apyphluqwn4scndes6rpky35pn8stcr0fzg4hhug3wfas9s6t30kw
 
 ```
 #>
+########################################################################
+# PREPARE START
+########################################################################
 Import-Module -Name "Mdbc"
 
 $Global:ChiaShell
@@ -65,6 +68,72 @@ $a_collections=Get-Content $collectionConfigFile -Encoding UTF8 | ConvertFrom-Js
 
 $itemListFile=$configDir + "/" + "lists.data.json"
 $itemListData=Get-Content $itemListFile -Encoding UTF8 | ConvertFrom-Json -Depth 5
+
+
+$patterns=@(
+    '(.*? Nuclei) ([a-zA-z].*?)([#0-9]+)',
+    '()(.*?)([#0-9]+)'
+)
+#$specialItems=@('()(.*?)([#0-9]+)') #(Shadow Sword)','()(Brave Leef)')
+$specialItems=@('()(Shadow Sword)','()(Brave Leef)')
+$patterns+=$specialItems
+$patternsFile=$configDir + "/" + "nft_name_patterns.json"
+if(-not (Test-Path -Path $patternsFile)){$patterns | ConvertTo-Json | Out-File -FilePath $patternsfile -Encoding UTF8}
+$patterns=Get-Content -Path $patternsFile -Encoding UTF8 | ConvertFrom-Json
+
+#THESE ARE ONLY EXAMPLES!!! Configure in nft_type_patterns.json
+
+$h_typePatterns=@{
+    'Armor'  = @{
+        patterns = @('.* Armor')
+    }
+    'Shield' = @{
+        patterns = @('.* Shield')
+    }
+    'Herb'   = @{
+        patterns = @('Brave Seedling','Brave Leef')
+    }
+    'Familiar' = @{
+        patterns = @('snail','Chia Slime')
+    }
+    'Weapon' = @{
+        patterns = @('Chiania Long Arm Blade','Catapult','Halberd','Khopesh','Knife','Sword','.* Axe','Axe',
+                     '.* Bow','Bow','Stone','.* Club','Club','Enhanced Tree Root')
+    }
+    'Ring' = @{
+        patterns = @('.* Ring','Ring')
+    }
+    'Mount'  = @{
+        patterns = @('Deer')
+    }
+    'Collectable' = @{
+        patterns = @('.* Monster Nuclei','Canned Slime')
+    }
+}
+
+$typePatternsFile = $configDir + "/" + "nft_type_patterns.json"
+if(-not (Test-Path $typePatternsFile)){$h_typePatterns | ConvertTo-Json -Depth 5 | Out-File -Path $typePatternsFile -Encoding UTF8}
+$h_typePatterns=Get-Content -Path $typePatternsFile -Encoding UTF8 | ConvertFrom-Json -Depth 5
+
+
+#Objects for MongoDB
+#MongoDB Connection
+$Server=$h_config.mongodb.server
+$DatabaseName=$h_config.mongodb.database
+$User=$h_config.mongodb.user
+$Password=$h_config.mongodb.password
+
+$connectionString="mongodb+srv://" + $User + ":" + $Password + "@" + $Server + "/" + $DatabaseName + "?retryWrites=true&w=majority"
+
+Connect-Mdbc -ConnectionString $connectionString -DatabaseName $DatabaseName -CollectionName "items"
+
+
+. ./ChianiaItemsFunctions.ps1
+
+#################################################
+# PREPARE END
+#################################################
+
 
 $k=0
 $totalData=$a_collections | ForEach-Object {
@@ -115,83 +184,28 @@ $totalData=$a_collections | ForEach-Object {
 }
 Write-Progress -Id 1 -Activity "Getting Collection Data from SpaceScan" -Status ("collection $k of " + $a_collections.count) -Completed
 
-#Vertrannte Items müssen weg
-#$totalData | Where-Object {$_.meta_info.name -like "Khopesh 01"} | Select-Object {$_.meta_info.name},{$_.owner_hash}
 
-#Filter Out Burned Objects
-$totalData=$totalData | Where-Object {$_.owner_hash -ne "000000000000000000000000000000000000000000000000000000000000dead"}
 
-#Sort objects
-$totalData=$totalData | Sort-Object -Property @({$_.meta_info.collection.name},{$_.meta_info.nr})
+
 
 #Show Sorted Objects
 #$totalData | ForEach-Object{Write-Host($_.meta_info.collection.name + " : " + $_.meta_info.nr + " : " + $_.meta_info.name)}
 
-$patterns=@(
-    '(.*? Nuclei) ([a-zA-z].*?)([#0-9]+)',
-    '()(.*?)([#0-9]+)'
-)
-#$specialItems=@('()(.*?)([#0-9]+)') #(Shadow Sword)','()(Brave Leef)')
-$specialItems=@('()(Shadow Sword)','()(Brave Leef)')
-$patterns+=$specialItems
-$patternsFile=$configDir + "/" + "nft_name_patterns.json"
-if(-not (Test-Path -Path $patternsFile)){$patterns | ConvertTo-Json | Out-File -FilePath $patternsfile -Encoding UTF8}
-$patterns=Get-Content -Path $patternsFile -Encoding UTF8 | ConvertFrom-Json
-
-#THESE ARE ONLY EXAMPLES!!! Configure in nft_type_patterns.json
-
-$h_typePatterns=@{
-    'Armor'  = @{
-        patterns = @('.* Armor')
-    }
-    'Shield' = @{
-        patterns = @('.* Shield')
-    }
-    'Herb'   = @{
-        patterns = @('Brave Seedling','Brave Leef')
-    }
-    'Familiar' = @{
-        patterns = @('snail','Chia Slime')
-    }
-    'Weapon' = @{
-        patterns = @('Chiania Long Arm Blade','Catapult','Halberd','Khopesh','Knife','Sword','.* Axe','Axe',
-                     '.* Bow','Bow','Stone','.* Club','Club','Enhanced Tree Root')
-    }
-    'Ring' = @{
-        patterns = @('.* Ring','Ring')
-    }
-    'Mount'  = @{
-        patterns = @('Deer')
-    }
-    'Collectable' = @{
-        patterns = @('.* Monster Nuclei','Canned Slime')
-    }
-}
-
-$typePatternsFile = $configDir + "/" + "nft_type_patterns.json"
-if(-not (Test-Path $typePatternsFile)){$h_typePatterns | ConvertTo-Json -Depth 5 | Out-File -Path $typePatternsFile -Encoding UTF8}
-$h_typePatterns=Get-Content -Path $typePatternsFile -Encoding UTF8 | ConvertFrom-Json -Depth 5
-
-
-
-
-#Objects for MongoDB
-#MongoDB Connection
-$Server=$h_config.mongodb.server
-$DatabaseName=$h_config.mongodb.database
-$User=$h_config.mongodb.user
-$Password=$h_config.mongodb.password
-
-$connectionString="mongodb+srv://" + $User + ":" + $Password + "@" + $Server + "/" + $DatabaseName + "?retryWrites=true&w=majority"
-
-Connect-Mdbc -ConnectionString $connectionString -DatabaseName $DatabaseName -CollectionName "items"
-
-
+$i=1
 #Powershell Objekte in Datenbank schreiben
 $totalData | ForEach-Object {
     $item=$_
     $match=$null
     $itemName=$item.meta_info.name.Trim()
+
+
+    Write-Progress -Id 1 -Activity "Getting Mintgarden Data and Writing to MongoDB" -Status ("NFT $i of " + $totalData.Count) -PercentComplete ($i/$totalData.Count*100)
+
+    #TODO Run Get-ChiaNftInfo ONLY on FULLNODE!!
+    #$nftInfo=Get-ChiaNftInfo -coin_ids "973d0f1d673dc90683576fb8722917acf401890b1eb2a7f54b6b85ee6f2ff1bd" 
+    #TODO add NFT owner (DID-ID)
+    #Mintgarden.io Search
+    $mtNftInfo=Invoke-RestMethod -Uri ("https://api.mintgarden.io/search?query=" + $item.nft_id)
 
     ForEach($pattern in $patterns){
         if($item.meta_info.name.Trim() -match $pattern){
@@ -228,7 +242,14 @@ $totalData | ForEach-Object {
     $stats=@{}
     
 
-    #TODO add NFT owner (DID-ID)
+    
+
+    if($item.owner_hash -eq "000000000000000000000000000000000000000000000000000000000000dead"){
+        $itemStatus="burned"
+    }
+    else{
+        $itemStatus="active"
+    }
 
     #Die Encoded und decoded Dinger muss ich mit Cache machen
     $h_properties=[ordered]@{
@@ -236,36 +257,50 @@ $totalData | ForEach-Object {
         Nr = $item.meta_info.nr
         ItemCategory = $itemCategory
         ItemType = $itemType
+        ItemStatus = $itemStatus
         Prefix = $prefix
         Collection = $item.meta_info.collection.name.Trim()
         nft_id = $item.nft_id.Trim()
-        #nft_id_decoded = (cdv decode $item.nft_id.Trim())
+        #brauchen wir nicht. Kostet nur Performance
+        #nft_id_decoded = ConvertTo-DecodedChiaAddress -string $item.nft_id.Trim() -prefix "nft"
         collection_id = $item.synthetic_id.Trim()
         item_uri = $item.nft_info.data_uris[0]
         attributes = $item.meta_info.attributes
         stats = $stats
     }
 
+    <#
+    #Minter and Owner from SpaceScan
     if($null -ne $item.minter_did){
         $h_properties.minter_did = $item.minter_did.Trim()
-        #$h_properties.minter_did_encoded = (cdv encode --prefix "did:chia:" $item.minter_did.Trim())
+        $h_properties.minter_did_encoded = ConvertTo-EncodedChiaAddress -prefix "did" -string $item.minter_did.Trim()
         $h_properties.minter_hash = $item.minter_hash.Trim()
     }
 
     if($null -ne $item.owner_did){
         $h_properties.owner_did= $item.owner_did.Trim()
-        #$h_properties.owner_did_encoded = (cdv encode --prefix "did:chia:" $item.owner_did.Trim())
+        $h_properties.owner_did_encoded = ConvertTo-EncodedChiaAddress -prefix "did" -string $item.owner_did.Trim()
         $h_properties.owner_hash = $item.owner_hash.Trim()
     }
+    #>
 
-    [PSCustomObject]$h_properties
+    #Minter and Owner from Mintgarden
+    $h_properties.minter_did = $mtNftInfo.nfts.creator_id
+    $h_properties.minter_did_encoded = $mtNftInfo.nfts.creator_encoded_id
+    $h_properties.minter_name = $mtNftInfo.nfts.creator_name
+    
+    $h_properties.owner_did = $mtNftInfo.nfts.owner_id
+    $h_properties.owner_did_encoded = $mtNftInfo.nfts.owner_encoded_id
 
-} | ForEach-Object {
-    $obj=$_
+    $h_properties.owner_address_encoded = $mtNftInfo.nfts.owner_address_encoded_id
+
+
+    $obj=[PSCustomObject]$h_properties
+
     #Set New Values for NFTs (if any)
     $mData=$null
     $mData=Get-MdbcData -Filter @{
-            "nft_id" = $obj.nft_id
+            "nft_id" = $h_properties.nft_id
         }
     if($null -eq $mData){
         #Wenn Datensatz noch nicht existiert dann neu anlegen
@@ -276,20 +311,28 @@ $totalData | ForEach-Object {
         $obj
     }
     else{
+        $newData=[ordered]@{}
+        #Write mdbcDictionary in Simple Hashtable
+        ForEach($prop in $mData.GetEnumerator()){$newData.($prop.Key)=($prop.Value)}
         #Wenn Datensatz schon existiert dann nur bestimmte Properties anpassen die sich ändern können (z.B. evtl Owner)
-        $mData.ItemCategory = $obj.ItemCategory
-        $mData.ItemType = $obj.ItemType
-        $mData.Prefix = $obj.Prefix
+        ForEach($prop in @("ItemCategory","ItemType","Prefix","minter_did","minter_did_encoded","minter_name"
+            "owner_did","owner_did_encoded","owner_address_encoded")){
+            $newData.$prop=$obj.$prop
+        }
+        $newObj=[PSCustomObject]$newData
+
+
         Set-MdbcData -Filter @{
             "nft_id" = $obj.nft_id
-        } -Set $mData
+        } -Set $newObj
         #Ausgabe
-        $mData
+        $newObj
     }
+
+    $i++
 }
 
-
-
+Write-Progress -Id 1 -Activity "Getting Mintgarden Data and Writing to MongoDB" -Status ("NFT $i of " + $totalData.Count) -Completed
 
 
 
