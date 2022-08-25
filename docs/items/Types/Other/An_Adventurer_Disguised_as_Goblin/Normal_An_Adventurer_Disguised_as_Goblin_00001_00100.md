@@ -1,7 +1,7 @@
 ---
 title: An Adventurer Disguised as Goblin - Normal (1 - 100)
 description: An Adventurer Disguised as Goblin Items in Chia Inventory
-date: 2022-08-19
+date: 2022-08-25
 tags:
     - NFT
     - Items
@@ -441,12 +441,6 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://ddzghnhucawpbqqzrztavtmkk3hqtaeulwkt4jdpah3vandjwy.arweave.net/GPJjt_PQQLPDCGY5mCs2KVs8JgJRdlT4kbwH3UDRptg"><br/>
-<div><strong>Name:</strong> An Adventurer Disguised as Goblin 63</div>
-<div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://lgcta3iqf46cpalmpxfteavdgnj6o6vgsc4gzav3hvx7gqzlcemq.arweave.net/WYUwbRAvPCeBbH3LMgKjM1PneqaQuGyCuz1v80MrERk"><br/>
 <div><strong>Name:</strong> An Adventurer Disguised as Goblin 64</div>
 <div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
@@ -599,6 +593,12 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://yewg67vkyzy7dyoaywjyotpfbdxvvsvl3a33bevbzrfbw2mdle.arweave.net/wSxvfqrGcfHhwMWTh03lCO9ayqvYN7-CSocxKG2mDWc"><br/>
 <div><strong>Name:</strong> An Adventurer Disguised as Goblin 84</div>
+<div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://qw5ow7mxno73rlzztmzwereydoveulmddknjivv26quluqrl42ua.arweave.net/hbrrfZdrv7ivOZszYkSYG6pKLYMampRWuvQoukIr5qg"><br/>
+<div><strong>Name:</strong> An Adventurer Disguised as Goblin 85</div>
 <div><strong>Item Type:</strong> An Adventurer Disguised as Goblin</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>

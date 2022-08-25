@@ -1,7 +1,7 @@
 ---
 title: Category - Shield
 description: Item Types in Chia Inventory
-date: 2022-08-19
+date: 2022-08-25
 tags:
     - NFT
     - Items

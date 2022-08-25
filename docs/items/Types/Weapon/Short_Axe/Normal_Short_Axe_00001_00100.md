@@ -1,7 +1,7 @@
 ---
 title: Short Axe - Normal (1 - 100)
 description: Short Axe Items in Chia Inventory
-date: 2022-08-19
+date: 2022-08-25
 tags:
     - NFT
     - Items
@@ -9,7 +9,7 @@ tags:
 
 # Short Axe - Normal (1 - 100)
 <div class="item_thumbnail">
-<img loading="lazy" src="https://vturlmxazoxjvcxvob3syr23busmfgvahef4qdtzk4kvpuambafq.arweave.net/rOkVsuDLrpqK9XB3LEdbDSTCmqA5C8gOeVcVV9AMCAs"><br/>
+<img loading="lazy" src="https://nlw33pw4fgldbxdwsayln63luxi5pu3c7kdscrg2nmjbodzx.arweave.net/au29v_twpljDcdpAwtvtrpdHX0_2L6hyFE2msSFw83E"><br/>
 <div><strong>Name:</strong> Short Axe 01</div>
 <div><strong>Item Type:</strong> Short Axe</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
@@ -17,7 +17,7 @@ tags:
 <div><strong>Bash:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://nlw33pw4fgldbxdwsayln63luxi5pu3c7kdscrg2nmjbodzx.arweave.net/au29v_twpljDcdpAwtvtrpdHX0_2L6hyFE2msSFw83E"><br/>
+<img loading="lazy" src="https://vturlmxazoxjvcxvob3syr23busmfgvahef4qdtzk4kvpuambafq.arweave.net/rOkVsuDLrpqK9XB3LEdbDSTCmqA5C8gOeVcVV9AMCAs"><br/>
 <div><strong>Name:</strong> Short Axe 01</div>
 <div><strong>Item Type:</strong> Short Axe</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>

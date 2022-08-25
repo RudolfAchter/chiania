@@ -1,7 +1,7 @@
 ---
 title: Chia Slime - Normal (201 - 300)
 description: Chia Slime Items in Chia Inventory
-date: 2022-08-19
+date: 2022-08-25
 tags:
     - NFT
     - Items
@@ -1213,6 +1213,26 @@ tags:
 <div><strong>Stickyness:</strong> 9</div>
 </div>
 <div class="item_thumbnail">
+<img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/261.png"><br/>
+<div><strong>Name:</strong> Chia Slime #261</div>
+<div><strong>Item Type:</strong> Chia Slime</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
+<div><strong>Volume:</strong> 1</div>
+<div><strong>Drop Set:</strong> Rock</div>
+<div><strong>Narrative Block:</strong> Life</div>
+<div><strong>Mood:</strong> Strong-Left</div>
+<div><strong>Acs1:</strong> Basic Shine</div>
+<div><strong>Acs3:</strong> None</div>
+<div><strong>Color:</strong> Rock-RockyMuddy-725930</div>
+<div><strong>Acs2:</strong> GolemSpikes</div>
+<div><strong>Floor:</strong> Mountains</div>
+<div><strong>Sky:</strong> Stary Night</div>
+<div><strong>Hidden Power:</strong> None</div>
+<div><strong>Other Info:</strong> None</div>
+<div><strong>Weight:</strong> 20</div>
+<div><strong>Stickyness:</strong> 70</div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/262.png"><br/>
 <div><strong>Name:</strong> Chia Slime #262</div>
 <div><strong>Item Type:</strong> Chia Slime</div>
@@ -1991,25 +2011,5 @@ tags:
 <div><strong>Other Info:</strong> None</div>
 <div><strong>Weight:</strong> 50</div>
 <div><strong>Stickyness:</strong> 22</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/rock/build/images/301.png"><br/>
-<div><strong>Name:</strong> Chia Slime #301</div>
-<div><strong>Item Type:</strong> Chia Slime</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
-<div><strong>Volume:</strong> 1</div>
-<div><strong>Drop Set:</strong> Rock</div>
-<div><strong>Narrative Block:</strong> Life</div>
-<div><strong>Mood:</strong> Mad-Left</div>
-<div><strong>Acs1:</strong> More Shine</div>
-<div><strong>Acs3:</strong> None</div>
-<div><strong>Color:</strong> Rock-GolemAdam-0c2d04-</div>
-<div><strong>Acs2:</strong> None</div>
-<div><strong>Floor:</strong> Cave2-SW</div>
-<div><strong>Sky:</strong> Stary Night</div>
-<div><strong>Hidden Power:</strong> Defensive Aura</div>
-<div><strong>Other Info:</strong> None</div>
-<div><strong>Weight:</strong> 10</div>
-<div><strong>Stickyness:</strong> 40</div>
 </div>
 

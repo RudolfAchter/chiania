@@ -1,7 +1,7 @@
 ---
 title: Halberd - Normal (1 - 100)
 description: Halberd Items in Chia Inventory
-date: 2022-08-19
+date: 2022-08-25
 tags:
     - NFT
     - Items
