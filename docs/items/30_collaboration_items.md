@@ -49,11 +49,13 @@ DO NOT SPEND MONEY ON NFT JUST TO WIN
 - 🟡 Yellow Slime: +1 CHA -1 WIS
 - 🟣 Purple Slime: +1 WIS -1 CHA
 - ⚫ Rock Slime: +2 CON -1 DEX -1 WIS
+- 🌊 Water Slime: +2INT -1 CON -1 STR
 
 - 🔪 Spiked: 20% to add +1 pierce 
 - 🛡️ Power Defensive Aura: 20% to add +1 defense
 - 🧑‍⚕️ Power Heal: 20% to add 2-4 HP
 - 👓 Power Identify: 20% to add 2-4 INT
+- 🚿 Power Slip Stream: 20% to add +1 bash
 
 #### 2) SNAILS ( Twitter handle: @ snailnft1 )
 
