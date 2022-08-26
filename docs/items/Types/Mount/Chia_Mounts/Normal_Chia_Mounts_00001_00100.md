@@ -1,7 +1,7 @@
 ---
 title: Chia Mounts - Normal (1 - 100)
 description: Chia Mounts Items in Chia Inventory
-date: 2022-08-25
+date: 2022-08-26
 tags:
     - NFT
     - Items
@@ -1185,27 +1185,27 @@ tags:
 <div><strong>Status:</strong> legendry</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://oz47pe6pv62ld72fbyukdg56qvwau3czdvogtkkcdp4v4jrujqwq.arweave.net/dnn3k8-vtLH_RQ4ooZu-hWwKbFkdXGmpQhv5XiY0TC0"><br/>
-<div><strong>Name:</strong> Chia Mounts #111</div>
+<img loading="lazy" src="https://oqlnchst5njf577clxsjmww7hjp7an7y5cmw2halcvzzdi635zva.arweave.net/dBbRHlPrUl7_4l3kllrfOl_wN_jomW0cCxVzkaPb7mo"><br/>
+<div><strong>Name:</strong> Chia Mounts #101</div>
 <div><strong>Item Type:</strong> Chia Mounts</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ykj00rq56xs235zumwcwa3w7j927cqfgqatvp795q4wav5fs5hrqu668my">Chia Mounts</a></div>
-<div><strong>Background:</strong> forest</div>
+<div><strong>Background:</strong> swamp</div>
 <div><strong>Species:</strong> warsheep</div>
-<div><strong>Skin Color:</strong> vibrant pink</div>
-<div><strong>Accessories:</strong> topaz</div>
-<div><strong>Gender:</strong> male</div>
-<div><strong>Status:</strong> rare</div>
+<div><strong>Skin Color:</strong> rose red</div>
+<div><strong>Accessories:</strong> naru's blessing</div>
+<div><strong>Gender:</strong> female</div>
+<div><strong>Status:</strong> epic</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://jlmby4heqdajqbzkdirwkor6aa3ggx5ds6lvmhmubl5qvwun425a.arweave.net/StgccOSAwJgHKhojZTo-ADZjX6OXl1YdlAr7CtqN5ro"><br/>
-<div><strong>Name:</strong> Chia Mounts #112</div>
+<img loading="lazy" src="https://57hctjf4hochlnwhoarxhcyvif4smadfiysgives5yh32mulhl4q.arweave.net/784ppLw7hHW2x3Ajc4sVQXkmAGVGJGRUku4PvTKLOvk"><br/>
+<div><strong>Name:</strong> Chia Mounts #102</div>
 <div><strong>Item Type:</strong> Chia Mounts</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ykj00rq56xs235zumwcwa3w7j927cqfgqatvp795q4wav5fs5hrqu668my">Chia Mounts</a></div>
-<div><strong>Background:</strong> forest</div>
+<div><strong>Background:</strong> swamp</div>
 <div><strong>Species:</strong> warsheep</div>
-<div><strong>Skin Color:</strong> smart white</div>
-<div><strong>Accessories:</strong> topaz</div>
-<div><strong>Gender:</strong> male</div>
-<div><strong>Status:</strong> rare</div>
+<div><strong>Skin Color:</strong> dream purple</div>
+<div><strong>Accessories:</strong> naru's blessing</div>
+<div><strong>Gender:</strong> female</div>
+<div><strong>Status:</strong> epic</div>
 </div>
 

@@ -1,7 +1,7 @@
 ---
 title: Enhanced Tree Root - Normal (1 - 100)
 description: Enhanced Tree Root Items in Chia Inventory
-date: 2022-08-25
+date: 2022-08-26
 tags:
     - NFT
     - Items
@@ -632,17 +632,17 @@ tags:
 <div><strong>Pierce:</strong> 1</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://yidqpkt66sxnzbvgcdrrgz47g4w27xcv4yvzskfheayxkgyuze.arweave.net/wgcHqn70rtyGphDjE2efNy2v3FXmK5kopyAx-dRsUyc"><br/>
-<div><strong>Name:</strong> Enhanced Tree Root 90</div>
-<div><strong>Item Type:</strong> Enhanced Tree Root</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://m4yi4czcbio6vlzsx2esqahfmg555jkwgepisnsc6653xefqqpaq.arweave.net/ZzCOCyIKHeqvMr6JKADlYbvepVYxHok2Qve7u5Cwg8E"><br/>
 <div><strong>Name:</strong> Enhanced Tree Root 90</div>
 <div><strong>Item Type:</strong> Enhanced Tree Root</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 <div><strong>Pierce:</strong> 1</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://yidqpkt66sxnzbvgcdrrgz47g4w27xcv4yvzskfheayxkgyuze.arweave.net/wgcHqn70rtyGphDjE2efNy2v3FXmK5kopyAx-dRsUyc"><br/>
+<div><strong>Name:</strong> Enhanced Tree Root 90</div>
+<div><strong>Item Type:</strong> Enhanced Tree Root</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://pargi2sn5rcvaeam43arlpups6jnehbivk5mxwhgxt2juqqe.arweave.net/eCJkak3sRVAQDObBFb6Pl5LSHCiqusv_Y5_rz0_mkIE"><br/>

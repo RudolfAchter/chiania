@@ -1,7 +1,7 @@
 ---
 title: Small Round Shield - Normal (1 - 100)
 description: Small Round Shield Items in Chia Inventory
-date: 2022-08-25
+date: 2022-08-26
 tags:
     - NFT
     - Items
@@ -227,12 +227,6 @@ tags:
 <div class="item_thumbnail">
 <img loading="lazy" src="https://ty2med6noem5b4ei2k3crtmswf3ysfu4cy4jp6qlyrpt3xdv.arweave.net/njT_CD81xGdDwiNK2KM2Ss-XeJFpwWOJf6C8RfPdx1M"><br/>
 <div><strong>Name:</strong> Small Round Shield 37</div>
-<div><strong>Item Type:</strong> Small Round Shield</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://lqulvyjcu6um5gdotdzwf5ebgteyn4hkhjbdimtf6a4qmyva.arweave.net/XCi64SKnqM6YbpjzYvSBN_MmG8Oo6QjQyZfA5Bm_Kgs"><br/>
-<div><strong>Name:</strong> Small Round Shield 38</div>
 <div><strong>Item Type:</strong> Small Round Shield</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
