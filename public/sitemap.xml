@@ -151,27 +151,42 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Normal_Chia_Slime_00001_00100/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Alpha_Chia_Slime_00001_00100/</loc>
          <lastmod>2022-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Normal_Chia_Slime_00101_00200/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Alpha_Chia_Slime_00101_00200/</loc>
          <lastmod>2022-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Normal_Chia_Slime_00201_00300/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Beta_Chia_Slime_00001_00100/</loc>
          <lastmod>2022-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Normal_Chia_Slime_00301_00400/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Beta_Chia_Slime_00101_00200/</loc>
          <lastmod>2022-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Normal_Chia_Slime_00401_00500/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Rock_Chia_Slime_00001_00100/</loc>
+         <lastmod>2022-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Rock_Chia_Slime_00101_00200/</loc>
+         <lastmod>2022-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Rock_Chia_Slime_00201_00300/</loc>
+         <lastmod>2022-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Water_Chia_Slime_00001_00100/</loc>
          <lastmod>2022-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -256,17 +271,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Deer/Normal_Deer_00001_00100/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Deer/Majestic_Deer_00001_00100/</loc>
          <lastmod>2022-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Deer/Normal_Deer_00101_00200/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Deer/Medium_Deer_00001_00100/</loc>
          <lastmod>2022-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Deer/Normal_Deer_00201_00300/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Deer/Medium_Deer_00101_00200/</loc>
+         <lastmod>2022-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Deer/Small_Deer_00001_00100/</loc>
+         <lastmod>2022-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Deer/Small_Deer_00101_00200/</loc>
          <lastmod>2022-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>

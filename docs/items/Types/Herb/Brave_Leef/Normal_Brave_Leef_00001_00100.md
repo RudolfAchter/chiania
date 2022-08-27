@@ -9,6 +9,13 @@ tags:
 
 # Brave Leef - Normal (1 - 100)
 <div class="item_thumbnail">
+<img loading="lazy" src="https://bb5j266fdio4m56qtqbsykbul6zhizbtlvo4eektcbjmmpg5zy.arweave.net/CHqde8UaHcZ30JwDL_Cg0X7J0ZDNdXcIRUxBSxjzdzs"><br/>
+<div><strong>Name:</strong> Brave Leef</div>
+<div><strong>Item Type:</strong> Brave Leef</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
+<div><strong>number:</strong> 11/10000</div>
+</div>
+<div class="item_thumbnail">
 <img loading="lazy" src="https://dziypifbmpuihtzq664rdbhdmdvsrqwmjokifndurnieuq5gy3kq.arweave.net/HlGHoKFj6IPPMPe5EYTjYOsowsxLlIK0dItQSkOmxtU"><br/>
 <div><strong>Name:</strong> Brave Leef</div>
 <div><strong>Item Type:</strong> Brave Leef</div>
@@ -37,18 +44,18 @@ tags:
 <div><strong>number:</strong> 10/10000</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://5h66agvkcb7rmg2fnezisoflcz5gg3wghqihrggf4m4rqqvx.arweave.net/6f3gGqoQfxYbRWkyiTirFnpjbsY_8-EHiYxeM5GEK3k"><br/>
-<div><strong>Name:</strong> Brave Leef</div>
-<div><strong>Item Type:</strong> Brave Leef</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
-<div><strong>number:</strong> 7/10000</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://t4cg3l3uagnvnfuf5waioltbxcuyd3uz5jwwfgge6dv5xwlg3m.arweave.net/nwRtr3QB-m1aWhe2Ahy5huKmB7pnqbWKYxPDr29lm20"><br/>
 <div><strong>Name:</strong> Brave Leef</div>
 <div><strong>Item Type:</strong> Brave Leef</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
 <div><strong>number:</strong> 3/10000</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://5h66agvkcb7rmg2fnezisoflcz5gg3wghqihrggf4m4rqqvx.arweave.net/6f3gGqoQfxYbRWkyiTirFnpjbsY_8-EHiYxeM5GEK3k"><br/>
+<div><strong>Name:</strong> Brave Leef</div>
+<div><strong>Item Type:</strong> Brave Leef</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
+<div><strong>number:</strong> 7/10000</div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://bd5jwsfm5atzwssne2l46umkz3y6m5u6a6hp6tuuvsxftstx.arweave.net/CPqbSKzoJ_5tKTSaXz1GKzvHmdp4Hjv_9OlKyuWcp34"><br/>
@@ -63,13 +70,6 @@ tags:
 <div><strong>Item Type:</strong> Brave Leef</div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
 <div><strong>number:</strong> 8/10000</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bb5j266fdio4m56qtqbsykbul6zhizbtlvo4eektcbjmmpg5zy.arweave.net/CHqde8UaHcZ30JwDL_Cg0X7J0ZDNdXcIRUxBSxjzdzs"><br/>
-<div><strong>Name:</strong> Brave Leef</div>
-<div><strong>Item Type:</strong> Brave Leef</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Leef</a></div>
-<div><strong>number:</strong> 11/10000</div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://hi2onh5ifj3mcmn5kevyboyfu5wnkgjzgbmxdfeorfafvcyp2kmq.arweave.net/OjTmn6gqdsExvVErgLsFp2zVGTkwWXGUjolAWosP0pk"><br/>
