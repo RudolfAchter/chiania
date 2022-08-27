@@ -9,8 +9,8 @@ tags:
 
 # Category - Familiar
 <div class="item_type_thumbnail">
-<a href="../../Types/Familiar/Chia_Slime/Normal_Chia_Slime_00001_00100/"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/water/build/images/456.png"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Familiar/Chia_Slime/Normal_Chia_Slime_00001_00100/">Chia Slime</a></div>
+<a href="../../Types/Familiar/Chia_Slime/Water_Chia_Slime_00001_00100/"><img loading="lazy" src="https://chiaslimes.s3.us-west-1.amazonaws.com/water/build/images/456.png"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Familiar/Chia_Slime/Water_Chia_Slime_00001_00100/">Chia Slime</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2">Chia Slimes</a></div>
 </div>
 <div class="item_type_thumbnail">
