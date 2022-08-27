@@ -158,6 +158,11 @@ $typePatternsFile = $configDir + "/" + "nft_type_patterns.json"
 if(-not (Test-Path $typePatternsFile)){$h_typePatterns | ConvertTo-Json -Depth 5 | Out-File -Path $typePatternsFile -Encoding UTF8}
 $h_typePatterns=Get-Content -Path $typePatternsFile -Encoding UTF8 | ConvertFrom-Json -Depth 5
 
+#traitPatterns by Collection
+$h_traitPrefixGroups=@{
+    "Chia Mounts"="Species"
+}
+
 
 $itemList=[ordered]@{}
 
@@ -177,6 +182,11 @@ $totalData | ForEach-Object {
                 #when Pattern has matched abort here
                 break
             }
+        }
+
+        #Prefix by Trait
+        if($null -ne $h_traitPrefixGroups.($item.meta_info.collection.name)){
+            $prefix=($item.meta_info.attributes | Where-Object{$_.trait_type -eq $h_traitPrefixGroups.($item.meta_info.collection.name)}).value
         }
 
         if($itemType.GetType().Name -ne "String"){
