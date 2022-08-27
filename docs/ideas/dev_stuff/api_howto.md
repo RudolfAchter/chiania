@@ -30,6 +30,12 @@ https://api.mintgarden.io/collections/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grt
 
 ### Get a single NFT
 
+#### Direct
+
+TODO: Get NFT directly by ID. I just Know Search Query for now. Maybe there is a more direct Faster Method
+
+#### By Search
+
 Get URL like this.
 
 Query Method is **a lot slower** then method with collections from above. It seems like query does a table scan without index while when you know the correct method an query for specific id (collection in upper example) it is a LOT faster. Seems like you then have an efficient database query. So what i need for single NFT is how to query mintgarden for specific NFT ID.

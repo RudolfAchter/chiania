@@ -134,6 +134,32 @@ Connect-Mdbc -ConnectionString $connectionString -DatabaseName $DatabaseName -Co
 # PREPARE END
 #################################################
 
+# Get Data from mintgarden
+$i=0
+
+$h_mgData=@{}
+
+$a_collections | ForEach-Object {
+    $coll=$_
+    Write-Progress -Id 1 -Activity "Getting Mintgarden Data" -Status ("Collection " + $i + " of " + $a_collections.Count + " " + $coll.name) -PercentComplete ($i / $a_collections.Count * 100)
+    $collData=Invoke-RestMethod -Uri ("https://api.mintgarden.io/collections/" + $coll.collection_id + "/nfts?size=100")
+    $j=0
+    do{
+        Write-Progress -Id 1 -Activity "Getting Mintgarden Data" -Status ("Collection " + $i + " of " + $a_collections.Count + " " + $coll.name + " " + [string]($j*100) + " items.") -PercentComplete ($i / $a_collections.Count * 100)
+        $pageStr=[System.Web.HttpUtility]::UrlEncode($collData.next)
+        $collData=Invoke-RestMethod -Uri ("https://api.mintgarden.io/collections/" + $coll.collection_id + "/nfts?size=100&page="+$pageStr)
+        
+        ForEach($item in $collData.items){
+            $h_mgData.Add($item.encoded_id,$item)
+        }
+        
+        $j++
+    }while($collData.next -ne $collData.page)
+    $i++
+}
+Write-Progress -Id 1 -Activity "Getting Mintgarden Data" -Status ("Collection " + $i + " of " + $a_collections.Count) -Completed
+
+# Get Data from Spacescan
 
 $k=0
 $totalData=$a_collections | ForEach-Object {
@@ -199,13 +225,13 @@ $totalData | ForEach-Object {
     $itemName=$item.meta_info.name.Trim()
 
 
-    Write-Progress -Id 1 -Activity "Getting Mintgarden Data and Writing to MongoDB" -Status ("NFT $i of " + $totalData.Count) -PercentComplete ($i/$totalData.Count*100)
+    Write-Progress -Id 1 -Activity "Combining Data and Writing to MongoDB" -Status ("NFT $i of " + $totalData.Count) -PercentComplete ($i/$totalData.Count*100)
 
     #TODO Run Get-ChiaNftInfo ONLY on FULLNODE!!
     #$nftInfo=Get-ChiaNftInfo -coin_ids "973d0f1d673dc90683576fb8722917acf401890b1eb2a7f54b6b85ee6f2ff1bd" 
     #TODO add NFT owner (DID-ID)
     #Mintgarden.io Search
-    $mtNftInfo=Invoke-RestMethod -Uri ("https://api.mintgarden.io/search?query=" + $item.nft_id)
+    #$mtNftInfo=Invoke-RestMethod -Uri ("https://api.mintgarden.io/search?query=" + $item.nft_id)
 
     ForEach($pattern in $patterns){
         if($item.meta_info.name.Trim() -match $pattern){
@@ -236,20 +262,19 @@ $totalData | ForEach-Object {
     if($itemCategory -eq ""){
         $itemCategory="Other"
     }
-    
 
     if($prefix -eq ""){$prefix="Normal"}
     $stats=@{}
-    
 
-    
-
+    #TODO get owner_hash from MintgardenData
     if($item.owner_hash -eq "000000000000000000000000000000000000000000000000000000000000dead"){
         $itemStatus="burned"
     }
     else{
         $itemStatus="active"
     }
+
+    $nftId=$item.nft_id.Trim()
 
     #Die Encoded und decoded Dinger muss ich mit Cache machen
     $h_properties=[ordered]@{
@@ -260,13 +285,21 @@ $totalData | ForEach-Object {
         ItemStatus = $itemStatus
         Prefix = $prefix
         Collection = $item.meta_info.collection.name.Trim()
-        nft_id = $item.nft_id.Trim()
+        nft_id = $nftId
         #brauchen wir nicht. Kostet nur Performance
         #nft_id_decoded = ConvertTo-DecodedChiaAddress -string $item.nft_id.Trim() -prefix "nft"
         collection_id = $item.synthetic_id.Trim()
         item_uri = $item.nft_info.data_uris[0]
         attributes = $item.meta_info.attributes
         stats = $stats
+
+        #Owner Info from Mintgarden
+        owner_address_encoded_id = $h_mgData.$nftId.owner_address_encoded_id
+        owner_encoded_id = $h_mgData.$nftId.owner_encoded_id
+        creator_encoded_id = $h_mgData.$nftId.creator_encoded_id
+        creator_address_encoded_id = $h_mgData.$nftId.creator_address_encoded_id
+        creator_name=$h_mgData.$nftId.creator_name
+        mintgarden_creator_verification_state=$h_mgData.$nftId.creator_verification_state
     }
 
     <#
@@ -284,16 +317,6 @@ $totalData | ForEach-Object {
     }
     #>
 
-    #Minter and Owner from Mintgarden
-    $h_properties.minter_did = $mtNftInfo.nfts.creator_id
-    $h_properties.minter_did_encoded = $mtNftInfo.nfts.creator_encoded_id
-    $h_properties.minter_name = $mtNftInfo.nfts.creator_name
-    
-    $h_properties.owner_did = $mtNftInfo.nfts.owner_id
-    $h_properties.owner_did_encoded = $mtNftInfo.nfts.owner_encoded_id
-
-    $h_properties.owner_address_encoded = $mtNftInfo.nfts.owner_address_encoded_id
-
 
     $obj=[PSCustomObject]$h_properties
 
@@ -308,15 +331,21 @@ $totalData | ForEach-Object {
             "nft_id" = $obj.nft_id
         } -Set $obj -Add
         #Ausgabe
-        $obj
+        #$obj
     }
     else{
         $newData=[ordered]@{}
         #Write mdbcDictionary in Simple Hashtable
         ForEach($prop in $mData.GetEnumerator()){$newData.($prop.Key)=($prop.Value)}
+
+        #Workaround Korrektur
+        ForEach($prop in @("minter_did","minter_hash","owner_did","owner_hash")){$newData.Remove($prop)}
+
         #Wenn Datensatz schon existiert dann nur bestimmte Properties anpassen die sich ändern können (z.B. evtl Owner)
-        ForEach($prop in @("ItemCategory","ItemType","Prefix","minter_did","minter_did_encoded","minter_name"
-            "owner_did","owner_did_encoded","owner_address_encoded")){
+        ForEach($prop in @("ItemCategory","ItemType","Prefix","ItemStatus","item_uri"
+            "owner_address_encoded_id","owner_encoded_id","creator_encoded_id","creator_encoded_id","creator_address_encoded_id",
+            "creator_name","mintgarden_creator_verification_state"
+        )){
             $newData.$prop=$obj.$prop
         }
         $newObj=[PSCustomObject]$newData
@@ -326,13 +355,13 @@ $totalData | ForEach-Object {
             "nft_id" = $obj.nft_id
         } -Set $newObj
         #Ausgabe
-        $newObj
+        #$newObj
     }
 
     $i++
 }
 
-Write-Progress -Id 1 -Activity "Getting Mintgarden Data and Writing to MongoDB" -Status ("NFT $i of " + $totalData.Count) -Completed
+Write-Progress -Id 1 -Activity "Combining Data and Writing to MongoDB" -Status ("NFT $i of " + $totalData.Count) -Completed
 
 
 
