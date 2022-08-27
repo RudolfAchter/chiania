@@ -241,12 +241,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Chia_Mounts/Normal_Chia_Mounts_00001_00100/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Chia_Mounts/dragon_Chia_Mounts_00001_00100/</loc>
          <lastmod>2022-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Chia_Mounts/Normal_Chia_Mounts_00101_00200/</loc>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Chia_Mounts/nightsaber_Chia_Mounts_00001_00100/</loc>
+         <lastmod>2022-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Mount/Chia_Mounts/warsheep_Chia_Mounts_00001_00100/</loc>
          <lastmod>2022-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
