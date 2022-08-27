@@ -198,7 +198,7 @@ $totalData | ForEach-Object {
         #Prefix by Trait
         if($null -ne $h_traitPrefixGroups.($item.meta_info.collection.name)){
             $traitValue=($item.meta_info.attributes | Where-Object{$_.trait_type -eq $h_traitPrefixGroups.($item.meta_info.collection.name).trait}).value
-            $match=Select-String -InputObject $traitValue -Pattern ($item.meta_info.collection.name).pattern
+            $match=Select-String -InputObject $traitValue -Pattern $h_traitPrefixGroups.($item.meta_info.collection.name).pattern
             $prefix=$match.Matches[0].Groups[1].Value.Trim()
         }
 
