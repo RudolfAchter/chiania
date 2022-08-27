@@ -160,7 +160,14 @@ $h_typePatterns=Get-Content -Path $typePatternsFile -Encoding UTF8 | ConvertFrom
 
 #traitPatterns by Collection
 $h_traitPrefixGroups=@{
-    "Chia Mounts"="Species"
+    "Chia Mounts"=@{
+        trait = "Species"
+        pattern = "(.*)"
+    }
+    "Deer"=@{
+        trait = "Antlers"
+        pattern = "(^[A-Za-z0-9]+)"
+    }
 }
 
 
@@ -186,7 +193,9 @@ $totalData | ForEach-Object {
 
         #Prefix by Trait
         if($null -ne $h_traitPrefixGroups.($item.meta_info.collection.name)){
-            $prefix=($item.meta_info.attributes | Where-Object{$_.trait_type -eq $h_traitPrefixGroups.($item.meta_info.collection.name)}).value
+            $traitValue=($item.meta_info.attributes | Where-Object{$_.trait_type -eq $h_traitPrefixGroups.($item.meta_info.collection.name).trait}).value
+            $match=Select-String -InputObject $traitValue -Pattern ($item.meta_info.collection.name).pattern
+            $prefix=$match.Matches[0].Groups[1].Value.Trim()
         }
 
         if($itemType.GetType().Name -ne "String"){
