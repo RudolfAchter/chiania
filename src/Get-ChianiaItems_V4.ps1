@@ -168,6 +168,10 @@ $h_traitPrefixGroups=@{
         trait = "Antlers"
         pattern = "(^[A-Za-z0-9]+)"
     }
+    "Chia Slime"=@{
+        trait = "Drop Set"
+        pattern = "(^[A-Za-z0-9]+)"
+    }
 }
 
 
