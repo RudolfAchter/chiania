@@ -20,7 +20,7 @@ tags:
 
 Players can also sell NFTs to allow newbies to join the game.
 
-So, this is the concept, an endless Role Play Game with NFTs as items for your character and the world. Fun and story are the core values of Chia Inventory.
+So, this is the concept, an endless Role Play Game with NFTs as items for your character and the world. Fun and [Story](story/01_monsters_appear.md) are the core values of Chia Inventory.
 
 ## Getting started
 

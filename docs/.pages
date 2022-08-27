@@ -2,7 +2,8 @@ nav:
   - How to Play (start here):
     - README.md
     - how_to
-  - 02_story.md
+  - Story:
+    - story
   - 03_characters.md
   - ...
   - ideas
