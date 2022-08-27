@@ -9,8 +9,8 @@ tags:
 
 # Category - Mount
 <div class="item_type_thumbnail">
-<a href="../../Types/Mount/Chia_Mounts/Normal_Chia_Mounts_00001_00100/"><img loading="lazy" src="https://pkiimponhhsh4c6lhcavhveefx6ilyc2zgqcehdlswobpqakoj5q.arweave.net/epCGPc055H4LyziBU9SELfyF4FrJoCIca5WcF8AKcns"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Mount/Chia_Mounts/Normal_Chia_Mounts_00001_00100/">Chia Mounts</a></div>
+<a href="../../Types/Mount/Chia_Mounts/warsheep_Chia_Mounts_00001_00100/"><img loading="lazy" src="https://qeaajy7jwjyb5t6aloutfkhejohezfnadhholtsjqfnrlnn4ydfa.arweave.net/gQAE4-mycB7PwFupMqjkS45MlaAZzuXOSYFbFbW8wMo"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Mount/Chia_Mounts/warsheep_Chia_Mounts_00001_00100/">Chia Mounts</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ykj00rq56xs235zumwcwa3w7j927cqfgqatvp795q4wav5fs5hrqu668my">Chia Mounts</a></div>
 </div>
 <div class="item_type_thumbnail">
