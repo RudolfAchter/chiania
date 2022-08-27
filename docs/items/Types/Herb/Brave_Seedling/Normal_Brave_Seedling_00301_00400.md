@@ -79,16 +79,6 @@ tags:
 <div><strong>decoration:</strong> yellow spots</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://egyr4g346nsmz7ghovxjv2jl46xqpoacocwifegvnmyfoggsra.arweave.net/_IbEeG3zzZMz8x3Vumukr568HuAJwrIKQ1WswVxjSiI"><br/>
-<div><strong>Name:</strong> Brave Seedling #297</div>
-<div><strong>Item Type:</strong> Brave Seedling</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
-<div><strong>background:</strong> dream purple</div>
-<div><strong>soil:</strong> green wetlands</div>
-<div><strong>seedling:</strong> green young</div>
-<div><strong>decoration:</strong> caterpillar</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://ricbgn32tkxsh6iwbmwq3qtvj35rqht5ni6pg4izfaqmmwbxaa.arweave.net/i-gQTN3qaryP5FgstDcJ1TvsYHn1qPPNxGSggxlg3AI"><br/>
 <div><strong>Name:</strong> Brave Seedling #298</div>
 <div><strong>Item Type:</strong> Brave Seedling</div>
@@ -1007,5 +997,15 @@ tags:
 <div><strong>soil:</strong> green wetlands</div>
 <div><strong>seedling:</strong> yellow withered</div>
 <div><strong>decoration:</strong> none</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://akszx4olfjy322pu7bl44mtwe3mhrvufo53kqxabhyzf4kmedy.arweave.net/AqWb8csqcb1p9PhXzjJ2Jth41oV3dqhc-AT4yXimEHg"><br/>
+<div><strong>Name:</strong> Brave Seedling #390</div>
+<div><strong>Item Type:</strong> Brave Seedling</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
+<div><strong>background:</strong> lake blue</div>
+<div><strong>soil:</strong> brown organic</div>
+<div><strong>seedling:</strong> yellow withered</div>
+<div><strong>decoration:</strong> yellow spots</div>
 </div>
 

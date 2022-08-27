@@ -301,26 +301,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00001_00100/</loc>
-         <lastmod>2022-08-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00101_00200/</loc>
-         <lastmod>2022-08-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00201_00300/</loc>
-         <lastmod>2022-08-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00301_00400/</loc>
-         <lastmod>2022-08-27</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/Magic_Root/Normal_Magic_Root_00001_00100/</loc>
          <lastmod>2022-08-27</lastmod>
          <changefreq>daily</changefreq>
@@ -332,6 +312,26 @@
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/</loc>
+         <lastmod>2022-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00001_00100/</loc>
+         <lastmod>2022-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00101_00200/</loc>
+         <lastmod>2022-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00201_00300/</loc>
+         <lastmod>2022-08-27</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Portrait/An_Adventurer_Disguised_as_Goblin/Normal_An_Adventurer_Disguised_as_Goblin_00301_00400/</loc>
          <lastmod>2022-08-27</lastmod>
          <changefreq>daily</changefreq>
     </url>
