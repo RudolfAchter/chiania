@@ -1,3 +1,14 @@
+---
+title: Get Equipment for your Character
+description: Introduction to Chia Inventory. How to Equip your Character
+date: 2022-08-29
+tags:
+  - Game
+  - HowTo
+  - Help
+  - Items
+---
+
 # Get Equipment for your character
 
 ## Look which items you can use for Chiania

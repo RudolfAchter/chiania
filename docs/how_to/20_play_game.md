@@ -1,10 +1,21 @@
+---
+title: Play Chiania
+description: Introduction to Chia Inventory. How to play the Game
+date: 2022-08-29
+tags:
+  - Game
+  - HowTo
+  - Help
+  - Commands
+---
+
 # Play Chiania
 
 Chiania is played on our [Discord Server](https://discord.gg/8JmQ9Wu5aF)
 
 ## Check what you can do - Get Help
 
-You can enter `!help` as a Chat message to get a list of possible commands. Commands are in Categories
+You can enter `!help` as a Chat message to get a list of possible commands. Commands are in Categories. You can easily find out how the game works by simply playing and discovering the Functions by going through `!help` Function.
 
 ```text
 Categories
