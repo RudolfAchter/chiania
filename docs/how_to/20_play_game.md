@@ -78,6 +78,16 @@ You decided to set 🍎hunting-ground-4 as your home.
 
 Then all hunting and fighting notifications for you go in this channel.
 
+#### !inventory
+
+input `!inventory` to check what items are in your backpack. These are ingame Items (mostly consumables) and no NFTs. consumables will never be NFTs because thats not what NFTs are designed for 😄.
+
+### Dictionary
+
+#### !study_monster
+
+Enter `!study_monster <monster_name>` to get detailed Information about a Monster
+
 ### Location
 
 #### !look
@@ -86,7 +96,7 @@ Then all hunting and fighting notifications for you go in this channel.
 
 #### !go
 
-`!go (north|south|east|west)`: Example `go east`: Move your character. Look at the [World Map](../world/salvia/00_salvia_main_continent.md) for reference
+`!go (north|south|east|west)`: Example `go east`: Move your character. Look at the [World Map](../world/continents/salvia/00_salvia_main_continent.md) for reference
 
 ### Merchant
 
@@ -197,7 +207,7 @@ Current state is:
 
 #### Hunting when there are no quests
 
-You can go hunting for Monsters in [the Forest](https://discord.com/channels/994949585657143296/1001435613641318462). Just type command `!hunt`. Then you search for a monster and fight against it. If you win, you get a reward. If you die your soul wanders to the soulstone in the [magical Tavern](https://discord.com/channels/994949585657143296/995483089881026631). There Your soul prays to the [goddess of Chiania](../03_characters.md#goddess-of-chiania). You Hope she can revive you. Revival typically lasts 12 hours.
+You can go hunting for Monsters in [the Forest](https://discord.com/channels/994949585657143296/1001435613641318462). Just type command `!hunt`. Then you search for a monster and fight against it. If you win, you get a reward. If you die your soul wanders to the soulstone in the [magical Tavern](https://discord.com/channels/994949585657143296/995483089881026631). There Your soul prays to the [goddess of Chiania](../world/characters/03_characters.md#goddess-of-chiania). You Hope she can revive you. Revival typically lasts 12 hours.
 
 ## Speed of Events (Patience)
 

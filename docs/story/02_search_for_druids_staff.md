@@ -21,7 +21,7 @@ tags:
 A jeweler passed by the Blacksmith Shop, he was attracted by the glowing Monster Nucleis hold by volunteers. "If you give me these gems, I use the large ones to make rings or the medium ones to enhance your weapons." Says by the jeweler.
 <hr style="clear:both">
 
-![](../world/salvia/include/gate_of_viridis.png){class="story_pic_left";style="width:600px;"}
+![](../world/continents/salvia/include/gate_of_viridis.png){class="story_pic_left";style="width:600px;"}
 
 ## Defense of Viridis
 
