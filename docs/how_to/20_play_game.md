@@ -88,6 +88,16 @@ input `!inventory` to check what items are in your backpack. These are ingame It
 
 Enter `!study_monster <monster_name>` to get detailed Information about a Monster
 
+### Interaction
+
+#### !ask
+
+Input `!ask npc_name` to talk to a npc. NPCs for example can give you information, quests or have items to sell.
+
+#### !use
+
+Input `!use item_name` to use an item in your inventory. Many items are consumables you simply can "eat". Other Items need a specific context. For example when you have a key you have to be at a place where the key can be used.
+
 ### Location
 
 #### !look

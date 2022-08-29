@@ -28,7 +28,7 @@ A jeweler passed by the Blacksmith Shop, he was attracted by the glowing Monster
 While the wizards of Viridis are investigating the murder of the master druid, the volunteers of the city are defending their homes at the gate of viridis. Together with the City Guards they are patroling at the gate and at the border of the black forest. The most brave and strong adventurers advance even further and push into the deep woods to clean it from dangerous monsters. Meanwhile the most talented craftsmen are making [equipment](../items/20_markets.md) for the volunteers to protect them from danger. Nobody thought at the peaceful land of Salvia that any kind of mercenaries would ever be needed again. But these monsters have to be faced against.
 <hr style="clear:both">
 
-The master blacksmith has come back and forged many new weapons and armors. This time he decided to sell items by himself, not through black market (Dexie). Adventurers could join our [Discord](https://discord.gg/8JmQ9Wu5aF) and buy these items by `!merchandise` and `!buy`, all cost Chiania Coins (CC). You can earn Coins when you go hunting in the world of chiania. Look in [How to Play](REA../README.mdo get started.
+The master blacksmith has come back and forged many new weapons and armors. This time he decided to sell items by himself, not through black market (Dexie). Adventurers could join our [Discord](https://discord.gg/8JmQ9Wu5aF) and buy these items by `!merchandise` and `!buy`, all cost Chiania Coins (CC). You can earn Coins when you go hunting in the world of chiania. Look in [How to Play](../README.md) get started.
 
 ![](https://cdn.discordapp.com/attachments/995945537603911770/1005696994653777941/unknown.png){class="story_pic_wide"}
 
@@ -52,11 +52,23 @@ A Trail in the north of the Slime Forest leads to the lands of the goblins. On t
 
 ![](pics/edited/A_Stronghold_built_by_Goblins_02.png){class="story_pic_left"}
 Thanks to their disguise the Adventurers can sneak into the Goblin Stronhold and can overwhelm the Goblin Guard who has the keys to the cage in the Stronghold. But when they open the cage a few people flee out but they cannot find the apprentice. There is only a note from the apprentice....
-
-
-
-
 <hr style="clear:both">
+
+![](pics/edited/monster_hunter.png){class="story_pic_right"}
+
+## The crazy adept Monster Hunter
+
+The adept monster hunter😈  carefully made his way through the marketplace crowds, both hands pushing his covered wagon and gripped firmly to stabilize over any bumps in the road.  A trail of dried sand⏳  followed behind him with each step.
+👧 Lena spotted the monster hunter as he made his way past her stall.  “You really pushed that wagon here all the way from the ocean?” she shouted with a laugh.😆   “We’ll see who’s laughing when these are sold…” the monster hunter😈  grunted back.
+He finally made his way to the center of the marketplace and let out a loud sigh.😮‍💨   He removed his hood and revealed his baked brownish red skin, beginning to peel from prolonged sun exposure.🌞
+An eager customer approached the wagon and began shouting – “Hey there! More spikey jumpy rocks?😉   My son loves them could I get two more?!” and the customer gave the cover wagon two knocks on the side with his fist.✊   Just as he did, water drops shook out from under the wagon, and the monster hunter GASPED.🙀
+
+“You FOOL!”😡  the monster hunter yelled, as he grabbed his walking stick from the wagon and brandished it at the customer.😠 💢  “These are fragile – back away unless you plan on buying them all!”
+The marketplace began to fall silent, and heads began to turn.❓🤔    The monster hunter noticed, grinned😈 , and threw the cover off of the wagon, revealing what look to be caged water droplets.  They moved and jostled, and left bits of water behind them or cast drops of water off into the distance.🌊 
+
+“Water Slimes for sale!” the monster hunter shouted.  “These fellows are perfect for any apprentice mage 🧙‍♂️  – they will hone you magic abilities!”🦠 🌊
+
+
 ## The Story continues...
 
 To get the latest news in chiania go to certain places:
