@@ -1,6 +1,6 @@
 ---
 title: Monsters
-description: The characters in the world of chiania
+description: Monsters and creatures in the world of chiania
 date: 2022-08-29
 tags:
   - Chia
