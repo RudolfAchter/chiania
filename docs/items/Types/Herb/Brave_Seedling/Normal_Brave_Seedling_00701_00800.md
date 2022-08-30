@@ -1,7 +1,7 @@
 ---
 title: Brave Seedling - Normal (701 - 800)
 description: Brave Seedling Items in Chia Inventory
-date: 2022-08-29
+date: 2022-08-30
 tags:
     - NFT
     - Items
@@ -859,6 +859,16 @@ tags:
 <div><strong>decoration:</strong> blood drop</div>
 <div><strong>soil:</strong> devil blood</div>
 <div><strong>background:</strong> devil shadow</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://ssqswzjqq2xyfnva4xdqc5wt22yojyxe5rwt6hbnxyxactqq.arweave.net/lKErZTCGr4K2oOXHAXbT1rDk4u-TsbT8cL_b4uAU4Qg"><br/>
+<div><strong>Name:</strong> Brave Seedling #799</div>
+<div><strong>Item Type:</strong> Brave Seedling</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
+<div><strong>background:</strong> holy light</div>
+<div><strong>seedling:</strong> pure white</div>
+<div><strong>decoration:</strong> outburst of light</div>
+<div><strong>soil:</strong> altar</div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://25ssx4zfj2klz3qaycdfzvonufgeyqi5kexgmgxlazu2kcko.arweave.net/12Ur8yVOlLzuAMCGXNXNoUxMQR1_RLmYa-6wZppQlOk"><br/>

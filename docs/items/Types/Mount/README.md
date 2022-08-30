@@ -1,7 +1,7 @@
 ---
 title: Category - Mount
 description: Item Types in Chia Inventory
-date: 2022-08-29
+date: 2022-08-30
 tags:
     - NFT
     - Items
@@ -9,8 +9,8 @@ tags:
 
 # Category - Mount
 <div class="item_type_thumbnail">
-<a href="../../Types/Mount/Chia_Mounts/warsheep_Chia_Mounts_00001_00100/"><img loading="lazy" src="https://d2oymla3v6ffbqcbbs7hmj6dymnf2hsjpf2zyholo4453rl46heq.arweave.net/Hp2GLBuvilDAQQy-difDwxpdHkl5dZwdy3c53cV88ck"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Mount/Chia_Mounts/warsheep_Chia_Mounts_00001_00100/">Chia Mounts</a></div>
+<a href="../../Types/Mount/Chia_Mounts/magic_marmot_Chia_Mounts_00001_00100/"><img loading="lazy" src="https://5asyx63vfomnyhtcabj4vj7olchsqu4h643o76dboueriodqszaa.arweave.net/6CWL-3UrmNweYgBTyqfuWI8oU4f3Nu_4YXUJFDhwlkA"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Mount/Chia_Mounts/magic_marmot_Chia_Mounts_00001_00100/">Chia Mounts</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1ykj00rq56xs235zumwcwa3w7j927cqfgqatvp795q4wav5fs5hrqu668my">Chia Mounts</a></div>
 </div>
 <div class="item_type_thumbnail">

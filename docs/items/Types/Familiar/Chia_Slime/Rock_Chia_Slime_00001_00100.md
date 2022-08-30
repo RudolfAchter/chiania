@@ -1,7 +1,7 @@
 ---
 title: Chia Slime - Rock (1 - 100)
 description: Chia Slime Items in Chia Inventory
-date: 2022-08-29
+date: 2022-08-30
 tags:
     - NFT
     - Items

@@ -1,7 +1,7 @@
 ---
 title: An Adventurer Disguised as Goblin - Normal (1 - 100)
 description: An Adventurer Disguised as Goblin Items in Chia Inventory
-date: 2022-08-29
+date: 2022-08-30
 tags:
     - NFT
     - Items

@@ -1,7 +1,7 @@
 ---
 title: Small Round Shield - Normal (1 - 100)
 description: Small Round Shield Items in Chia Inventory
-date: 2022-08-29
+date: 2022-08-30
 tags:
     - NFT
     - Items

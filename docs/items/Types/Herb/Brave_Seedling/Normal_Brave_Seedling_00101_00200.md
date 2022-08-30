@@ -1,23 +1,13 @@
 ---
 title: Brave Seedling - Normal (101 - 200)
 description: Brave Seedling Items in Chia Inventory
-date: 2022-08-29
+date: 2022-08-30
 tags:
     - NFT
     - Items
 ---
 
 # Brave Seedling - Normal (101 - 200)
-<div class="item_thumbnail">
-<img loading="lazy" src="https://6vvwhts3lmpk3mhsnpkv4dt3q47u4gaygvdks4z5ujkpke24iu.arweave.net/9Wtjzltb_Hq2w8mvVXg57hz9OGBg1RqlzPaJU9RNcRU"><br/>
-<div><strong>Name:</strong> Brave Seedling #89</div>
-<div><strong>Item Type:</strong> Brave Seedling</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
-<div><strong>seedling:</strong> shiny green</div>
-<div><strong>drip:</strong> blue up</div>
-<div><strong>vine:</strong> green</div>
-<div><strong>soil:</strong> btc</div>
-</div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://hzvy3nyanjie6e4zxvqkrq4j6e4troqcxnacn66bbiw4trjs.arweave.net/PmuNt_wBqUE8Tmb1gqM_OJ8Tk4ugK7QCb7wQotycUyg"><br/>
 <div><strong>Name:</strong> Brave Seedling #90</div>
@@ -666,6 +656,16 @@ tags:
 <div><strong>soil:</strong> green wetlands</div>
 <div><strong>seedling:</strong> green strong</div>
 <div><strong>decoration:</strong> yellow spots</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://nszblmwoty6uvlhsbginwvounetoxdteact5mhreoswn27wmmt4a.arweave.net/bLIVss6ePUqs8gmQ21XUaSbrjmQAp9YeJHSs3X7MZPg"><br/>
+<div><strong>Name:</strong> Brave Seedling #155</div>
+<div><strong>Item Type:</strong> Brave Seedling</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q">Brave Seedling</a></div>
+<div><strong>background:</strong> swamp green</div>
+<div><strong>soil:</strong> moon well</div>
+<div><strong>seedling:</strong> green strong</div>
+<div><strong>decoration:</strong> nourish</div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://mkuhebcaprbklrzpivny3rvzbexen3jnitquhwtcmslzefrx2maa.arweave.net/YqhyBEB8QqXHL0Vbjca5CS5G7S1E4UPaYmSXkhY30wA"><br/>

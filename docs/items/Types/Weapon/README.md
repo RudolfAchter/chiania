@@ -1,7 +1,7 @@
 ---
 title: Category - Weapon
 description: Item Types in Chia Inventory
-date: 2022-08-29
+date: 2022-08-30
 tags:
     - NFT
     - Items
@@ -29,13 +29,13 @@ tags:
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Khopesh/Normal_Khopesh_00001_00100/"><img loading="lazy" src="https://qzdlypw6klqlorogiy64yyfjg2lfou264giu3yc2nqovxegcla.arweave.net/hka8Pt5S4LdFxkY9_zGCpNpZXU17hkU3gWmwdW5DCWI"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Khopesh/Normal_Khopesh_00001_00100/">Khopesh</a></div>
+<a href="../../Types/Weapon/Khopesh/Orange_Nuclei_Khopesh_00001_00100/"><img loading="lazy" src="https://jv2btzv3z6x3ms4ltnhd4lz2mczgsdmlrmwamktgyo6ttxq.arweave.net/TX-QZ5rvPr7-ZLi5_tOPi86YLJpDYuLLAYqZsO-9Od4"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Khopesh/Orange_Nuclei_Khopesh_00001_00100/">Khopesh</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">
-<a href="../../Types/Weapon/Knife/Normal_Knife_00001_00100/"><img loading="lazy" src="https://j52icybw26nbo55ktjcnf6ic5g666ii2ofer5xbia3p4rkhowfwq.arweave.net/T3SBYDbXmhd3qppE0vkC6b3vIRpxSR7cKAbfyKjusW0"></a><br/>
-<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Knife/Normal_Knife_00001_00100/">Knife</a></div>
+<a href="../../Types/Weapon/Knife/Green_Nuclei_Knife_00001_00100/"><img loading="lazy" src="https://5aq4pd3rj2l5vky4jlxu2tuzv6kzdwbrisz2fhdud4thi3ht.arweave.net/-6C_HHj3FOl9qrHErvTU6Zr5WR2DFEs6KcdB8mdGzzI"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Weapon/Knife/Green_Nuclei_Knife_00001_00100/">Knife</a></div>
 <div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx">Chia Inventory</a></div>
 </div>
 <div class="item_type_thumbnail">

@@ -1,7 +1,7 @@
 ---
 title: Short Bow - Normal (1 - 100)
 description: Short Bow Items in Chia Inventory
-date: 2022-08-29
+date: 2022-08-30
 tags:
     - NFT
     - Items
