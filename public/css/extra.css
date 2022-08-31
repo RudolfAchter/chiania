@@ -469,6 +469,22 @@ div.item_thumbnail_detail div {
     padding: 0px;
   }
 
+  div.monster_thumbnail {
+    width:300px; height:800px; 
+    float:left;
+    margin:10px;
+    border: 2px solid var(--md-typeset-table-color);
+    overflow-y: auto;
+    scrollbar-color: var(--md-typeset-table-color);
+    scrollbar-width: thin;
+  }
+
+  div.monster_thumbnail img {
+    max-width:300px; max-height:300px; float:none
+  }
+
+
+
 }
 
 @media (min-width: 700px) {
