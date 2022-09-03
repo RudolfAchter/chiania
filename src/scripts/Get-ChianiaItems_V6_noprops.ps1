@@ -339,7 +339,8 @@ $totalData | ForEach-Object {
         ForEach($prop in $mData.GetEnumerator()){$newData.($prop.Key)=($prop.Value)}
 
         #Workaround Korrektur
-        ForEach($prop in @("minter_did","minter_hash","owner_did","owner_hash")){$newData.Remove($prop)}
+        ForEach($prop in @("minter_did","minter_hash","owner_did","owner_hash","minter_did_encoded",
+            "owner_did_encoded","owner_address_encoded")){$newData.Remove($prop)}
 
         #Wenn Datensatz schon existiert dann nur bestimmte Properties anpassen die sich ändern können (z.B. evtl Owner)
         ForEach($prop in @("ItemCategory","ItemType","Prefix","ItemStatus","item_uri"
