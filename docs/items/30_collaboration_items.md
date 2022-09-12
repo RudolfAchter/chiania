@@ -42,20 +42,29 @@ DO NOT SPEND MONEY ON NFT JUST TO WIN
 ### FAMILIARS
 
 #### 1) SLIMES ( Twitter handle: @ chia_slime ):
-- 🔴 Red Slime: +1 STR -1 INT
-- 🔵 Blue Slime: +1 INT -1 STR
-- 🟢 Green Slime: +1 DEX -1 CON
-- 🟠 Orange Slime: +1 CON -1 DEX
-- 🟡 Yellow Slime: +1 CHA -1 WIS
-- 🟣 Purple Slime: +1 WIS -1 CHA
-- ⚫ Rock Slime: +2 CON -1 DEX -1 WIS
-- 🌊 Water Slime: +2INT -1 CON -1 STR
 
-- 🔪 Spiked: 20% to add +1 pierce 
-- 🛡️ Power Defensive Aura: 20% to add +1 defense
-- 🧑‍⚕️ Power Heal: 20% to add 2-4 HP
-- 👓 Power Identify: 20% to add 2-4 INT
-- 🚿 Power Slip Stream: 20% to add +1 bash
+- Alpha/Beta DropSets:
+    - 🔴 Red Slime: +1 STR -1 INT
+    - 🔵 Blue Slime: +1 INT -1 STR
+    - 🟢 Green Slime: +1 DEX -1 CON
+    - 🟠 Orange Slime: +1 CON -1 DEX
+    - 🟡 Yellow Slime: +1 CHA -1 WIS
+    - 🟣 Purple Slime: +1 WIS -1 CHA
+
+- Rock DropSet:
+    - ⚫ Rock Slime: +2 CON -1 DEX -1 WIS
+    - 🔪 Spiked (Asc3 Trait "RockSpikes" or "GolemSpikes"): 20% to add +1 pierce 
+
+- Water DropSet:
+    - 🌊 Water Slime: +2INT -1 CON -1 STR
+    - 🚿 Hidden Power Trait "Slip Stream": 20% to add +1 bash
+
+- Any DropSet:
+    - 🛡️ Hidden Power Trait "Defensive Aura": 20% to add +1 defense
+    - 🧑‍⚕️ Hidden Power Trait "Heal": 20% to add 2-4 HP
+    - 👓 Hidden Power Trait "Identify": 20% to add 2-4 INT
+
+See full buying guide/effects per slime here: https://docs.google.com/spreadsheets/d/1nP75rt_LoJPvS4B9Bg1waiM5LzT3lQonSU4zLnsQREA/edit?usp=sharing
 
 #### 2) SNAILS ( Twitter handle: @ snailnft1 )
 
