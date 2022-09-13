@@ -53,7 +53,7 @@ DO NOT SPEND MONEY ON NFT JUST TO WIN
 
 - Rock DropSet:
     - ⚫ Rock Slime: +2 CON -1 DEX -1 WIS
-    - 🔪 Spiked (Asc3 Trait "RockSpikes" or "GolemSpikes"): 20% to add +1 pierce 
+    - 🔪 Spiked (Asc2 Trait "RockSpikes" or "GolemSpikes"): 20% to add +1 pierce 
 
 - Water DropSet:
     - 🌊 Water Slime: +2INT -1 CON -1 STR
