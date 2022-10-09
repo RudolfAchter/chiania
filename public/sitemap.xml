@@ -86,6 +86,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://rudolfachter.github.io/chiania/public/ideas/dev_stuff/ai_picture_dev/ai_picture_development/</loc>
+         <lastmod>2022-10-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://rudolfachter.github.io/chiania/public/ideas/dev_stuff/database/mongodb/</loc>
          <lastmod>2022-10-09</lastmod>
          <changefreq>daily</changefreq>
@@ -162,11 +167,6 @@
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Beta_Chia_Slime_00001_00100/</loc>
-         <lastmod>2022-10-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Familiar/Chia_Slime/Beta_Chia_Slime_00101_00200/</loc>
          <lastmod>2022-10-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -321,17 +321,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/Chia_Farmers/Normal_Chia_Farmers_00001_00100/</loc>
-         <lastmod>2022-10-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/Chiania_Rootberry/Normal_Chiania_Rootberry_00001_00100/</loc>
          <lastmod>2022-10-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/Magic_Root/Normal_Magic_Root_00001_00100/</loc>
+         <lastmod>2022-10-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://rudolfachter.github.io/chiania/public/items/Types/Other/Shadow_Sword/Normal_Shadow_Sword_00001_00100/</loc>
          <lastmod>2022-10-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
