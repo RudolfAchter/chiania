@@ -13,6 +13,7 @@ $Global:ChiaShell
 
 #$srcDir="~/git/chiania/src"
 $configDir="~/git/chiania/config"
+$dataDir="~/git/chiania/data"
 $itemsDir="~/git/chiania/docs/items"
 $logPath="~/Documents/chiania_items.log"
 #$outFile="items_test2.md"
@@ -40,17 +41,50 @@ if(-not (Test-Path ($scriptConfigFile))){
 $h_config=Get-Content -Path $scriptConfigFile -Encoding UTF8 | ConvertFrom-Json -Depth 10
 
 
+<#
 $a_collections=@(
     @{name="Chia Inventory"; folder_name="Chia_Inventory"; collection_id="col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx"}
     @{name="Chreatures";     folder_name="Chreatures";     collection_id="col1w0h8kkkh37sfvmhqgd4rac0m0llw4mwl69n53033h94fezjp6jaq4pcd3g"}
     @{name="Brave Seedling"; folder_name="Brave_Seedling"; collection_id="col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q"}
     @{name="Sheesh! Snail";  folder_name="Sheesh__Snail";  collection_id="col1syclna803y6h3zl24fwswk0thmm7ad845cfc6sv4sndfzu26q8cq3pprct"}
-    @{name="Chia Slimes";    folder_name="Chia_Slimes";    collection_id="col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2"}
+    @{name="Chia Slimes";          folder_name="Chia_Slimes";    collection_id="col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2"}
+    @{name="Balldog Collection"; }
 )
+#>
+
+<#
 $collectionConfigFile=$configDir + "/" + "nft_collections.json"
 if(-not (Test-Path $collectionConfigFile)){$a_collections | ConvertTo-Json -Depth 5 | Out-File $collectionConfigFile -Encoding UTF8}
 $a_collections=Get-Content $collectionConfigFile -Encoding UTF8 | ConvertFrom-Json -Depth 5
+#>
 
+<#
+col16fpva26fhdjp2echs3cr7c30gzl7qe67hu9grtsjcqldz354asjsyzp6wx
+col17jxrr7pwxuhxra86z4gr08tajk3mpr7gjst643a7gv0dc8p8p9aqdcvj30
+col19z8k90wfezt55jj2zm526yzmk8dq0fcyqamzmtqv7hv4wkafhnjsp8fsz2
+col1eqaw4clqxpzex6g9lhdr8hc8s7ygz45m7j7zesru4j37vq8qgzvs9zc7vr
+col1ffwmq5aumd96sxlw6l665hkccq9w3w2w0a4pcfhl329u07sz92cqg7vjkj
+col1jgw23rce22aucy0vrseqa3dte8sd0924sdjw5xuxzljcnhgr8fpqnjcu7q
+col1lend2dcn558km4wcwta4xnkfv3xpcmlp9kyt0m909emvfxechlyqdl5ndg
+col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw
+col1syclna803y6h3zl24fwswk0thmm7ad845cfc6sv4sndfzu26q8cq3pprct
+col1u59x6saj9v5yl7jddf9ms4yfcltxnx7mdmskwcqt53yxfuhljr2shjvf7j
+col1ucr852c8uzgemuashmz65kmnt2nn4wuhecevrwhtkk72ukfc5c7s6wn3sj
+col1w0h8kkkh37sfvmhqgd4rac0m0llw4mwl69n53033h94fezjp6jaq4pcd3g
+col1ykj00rq56xs235zumwcwa3w7j927cqfgqatvp795q4wav5fs5hrqu668my
+col1z0ef7w5n4vq9qkue67y8jnwumd9799sm50t8fyle73c70ly4z0ws0p2rhl
+#>
+Write-Progress -Id 1 -Activity "Getting Item List"
+
+$data=Get-Content ($dataDir + "/new_item_list.json") | ConvertFrom-Json
+$groups=$data.PsObject.Properties.Value | Group-Object -Property "collection_id"
+
+$a_collections=@()
+
+$groups | ForEach-Object {
+    $group=$_
+    $a_collections += @{collection_id=$group.name}
+}
 
 $k=0
 $totalData=$a_collections | ForEach-Object {

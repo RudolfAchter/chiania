@@ -1,7 +1,7 @@
 ---
 title: Shadow Sword - Normal (1 - 100)
 description: Shadow Sword Items in Chia Inventory
-date: 2022-10-09
+date: 2022-10-10
 tags:
     - NFT
     - Items

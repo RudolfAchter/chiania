@@ -1,7 +1,7 @@
 ---
 title: Chia Farmers - Normal (2101 - 2200)
 description: Chia Farmers Items in Chia Inventory
-date: 2022-10-09
+date: 2022-10-10
 tags:
     - NFT
     - Items

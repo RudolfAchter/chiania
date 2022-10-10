@@ -1,7 +1,7 @@
 ---
 title: Category - Collectable
 description: Item Types in Chia Inventory
-date: 2022-10-09
+date: 2022-10-10
 tags:
     - NFT
     - Items

@@ -1,7 +1,7 @@
 ---
 title: Chiania Long Arm Blade - Normal (1 - 100)
 description: Chiania Long Arm Blade Items in Chia Inventory
-date: 2022-10-09
+date: 2022-10-10
 tags:
     - NFT
     - Items

@@ -1,13 +1,18 @@
 ---
 title: Category - Ring
 description: Item Types in Chia Inventory
-date: 2022-10-09
+date: 2022-10-10
 tags:
     - NFT
     - Items
 ---
 
 # Category - Ring
+<div class="item_type_thumbnail">
+<a href="../../Types/Ring/Colorado_Springs/Normal_Colorado_Springs_00001_00100/"><img loading="lazy" src="https://nezm4cxkq56jowdroraf27xlxbb2ok37m2jfsjzxrycvepfx.arweave.net/aTL_OCuqHfJdYcXRAXX7ruEOnK39mklknN44FUj-y3U"></a><br/>
+<div><strong>Item Type:</strong> <a href="../../Types/Ring/Colorado_Springs/Normal_Colorado_Springs_00001_00100/">Colorado Springs</a></div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lend2dcn558km4wcwta4xnkfv3xpcmlp9kyt0m909emvfxechlyqdl5ndg">City Illusion</a></div>
+</div>
 <div class="item_type_thumbnail">
 <a href="../../Types/Ring/Nuclei_Ring/Normal_Nuclei_Ring_00001_00100/"><img loading="lazy" src="https://zjau525d3rvrh3ortjzz6qwohxm675hksrg2ey6lygj7hwjz6m7a.arweave.net/ykFO66PcaxPt0Zpzn0LOPdnv9OqUTaJjy8GT89k58z4"></a><br/>
 <div><strong>Item Type:</strong> <a href="../../Types/Ring/Nuclei_Ring/Normal_Nuclei_Ring_00001_00100/">Nuclei Ring</a></div>
