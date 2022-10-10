@@ -503,25 +503,6 @@ tags:
 <div><strong>Strength:</strong> +2</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/632.gif"><br/>
-<div><strong>Name:</strong> Anti Dogg #632</div>
-<div><strong>Item Type:</strong> Anti Dogg</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
-<div><strong>Background:</strong> CMD</div>
-<div><strong>Skins:</strong> Pug</div>
-<div><strong>Tattoo:</strong> NO</div>
-<div><strong>Tails:</strong> OKay</div>
-<div><strong>Clothes:</strong> Blue Cheer-Blue</div>
-<div><strong>Eyes:</strong> Group Star</div>
-<div><strong>Earrings:</strong> Flutter</div>
-<div><strong>Hats:</strong> XX-Yellow</div>
-<div><strong>Glasses:</strong> Exclusive</div>
-<div><strong>Necklaces:</strong> Fangs</div>
-<div><strong>Balls:</strong> Brain</div>
-<div><strong>Hands:</strong> Pricking</div>
-<div><strong>Strength:</strong> +1</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/633.gif"><br/>
 <div><strong>Name:</strong> Anti Dogg #633</div>
 <div><strong>Item Type:</strong> Anti Dogg</div>
@@ -1906,6 +1887,25 @@ tags:
 <div><strong>Necklaces:</strong> Sweet Love</div>
 <div><strong>Balls:</strong> Brain</div>
 <div><strong>Hands:</strong> Tough Guy</div>
+<div><strong>Strength:</strong> +2</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/707.gif"><br/>
+<div><strong>Name:</strong> Anti Dogg #707</div>
+<div><strong>Item Type:</strong> Anti Dogg</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
+<div><strong>Background:</strong> Chase</div>
+<div><strong>Skins:</strong> North</div>
+<div><strong>Tattoo:</strong> NO</div>
+<div><strong>Tails:</strong> Pliers</div>
+<div><strong>Clothes:</strong> Kanye-Green</div>
+<div><strong>Eyes:</strong> Group Star</div>
+<div><strong>Earrings:</strong> Edge</div>
+<div><strong>Hats:</strong> Jack-Green</div>
+<div><strong>Glasses:</strong> Death Cult</div>
+<div><strong>Necklaces:</strong> Take Off The Weird-a** Jewelry</div>
+<div><strong>Balls:</strong> Mordor</div>
+<div><strong>Hands:</strong> I'ma Take Ten Steps</div>
 <div><strong>Strength:</strong> +2</div>
 </div>
 

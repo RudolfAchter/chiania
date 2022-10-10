@@ -9,25 +9,6 @@ tags:
 
 # Anti Dogg - Normal (1201 - 1300)
 <div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1209.gif"><br/>
-<div><strong>Name:</strong> Anti Dogg #1209</div>
-<div><strong>Item Type:</strong> Anti Dogg</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
-<div><strong>Background:</strong> Green Light</div>
-<div><strong>Skins:</strong> Snowball</div>
-<div><strong>Tattoo:</strong> British</div>
-<div><strong>Tails:</strong> Bullet</div>
-<div><strong>Clothes:</strong> Kanye-Green</div>
-<div><strong>Eyes:</strong> What?</div>
-<div><strong>Earrings:</strong> Glory</div>
-<div><strong>Hairs:</strong> Yuppie-Red</div>
-<div><strong>Glasses:</strong> The Clone</div>
-<div><strong>Necklaces:</strong> Venus</div>
-<div><strong>Balls:</strong> Craze</div>
-<div><strong>Hands:</strong> Calm</div>
-<div><strong>Strength:</strong> +2</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1210.gif"><br/>
 <div><strong>Name:</strong> Anti Dogg #1210</div>
 <div><strong>Item Type:</strong> Anti Dogg</div>
@@ -1453,25 +1434,6 @@ tags:
 <div><strong>Strength:</strong> +3</div>
 </div>
 <div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1285.gif"><br/>
-<div><strong>Name:</strong> Anti Dogg #1285</div>
-<div><strong>Item Type:</strong> Anti Dogg</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
-<div><strong>Background:</strong> Crash</div>
-<div><strong>Skins:</strong> Obsidian</div>
-<div><strong>Tattoo:</strong> British</div>
-<div><strong>Tails:</strong> Night Falls</div>
-<div><strong>Clothes:</strong> Acocado</div>
-<div><strong>Eyes:</strong> Puppy Dogg</div>
-<div><strong>Earrings:</strong> Safe</div>
-<div><strong>Hairs:</strong> Blade The Series-Purple</div>
-<div><strong>Glasses:</strong> Take Off The Flex And The White Lies</div>
-<div><strong>Necklaces:</strong> Take Off The Weird-a** Jewelry</div>
-<div><strong>Balls:</strong> Mordor</div>
-<div><strong>Hands:</strong> Pureness</div>
-<div><strong>Strength:</strong> +1</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1286.gif"><br/>
 <div><strong>Name:</strong> Anti Dogg #1286</div>
 <div><strong>Item Type:</strong> Anti Dogg</div>
@@ -1565,25 +1527,6 @@ tags:
 <div><strong>Balls:</strong> Thor</div>
 <div><strong>Hands:</strong> Calm</div>
 <div><strong>Strength:</strong> +1</div>
-</div>
-<div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1291.gif"><br/>
-<div><strong>Name:</strong> Anti Dogg #1291</div>
-<div><strong>Item Type:</strong> Anti Dogg</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
-<div><strong>Background:</strong> Liquid</div>
-<div><strong>Skins:</strong> Walking Dead</div>
-<div><strong>Tattoo:</strong> NO</div>
-<div><strong>Tails:</strong> Hammer</div>
-<div><strong>Clothes:</strong> Amigo-Red</div>
-<div><strong>Eyes:</strong> Shinobi</div>
-<div><strong>Earrings:</strong> Tear</div>
-<div><strong>Hairs:</strong> Ghost Rider-Green</div>
-<div><strong>Glasses:</strong> Death Cult</div>
-<div><strong>Necklaces:</strong> Sweet Love</div>
-<div><strong>Balls:</strong> Bobo</div>
-<div><strong>Hands:</strong> Heresy</div>
-<div><strong>Strength:</strong> +2</div>
 </div>
 <div class="item_thumbnail">
 <img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1292.gif"><br/>
@@ -1906,6 +1849,63 @@ tags:
 <div><strong>Necklaces:</strong> Take Off The Weird-a** Jewelry</div>
 <div><strong>Balls:</strong> Brain</div>
 <div><strong>Hands:</strong> Pureness</div>
+<div><strong>Strength:</strong> +1</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1309.gif"><br/>
+<div><strong>Name:</strong> Anti Dogg #1309</div>
+<div><strong>Item Type:</strong> Anti Dogg</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
+<div><strong>Background:</strong> Backalley</div>
+<div><strong>Skins:</strong> North</div>
+<div><strong>Tattoo:</strong> Profit</div>
+<div><strong>Tails:</strong> Pliers-Golden</div>
+<div><strong>Clothes:</strong> Open Heart</div>
+<div><strong>Eyes:</strong> Puppy Dogg</div>
+<div><strong>Masks:</strong> X-X</div>
+<div><strong>Earrings:</strong> Button</div>
+<div><strong>Hats:</strong> XX</div>
+<div><strong>Necklaces:</strong> Dragon Tooth</div>
+<div><strong>Balls:</strong> Brain</div>
+<div><strong>Hands:</strong> Boor</div>
+<div><strong>Strength:</strong> +1</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1310.gif"><br/>
+<div><strong>Name:</strong> Anti Dogg #1310</div>
+<div><strong>Item Type:</strong> Anti Dogg</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
+<div><strong>Background:</strong> Backalley</div>
+<div><strong>Skins:</strong> Obsidian</div>
+<div><strong>Tattoo:</strong> Another Bastard</div>
+<div><strong>Tails:</strong> Bullet</div>
+<div><strong>Clothes:</strong> BlackSun</div>
+<div><strong>Eyes:</strong> Coffee</div>
+<div><strong>Earrings:</strong> Tear</div>
+<div><strong>Hairs:</strong> Lil Baby-Red</div>
+<div><strong>Glasses:</strong> Take Off The Flex And The White Lies</div>
+<div><strong>Necklaces:</strong> Roe</div>
+<div><strong>Balls:</strong> Craze</div>
+<div><strong>Hands:</strong> I'ma Take Ten Steps</div>
+<div><strong>Strength:</strong> +1</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1311.gif"><br/>
+<div><strong>Name:</strong> Anti Dogg #1311</div>
+<div><strong>Item Type:</strong> Anti Dogg</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
+<div><strong>Background:</strong> Underground</div>
+<div><strong>Skins:</strong> Hell Boy</div>
+<div><strong>Tattoo:</strong> Bastard</div>
+<div><strong>Tails:</strong> Pliers</div>
+<div><strong>Clothes:</strong> BlackSun</div>
+<div><strong>Eyes:</strong> Coffee</div>
+<div><strong>Earrings:</strong> Grow Blind</div>
+<div><strong>Hairs:</strong> The Clash-Green</div>
+<div><strong>Glasses:</strong> Honeycomb-Red</div>
+<div><strong>Necklaces:</strong> Dragon Tooth</div>
+<div><strong>Balls:</strong> Drgon Ball</div>
+<div><strong>Hands:</strong> Heresy</div>
 <div><strong>Strength:</strong> +1</div>
 </div>
 

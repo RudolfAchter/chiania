@@ -9,25 +9,6 @@ tags:
 
 # Anti Dogg - Normal (701 - 800)
 <div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/707.gif"><br/>
-<div><strong>Name:</strong> Anti Dogg #707</div>
-<div><strong>Item Type:</strong> Anti Dogg</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
-<div><strong>Background:</strong> Chase</div>
-<div><strong>Skins:</strong> North</div>
-<div><strong>Tattoo:</strong> NO</div>
-<div><strong>Tails:</strong> Pliers</div>
-<div><strong>Clothes:</strong> Kanye-Green</div>
-<div><strong>Eyes:</strong> Group Star</div>
-<div><strong>Earrings:</strong> Edge</div>
-<div><strong>Hats:</strong> Jack-Green</div>
-<div><strong>Glasses:</strong> Death Cult</div>
-<div><strong>Necklaces:</strong> Take Off The Weird-a** Jewelry</div>
-<div><strong>Balls:</strong> Mordor</div>
-<div><strong>Hands:</strong> I'ma Take Ten Steps</div>
-<div><strong>Strength:</strong> +2</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/708.gif"><br/>
 <div><strong>Name:</strong> Anti Dogg #708</div>
 <div><strong>Item Type:</strong> Anti Dogg</div>
@@ -1907,5 +1888,24 @@ tags:
 <div><strong>Balls:</strong> Bloodstone</div>
 <div><strong>Hands:</strong> Blood-Rain</div>
 <div><strong>Strength:</strong> +2</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/807.gif"><br/>
+<div><strong>Name:</strong> Anti Dogg #807</div>
+<div><strong>Item Type:</strong> Anti Dogg</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
+<div><strong>Background:</strong> Liquid</div>
+<div><strong>Skins:</strong> North</div>
+<div><strong>Tattoo:</strong> Another Bastard</div>
+<div><strong>Tails:</strong> Pliers</div>
+<div><strong>Clothes:</strong> Open Heart-Blue</div>
+<div><strong>Eyes:</strong> Puppy Dogg</div>
+<div><strong>Earrings:</strong> Take Off The Money Phone</div>
+<div><strong>Hairs:</strong> Yuppie-White</div>
+<div><strong>Glasses:</strong> Fanatics-Pink</div>
+<div><strong>Necklaces:</strong> Thunderbolt</div>
+<div><strong>Balls:</strong> Oblation</div>
+<div><strong>Hands:</strong> I'ma Take Ten Steps</div>
+<div><strong>Strength:</strong> +1</div>
 </div>
 

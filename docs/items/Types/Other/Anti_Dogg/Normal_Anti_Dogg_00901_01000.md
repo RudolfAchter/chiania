@@ -9,25 +9,6 @@ tags:
 
 # Anti Dogg - Normal (901 - 1000)
 <div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/907.gif"><br/>
-<div><strong>Name:</strong> Anti Dogg #907</div>
-<div><strong>Item Type:</strong> Anti Dogg</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
-<div><strong>Background:</strong> East</div>
-<div><strong>Skins:</strong> Whisky</div>
-<div><strong>Tattoo:</strong> Shiny</div>
-<div><strong>Tails:</strong> Fire</div>
-<div><strong>Clothes:</strong> Amigo-Red</div>
-<div><strong>Eyes:</strong> Group Star</div>
-<div><strong>Masks:</strong> Past</div>
-<div><strong>Earrings:</strong> Dagger</div>
-<div><strong>Hats:</strong> Jack-Red</div>
-<div><strong>Necklaces:</strong> Ericius</div>
-<div><strong>Balls:</strong> Craze</div>
-<div><strong>Hands:</strong> Calm</div>
-<div><strong>Strength:</strong> +2</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/908.gif"><br/>
 <div><strong>Name:</strong> Anti Dogg #908</div>
 <div><strong>Item Type:</strong> Anti Dogg</div>
@@ -1907,5 +1888,24 @@ tags:
 <div><strong>Balls:</strong> Bloodstone</div>
 <div><strong>Hands:</strong> Tough Guy</div>
 <div><strong>Strength:</strong> +4</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1007.gif"><br/>
+<div><strong>Name:</strong> Anti Dogg #1007</div>
+<div><strong>Item Type:</strong> Anti Dogg</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
+<div><strong>Background:</strong> Crash</div>
+<div><strong>Skins:</strong> Black Shaman</div>
+<div><strong>Tattoo:</strong> NO</div>
+<div><strong>Tails:</strong> Lock</div>
+<div><strong>Clothes:</strong> Blue Cheer-Blue</div>
+<div><strong>Eyes:</strong> Okaaaaaay</div>
+<div><strong>Earrings:</strong> Edge</div>
+<div><strong>Hairs:</strong> Ghost Rider-Purple</div>
+<div><strong>Glasses:</strong> Take Off The Flex And The White Lies</div>
+<div><strong>Necklaces:</strong> Sweet Love</div>
+<div><strong>Balls:</strong> Brain</div>
+<div><strong>Hands:</strong> I'ma Take Ten Steps</div>
+<div><strong>Strength:</strong> +3</div>
 </div>
 

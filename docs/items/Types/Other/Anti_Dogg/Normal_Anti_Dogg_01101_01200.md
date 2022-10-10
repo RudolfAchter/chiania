@@ -9,25 +9,6 @@ tags:
 
 # Anti Dogg - Normal (1101 - 1200)
 <div class="item_thumbnail">
-<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1108.gif"><br/>
-<div><strong>Name:</strong> Anti Dogg #1108</div>
-<div><strong>Item Type:</strong> Anti Dogg</div>
-<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
-<div><strong>Background:</strong> Green Light</div>
-<div><strong>Skins:</strong> Whisky</div>
-<div><strong>Tattoo:</strong> Bastard</div>
-<div><strong>Tails:</strong> Take Off The Clout Chase</div>
-<div><strong>Clothes:</strong> Amigo</div>
-<div><strong>Eyes:</strong> What?</div>
-<div><strong>Earrings:</strong> Take Off The Money Phone</div>
-<div><strong>Hairs:</strong> Yuppie-White</div>
-<div><strong>Glasses:</strong> Scan</div>
-<div><strong>Necklaces:</strong> Take Off The Weird-a** Jewelry</div>
-<div><strong>Balls:</strong> Brain</div>
-<div><strong>Hands:</strong> Sad</div>
-<div><strong>Strength:</strong> +1</div>
-</div>
-<div class="item_thumbnail">
 <img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1109.gif"><br/>
 <div><strong>Name:</strong> Anti Dogg #1109</div>
 <div><strong>Item Type:</strong> Anti Dogg</div>
@@ -1905,6 +1886,25 @@ tags:
 <div><strong>Glasses:</strong> Fanatics-Green</div>
 <div><strong>Necklaces:</strong> Venus</div>
 <div><strong>Balls:</strong> Melon</div>
+<div><strong>Hands:</strong> Calm</div>
+<div><strong>Strength:</strong> +2</div>
+</div>
+<div class="item_thumbnail">
+<img loading="lazy" src="https://bafybeiccuxo3abpwmpkn6l4uyohccv54jwrsjdnomlackbyzwea5jbbwdy.ipfs.nftstorage.link/1209.gif"><br/>
+<div><strong>Name:</strong> Anti Dogg #1209</div>
+<div><strong>Item Type:</strong> Anti Dogg</div>
+<div><strong>Collection:</strong> <a href="https://www.spacescan.io/xch/nft/collection/col1lqdkghxfwj7v0ajka0ww4q5ljkzjh8xgm28h7e3s4sh03smrmxxsn8qcpw">Anti Dogg Collection</a></div>
+<div><strong>Background:</strong> Green Light</div>
+<div><strong>Skins:</strong> Snowball</div>
+<div><strong>Tattoo:</strong> British</div>
+<div><strong>Tails:</strong> Bullet</div>
+<div><strong>Clothes:</strong> Kanye-Green</div>
+<div><strong>Eyes:</strong> What?</div>
+<div><strong>Earrings:</strong> Glory</div>
+<div><strong>Hairs:</strong> Yuppie-Red</div>
+<div><strong>Glasses:</strong> The Clone</div>
+<div><strong>Necklaces:</strong> Venus</div>
+<div><strong>Balls:</strong> Craze</div>
 <div><strong>Hands:</strong> Calm</div>
 <div><strong>Strength:</strong> +2</div>
 </div>
