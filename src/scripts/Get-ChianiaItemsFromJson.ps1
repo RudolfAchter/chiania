@@ -34,8 +34,8 @@ Function Render-ChianiaNft {
     param($nft)
 
     $out+='<div class="item_thumbnail">' + "`r`n"
-    $out+='<img loading="lazy" src="' + $nft.icon + '"><br/>' + "`r`n"
-    $out += '<div><strong>' + "Name" + ':</strong> ' + $nft.item_name + '</div>' + "`r`n"
+    $out+='<a href="https://mintgarden.io/nfts/' + $nft.nft_id + '"><img loading="lazy" src="' + $nft.icon + '"></a>' + "`r`n"
+    $out += '<div><strong>' + "Name" + ':</strong><a href="https://mintgarden.io/nfts/' + $nft.nft_id + '">' + $nft.item_name + '</a></div>' + "`r`n"
     $out += '<div><strong>' + "Item Type" + ':</strong> ' + $nft.item_type + '</div>' + "`r`n"
     #$out += '<div><strong>' + "Collection" + ':</strong> <a href="https://mintgarden.io/collections/' + $nft.collection_id +'">' + $nft.collection_id + '</a></div>' + "`r`n"
     
