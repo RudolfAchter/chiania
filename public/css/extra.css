@@ -265,8 +265,8 @@ img.black_market {
 }
 
 div.item_thumbnail {
-  width:300px; height:500px; 
-  float:left;
+  width:100%;
+  /*float:left;*/
   margin:10px;
   border: 2px solid var(--md-typeset-table-color);
   overflow-y: auto;
@@ -275,7 +275,23 @@ div.item_thumbnail {
 }
 
 div.item_thumbnail img {
+  float: left;
   max-width:300px; max-height:300px;
+  margin-right: 4px;
+  margin-bottom: 4px;
+}
+
+div.item_thumbnail::-webkit-scrollbar {
+  height: .2rem;
+  width: .2rem;
+}
+
+div.item_thumbnail div {
+  border: 2px solid var(--md-typeset-table-color);
+  margin: 5px;
+  /*margin-bottom: 2px;
+  margin-right: 10px;*/
+  float: left;
 }
 
 
@@ -303,6 +319,7 @@ div.monster_thumbnail::-webkit-scrollbar {
 div.monster_thumbnail div {
   border-top: 2px solid var(--md-typeset-table-color);
   margin-bottom: 2px;
+  padding: 2px;
 }
 
 
@@ -338,18 +355,6 @@ div.item_type_thumbnail {
   scrollbar-color: var(--md-typeset-table-color);
   scrollbar-width: thin;
 }
-
-div.item_thumbnail::-webkit-scrollbar {
-  height: .2rem;
-  width: .2rem;
-}
-
-
-div.item_thumbnail div {
-  border-top: 2px solid var(--md-typeset-table-color);
-  margin-bottom: 2px;
-}
-
 
 div.item_thumbnail_detail {
   width:300px; height:600px; 
