@@ -79,6 +79,14 @@ Write-Progress -Id 1 -Activity "Getting Item List"
 $data=Get-Content ($dataDir + "/new_item_list.json") | ConvertFrom-Json
 $groups=$data.PsObject.Properties.Value | Group-Object -Property "collection_id"
 
+$groups | ForEach-Object {
+    $group=$_
+    $nft=$group.Group | Select-Object -First 1
+    $nft | fl
+    $nft."on-chain-attributes" | fl
+    $nft."in-game-attributes" | fl
+}
+
 $a_collections=@()
 
 $groups | ForEach-Object {
